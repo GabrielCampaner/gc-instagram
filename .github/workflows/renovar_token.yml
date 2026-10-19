@@ -1,0 +1,37 @@
+name: Renovar token do Instagram
+
+# O token da Meta vale 60 dias. Toda segunda-feira ele é renovado por mais 60.
+# Se a Meta devolver um token diferente, o segredo GH_PAT (token do GitHub com permissão de Secrets) grava o novo em IG_TOKEN.
+on:
+  schedule:
+    - cron: "17 9 * * 1"
+  workflow_dispatch:
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renovar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -e
+          if [ -z "$IG_TOKEN" ]; then echo "Sem IG_TOKEN ainda."; exit 0; fi
+          R=$(curl -s "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$IG_TOKEN")
+          NOVO=$(echo "$R" | jq -r '.access_token // empty')
+          if [ -z "$NOVO" ]; then
+            echo "::error::A Meta não renovou o token: $(echo "$R" | jq -c '.error.message // .')"
+            exit 1
+          fi
+          echo "::add-mask::$NOVO"
+          echo "Token renovado: vale mais $(( $(echo "$R" | jq -r '.expires_in') / 86400 )) dias."
+          if [ "$NOVO" != "$IG_TOKEN" ]; then
+            if [ -z "$GH_TOKEN" ]; then
+              echo "::error::A Meta devolveu um token novo e falta o segredo GH_PAT para gravá-lo. Gere um token no painel da Meta e atualize IG_TOKEN."
+              exit 1
+            fi
+            gh secret set IG_TOKEN --body "$NOVO" --repo "$REPO"
+            echo "IG_TOKEN atualizado com o token novo."
+          fi

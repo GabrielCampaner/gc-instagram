@@ -1,0 +1,48 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    - cron: "3-59/10 * * * *"   # a cada 10 minutos (o GitHub pode atrasar alguns minutos)
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "conferir (só lê), teste (prepara sem publicar) ou publicar"
+        type: choice
+        options: [conferir, teste, publicar]
+        default: conferir
+      id:
+        description: "Post do teste (ex.: L3-01)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Publicar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          ACAO: ${{ github.event.inputs.acao || 'publicar' }}
+          POST_ID: ${{ github.event.inputs.id }}
+          MIDIA_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
+        run: node publicador/publicar.js
+      - name: Registrar
+        if: always()
+        run: |
+          git config user.name "publicador-gc"
+          git config user.email "publicador-gc@users.noreply.github.com"
+          git add publicados.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Registro de publicação"
+          git push || (git pull --rebase && git push)

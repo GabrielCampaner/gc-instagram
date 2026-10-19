@@ -1,0 +1,696 @@
+{
+  "ativo": false,
+  "fuso": "-03:00",
+  "posts": [
+    {
+      "id": "L3-01",
+      "titulo": "Dois donos, mesmo dia",
+      "quando": "2026-11-09T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
+      "midias": [
+        "midia/2026-11-09_dois-donos/01.jpg",
+        "midia/2026-11-09_dois-donos/02.jpg",
+        "midia/2026-11-09_dois-donos/03.jpg",
+        "midia/2026-11-09_dois-donos/04.jpg",
+        "midia/2026-11-09_dois-donos/05.jpg",
+        "midia/2026-11-09_dois-donos/06.jpg",
+        "midia/2026-11-09_dois-donos/07.jpg",
+        "midia/2026-11-09_dois-donos/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-02",
+      "titulo": "Retorno de 30 dias não existe",
+      "quando": "2026-11-10T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: Se algum cliente médico autorizar, troque a simulação pelo número real dele (com a base: X retornos de Y consultas).",
+      "legenda": "Pode cobrar retorno de consulta? E o prazo de 30 dias, de onde veio?\n\nA Resolução CFM 1.958/2010 diz que o retorno é a continuação da consulta para avaliar exames, sem nova cobrança, no prazo que o médico definir. Não existe prazo fixo de 30 dias na norma, e plano de saúde não pode impor intervalo entre consultas.\n\nQueixa nova, doença diferente ou mudança de sintomas é nova consulta.\n\nSem regra escrita na clínica, quem decide o que é retorno é a recepção, pela data. Numa agenda de 160 consultas, isso pode virar R$ 6.400 por mês atendidos de graça (simulação).\n\nFonte: Resolução CFM 1.958/2010, art. 1º, 2º e 5º. Vale para Medicina.\n\nManda para um médico que ainda acredita no retorno de 30 dias.\n\n#gestaodeclinicas #consultoriomedico #retornodeconsulta #medicina #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-10_retorno-30-dias/01.jpg",
+        "midia/2026-11-10_retorno-30-dias/02.jpg",
+        "midia/2026-11-10_retorno-30-dias/03.jpg",
+        "midia/2026-11-10_retorno-30-dias/04.jpg",
+        "midia/2026-11-10_retorno-30-dias/05.jpg",
+        "midia/2026-11-10_retorno-30-dias/06.jpg",
+        "midia/2026-11-10_retorno-30-dias/07.jpg",
+        "midia/2026-11-10_retorno-30-dias/08.jpg",
+        "midia/2026-11-10_retorno-30-dias/09.jpg",
+        "midia/2026-11-10_retorno-30-dias/10.jpg"
+      ]
+    },
+    {
+      "id": "L3-03",
+      "titulo": "Os mesmos 40 minutos",
+      "quando": "2026-11-11T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria o preço.\n\nPodem virar WhatsApp no almoço ou os números da semana. Áudio explicando o plano de novo ou o plano escrito uma vez. Paciente esperando calado ou paciente avisado do atraso.\n\nCom hora clínica de R$ 300, 4 blocos de 40 minutos perdidos por semana são R$ 3.200 por mês. (Simulação.)\n\nAgenda cheia não é agenda boa. Importa quem ocupa o seu tempo.\n\nSalva e mostra para a recepção na segunda.\n\n#gestaodeclinicas #agenda #consultorio #produtividade #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-11_mesmos-40-minutos/01.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/02.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/03.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/04.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/05.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/06.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-04",
+      "titulo": "5 erros que parecem educação",
+      "quando": "2026-11-12T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Como responder paciente no WhatsApp sem travar o agendamento.\n\n\"Bom dia, tudo bem?\" e esperar. Áudio de 2 minutos. \"Vou verificar e te retorno\". Tabela inteira em PDF. \"Qualquer dúvida, estou à disposição\".\n\nTudo parece educação. Tudo atrasa a decisão do paciente.\n\n51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Cada troca de mensagem a mais é uma chance de ele desistir.\n\nManda para quem cuida do WhatsApp da sua clínica. Sem bronca.\n\n#gestaodeclinicas #atendimento #whatsapp #secretariadeconsultorio #recepcao",
+      "midias": [
+        "midia/2026-11-12_parecem-educacao/01.jpg",
+        "midia/2026-11-12_parecem-educacao/02.jpg",
+        "midia/2026-11-12_parecem-educacao/03.jpg",
+        "midia/2026-11-12_parecem-educacao/04.jpg",
+        "midia/2026-11-12_parecem-educacao/05.jpg",
+        "midia/2026-11-12_parecem-educacao/06.jpg",
+        "midia/2026-11-12_parecem-educacao/07.jpg",
+        "midia/2026-11-12_parecem-educacao/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-05",
+      "titulo": "A explicação que recebeu",
+      "quando": "2026-11-13T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Paciente achou caro? Antes de mexer no preço, olha a explicação.\n\nEle não sabe avaliar a sua técnica. Ele compara o que entendeu: o que está incluído, por que importa e o que acontece se não tratar.\n\nManda para quem acha que o problema é o preço.\n\n#gestaodeclinicas #precificacao #consultorio #atendimento",
+      "midias": [
+        "midia/2026-11-13_frase-explicacao/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-06",
+      "titulo": "A bio em poucos segundos",
+      "quando": "2026-11-14T10:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: Você topa revisar algumas bios nos Stories? Se não, troque a chamada por \"Salva\" (lâmina 9).",
+      "legenda": "Marketing para clínica começa antes do anúncio: na bio.\n\nO paciente abre o seu perfil e procura 4 respostas: quem você atende, onde fica, como marca e por que confiar. Se faltar uma, ele volta para o Google.\n\nEspecialidade não é o problema do paciente. Link com 8 botões é recepção com 8 portas. Superlativo gera desconfiança.\n\n85% das clínicas têm o Instagram como principal canal de comunicação (Panorama das Clínicas 2026, Doctoralia).\n\nComenta o seu @ que eu abro alguns perfis nos Stories esta semana.\n\n#marketingmedico #marketingodontologico #instagramparaclinicas #gestaodeclinicas #bio",
+      "midias": [
+        "midia/2026-11-14_bio-em-segundos/01.jpg",
+        "midia/2026-11-14_bio-em-segundos/02.jpg",
+        "midia/2026-11-14_bio-em-segundos/03.jpg",
+        "midia/2026-11-14_bio-em-segundos/04.jpg",
+        "midia/2026-11-14_bio-em-segundos/05.jpg",
+        "midia/2026-11-14_bio-em-segundos/06.jpg",
+        "midia/2026-11-14_bio-em-segundos/07.jpg",
+        "midia/2026-11-14_bio-em-segundos/08.jpg",
+        "midia/2026-11-14_bio-em-segundos/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-31",
+      "titulo": "3 em cada 4 sem plano",
+      "quando": "2026-11-15T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Cerca de 3 em cada 4 brasileiros não têm plano de saúde.\n\nSão 52,958 milhões de vínculos em planos médicos (ANS, abril de 2026) para 213,4 milhões de habitantes (IBGE, julho de 2025). Como uma pessoa pode ter mais de um vínculo, a fatia com plano é igual ou menor que 24,8%.\n\nQuem não tem plano não deixa de cuidar da saúde. Procura acesso: etapa, parcela, horário.\n\nManda para quem acha que ninguém paga particular.\n\n#gestaodeclinicas #convenio #particular #saude",
+      "midias": [
+        "midia/2026-11-15_numero-3-em-4/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-07",
+      "titulo": "Duas recepções, mesma segunda",
+      "quando": "2026-11-16T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "O que uma secretária de consultório faz numa segunda-feira? Depende do processo que ela recebeu.\n\nÀs 8h, 47 mensagens do fim de semana. Às 9h15, \"quanto custa?\". Às 11h, os orçamentos de ontem. Às 14h, uma falta. Às 17h30, \"tá caro\". Às 19h, o fim do dia.\n\nEm cada horário, uma recepção corre atrás e a outra segue uma regra.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). O fim de semana também é agenda.\n\nSalva e anota 4 números hoje às 19h: conversas, agendamentos, faltas e orçamentos.\n\n#secretariadeconsultorio #recepcao #gestaodeclinicas #atendimento #consultorio",
+      "midias": [
+        "midia/2026-11-16_duas-recepcoes/01.jpg",
+        "midia/2026-11-16_duas-recepcoes/02.jpg",
+        "midia/2026-11-16_duas-recepcoes/03.jpg",
+        "midia/2026-11-16_duas-recepcoes/04.jpg",
+        "midia/2026-11-16_duas-recepcoes/05.jpg",
+        "midia/2026-11-16_duas-recepcoes/06.jpg",
+        "midia/2026-11-16_duas-recepcoes/07.jpg",
+        "midia/2026-11-16_duas-recepcoes/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-08",
+      "titulo": "Os três \"achei caro\"",
+      "quando": "2026-11-17T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "O que responder quando o paciente acha caro? Primeiro, descobrir qual dos três está falando.\n\n1. O que não entendeu o valor: explique o que está incluído.\n\n2. O que não cabe agora: mostre o caminho em etapas. O problema é acesso.\n\n3. O que está comparando: compare o que está incluído, por escrito. Desconto aqui vira leilão.\n\nA pergunta que separa os três: \"O que pesou mais: o valor total ou a forma de pagar?\"\n\nSalva e passa para quem fecha orçamento.\n\n#gestaodeclinicas #vendasnasaude #precificacao #atendimento #orcamento",
+      "midias": [
+        "midia/2026-11-17_achou-caro/01.jpg",
+        "midia/2026-11-17_achou-caro/02.jpg",
+        "midia/2026-11-17_achou-caro/03.jpg",
+        "midia/2026-11-17_achou-caro/04.jpg",
+        "midia/2026-11-17_achou-caro/05.jpg",
+        "midia/2026-11-17_achou-caro/06.jpg",
+        "midia/2026-11-17_achou-caro/07.jpg",
+        "midia/2026-11-17_achou-caro/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-32",
+      "titulo": "635.706 médicos",
+      "quando": "2026-11-18T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "O Brasil deve fechar 2025 com 635.706 médicos em atividade. Em 2000 eram 205.296.\n\nCom mais gente atendendo bem, a técnica virou o mínimo para entrar no jogo. O desempate está na resposta, na agenda disponível e no que os pacientes contam.\n\nFonte: Demografia Médica no Brasil 2025 (Ministério da Saúde, FMUSP e AMB).\n\nManda para o colega que ainda espera a agenda encher sozinha.\n\n#medicina #gestaodeclinicas #consultoriomedico #mercadodesaude",
+      "midias": [
+        "midia/2026-11-18_numero-635-mil/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-09",
+      "titulo": "O mesmo dinheiro",
+      "quando": "2026-11-18T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: A automação MAPA está ativa e entrega o mapa de vazamentos? Se o ativo mudou, troque a palavra.",
+      "legenda": "Clínica não dá lucro? Antes do próximo investimento, olha para onde o dinheiro já está indo.\n\nR$ 60.000 num equipamento novo aparecem no extrato. R$ 60.000 de hora vazia em um ano, não.\n\nDesconto que ninguém pediu pode custar o mesmo que o aluguel da sala. Orçamento sem retorno pode custar uma fachada nova por mês.\n\nSomando hora vazia, desconto oferecido e orçamento parado, a clínica da simulação perde R$ 23.600 por mês. (Simulação, premissas nas lâminas.)\n\nComenta MAPA que eu te mando o mapa de vazamentos.\n\n#gestaodeclinicas #lucro #precificacao #faturamento #gestaofinanceira",
+      "midias": [
+        "midia/2026-11-18_mesmo-dinheiro/01.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/02.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/03.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/04.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/05.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/06.jpg",
+        "midia/2026-11-18_mesmo-dinheiro/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-10",
+      "titulo": "Quanto fatura uma clínica",
+      "quando": "2026-11-19T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: A automação HORA entrega a calculadora da hora clínica? Se o ativo for outro, ajuste a lâmina 10.",
+      "legenda": "Quanto fatura uma clínica? A pergunta que importa é quanto sobra para o dono.\n\nFaturamento é o que entra. Lucro é o que fica depois de pagar tudo. Pró-labore é o que você tira por trabalhar.\n\nNa simulação: a clínica fatura R$ 100.000, sobram R$ 18.000. Mas o dono atende 40 horas por semana. Separando o salário dele (R$ 15.000), o lucro da clínica é R$ 3.000.\n\nNão quer dizer que a clínica vai mal. Quer dizer que o dono ainda é o maior funcionário dela.\n\nComenta HORA que eu te mando a conta da hora clínica.\n\n#gestaodeclinicas #faturamento #lucro #donodeclinica #gestaofinanceira",
+      "midias": [
+        "midia/2026-11-19_quanto-fatura/01.jpg",
+        "midia/2026-11-19_quanto-fatura/02.jpg",
+        "midia/2026-11-19_quanto-fatura/03.jpg",
+        "midia/2026-11-19_quanto-fatura/04.jpg",
+        "midia/2026-11-19_quanto-fatura/05.jpg",
+        "midia/2026-11-19_quanto-fatura/06.jpg",
+        "midia/2026-11-19_quanto-fatura/07.jpg",
+        "midia/2026-11-19_quanto-fatura/08.jpg",
+        "midia/2026-11-19_quanto-fatura/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-11",
+      "titulo": "O seu WhatsApp é a sua pauta",
+      "quando": "2026-11-20T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Ideias de post para clínica: abre o WhatsApp da recepção.\n\nToda pergunta que se repete toda semana é um post. A do valor (o que está incluído), a do medo (dói? demora?), a da comparação, a do processo (como é a primeira consulta) e a objeção que ninguém diz em voz alta.\n\n85% das clínicas têm o Instagram como principal canal de comunicação (Panorama das Clínicas 2026, Doctoralia). Postar todo mundo posta. A diferença está no que se posta.\n\nToda sexta, a recepção anota as 5 perguntas da semana. Na segunda, você grava.\n\nSalva este fio.\n\n#marketingodontologico #marketingmedico #instagramparaclinicas #gestaodeclinicas #conteudo",
+      "midias": [
+        "midia/2026-11-20_o-que-postar/01.jpg",
+        "midia/2026-11-20_o-que-postar/02.jpg",
+        "midia/2026-11-20_o-que-postar/03.jpg",
+        "midia/2026-11-20_o-que-postar/04.jpg",
+        "midia/2026-11-20_o-que-postar/05.jpg",
+        "midia/2026-11-20_o-que-postar/06.jpg",
+        "midia/2026-11-20_o-que-postar/07.jpg",
+        "midia/2026-11-20_o-que-postar/08.jpg",
+        "midia/2026-11-20_o-que-postar/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-12",
+      "titulo": "21h47 em duas clínicas",
+      "quando": "2026-11-21T10:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "21h47. O mesmo paciente mandou mensagem para duas clínicas.\n\nUma respondeu às 8h12 do dia seguinte. A outra respondeu na hora e já ofereceu horário.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). A mensagem da noite precisa de um dono.\n\nManda para quem cuida do WhatsApp da sua clínica.\n\n#gestaodeclinicas #whatsapp #atendimento #consultorio",
+      "midias": [
+        "midia/2026-11-21_duas-clinicas-21h47/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-33",
+      "titulo": "54% medem só a entrada",
+      "quando": "2026-11-22T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "62% dos gestores querem aumentar o faturamento em 2026. E 54% ainda medem sucesso principalmente pela aquisição de novos pacientes (Panorama das Clínicas e Hospitais 2026, Doctoralia).\n\nPaciente novo é a parte que aparece. O que vaza entre a primeira mensagem, o orçamento e o retorno não aparece em nenhum relatório.\n\nManda para o sócio antes da próxima reunião de metas.\n\n#gestaodeclinicas #indicadores #faturamento #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-22_numero-54/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-13",
+      "titulo": "O mesmo anúncio",
+      "quando": "2026-11-23T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Tráfego pago para clínica: o anúncio é o mesmo. O resultado, não.\n\nDuas clínicas pagaram R$ 2.000 no mesmo anúncio. Uma respondeu o lead em 4 minutos, marcou a avaliação e ligou 48 h depois do orçamento. A outra respondeu depois do almoço.\n\nNo fim do mês: R$ 125 por paciente numa, R$ 500 na outra. (Simulação.)\n\n75% das clínicas investem em anúncio (Panorama das Clínicas 2026, Doctoralia) e 51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box).\n\nManda para quem cuida do seu anúncio e para quem responde o WhatsApp.\n\n#trafegopago #marketingparaclinicas #gestaodeclinicas #atendimento #conversao",
+      "midias": [
+        "midia/2026-11-23_mesmo-anuncio/01.jpg",
+        "midia/2026-11-23_mesmo-anuncio/02.jpg",
+        "midia/2026-11-23_mesmo-anuncio/03.jpg",
+        "midia/2026-11-23_mesmo-anuncio/04.jpg",
+        "midia/2026-11-23_mesmo-anuncio/05.jpg",
+        "midia/2026-11-23_mesmo-anuncio/06.jpg",
+        "midia/2026-11-23_mesmo-anuncio/07.jpg",
+        "midia/2026-11-23_mesmo-anuncio/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-14",
+      "titulo": "O orçamento que ele não entendeu",
+      "quando": "2026-11-24T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: A automação COBRAR continua entregando as 4 mensagens do orçamento parado (GC-02 do Lote 01)?",
+      "legenda": "Como apresentar orçamento ao paciente sem ouvir \"vou pensar\" e nunca mais ter notícia.\n\n1. Comece pelo problema, nas palavras dele. 2. Diga o que acontece se não tratar, sem susto. 3. Mostre em etapas. 4. O valor vem por último, com as formas de acesso. 5. Entregue por escrito. 6. Combine o retorno antes de ele sair.\n\nO paciente leva o orçamento para casa e precisa explicar para alguém. Se ele não consegue explicar, o tratamento trava.\n\nComenta COBRAR que eu te mando as 4 mensagens para o orçamento que já está parado.\n\n#orcamento #planodetratamento #gestaodeclinicas #odontologia #vendasnasaude",
+      "midias": [
+        "midia/2026-11-24_apresentar-orcamento/01.jpg",
+        "midia/2026-11-24_apresentar-orcamento/02.jpg",
+        "midia/2026-11-24_apresentar-orcamento/03.jpg",
+        "midia/2026-11-24_apresentar-orcamento/04.jpg",
+        "midia/2026-11-24_apresentar-orcamento/05.jpg",
+        "midia/2026-11-24_apresentar-orcamento/06.jpg",
+        "midia/2026-11-24_apresentar-orcamento/07.jpg",
+        "midia/2026-11-24_apresentar-orcamento/08.jpg",
+        "midia/2026-11-24_apresentar-orcamento/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-34",
+      "titulo": "84% pelo celular",
+      "quando": "2026-11-25T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "84% dos acessos dos pacientes à Doctoralia vêm do celular (Perfil do Paciente Digital 2025).\n\nA primeira impressão da sua clínica acontece numa tela de seis polegadas: o perfil, a primeira resposta, a agenda disponível. A sala de espera vem depois.\n\nManda para quem cuida do seu Instagram e do seu WhatsApp.\n\n#pacientedigital #marketingmedico #gestaodeclinicas #atendimento",
+      "midias": [
+        "midia/2026-11-25_numero-84/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-15",
+      "titulo": "IA no WhatsApp da clínica",
+      "quando": "2026-11-25T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: Se quiser fazer em collab, a IAra pode entrar só na legenda do post dela, nunca na arte da GC (manual, seção 3).",
+      "legenda": "IA para clínicas: o que ela deve fazer no WhatsApp e o que nunca deve fazer.\n\nDeve: responder na hora, informar o que a clínica já divulga, oferecer horário, agendar, confirmar e lembrar retorno.\n\nNunca: diagnosticar, indicar conduta, prometer resultado, negociar desconto ou insistir com quem pediu para parar. E precisa saber a hora de chamar uma pessoa.\n\n32% das clínicas já usam IA e outras 40% pretendem usar (Panorama das Clínicas 2026, Doctoralia). 33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia).\n\nO que ninguém conta: a IA repete o processo que já existe. Sem regra, ela improvisa mais rápido.\n\nSalva para montar as regras com a equipe.\n\n#iaparaclinicas #chatbot #whatsapp #gestaodeclinicas #atendimento",
+      "midias": [
+        "midia/2026-11-25_ia-no-whatsapp/01.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/02.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/03.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/04.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/05.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/06.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/07.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/08.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/09.jpg",
+        "midia/2026-11-25_ia-no-whatsapp/10.jpg"
+      ]
+    },
+    {
+      "id": "L3-16",
+      "titulo": "A conta do desconto",
+      "quando": "2026-11-26T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: A automação ACESSO está ativa (GC-06, Lote 01)?",
+      "legenda": "Paciente pede desconto. Antes de dar, faz esta conta.\n\nCom margem de 30%, um desconto de 10% derruba o lucro de R$ 300 para R$ 200 num tratamento de R$ 1.000. Para lucrar o mesmo, você precisa de 50% mais pacientes. Com 15%, o dobro. Com 20%, três vezes mais. (Simulação.)\n\nO desconto sai da margem, não do preço.\n\nAntes de qualquer desconto: o paciente pediu? O que ele está trocando? Cabe na sua margem?\n\nComenta ACESSO que eu te mando como atender na Black Friday sem desconto.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto #lucro",
+      "midias": [
+        "midia/2026-11-26_conta-do-desconto/01.jpg",
+        "midia/2026-11-26_conta-do-desconto/02.jpg",
+        "midia/2026-11-26_conta-do-desconto/03.jpg",
+        "midia/2026-11-26_conta-do-desconto/04.jpg",
+        "midia/2026-11-26_conta-do-desconto/05.jpg",
+        "midia/2026-11-26_conta-do-desconto/06.jpg",
+        "midia/2026-11-26_conta-do-desconto/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-17",
+      "titulo": "Um terço do lucro",
+      "quando": "2026-11-27T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Black Friday na clínica: são só 10%?\n\nCom margem de 30%, 10% de desconto levam um terço do lucro. (Simulação.)\n\nNinguém pede um terço do seu lucro. Você oferece.\n\nManda para quem vai dar desconto hoje sem fazer a conta.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto",
+      "midias": [
+        "midia/2026-11-27_frase-um-terco/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-18",
+      "titulo": "Clínica de tudo para todos",
+      "quando": "2026-11-28T10:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Nicho para clínica: o medo de escolher um foco e perder paciente.\n\nQuem procura \"clínica\" compara preço. Quem procura o próprio problema compara confiança.\n\nPosicionar é escolher do que você vai ser lembrado: olhe o faturamento por serviço, olhe os melhores pacientes, escolha uma frase e comunique só ela por 90 dias. O resto continua sendo atendido. Só não é anunciado.\n\nQuem é lembrado por tudo entra no leilão de preço.\n\nComenta em uma frase: do que você quer que a sua clínica seja lembrada?\n\n#posicionamento #marketingparaclinicas #gestaodeclinicas #nicho #consultorio",
+      "midias": [
+        "midia/2026-11-28_tudo-para-todos/01.jpg",
+        "midia/2026-11-28_tudo-para-todos/02.jpg",
+        "midia/2026-11-28_tudo-para-todos/03.jpg",
+        "midia/2026-11-28_tudo-para-todos/04.jpg",
+        "midia/2026-11-28_tudo-para-todos/05.jpg",
+        "midia/2026-11-28_tudo-para-todos/06.jpg",
+        "midia/2026-11-28_tudo-para-todos/07.jpg",
+        "midia/2026-11-28_tudo-para-todos/08.jpg",
+        "midia/2026-11-28_tudo-para-todos/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-35",
+      "titulo": "34% com falta acima de 11%",
+      "quando": "2026-11-29T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "34% das clínicas têm mais de 11% de faltas (Panorama das Clínicas 2026, Doctoralia).\n\nNa rede estadual do Ceará, o lembrete por WhatsApp levou as faltas de 35,5% para 23,2% (Secretaria da Saúde do Ceará, em O Povo, 02/12/2025).\n\nFalta sem aviso tem processo: confirmação com regra, horário para responder e lista de espera.\n\nManda para quem cuida da agenda.\n\n#faltas #gestaodeclinicas #agenda #whatsapp",
+      "midias": [
+        "midia/2026-11-29_numero-34/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-19",
+      "titulo": "O mesmo paciente, duas clínicas",
+      "quando": "2026-11-30T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Jornada do paciente: o mesmo paciente, duas clínicas.\n\nDia 1, 21h47: uma responde de manhã, a outra na hora. Dia 3: ficha de papel ou recepção pelo nome. Plano no corredor ou plano por escrito. Dia 4: silêncio ou \"como você está?\". Dia 30: retorno esquecido ou marcado. Dia 180: foi para outra ou indicou a irmã.\n\n67% das clínicas nunca mapearam a jornada do paciente (Panorama das Clínicas 2026, Doctoralia).\n\nO paciente não lembra da consulta inteira. Lembra do que ninguém cuidou.\n\nSalva e mapeia a sua jornada com a equipe.\n\n#jornadadopaciente #experienciadopaciente #gestaodeclinicas #fidelizacao #atendimento",
+      "midias": [
+        "midia/2026-11-30_mesmo-paciente/01.jpg",
+        "midia/2026-11-30_mesmo-paciente/02.jpg",
+        "midia/2026-11-30_mesmo-paciente/03.jpg",
+        "midia/2026-11-30_mesmo-paciente/04.jpg",
+        "midia/2026-11-30_mesmo-paciente/05.jpg",
+        "midia/2026-11-30_mesmo-paciente/06.jpg",
+        "midia/2026-11-30_mesmo-paciente/07.jpg",
+        "midia/2026-11-30_mesmo-paciente/08.jpg",
+        "midia/2026-11-30_mesmo-paciente/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-20",
+      "titulo": "Paciente que sumiu",
+      "quando": "2026-12-01T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Mensagem para paciente que sumiu: antes, a pergunta certa. Ele sumiu ou foi esquecido?\n\nNuma base de 1.200 pacientes, 40% sem voltar há mais de 12 meses são 480 pessoas que já te conhecem. Se 5% voltarem para uma consulta de R$ 300, são R$ 7.200 sem anúncio. (Simulação.)\n\nNo fio: uma mensagem para quem sumiu há 3 a 6 meses, uma para quem sumiu há mais de 1 ano e uma para quem parou no meio do tratamento.\n\nRegras: nome de quem envia, nome do profissional e uma pergunta só. Sem promoção, sem áudio. Lotes de 20 por dia.\n\nSalva e passa para quem cuida do WhatsApp.\n\n#gestaodeclinicas #pacientes #whatsapp #fidelizacao #recepcao",
+      "midias": [
+        "midia/2026-12-01_paciente-sumiu/01.jpg",
+        "midia/2026-12-01_paciente-sumiu/02.jpg",
+        "midia/2026-12-01_paciente-sumiu/03.jpg",
+        "midia/2026-12-01_paciente-sumiu/04.jpg",
+        "midia/2026-12-01_paciente-sumiu/05.jpg",
+        "midia/2026-12-01_paciente-sumiu/06.jpg",
+        "midia/2026-12-01_paciente-sumiu/07.jpg",
+        "midia/2026-12-01_paciente-sumiu/08.jpg",
+        "midia/2026-12-01_paciente-sumiu/09.jpg",
+        "midia/2026-12-01_paciente-sumiu/10.jpg"
+      ]
+    },
+    {
+      "id": "L3-36",
+      "titulo": "75% já contrataram pelo WhatsApp",
+      "quando": "2026-12-02T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "75% dos brasileiros já contrataram um serviço pelo WhatsApp, e 97% abrem o aplicativo todo dia (Opinion Box, Pesquisa WhatsApp no Brasil 2026).\n\nA decisão de marcar acontece na conversa. Se o WhatsApp da clínica é de quem estiver livre, ninguém é dono da venda.\n\nManda para quem responde o WhatsApp da sua clínica.\n\n#whatsapp #atendimento #gestaodeclinicas #recepcao",
+      "midias": [
+        "midia/2026-12-02_numero-75/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-21",
+      "titulo": "Robô de menu ou conversa",
+      "quando": "2026-12-02T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Chatbot para clínica: robô de menu ou conversa com regra?\n\n21h47, a mesma pergunta. O robô de menu responde \"digite 1\". A IA com regra pergunta o nome, entende a dúvida, oferece horário e avisa a recepção.\n\nE a IA sem limite? Arrisca diagnóstico. A boa sabe a hora de chamar uma pessoa.\n\n32% das clínicas já usam IA e outras 40% pretendem usar nos próximos meses (Panorama das Clínicas 2026, Doctoralia).\n\nAntes de ligar qualquer IA: o que ela responde sozinha, o que nunca responde e quando chama uma pessoa. Salva para montar com a equipe.\n\n#chatbot #iaparaclinicas #whatsapp #gestaodeclinicas #atendimento",
+      "midias": [
+        "midia/2026-12-02_menu-ou-conversa/01.jpg",
+        "midia/2026-12-02_menu-ou-conversa/02.jpg",
+        "midia/2026-12-02_menu-ou-conversa/03.jpg",
+        "midia/2026-12-02_menu-ou-conversa/04.jpg",
+        "midia/2026-12-02_menu-ou-conversa/05.jpg",
+        "midia/2026-12-02_menu-ou-conversa/06.jpg",
+        "midia/2026-12-02_menu-ou-conversa/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-22",
+      "titulo": "Antes e depois: o que a regra pede",
+      "quando": "2026-12-03T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: Se um cliente quiser compartilhar, o jurídico dele deve validar. Para Odontologia, Fisioterapia e Nutrição, não usar esta peça.",
+      "legenda": "Médico pode postar antes e depois? Pode. Com as condições da Resolução CFM 2.336/2023, art. 14.\n\nFinalidade educativa, com texto sobre indicações, fatores que influenciam o resultado e complicações. Conjunto com evoluções satisfatórias, insatisfatórias e complicações. Sem identificar o paciente, sem editar a imagem, com autorização e anonimato.\n\nE a parte de gestão: o antes e depois traz a pergunta. Quem fecha é a resposta rápida, o plano por escrito e o retorno em 48 h.\n\nFonte: Resolução CFM 2.336/2023, art. 14. Vale para Medicina. Odontologia, Fisioterapia e Nutrição têm regras próprias.\n\nSalva para conferir antes do próximo post.\n\n#publicidademedica #marketingmedico #cfm #gestaodeclinicas #instagrammedico",
+      "midias": [
+        "midia/2026-12-03_antes-e-depois/01.jpg",
+        "midia/2026-12-03_antes-e-depois/02.jpg",
+        "midia/2026-12-03_antes-e-depois/03.jpg",
+        "midia/2026-12-03_antes-e-depois/04.jpg",
+        "midia/2026-12-03_antes-e-depois/05.jpg",
+        "midia/2026-12-03_antes-e-depois/06.jpg",
+        "midia/2026-12-03_antes-e-depois/07.jpg",
+        "midia/2026-12-03_antes-e-depois/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-23",
+      "titulo": "As 3 mensagens depois da consulta",
+      "quando": "2026-12-04T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Mensagem pós-consulta: as 3 que ficam na memória do paciente.\n\n1. No dia seguinte: \"Como você ficou depois de ontem?\" 2. Antes do prazo do retorno: \"Quer que eu já reserve o horário?\" 3. Quando ele elogiar: o pedido de avaliação no Google, com o link.\n\nPedir avaliação é o que o próximo paciente lê antes de te chamar. Peça no pico de satisfação, nunca com brinde ou desconto.\n\nAvaliação ruim: responda em público, com calma, sem nenhum dado do paciente, e convide para o privado.\n\nSalva e combina com a recepção quem manda cada uma.\n\n#experienciadopaciente #gestaodeclinicas #avaliacaogoogle #atendimento #fidelizacao",
+      "midias": [
+        "midia/2026-12-04_pos-consulta/01.jpg",
+        "midia/2026-12-04_pos-consulta/02.jpg",
+        "midia/2026-12-04_pos-consulta/03.jpg",
+        "midia/2026-12-04_pos-consulta/04.jpg",
+        "midia/2026-12-04_pos-consulta/05.jpg",
+        "midia/2026-12-04_pos-consulta/06.jpg",
+        "midia/2026-12-04_pos-consulta/07.jpg",
+        "midia/2026-12-04_pos-consulta/08.jpg",
+        "midia/2026-12-04_pos-consulta/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-24",
+      "titulo": "Qual ele lembra",
+      "quando": "2026-12-05T10:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Uma consulta atenciosa de 40 minutos. Uma resposta no WhatsApp depois de 4 horas. Qual dos dois o paciente lembra?\n\nEle não sabe avaliar a sua técnica. Ele sabe contar quanto tempo esperou.\n\nComenta: qual dos dois o seu paciente lembra?\n\n#experienciadopaciente #atendimento #gestaodeclinicas #whatsapp",
+      "midias": [
+        "midia/2026-12-05_qual-ele-lembra/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-37",
+      "titulo": "3,1 milhões de procedimentos",
+      "quando": "2026-12-06T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "O Brasil fez 3,1 milhões de procedimentos estéticos em 2024: 2º país do mundo e 1º em cirurgias (Pesquisa Global de Estética 2024, ISAPS).\n\nMercado não falta. O que separa as clínicas é o processo: a primeira resposta, o plano explicado por escrito e o acompanhamento depois.\n\nManda para quem acha que o mercado de estética saturou.\n\n#estetica #harmonizacaofacial #gestaodeclinicas #clinicadeestetica",
+      "midias": [
+        "midia/2026-12-06_numero-esteticos/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-25",
+      "titulo": "O WhatsApp pessoal do médico",
+      "quando": "2026-12-07T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "WhatsApp pessoal do médico: proximidade ou plantão sem escala?\n\nAlmoço respondendo, 14 áudios entre consultas, foto de exame no jantar, \"posso tomar?\" às 23h10 e domingo de plantão.\n\nNúmero pessoal parece acesso. Até o dia em que você demora. Aí o paciente sente que foi abandonado.\n\nComo sair sem parecer frio: um número da clínica com dono e horário, uma regra escrita de urgência e uma mensagem pronta para quem ainda chama no pessoal.\n\nManda para um médico que responde paciente às 23h.\n\n#whatsapp #consultoriomedico #gestaodeclinicas #medicina #qualidadedevida",
+      "midias": [
+        "midia/2026-12-07_whatsapp-pessoal/01.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/02.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/03.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/04.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/05.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/06.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/07.jpg",
+        "midia/2026-12-07_whatsapp-pessoal/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-26",
+      "titulo": "O horário mais caro da agenda",
+      "quando": "2026-12-08T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Como ter mais pacientes particulares sem aumentar a agenda: comece pelo horário das 18h.\n\nO fim da tarde é o horário mais disputado e muitas vezes fica com retorno, encaixe e convênio de menor valor, porque eles chegam primeiro.\n\nAgenda A/B/C: o A é o horário que todo mundo quer. Seis horários A por semana com diferença de R$ 250 são R$ 6.000 por mês. (Simulação.)\n\nConvênio não se corta. Se restringe: continua, em horário B e C.\n\nSalva e abre a agenda da próxima semana com a recepção.\n\n#agenda #gestaodeclinicas #precificacao #convenio #consultorio",
+      "midias": [
+        "midia/2026-12-08_horario-nobre/01.jpg",
+        "midia/2026-12-08_horario-nobre/02.jpg",
+        "midia/2026-12-08_horario-nobre/03.jpg",
+        "midia/2026-12-08_horario-nobre/04.jpg",
+        "midia/2026-12-08_horario-nobre/05.jpg",
+        "midia/2026-12-08_horario-nobre/06.jpg",
+        "midia/2026-12-08_horario-nobre/07.jpg",
+        "midia/2026-12-08_horario-nobre/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-27",
+      "titulo": "A avaliação gratuita",
+      "quando": "2026-12-09T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "Confirmar: Se algum cliente dentista for compartilhar, confirme com ele a regra vigente do CFO para menção a valor e gratuidade.",
+      "legenda": "Dentista pode cobrar avaliação? E vale a pena?\n\nPara o paciente que fecha o tratamento, a avaliação cobrada e abatida custa o mesmo que a gratuita: nada. Só muda para quem não ia fechar.\n\nGratuidade enche a agenda de quem está pesquisando preço e tira o valor do horário. Faltar não custa nada.\n\nComo mudar: cobre e abata no tratamento fechado em até 7 dias, explique na primeira mensagem o que a avaliação inclui e meça faltas e fechamento por 60 dias. Regras de publicidade mudam por conselho: confira a do seu antes de anunciar.\n\nManda para alguém que faz avaliação de graça e vive com a agenda cheia.\n\n#odontologia #avaliacao #gestaodeclinicas #precificacao #agenda",
+      "midias": [
+        "midia/2026-12-09_avaliacao-gratuita/01.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/02.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/03.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/04.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/05.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/06.jpg",
+        "midia/2026-12-09_avaliacao-gratuita/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-28",
+      "titulo": "Vale a pena atender convênio?",
+      "quando": "2026-12-10T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Vale a pena atender convênio? Depende de uma conta que pouca gente faz.\n\nSe meia hora clínica custa R$ 100 e o convênio paga R$ 90, cada atendimento sai R$ 10 no negativo e ainda ocupa o horário que o particular quer. (Simulação.)\n\nMas cortar de uma vez derruba o caixa antes de o particular chegar.\n\nConvênio não se corta. Se restringe: meça o resultado de cada um, limite a horários B e C com teto semanal, converta, e só então descredencie quem dá prejuízo, um por vez, respeitando o contrato.\n\nManda para o seu sócio antes da próxima conversa sobre convênio.\n\n#convenio #gestaodeclinicas #odontologia #precificacao #consultorio",
+      "midias": [
+        "midia/2026-12-10_convenio/01.jpg",
+        "midia/2026-12-10_convenio/02.jpg",
+        "midia/2026-12-10_convenio/03.jpg",
+        "midia/2026-12-10_convenio/04.jpg",
+        "midia/2026-12-10_convenio/05.jpg",
+        "midia/2026-12-10_convenio/06.jpg",
+        "midia/2026-12-10_convenio/07.jpg",
+        "midia/2026-12-10_convenio/08.jpg"
+      ]
+    },
+    {
+      "id": "L3-29",
+      "titulo": "Indicação não vem sozinha",
+      "quando": "2026-12-11T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Como fidelizar pacientes e receber indicação: o atendimento impecável é só o começo.\n\nIndicação vem quando alguém pede no momento certo, quando o indicado é recebido pelo nome de quem indicou e quando quem indicou recebe um obrigado.\n\nA política de indicação cabe em 4 linhas: quando pedir (no pico de satisfação), como pedir (\"quem da sua família também precisa disso?\"), como receber (pelo nome, com prioridade) e como agradecer (mensagem pessoal, nunca dinheiro).\n\nSalva e escreve a sua com a equipe.\n\n#indicacao #fidelizacao #gestaodeclinicas #experienciadopaciente #atendimento",
+      "midias": [
+        "midia/2026-12-11_indicacao/01.jpg",
+        "midia/2026-12-11_indicacao/02.jpg",
+        "midia/2026-12-11_indicacao/03.jpg",
+        "midia/2026-12-11_indicacao/04.jpg",
+        "midia/2026-12-11_indicacao/05.jpg",
+        "midia/2026-12-11_indicacao/06.jpg",
+        "midia/2026-12-11_indicacao/07.jpg"
+      ]
+    },
+    {
+      "id": "L3-30",
+      "titulo": "A recepcionista saiu",
+      "quando": "2026-12-12T10:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Como treinar secretária de consultório? Começa por escrever o que a atual sabe.\n\nQuando a recepcionista sai, leva junto o jeito de responder, a lista de retornos e às vezes a senha do Instagram. Não por mal: estava tudo na cabeça e no celular dela.\n\nO manual da recepção cabe em uma página: as 10 perguntas mais comuns e a resposta de cada uma, as regras (valor, desconto, retorno, encaixe, falta), a rotina do dia, onde fica cada coisa e quem decide o quê.\n\nSenhas em nome da clínica. E o teste: no dia de folga dela, alguém cobre usando só a página.\n\nSalva. É melhor escrever a página com ela ainda aqui.\n\n#secretariadeconsultorio #recepcao #gestaodepessoas #gestaodeclinicas #processos",
+      "midias": [
+        "midia/2026-12-12_recepcionista-saiu/01.jpg",
+        "midia/2026-12-12_recepcionista-saiu/02.jpg",
+        "midia/2026-12-12_recepcionista-saiu/03.jpg",
+        "midia/2026-12-12_recepcionista-saiu/04.jpg",
+        "midia/2026-12-12_recepcionista-saiu/05.jpg",
+        "midia/2026-12-12_recepcionista-saiu/06.jpg",
+        "midia/2026-12-12_recepcionista-saiu/07.jpg",
+        "midia/2026-12-12_recepcionista-saiu/08.jpg",
+        "midia/2026-12-12_recepcionista-saiu/09.jpg"
+      ]
+    },
+    {
+      "id": "L3-38",
+      "titulo": "58% com burnout",
+      "quando": "2026-12-13T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "58% dos médicos já viveram algum grau de burnout (Afya, Qualidade de Vida do Médico 2025).\n\nBoa parte do cansaço vem do segundo expediente: a agenda, o boleto, a mensagem das 23h. Gestão com método devolve tempo para quem atende.\n\nManda para um colega. Às vezes ele só precisa saber que não é o único.\n\n#medicina #saudemental #gestaodeclinicas #qualidadedevida",
+      "midias": [
+        "midia/2026-12-13_numero-58/01.jpg"
+      ]
+    },
+    {
+      "id": "L3-39",
+      "titulo": "O mercado de clínicas em 10 números",
+      "quando": "2026-12-14T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "13 imagens; a API aceita até 10 por carrossel",
+      "legenda": "O mercado de clínicas em 10 números, com a pergunta que cada um faz para a sua agenda.\n\n3 em cada 4 brasileiros sem plano de saúde (cálculo com ANS e IBGE). 635.706 médicos no fim de 2025. 75% das clínicas anunciam e 67% nunca mapearam a jornada. 54% medem sucesso por paciente novo. 33% dos agendamentos fora do horário. 51% querem resposta em até 5 minutos. 34% das clínicas com mais de 11% de faltas. 40% pretendem usar IA. 3,1 milhões de procedimentos estéticos. 58% dos médicos com algum grau de burnout.\n\nFontes nas lâminas: ANS, IBGE, Demografia Médica no Brasil 2025, Panorama das Clínicas e Hospitais 2026 (Doctoralia), Perfil do Paciente Digital 2025 (Doctoralia), CX Trends 2026, Secretaria da Saúde do Ceará, ISAPS e Afya.\n\nSalva e escolhe um para medir nesta semana.\n\n#gestaodeclinicas #mercadodesaude #dados #gestaoemsaude #clinicas",
+      "midias": [
+        "midia/2026-12-14_mercado-em-10-numeros/01.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/02.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/03.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/04.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/05.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/06.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/07.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/08.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/09.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/10.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/11.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/12.jpg",
+        "midia/2026-12-14_mercado-em-10-numeros/13.jpg"
+      ]
+    },
+    {
+      "id": "L3-40",
+      "titulo": "Os 10 motivos da escolha",
+      "quando": "2026-12-15T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "legenda": "Como o paciente escolhe um médico? Na Doctoralia, os 10 motivos em ordem: mais opiniões, plano de saúde, disponibilidade, localização, o conteúdo das opiniões, foto do perfil, sobre mim, opiniões respondidas, especialidades e redes sociais.\n\nA especialidade aparece em 9º. Três dos cinco primeiros dependem de gestão: pedir opinião no momento certo, ter horário próximo e responder o que os pacientes escrevem.\n\nA técnica mantém o paciente. A gestão faz ele chegar.\n\nFonte: Perfil do Paciente Digital 2025, Doctoralia.\n\nManda para um colega.\n\n#medicina #pacientedigital #gestaodeclinicas #marketingmedico #avaliacoes",
+      "midias": [
+        "midia/2026-12-15_motivos-de-escolha/01.jpg",
+        "midia/2026-12-15_motivos-de-escolha/02.jpg",
+        "midia/2026-12-15_motivos-de-escolha/03.jpg",
+        "midia/2026-12-15_motivos-de-escolha/04.jpg",
+        "midia/2026-12-15_motivos-de-escolha/05.jpg",
+        "midia/2026-12-15_motivos-de-escolha/06.jpg",
+        "midia/2026-12-15_motivos-de-escolha/07.jpg",
+        "midia/2026-12-15_motivos-de-escolha/08.jpg",
+        "midia/2026-12-15_motivos-de-escolha/09.jpg"
+      ]
+    }
+  ]
+}
