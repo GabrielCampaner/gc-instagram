@@ -1,0 +1,874 @@
+{
+  "coletado_em": "2026-10-20T01:18:07.924Z",
+  "conta": {
+    "username": "gabrielcampaner",
+    "followers_count": 4699,
+    "follows_count": 378,
+    "media_count": 1701,
+    "id": "29429052136706930"
+  },
+  "ultimos_7_dias": {
+    "reach": 4848,
+    "views": 13397,
+    "accounts_engaged": 209,
+    "total_interactions": 500,
+    "likes": 363,
+    "comments": 19,
+    "shares": 34,
+    "saves": 5,
+    "follows_and_unfollows": null,
+    "profile_links_taps": 0
+  },
+  "posts": [
+    {
+      "id": "18117375419325879",
+      "gc": null,
+      "quando": "2026-10-19T22:00:04+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DesR_S9BpQa/",
+      "inicio": "Somente atender não vai te deixar rico. Não to falando somente de dinheiro. Eu f",
+      "metricas": {
+        "reach": 55,
+        "views": 93,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18043467071642792",
+      "gc": null,
+      "quando": "2026-10-19T11:45:58+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DerLhZnxyb3/",
+      "inicio": "Segundou. E ai? Quais as suas metas nessa semana? Só atender? ",
+      "metricas": {
+        "reach": 89,
+        "views": 154,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 10
+      }
+    },
+    {
+      "id": "17993857089058614",
+      "gc": null,
+      "quando": "2026-10-18T14:04:23+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Deo2anXxcB5/",
+      "inicio": "Feliz Dia do Médico. Sim hoje é um dia para comemorar para o profissional. ",
+      "metricas": {
+        "reach": 232,
+        "views": 318,
+        "likes": 15,
+        "comments": 2,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 22
+      }
+    },
+    {
+      "id": "18119963117069308",
+      "gc": null,
+      "quando": "2026-10-17T14:07:21+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DemSFD6RU8E/",
+      "inicio": "Consulcoach em Ação (contém muuuuitaaa ironia) 🤣🤣 Quem ai também conhece um as",
+      "metricas": {
+        "reach": 439,
+        "views": 697,
+        "likes": 9,
+        "comments": 6,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 18
+      }
+    },
+    {
+      "id": "17969037776964071",
+      "gc": null,
+      "quando": "2026-10-16T20:41:03+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DekaKSvRMxG/",
+      "inicio": "Escala 6 x 1 e a sua clínica. Veja o que fazer",
+      "metricas": {
+        "reach": 506,
+        "views": 820,
+        "likes": 23,
+        "comments": 0,
+        "shares": 0,
+        "saved": 2,
+        "total_interactions": 27
+      }
+    },
+    {
+      "id": "18130829083827882",
+      "gc": null,
+      "quando": "2026-10-16T17:27:06+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DekEVXBRW4G/",
+      "inicio": "Eu e minha sócia de vida no Troféu Check UP ❤️",
+      "metricas": {
+        "reach": 890,
+        "views": 1628,
+        "likes": 123,
+        "comments": 4,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 127
+      }
+    },
+    {
+      "id": "18117047300016961",
+      "gc": null,
+      "quando": "2026-10-15T20:00:09+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DehxGk3hpRs/",
+      "inicio": "Quem promete triplicar seu faturamento em 90 dias, sem ver teus números de fato ",
+      "metricas": {
+        "reach": 110,
+        "views": 174,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 6
+      }
+    },
+    {
+      "id": "18103541210310730",
+      "gc": null,
+      "quando": "2026-10-15T10:00:06+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DegscqYBIY1/",
+      "inicio": "Você paga para trabalhar? Possivelmente sim. Quem não sabe precificar a sua cons",
+      "metricas": {
+        "reach": 104,
+        "views": 160,
+        "likes": 12,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 14
+      }
+    },
+    {
+      "id": "18230404480335890",
+      "gc": null,
+      "quando": "2026-10-14T20:00:05+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DefMRlLhV9b/",
+      "inicio": "Todo mundo quer fazer gol. Ser atacante. E na maioria das clinicas, ninguém quer",
+      "metricas": {
+        "reach": 87,
+        "views": 127,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18018856046950336",
+      "gc": null,
+      "quando": "2026-10-14T10:10:05+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DeeIxGMhfMg/",
+      "inicio": "Ela detest@u a Trinca 😵🙈",
+      "metricas": {
+        "reach": 331,
+        "views": 622,
+        "likes": 33,
+        "comments": 4,
+        "shares": 9,
+        "saved": 1,
+        "total_interactions": 51
+      }
+    },
+    {
+      "id": "18106204046195518",
+      "gc": null,
+      "quando": "2026-10-13T20:00:08+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DecndgHB6sc/",
+      "inicio": "Em qual nível a sua clinica está? Link na BIO e receba o aeu plano de ação. ",
+      "metricas": {
+        "reach": 142,
+        "views": 243,
+        "likes": 12,
+        "comments": 4,
+        "shares": 2,
+        "saved": 1,
+        "total_interactions": 22
+      }
+    },
+    {
+      "id": "18131062357749673",
+      "gc": null,
+      "quando": "2026-10-13T10:08:17+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DebjWj4up2q/",
+      "inicio": "Você é super específico na parte técnica da sua clínica. E porque você gere sua ",
+      "metricas": {
+        "reach": 209,
+        "views": 314,
+        "likes": 17,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 20
+      }
+    },
+    {
+      "id": "18107628199933734",
+      "gc": null,
+      "quando": "2026-09-30T21:46:03+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Dd7VHsCxCQ4/",
+      "inicio": "O único modelo de gestão que eu acredito é aquela onde a clinica consegue instal",
+      "metricas": {
+        "reach": 163,
+        "views": 277,
+        "likes": 16,
+        "comments": 2,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 19
+      }
+    },
+    {
+      "id": "17911947225287296",
+      "gc": null,
+      "quando": "2026-09-26T22:38:55+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DdxIHnuxxVj/",
+      "inicio": "Minha familia, meu maior tesouro.",
+      "metricas": {
+        "reach": 934,
+        "views": 1840,
+        "likes": 91,
+        "comments": 4,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 96
+      }
+    },
+    {
+      "id": "18141674872589729",
+      "gc": null,
+      "quando": "2026-09-26T22:37:21+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DdxH8K2RhYo/",
+      "inicio": "Deus e seus presentes",
+      "metricas": {
+        "reach": 208,
+        "views": 418,
+        "likes": 20,
+        "comments": 3,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 24
+      }
+    },
+    {
+      "id": "18348557584173826",
+      "gc": null,
+      "quando": "2026-08-01T16:47:04+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DbgTV_AEc-m/",
+      "inicio": "Treinamento do Manual de Conduta e Ética na clinica Gastrovie. ",
+      "metricas": {
+        "reach": 285,
+        "views": 713,
+        "likes": 16,
+        "comments": 2,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 20
+      }
+    },
+    {
+      "id": "18097856258194786",
+      "gc": null,
+      "quando": "2026-07-26T19:50:39+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbRLTtdxKo0/",
+      "inicio": "Eu sou o melhor exemplo daquilo que eu faço e daquilo que eu divulgo. Não adiant",
+      "metricas": {
+        "reach": 228,
+        "views": 305,
+        "likes": 6,
+        "comments": 1,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 10
+      }
+    },
+    {
+      "id": "18119893864862827",
+      "gc": null,
+      "quando": "2026-07-25T13:27:51+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbN6vxDxxzN/",
+      "inicio": "Muitas clínicas estão com seus números restritos porque a Meta mudou várias regr",
+      "metricas": {
+        "reach": 326,
+        "views": 449,
+        "likes": 8,
+        "comments": 2,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 12
+      }
+    },
+    {
+      "id": "18131029087617707",
+      "gc": null,
+      "quando": "2026-07-23T23:00:04+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbJy8jTJMol/",
+      "inicio": "#ᴛʙᴛ desse momento incrível no Scientia, evento científico e de pessoas com o ti",
+      "metricas": {
+        "reach": 453,
+        "views": 640,
+        "likes": 29,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 30
+      }
+    },
+    {
+      "id": "18463436395115722",
+      "gc": null,
+      "quando": "2026-07-23T18:05:49+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbJPybPxSPb/",
+      "inicio": "Quem te promete paciente high ticket atrasa de trafego pago te engana. E sabe o ",
+      "metricas": {
+        "reach": 241,
+        "views": 265,
+        "likes": 12,
+        "comments": 2,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 16
+      }
+    },
+    {
+      "id": "18062395079774101",
+      "gc": null,
+      "quando": "2026-07-22T10:56:18+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbF60tKx5jT/",
+      "inicio": "Nosso trabalho é assim, com RESULTADOS CONCRETOS. ",
+      "metricas": {
+        "reach": 438,
+        "views": 652,
+        "likes": 11,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 15
+      }
+    },
+    {
+      "id": "18168336271433675",
+      "gc": null,
+      "quando": "2026-07-21T22:21:11+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbEkt49x2vE/",
+      "inicio": "Quem trabalha com Estética precisa fazer esse post para viralizar.",
+      "metricas": {
+        "reach": 1535,
+        "views": 1954,
+        "likes": 38,
+        "comments": 0,
+        "shares": 6,
+        "saved": 0,
+        "total_interactions": 45
+      }
+    },
+    {
+      "id": "18136511587607069",
+      "gc": null,
+      "quando": "2026-07-21T12:00:04+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbDdyagBPGO/",
+      "inicio": "Programas de Recorrência para as clínicas estão em alta e de fato conseguem alav",
+      "metricas": {
+        "reach": 298,
+        "views": 395,
+        "likes": 5,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 7
+      }
+    },
+    {
+      "id": "18107855276044139",
+      "gc": null,
+      "quando": "2026-07-20T16:03:31+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbBUotvxldB/",
+      "inicio": "Instagram não é vitrine. ",
+      "metricas": {
+        "reach": 270,
+        "views": 368,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18414342481144651",
+      "gc": null,
+      "quando": "2026-07-20T13:07:46+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DbBAVLpRg73/",
+      "inicio": "É assim que eles te prometem trazer pacientes High Ticket....de todo jeito e @ti",
+      "metricas": {
+        "reach": 4957,
+        "views": 7511,
+        "likes": 22,
+        "comments": 2,
+        "shares": 6,
+        "saved": 1,
+        "total_interactions": 32
+      }
+    },
+    {
+      "id": "18631330792004728",
+      "gc": null,
+      "quando": "2026-07-19T23:44:09+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Da_kky8RBB8/",
+      "inicio": "Eles seguiram o Plano do Mentor. ",
+      "metricas": {
+        "reach": 1430,
+        "views": 1728,
+        "likes": 45,
+        "comments": 5,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 51
+      }
+    },
+    {
+      "id": "18121704862699826",
+      "gc": null,
+      "quando": "2026-07-19T13:08:53+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Da-Y70ERbSR/",
+      "inicio": "Nem todo cliente é pra você. ",
+      "metricas": {
+        "reach": 385,
+        "views": 534,
+        "likes": 15,
+        "comments": 2,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 18
+      }
+    },
+    {
+      "id": "18118748173883107",
+      "gc": null,
+      "quando": "2026-07-18T19:00:05+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Da8fb7Phvgs/",
+      "inicio": "Paciente High ticket é Relacionamento.",
+      "metricas": {
+        "reach": 393,
+        "views": 589,
+        "likes": 6,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18092915672061295",
+      "gc": null,
+      "quando": "2026-07-17T21:13:20+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Da6JUk2xV1j/",
+      "inicio": "Fechando a semana e lembrando dessa placa maravilhosa que entregamos para a @bia",
+      "metricas": {
+        "reach": 260,
+        "views": 387,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 5
+      }
+    },
+    {
+      "id": "17974728270063835",
+      "gc": null,
+      "quando": "2026-07-16T16:40:18+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Da3EfK1R62w/",
+      "inicio": "Paciente Higkt ticket não vem pela Internet. ",
+      "metricas": {
+        "reach": 478,
+        "views": 764,
+        "likes": 17,
+        "comments": 0,
+        "shares": 2,
+        "saved": 1,
+        "total_interactions": 21
+      }
+    },
+    {
+      "id": "17948620098223769",
+      "gc": null,
+      "quando": "2026-07-15T09:50:36+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DazyK3Bkb2Q/",
+      "inicio": "Tem muito profissional de saúde que se esconde atrás de várias desculpas para nã",
+      "metricas": {
+        "reach": 188,
+        "views": 435,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 7
+      }
+    },
+    {
+      "id": "18099240101133737",
+      "gc": null,
+      "quando": "2026-07-14T09:58:42+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DaxOLyyxm2j/",
+      "inicio": "Toda objeção é uma falha de comunicação.",
+      "metricas": {
+        "reach": 235,
+        "views": 301,
+        "likes": 7,
+        "comments": 3,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 11
+      }
+    },
+    {
+      "id": "18078263678670841",
+      "gc": null,
+      "quando": "2026-07-13T12:08:38+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Dau36WUOO2p/",
+      "inicio": "Paciente com muita opção não fecha venda. ",
+      "metricas": {
+        "reach": 146,
+        "views": 237,
+        "likes": 15,
+        "comments": 2,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 21
+      }
+    },
+    {
+      "id": "17880317034478361",
+      "gc": null,
+      "quando": "2026-07-13T08:54:19+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DauiIhkO4C0/",
+      "inicio": "A música é umas minhas paixões e como eu toco instrumentos e componho, resolvi c",
+      "metricas": {
+        "reach": 205,
+        "views": 429,
+        "likes": 7,
+        "comments": 2,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 10
+      }
+    },
+    {
+      "id": "18058400615766790",
+      "gc": null,
+      "quando": "2026-07-12T00:26:44+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DarBh1kR0yL/",
+      "inicio": "As pessoas estão cada vez mais sem noção em busca de produzir conteúdo. ",
+      "metricas": {
+        "reach": 1503,
+        "views": 1866,
+        "likes": 33,
+        "comments": 0,
+        "shares": 2,
+        "saved": 3,
+        "total_interactions": 39
+      }
+    },
+    {
+      "id": "17867265465582346",
+      "gc": null,
+      "quando": "2026-07-11T10:00:07+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DapgF8iBW3g/",
+      "inicio": "Por trás de todo procedimento, tem um sentimento.",
+      "metricas": {
+        "reach": 218,
+        "views": 293,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18084090800248008",
+      "gc": null,
+      "quando": "2026-07-10T12:08:22+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DanJxLAxG4y/",
+      "inicio": "É isso que nos move. Ajudar clinicas e consultórios a se superar cada vez mais. ",
+      "metricas": {
+        "reach": 209,
+        "views": 310,
+        "likes": 5,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 8
+      }
+    },
+    {
+      "id": "18171157987438081",
+      "gc": null,
+      "quando": "2026-07-09T13:05:40+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/Dakrj4QBjbP/",
+      "inicio": "Em 22.10.2025 eu avisei. A clinica que não tivesse um projeto para 2026 iria pat",
+      "metricas": {
+        "reach": 222,
+        "views": 342,
+        "likes": 11,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 13
+      }
+    },
+    {
+      "id": "18059667038724194",
+      "gc": null,
+      "quando": "2026-07-06T00:05:07+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DabjmT2silx/",
+      "inicio": "A derrota ensina. Ela abre os nossos olhos para as nossas falhas e principalment",
+      "metricas": {
+        "reach": 485,
+        "views": 725,
+        "likes": 28,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 34
+      }
+    },
+    {
+      "id": "18448597063143785",
+      "gc": null,
+      "quando": "2026-07-02T13:14:55+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DaSqhKXxliA/",
+      "inicio": "Esse é o mercado de estética no Brasil. 🇧🇷",
+      "metricas": {
+        "reach": 173,
+        "views": 246,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 9
+      }
+    },
+    {
+      "id": "18001083890953372",
+      "gc": null,
+      "quando": "2026-07-01T09:25:54+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DaPsHKjxm_c/",
+      "inicio": "A @dra.liviafacundo é uma grande parceira nossa. Estamos em conjunto há mais de ",
+      "metricas": {
+        "reach": 234,
+        "views": 325,
+        "likes": 11,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 11
+      }
+    },
+    {
+      "id": "18165625321452867",
+      "gc": null,
+      "quando": "2026-07-01T00:12:45+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DaOsoWZMH1b/",
+      "inicio": "Ontem vimos um exemplo claro que quando você tem um plano, precisa ir com ele at",
+      "metricas": {
+        "reach": 526,
+        "views": 853,
+        "likes": 43,
+        "comments": 8,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 53
+      }
+    },
+    {
+      "id": "18071252846391796",
+      "gc": null,
+      "quando": "2026-06-29T09:24:33+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DaKhx50RgAv/",
+      "inicio": "O @drvinicius_mviana da @revivclinic em Santa Inês, uma cidade no interior do Ma",
+      "metricas": {
+        "reach": 337,
+        "views": 515,
+        "likes": 13,
+        "comments": 3,
+        "shares": 2,
+        "saved": 2,
+        "total_interactions": 20
+      }
+    },
+    {
+      "id": "18391783021080826",
+      "gc": null,
+      "quando": "2026-05-17T14:39:56+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DYcYU_rRQ_l/",
+      "inicio": "Te amo❤️",
+      "metricas": {
+        "reach": 617,
+        "views": 936,
+        "likes": 34,
+        "comments": 6,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 42
+      }
+    },
+    {
+      "id": "18069851855323933",
+      "gc": null,
+      "quando": "2026-05-07T20:54:10+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DYDTQqZkTp0/",
+      "inicio": "FUI CONVOCADO!!!! 🇧🇷⚽️",
+      "metricas": {
+        "reach": 439,
+        "views": 1149,
+        "likes": 36,
+        "comments": 8,
+        "shares": 3,
+        "saved": 1,
+        "total_interactions": 48
+      }
+    },
+    {
+      "id": "17892961947465872",
+      "gc": null,
+      "quando": "2026-05-05T21:23:06+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DX-M-vckYEN/",
+      "inicio": "Crescer uma clínica é belo. Mas não é simples. É feio às vezes. É cansativo quas",
+      "metricas": {
+        "reach": 348,
+        "views": 802,
+        "likes": 20,
+        "comments": 4,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 26
+      }
+    },
+    {
+      "id": "17949317330981301",
+      "gc": null,
+      "quando": "2026-04-21T21:54:29+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DXaNQVuEZrB/",
+      "inicio": "@toguro lança leilão para profissionais da estética.",
+      "metricas": {
+        "reach": 806,
+        "views": 979,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 14
+      }
+    },
+    {
+      "id": "18583528570043139",
+      "gc": null,
+      "quando": "2026-04-21T16:24:53+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DXZnuH5Eexl/",
+      "inicio": "10 anos não são 10 dias. Que venham mais 60 anos juntos. Te amo 😍",
+      "metricas": {
+        "reach": 1024,
+        "views": 1933,
+        "likes": 64,
+        "comments": 8,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 74
+      }
+    },
+    {
+      "id": "18149864101466171",
+      "gc": null,
+      "quando": "2026-04-19T15:10:57+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DXUVrUsp43a/",
+      "inicio": "Verdades NADA secretas...",
+      "metricas": {
+        "reach": 367,
+        "views": 433,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2,
+        "saved": 2,
+        "total_interactions": 16
+      }
+    },
+    {
+      "id": "18001244207745089",
+      "gc": null,
+      "quando": "2026-04-18T18:51:22+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DXSJ7sUEUu_/",
+      "inicio": "Paciente que vem pelo Tráfego do Instagram quase sempre é Desqualificado. Cuidad",
+      "metricas": {
+        "reach": 260,
+        "views": 391,
+        "likes": 9,
+        "comments": 0,
+        "shares": 2,
+        "saved": 2,
+        "total_interactions": 13
+      }
+    }
+  ]
+}
