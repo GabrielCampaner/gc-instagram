@@ -110,7 +110,7 @@
     {
       "id": "FR-02",
       "titulo": "O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.",
-      "quando": "2026-10-21T08:30:00-03:00",
+      "quando": "2026-10-21T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -120,7 +120,8 @@
       "midias": [
         "midia/2026-10-12_frase-respondeu-primeiro/01.jpg"
       ],
-      "origem": "2026-10-12_frase-respondeu-primeiro"
+      "origem": "2026-10-12_frase-respondeu-primeiro",
+      "frase": true
     },
     {
       "id": "GC-07",
@@ -147,7 +148,7 @@
     {
       "id": "FR-03",
       "titulo": "Se o seu preço veio do concorrente, o seu lucro também é dele.",
-      "quando": "2026-10-22T08:30:00-03:00",
+      "quando": "2026-10-22T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -157,7 +158,8 @@
       "midias": [
         "midia/2026-10-13_frase-preco-do-concorrente/01.jpg"
       ],
-      "origem": "2026-10-13_frase-preco-do-concorrente"
+      "origem": "2026-10-13_frase-preco-do-concorrente",
+      "frase": true
     },
     {
       "id": "GC-10",
@@ -184,7 +186,7 @@
     {
       "id": "FR-04",
       "titulo": "A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte.",
-      "quando": "2026-10-23T08:30:00-03:00",
+      "quando": "2026-10-23T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -194,7 +196,8 @@
       "midias": [
         "midia/2026-10-14_frase-sorte/01.jpg"
       ],
-      "origem": "2026-10-14_frase-sorte"
+      "origem": "2026-10-14_frase-sorte",
+      "frase": true
     },
     {
       "id": "GC-13",
@@ -221,7 +224,7 @@
     {
       "id": "FR-05",
       "titulo": "Gestão é o que acontece na terça-feira às 9h, quando o paciente pergunta o valor e alguém precisa saber responder.",
-      "quando": "2026-10-24T08:30:00-03:00",
+      "quando": "2026-10-24T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -231,7 +234,8 @@
       "midias": [
         "midia/2026-10-15_frase-terca-9h/01.jpg"
       ],
-      "origem": "2026-10-15_frase-terca-9h"
+      "origem": "2026-10-15_frase-terca-9h",
+      "frase": true
     },
     {
       "id": "GC-09",
@@ -258,7 +262,7 @@
     {
       "id": "FR-06",
       "titulo": "Clínica não quebra por falta de talento. Quebra por falta de rotina.",
-      "quando": "2026-10-25T08:30:00-03:00",
+      "quando": "2026-10-25T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -268,7 +272,8 @@
       "midias": [
         "midia/2026-10-16_frase-rotina/01.jpg"
       ],
-      "origem": "2026-10-16_frase-rotina"
+      "origem": "2026-10-16_frase-rotina",
+      "frase": true
     },
     {
       "id": "GC-22",
@@ -295,7 +300,7 @@
     {
       "id": "FR-07",
       "titulo": "Todo mundo quer atender. Ninguém quer cuidar do retorno.",
-      "quando": "2026-10-26T08:30:00-03:00",
+      "quando": "2026-10-26T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -305,7 +310,8 @@
       "midias": [
         "midia/2026-10-17_frase-retorno/01.jpg"
       ],
-      "origem": "2026-10-17_frase-retorno"
+      "origem": "2026-10-17_frase-retorno",
+      "frase": true
     },
     {
       "id": "GC-01",
@@ -332,7 +338,7 @@
     {
       "id": "FR-09",
       "titulo": "Agenda cheia e agenda ocupada são coisas diferentes. A diferença está no extrato.",
-      "quando": "2026-10-27T08:30:00-03:00",
+      "quando": "2026-10-27T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -342,7 +348,8 @@
       "midias": [
         "midia/2026-10-19_frase-extrato/01.jpg"
       ],
-      "origem": "2026-10-19_frase-extrato"
+      "origem": "2026-10-19_frase-extrato",
+      "frase": true
     },
     {
       "id": "GC-03",
@@ -434,7 +441,7 @@
     {
       "id": "FR-10",
       "titulo": "A sua clínica não tem problema de marketing. Tem problema de matemática.",
-      "quando": "2026-10-30T08:30:00-03:00",
+      "quando": "2026-10-30T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -444,7 +451,8 @@
       "midias": [
         "midia/2026-10-20_frase-matematica/01.jpg"
       ],
-      "origem": "2026-10-20_frase-matematica"
+      "origem": "2026-10-20_frase-matematica",
+      "frase": true
     },
     {
       "id": "GC-16",
@@ -471,7 +479,7 @@
     {
       "id": "L3-05",
       "titulo": "A explicação que recebeu",
-      "quando": "2026-10-31T08:30:00-03:00",
+      "quando": "2026-10-31T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -481,7 +489,8 @@
       "midias": [
         "midia/2026-11-13_frase-explicacao/01.jpg"
       ],
-      "origem": "2026-11-13_frase-explicacao"
+      "origem": "2026-11-13_frase-explicacao",
+      "frase": true
     },
     {
       "id": "paciente-problema",
@@ -1363,7 +1372,7 @@
     {
       "id": "FR-08",
       "titulo": "Liberdade não é trabalhar menos. É não precisar estar em tudo.",
-      "quando": "2026-11-22T08:30:00-03:00",
+      "quando": "2026-11-22T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -1373,7 +1382,8 @@
       "midias": [
         "midia/2026-10-18_frase-liberdade/01.jpg"
       ],
-      "origem": "2026-10-18_frase-liberdade"
+      "origem": "2026-10-18_frase-liberdade",
+      "frase": true
     },
     {
       "id": "GC-15",
@@ -1529,7 +1539,7 @@
     {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
-      "quando": "2026-11-27T08:30:00-03:00",
+      "quando": "2026-11-27T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
@@ -1540,7 +1550,8 @@
         "midia/2026-11-27_frase-um-terco/01.jpg"
       ],
       "origem": "2026-11-27_frase-um-terco",
-      "fixo": true
+      "fixo": true,
+      "frase": true
     }
   ],
   "liberados": [

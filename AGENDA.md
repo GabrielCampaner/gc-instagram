@@ -1,60 +1,60 @@
 # Agenda do Instagram da GC
 
-Gerada em 19/10/2026, 22:39:21. 75 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
 
-- **08h30 · GC-04 · A creatinina** (imagem)
+- **08h30 · GC-04 · A creatinina** (imagem) · publicado: https://www.instagram.com/p/Det23DdHCxR/
   - Lembrete: fixar no perfil
 - **18h30 · GC-08 · A culpa de cobrar** (carrossel)
   - Stories: Noite: repost do carrossel + enquete "Você já deu desconto antes de o paciente pedir?" · Já / Nunca. Caixinha: "O que você responde quando dizem que está caro?" (vira pauta).
 
 ## quarta, 21/10
 
-- **08h30 · FR-02 · O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.** (imagem)
+- **06h30 · FR-02 · O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-07 · 12 regras que eu não negocio** (carrossel)
   - Lembrete: fixar no perfil
 
 ## quinta, 22/10
 
-- **08h30 · FR-03 · Se o seu preço veio do concorrente, o seu lucro também é dele.** (imagem)
+- **06h30 · FR-03 · Se o seu preço veio do concorrente, o seu lucro também é dele.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-10 · O celular da recepção** (carrossel)
   - Stories: Manhã: chegada na clínica do cliente, equipe de costas. Tarde: repost + enquete "Você sabe quantas conversas estão sem resposta agora?" · Sei / Não sei.
 
 ## sexta, 23/10
 
-- **08h30 · FR-04 · A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte.** (imagem)
+- **06h30 · FR-04 · A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-13 · O paciente não avalia a sua resina** (carrossel)
   - Stories: Manhã: a clínica odontológica do cliente, sem pacientes. Tarde: enquete "Dentista: o que mais trava a sua clínica hoje?" · Agenda vazia / Orçamento que não fecha.
 
 ## sábado, 24/10
 
-- **08h30 · FR-05 · Gestão é o que acontece na terça-feira às 9h, quando o paciente pergunta o valor e alguém precisa saber responder.** (imagem)
+- **06h30 · FR-05 · Gestão é o que acontece na terça-feira às 9h, quando o paciente pergunta o valor e alguém precisa saber responder.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-09 · O teste das 21h** (carrossel)
   - Stories: 21h: "Começou o teste. Manda a mensagem agora." Na manhã seguinte: controle deslizante "Quanto tempo a sua clínica levou?" e caixinha com os tempos (sem nomes).
 
 ## domingo, 25/10
 
-- **08h30 · FR-06 · Clínica não quebra por falta de talento. Quebra por falta de rotina.** (imagem)
+- **06h30 · FR-06 · Clínica não quebra por falta de talento. Quebra por falta de rotina.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-22 · Quanto mais rápido passa o preço, menos agenda** (carrossel)
   - Stories: Manhã: "Teste rápido: manda mensagem para a sua clínica agora." Controle deslizante "Em quanto tempo responderam?". Noite: repost do carrossel.
 
 ## segunda, 26/10
 
-- **08h30 · FR-07 · Todo mundo quer atender. Ninguém quer cuidar do retorno.** (imagem)
+- **06h30 · FR-07 · Todo mundo quer atender. Ninguém quer cuidar do retorno.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-01 · A hora vazia** (carrossel)
   - Stories: telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)
 
 ## terça, 27/10
 
-- **08h30 · FR-09 · Agenda cheia e agenda ocupada são coisas diferentes. A diferença está no extrato.** (imagem)
+- **06h30 · FR-09 · Agenda cheia e agenda ocupada são coisas diferentes. A diferença está no extrato.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-03 · Laudo da Semana 01** (carrossel)
 
@@ -71,14 +71,14 @@ Gerada em 19/10/2026, 22:39:21. 75 posts agendados, 3 pendentes. Stories com enq
 
 ## sexta, 30/10
 
-- **08h30 · FR-10 · A sua clínica não tem problema de marketing. Tem problema de matemática.** (imagem)
+- **06h30 · FR-10 · A sua clínica não tem problema de marketing. Tem problema de matemática.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-16 · Novembro Azul: laço ou agenda** (carrossel)
   - Stories: Manhã: "30/10, Dia do Ginecologista". Tarde: demonstração de uma calculadora com dados de exemplo. Noite: link + "Comenta CALCULADORA no carrossel".
 
 ## sábado, 31/10
 
-- **08h30 · L3-05 · A explicação que recebeu** (imagem)
+- **06h30 · L3-05 · A explicação que recebeu** (imagem)
   - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
 - **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
 
@@ -227,7 +227,7 @@ Gerada em 19/10/2026, 22:39:21. 75 posts agendados, 3 pendentes. Stories com enq
 
 ## domingo, 22/11
 
-- **08h30 · FR-08 · Liberdade não é trabalhar menos. É não precisar estar em tudo.** (imagem)
+- **06h30 · FR-08 · Liberdade não é trabalhar menos. É não precisar estar em tudo.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-15 · A reunião de 15 minutos** (carrossel)
   - Stories: Manhã: a reunião acontecendo, sem rostos. Tarde: enquete "A sua clínica tem reunião semanal de números?" · Tem / Não tem.
@@ -254,7 +254,7 @@ Gerada em 19/10/2026, 22:39:21. 75 posts agendados, 3 pendentes. Stories com enq
 
 ## sexta, 27/11
 
-- **08h30 · L3-17 · Um terço do lucro** (imagem)
+- **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
 
 ## Pendentes (não saem até serem liberados)
