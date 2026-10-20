@@ -46,5 +46,5 @@ O `pedir.js` grava `pedido.json`, envia, e o robô devolve a resposta em `ultimo
 
 ## Limites da API do Instagram
 
-Carrossel até 10 imagens · legenda até 2.200 caracteres e 30 hashtags · até 50 publicações por dia · Stories sem figurinha
+Carrossel: a API aceitou 13 imagens em 20/10/2026 (o app vai até 20) · legenda até 2.200 caracteres e 30 hashtags · cota de 100 publicações por dia · Stories sem figurinha
 (enquete, caixinha e link continuam no app) · Reels por MP4 na pasta da mídia (tipo `reels`).
