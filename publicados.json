@@ -6,7 +6,9 @@
     "publicado_em": "2026-10-20T12:41:53+0000"
   },
   "GC-08": {
-    "tentativas": 1,
-    "erro": "Instagram 400 em /me/media: Only photo or video can be accepted as media type. (The media could not be fetched from this URI: https://raw.githubusercontent.com/GabrielCampaner/gc-instagram/main/midia/2026-10-11_culpa-de-cobrar/01.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating)"
+    "tentativas": 2,
+    "media_id": "17880239334554656",
+    "permalink": "https://www.instagram.com/p/Deu0kysidL9/",
+    "publicado_em": "2026-10-20T21:41:02+0000"
   }
 }
