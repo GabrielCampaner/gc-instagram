@@ -918,29 +918,6 @@
       "origem": "2026-12-13_numero-58"
     },
     {
-      "id": "L3-02",
-      "titulo": "Retorno de 30 dias não existe",
-      "quando": "2026-11-10T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: Se algum cliente médico autorizar, troque a simulação pelo número real dele (com a base: X retornos de Y consultas).",
-      "obs": "",
-      "legenda": "Pode cobrar retorno de consulta? E o prazo de 30 dias, de onde veio?\n\nA Resolução CFM 1.958/2010 diz que o retorno é a continuação da consulta para avaliar exames, sem nova cobrança, no prazo que o médico definir. Não existe prazo fixo de 30 dias na norma, e plano de saúde não pode impor intervalo entre consultas.\n\nQueixa nova, doença diferente ou mudança de sintomas é nova consulta.\n\nSem regra escrita na clínica, quem decide o que é retorno é a recepção, pela data. Numa agenda de 160 consultas, isso pode virar R$ 6.400 por mês atendidos de graça (simulação).\n\nFonte: Resolução CFM 1.958/2010, art. 1º, 2º e 5º. Vale para Medicina.\n\nManda para um médico que ainda acredita no retorno de 30 dias.\n\n#gestaodeclinicas #consultoriomedico #retornodeconsulta #medicina #gestaoemsaude",
-      "midias": [
-        "midia/2026-11-10_retorno-30-dias/01.jpg",
-        "midia/2026-11-10_retorno-30-dias/02.jpg",
-        "midia/2026-11-10_retorno-30-dias/03.jpg",
-        "midia/2026-11-10_retorno-30-dias/04.jpg",
-        "midia/2026-11-10_retorno-30-dias/05.jpg",
-        "midia/2026-11-10_retorno-30-dias/06.jpg",
-        "midia/2026-11-10_retorno-30-dias/07.jpg",
-        "midia/2026-11-10_retorno-30-dias/08.jpg",
-        "midia/2026-11-10_retorno-30-dias/09.jpg",
-        "midia/2026-11-10_retorno-30-dias/10.jpg"
-      ],
-      "origem": "2026-11-10_retorno-30-dias"
-    },
-    {
       "id": "L3-13",
       "titulo": "O mesmo anúncio",
       "quando": "2026-11-10T18:30:00-03:00",
@@ -1360,12 +1337,35 @@
       "origem": "2026-11-26_conta-do-desconto"
     },
     {
+      "id": "L3-02",
+      "titulo": "Retorno de 30 dias não existe",
+      "quando": "2026-11-20T08:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "Pode cobrar retorno de consulta? E o prazo de 30 dias, de onde veio?\n\nA Resolução CFM 1.958/2010 diz que o retorno é a continuação da consulta para avaliar exames, sem nova cobrança, no prazo que o médico definir. Não existe prazo fixo de 30 dias na norma, e plano de saúde não pode impor intervalo entre consultas.\n\nQueixa nova, doença diferente ou mudança de sintomas é nova consulta.\n\nSem regra escrita na clínica, quem decide o que é retorno é a recepção, pela data. Numa agenda de 160 consultas, isso pode virar R$ 6.400 por mês atendidos de graça (simulação).\n\nFonte: Resolução CFM 1.958/2010, art. 1º, 2º e 5º. Vale para Medicina.\n\nManda para um médico que ainda acredita no retorno de 30 dias.\n\n#gestaodeclinicas #consultoriomedico #retornodeconsulta #medicina #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-10_retorno-30-dias/01.jpg",
+        "midia/2026-11-10_retorno-30-dias/02.jpg",
+        "midia/2026-11-10_retorno-30-dias/03.jpg",
+        "midia/2026-11-10_retorno-30-dias/04.jpg",
+        "midia/2026-11-10_retorno-30-dias/05.jpg",
+        "midia/2026-11-10_retorno-30-dias/06.jpg",
+        "midia/2026-11-10_retorno-30-dias/07.jpg",
+        "midia/2026-11-10_retorno-30-dias/08.jpg",
+        "midia/2026-11-10_retorno-30-dias/09.jpg",
+        "midia/2026-11-10_retorno-30-dias/10.jpg"
+      ],
+      "origem": "2026-11-10_retorno-30-dias"
+    },
+    {
       "id": "L3-15",
       "titulo": "IA no WhatsApp da clínica",
-      "quando": "2026-11-25T18:30:00-03:00",
+      "quando": "2026-11-20T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: Se quiser fazer em collab, a IAra pode entrar só na legenda do post dela, nunca na arte da GC (manual, seção 3).",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "IA para clínicas: o que ela deve fazer no WhatsApp e o que nunca deve fazer.\n\nDeve: responder na hora, informar o que a clínica já divulga, oferecer horário, agendar, confirmar e lembrar retorno.\n\nNunca: diagnosticar, indicar conduta, prometer resultado, negociar desconto ou insistir com quem pediu para parar. E precisa saber a hora de chamar uma pessoa.\n\n32% das clínicas já usam IA e outras 40% pretendem usar (Panorama das Clínicas 2026, Doctoralia). 33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia).\n\nO que ninguém conta: a IA repete o processo que já existe. Sem regra, ela improvisa mais rápido.\n\nSalva para montar as regras com a equipe.\n\n#iaparaclinicas #chatbot #whatsapp #gestaodeclinicas #atendimento",
       "midias": [
@@ -1383,27 +1383,12 @@
       "origem": "2026-11-25_ia-no-whatsapp"
     },
     {
-      "id": "L3-17",
-      "titulo": "Um terço do lucro",
-      "quando": "2026-11-27T08:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "legenda": "Black Friday na clínica: são só 10%?\n\nCom margem de 30%, 10% de desconto levam um terço do lucro. (Simulação.)\n\nNinguém pede um terço do seu lucro. Você oferece.\n\nManda para quem vai dar desconto hoje sem fazer a conta.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto",
-      "midias": [
-        "midia/2026-11-27_frase-um-terco/01.jpg"
-      ],
-      "origem": "2026-11-27_frase-um-terco",
-      "fixo": true
-    },
-    {
       "id": "L3-22",
       "titulo": "Antes e depois: o que a regra pede",
-      "quando": "2026-12-03T18:30:00-03:00",
+      "quando": "2026-11-21T08:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: Se um cliente quiser compartilhar, o jurídico dele deve validar. Para Odontologia, Fisioterapia e Nutrição, não usar esta peça.",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Médico pode postar antes e depois? Pode. Com as condições da Resolução CFM 2.336/2023, art. 14.\n\nFinalidade educativa, com texto sobre indicações, fatores que influenciam o resultado e complicações. Conjunto com evoluções satisfatórias, insatisfatórias e complicações. Sem identificar o paciente, sem editar a imagem, com autorização e anonimato.\n\nE a parte de gestão: o antes e depois traz a pergunta. Quem fecha é a resposta rápida, o plano por escrito e o retorno em 48 h.\n\nFonte: Resolução CFM 2.336/2023, art. 14. Vale para Medicina. Odontologia, Fisioterapia e Nutrição têm regras próprias.\n\nSalva para conferir antes do próximo post.\n\n#publicidademedica #marketingmedico #cfm #gestaodeclinicas #instagrammedico",
       "midias": [
@@ -1421,10 +1406,10 @@
     {
       "id": "L3-27",
       "titulo": "A avaliação gratuita",
-      "quando": "2026-12-09T18:30:00-03:00",
+      "quando": "2026-11-21T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: Se algum cliente dentista for compartilhar, confirme com ele a regra vigente do CFO para menção a valor e gratuidade.",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Dentista pode cobrar avaliação? E vale a pena?\n\nPara o paciente que fecha o tratamento, a avaliação cobrada e abatida custa o mesmo que a gratuita: nada. Só muda para quem não ia fechar.\n\nGratuidade enche a agenda de quem está pesquisando preço e tira o valor do horário. Faltar não custa nada.\n\nComo mudar: cobre e abata no tratamento fechado em até 7 dias, explique na primeira mensagem o que a avaliação inclui e meça faltas e fechamento por 60 dias. Regras de publicidade mudam por conselho: confira a do seu antes de anunciar.\n\nManda para alguém que faz avaliação de graça e vive com a agenda cheia.\n\n#odontologia #avaliacao #gestaodeclinicas #precificacao #agenda",
       "midias": [
@@ -1437,6 +1422,21 @@
         "midia/2026-12-09_avaliacao-gratuita/07.jpg"
       ],
       "origem": "2026-12-09_avaliacao-gratuita"
+    },
+    {
+      "id": "L3-17",
+      "titulo": "Um terço do lucro",
+      "quando": "2026-11-27T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "Black Friday na clínica: são só 10%?\n\nCom margem de 30%, 10% de desconto levam um terço do lucro. (Simulação.)\n\nNinguém pede um terço do seu lucro. Você oferece.\n\nManda para quem vai dar desconto hoje sem fazer a conta.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto",
+      "midias": [
+        "midia/2026-11-27_frase-um-terco/01.jpg"
+      ],
+      "origem": "2026-11-27_frase-um-terco",
+      "fixo": true
     },
     {
       "id": "L3-39",
@@ -1469,7 +1469,11 @@
     "L3-09",
     "L3-10",
     "L3-14",
-    "L3-16"
+    "L3-16",
+    "L3-02",
+    "L3-15",
+    "L3-22",
+    "L3-27"
   ],
   "palavras_ativas": [
     "COBRAR",
