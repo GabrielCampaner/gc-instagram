@@ -4,6 +4,9 @@
 //   publicar  (padrão do agendamento) publica o que venceu, se o calendário estiver com "ativo": true
 //   conferir  mostra a conta, a cota do dia e os últimos posts, sem publicar
 //   teste     prepara o post POST_ID no Instagram (imagens, legenda, carrossel) e confere, sem publicar
+//   midias    grava em feed.json os últimos posts do perfil (para saber o que já saiu)
+//   insights  grava em insights.json alcance e engajamento da conta e dos posts (roda todo dia às 23h41)
+// A cada post publicado (ou falha), comenta na issue "Avisos de publicação" do GitHub com quantos posts faltam.
 // Variáveis: IG_TOKEN (segredo do GitHub), MIDIA_BASE (endereço público da pasta do repositório), IG_API_VERSAO (opcional).
 const fs = require("fs"), path = require("path");
 const RAIZ = path.resolve(__dirname, "..");
@@ -74,12 +77,84 @@ async function preparar(p) {
     await aguardarPronto(c.id, 120);
     return c.id;
 }
-// Se a mesma legenda já está entre os últimos posts, não publica de novo (proteção contra registro perdido).
+// Se a mesma legenda (no mesmo formato, feed ou Reels) já está entre os últimos posts, não publica de novo.
 async function jaNoFeed(p) {
     const alvo = (p.legenda || "").trim();
     if (!alvo || p.tipo === "story") return null;
-    const r = await ig("GET", "/me/media", { fields: "id,caption,permalink,timestamp", limit: "15" });
-    return (r.data || []).find(m => (m.caption || "").trim() === alvo) || null;
+    const r = await ig("GET", "/me/media", { fields: "id,caption,permalink,timestamp,media_product_type", limit: "15" });
+    return (r.data || []).find(m => (m.caption || "").trim() === alvo && (m.media_product_type === "REELS") === (p.tipo === "reels")) || null;
+}
+
+// Aviso no GitHub (issue "Avisos de publicação"): chega por e-mail e no app do GitHub para o dono do repositório.
+const TITULO_AVISOS = "Avisos de publicação";
+async function avisar(texto) {
+    const tk = process.env.GITHUB_TOKEN, repo = process.env.GITHUB_REPOSITORY, dono = process.env.GITHUB_REPOSITORY_OWNER;
+    if (!tk || !repo) return;
+    const h = { Authorization: "Bearer " + tk, Accept: "application/vnd.github+json", "Content-Type": "application/json", "User-Agent": "publicador-gc" };
+    const base = "https://api.github.com/repos/" + repo;
+    try {
+        const abertas = await (await fetch(base + "/issues?state=open&per_page=100", { headers: h })).json();
+        let issue = Array.isArray(abertas) ? abertas.find(i => i.title === TITULO_AVISOS && !i.pull_request) : null;
+        if (!issue) issue = await (await fetch(base + "/issues", { method: "POST", headers: h, body: JSON.stringify({ title: TITULO_AVISOS, body: "Aqui o robô avisa cada post publicado e quantos ainda faltam no calendário." }) })).json();
+        await fetch(base + "/issues/" + issue.number + "/comments", { method: "POST", headers: h, body: JSON.stringify({ body: texto + (dono ? "\n\n@" + dono : "") }) });
+    } catch (e) { console.error("Aviso não enviado: " + e.message); }
+}
+function resumoFila() {
+    const fila = cal.posts.filter(p => p.status === "agendado" && !(pub[p.id] || {}).media_id).sort((a, b) => new Date(a.quando) - new Date(b.quando));
+    const pend = cal.posts.filter(p => p.status === "pendente").length;
+    if (!fila.length) return "**O calendário acabou.** Não há mais posts agendados" + (pend ? " (e " + pend + " pendentes esperando você)" : "") + ". Hora de criar o próximo lote.";
+    const ult = fila[fila.length - 1], dias = Math.ceil((new Date(ult.quando) - Date.now()) / 864e5);
+    return "Faltam **" + fila.length + "** posts agendados, até " + hora(ult.quando) + " (" + dias + " dias)." + (pend ? " Pendentes esperando você: " + pend + "." : "")
+        + (fila.length <= 10 ? "\n\n**Atenção:** o calendário está acabando. Hora de criar o próximo lote." : "") + "\nPróximo: " + fila[0].id + " · " + fila[0].titulo + " em " + hora(fila[0].quando) + ".";
+}
+
+// Lê os últimos posts do perfil (até 200) e grava em feed.json.
+async function midias() {
+    const todas = [];
+    let after = null;
+    for (let pag = 0; pag < 4; pag++) {
+        const r = await ig("GET", "/me/media", { fields: "id,caption,media_type,media_product_type,permalink,timestamp", limit: "50", ...(after ? { after } : {}) });
+        todas.push(...(r.data || []));
+        after = r.paging && r.paging.next && r.paging.cursors ? r.paging.cursors.after : null;
+        if (!after) break;
+    }
+    fs.writeFileSync(path.join(RAIZ, "feed.json"), JSON.stringify(todas, null, 2) + "\n", "utf8");
+    console.log(todas.length + " posts lidos do perfil (feed.json)." + (todas.length ? " Do mais novo (" + hora(todas[0].timestamp) + ") ao mais antigo (" + hora(todas[todas.length - 1].timestamp) + ")." : ""));
+}
+
+// Coleta alcance e engajamento: da conta (últimos 7 dias) e de cada post recente. Grava em insights.json.
+async function insights() {
+    const conta = await ig("GET", "/me", { fields: "username,followers_count,follows_count,media_count" });
+    const ate = Math.floor(Date.now() / 1000), desde = ate - 7 * 86400;
+    const dias7 = {};
+    for (const metr of ["reach", "views", "accounts_engaged", "total_interactions", "likes", "comments", "shares", "saves", "follows_and_unfollows", "profile_links_taps"]) {
+        try {
+            const r = await ig("GET", "/me/insights", { metric: metr, period: "day", metric_type: "total_value", since: String(desde), until: String(ate) });
+            const d = (r.data || [])[0];
+            dias7[metr] = d && d.total_value ? (d.total_value.breakdowns && d.total_value.breakdowns.length ? d.total_value.breakdowns : d.total_value.value) : null;
+        } catch (e) { dias7[metr] = "erro: " + e.message.slice(0, 120); }
+    }
+    const lista = await ig("GET", "/me/media", { fields: "id,caption,media_type,media_product_type,permalink,timestamp", limit: "50" });
+    const posts = [];
+    for (const m of lista.data || []) {
+        const met = {};
+        for (const grupo of ["reach,views,likes,comments,shares,saved,total_interactions", "reach,likes,comments,shares,saved"]) {
+            try {
+                const r = await ig("GET", "/" + m.id + "/insights", { metric: grupo });
+                for (const d of r.data || []) met[d.name] = (d.values && d.values[0] ? d.values[0].value : d.total_value && d.total_value.value);
+                break;
+            } catch (e) { met.erro = e.message.slice(0, 160); }
+        }
+        if (Object.keys(met).length > 1) delete met.erro;
+        const nosso = Object.entries(pub).find(([, r]) => r.media_id === m.id);
+        posts.push({ id: m.id, gc: nosso ? nosso[0] : null, quando: m.timestamp, tipo: m.media_product_type === "REELS" ? "reels" : m.media_type.toLowerCase(), link: m.permalink, inicio: (m.caption || "").split("\n")[0].slice(0, 80), metricas: met });
+    }
+    const saida = { coletado_em: new Date().toISOString(), conta, ultimos_7_dias: dias7, posts };
+    fs.writeFileSync(path.join(RAIZ, "insights.json"), JSON.stringify(saida, null, 2) + "\n", "utf8");
+    const ok = posts.filter(p => !p.metricas.erro).length;
+    console.log("Insights de @" + conta.username + ": " + conta.followers_count + " seguidores, " + ok + " de " + posts.length + " posts com métricas.");
+    console.log("Últimos 7 dias: alcance " + JSON.stringify(dias7.reach) + ", visualizações " + JSON.stringify(dias7.views) + ", contas engajadas " + JSON.stringify(dias7.accounts_engaged) + ", interações " + JSON.stringify(dias7.total_interactions));
+    if (!ok && posts.length) console.log("Sem métricas: " + posts[0].metricas.erro + "\nFalta a permissão instagram_business_manage_insights no token (adicione no app da Meta e gere outro token).");
 }
 
 async function conferir() {
@@ -119,6 +194,7 @@ async function publicar() {
                 reg.erro = "passou " + Math.round(atrasoH) + " h do horário; não publiquei para não atropelar o calendário";
                 salvarPub(); falhas++;
                 console.error("Atrasado: " + p.id + " (" + reg.erro + ")");
+                await avisar("Não publiquei **" + p.id + " · " + p.titulo + "**: " + reg.erro + ". Peça ao Claude para remarcar.");
             }
             continue;
         }
@@ -137,10 +213,13 @@ async function publicar() {
             delete reg.erro;
             salvarPub();
             console.log("Publicado: " + p.id + " " + p.titulo + "  " + (reg.permalink || reg.media_id));
+            const qtd = p.midias.length + (p.tipo === "reels" ? " vídeo" : p.midias.length > 1 ? " imagens" : " imagem");
+            await avisar("Publicado: **" + p.id + " · " + p.titulo + "** (" + p.tipo + ", " + qtd + "), " + hora(reg.publicado_em) + ".\n" + (reg.permalink || "") + "\n\n" + resumoFila());
         } catch (e) {
             reg.erro = e.message;
             salvarPub(); falhas++;
             console.error("Falhou " + p.id + " (tentativa " + reg.tentativas + " de " + TENTATIVAS_MAX + "): " + e.message);
+            await avisar("Falhou: **" + p.id + " · " + p.titulo + "** (tentativa " + reg.tentativas + " de " + TENTATIVAS_MAX + ").\n" + e.message + (reg.tentativas < TENTATIVAS_MAX ? "\n\nTento de novo em 10 minutos." : "\n\nDesisti deste post. Peça ao Claude para olhar."));
         }
     }
     if (falhas) process.exitCode = 1;   // o GitHub manda e-mail quando a execução falha
@@ -152,6 +231,8 @@ async function publicar() {
         throw new Error("Falta o segredo IG_TOKEN (GitHub > Settings > Secrets and variables > Actions).");
     }
     if (ACAO === "conferir") return conferir();
+    if (ACAO === "midias") return midias();
+    if (ACAO === "insights") return insights();
     if (ACAO === "teste") {
         const p = cal.posts.find(x => x.id === POST_ID);
         if (!p) throw new Error("Post " + (POST_ID || "(vazio)") + " não está no calendário.");

@@ -3,6 +3,7 @@ name: Publicar no Instagram
 on:
   schedule:
     - cron: "3-59/10 * * * *"   # a cada 10 minutos (o GitHub pode atrasar alguns minutos)
+    - cron: "41 2 * * *"        # insights do dia, 23h41 de Brasília
   workflow_dispatch:
     inputs:
       acao:
@@ -18,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: publicar-instagram
@@ -38,12 +40,15 @@ jobs:
           ACAO: ${{ github.event.inputs.acao || 'publicar' }}
           POST_ID: ${{ github.event.inputs.id }}
           EVENTO: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MIDIA_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
         run: |
           set -o pipefail
           if [ "$EVENTO" = "push" ]; then
             export ACAO="$(jq -r '.acao // "conferir"' pedido.json)" POST_ID="$(jq -r '.id // ""' pedido.json)"
           fi
+          if [ "$CRON" = "41 2 * * *" ]; then export ACAO=insights; fi
           node publicador/publicar.js 2>&1 | tee resultado.txt
       - name: Registrar
         if: always()
@@ -53,6 +58,7 @@ jobs:
           git config user.name "publicador-gc"
           git config user.email "publicador-gc@users.noreply.github.com"
           git add publicados.json
+          for f in feed.json insights.json; do if [ -f "$f" ]; then git add "$f"; fi; done
           if [ "$EVENTO" != "schedule" ] && [ -f resultado.txt ]; then
             { echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) · $EVENTO · ${{ github.run_id }}"; cat resultado.txt; } > ultimo_resultado.txt
             git add ultimo_resultado.txt
