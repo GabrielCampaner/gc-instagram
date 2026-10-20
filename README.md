@@ -9,7 +9,7 @@ guarda o calendário e as imagens, e o GitHub Actions publica cada post no horá
 - `midia/<slug>/NN.jpg`: as imagens em JPG (a API só aceita JPG). O repositório é público porque o Instagram busca as imagens por endereço.
 - `publicados.json`: o registro do robô (id no Instagram, link, data, erro). Não edite à mão.
 - `feed.json` e `insights.json`: últimos posts do perfil e métricas (alcance, visualizações, envios, salvos), atualizados pelo robô.
-- `.github/workflows/publicar.yml`: roda a cada 10 minutos e publica o que já venceu. Atraso maior que 6 horas não sai (avisa por e-mail).
+- `.github/workflows/publicar.yml`: publica o que já venceu. Ele se mantém sozinho em ciclo de 10 minutos (cada execução dispara a próxima, que espera no ambiente `intervalo`), porque o agendador do GitHub atrasa e pula execuções. Se chegar até 12 minutos antes do horário, espera e publica na hora. Atraso maior que 6 horas não sai (avisa por e-mail).
 - `.github/workflows/renovar_token.yml`: toda segunda renova o token da Meta, que vale 60 dias.
 
 Status dos posts: `agendado` (sai no horário), `pendente` (falta confirmar algo, não sai), `pausado` (tirado à mão, não sai).
@@ -40,7 +40,8 @@ O `pedir.js` grava `pedido.json`, envia, e o robô devolve a resposta em `ultimo
 3. **Teste**: Actions > Publicar no Instagram > Run workflow > `conferir` (lê a conta) e depois `teste` com um id (prepara o
    post no Instagram sem publicar).
 4. **Ligar**: `"ativo": true` no `calendario.json`.
-5. Opcional, **segredo `GH_PAT`**: token do GitHub (fine-grained, só este repositório, permissão Secrets: read and write). Só é
+5. **Ambiente `intervalo`**: Settings > Environments > intervalo > marque **Wait timer** com 10 minutos > Save protection rules. Sem isso o ciclo fica desligado e o robô depende só do agendador do GitHub.
+6. Opcional, **segredo `GH_PAT`**: token do GitHub (fine-grained, só este repositório, permissão Secrets: read and write). Só é
    preciso se a renovação semanal avisar que a Meta devolveu um token novo.
 
 ## Limites da API do Instagram
