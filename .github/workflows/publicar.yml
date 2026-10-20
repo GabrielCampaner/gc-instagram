@@ -13,6 +13,8 @@ on:
       id:
         description: "Post do teste (ex.: L3-01)"
         required: false
+  push:
+    paths: [pedido.json]          # pedido feito do computador: node publicador/pedir.js conferir | teste <id>
 
 permissions:
   contents: write
@@ -35,14 +37,26 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           ACAO: ${{ github.event.inputs.acao || 'publicar' }}
           POST_ID: ${{ github.event.inputs.id }}
+          EVENTO: ${{ github.event_name }}
           MIDIA_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
-        run: node publicador/publicar.js
+        run: |
+          set -o pipefail
+          if [ "$EVENTO" = "push" ]; then
+            export ACAO="$(jq -r '.acao // "conferir"' pedido.json)" POST_ID="$(jq -r '.id // ""' pedido.json)"
+          fi
+          node publicador/publicar.js 2>&1 | tee resultado.txt
       - name: Registrar
         if: always()
+        env:
+          EVENTO: ${{ github.event_name }}
         run: |
           git config user.name "publicador-gc"
           git config user.email "publicador-gc@users.noreply.github.com"
           git add publicados.json
+          if [ "$EVENTO" != "schedule" ] && [ -f resultado.txt ]; then
+            { echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) · $EVENTO · ${{ github.run_id }}"; cat resultado.txt; } > ultimo_resultado.txt
+            git add ultimo_resultado.txt
+          fi
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Registro de publicação"
           git push || (git pull --rebase && git push)
