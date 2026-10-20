@@ -1,3 +1,3 @@
-2026-10-20T01:22:17Z · push · 39353020619
-Preparando GC-04 (imagem, 1 mídia) sem publicar...
-OK: o Instagram aceitou as imagens e a legenda de GC-04 (container 18646572469001366). Nada foi publicado; o preparo expira sozinho em 24 h.
+2026-10-20T01:23:25Z · push · 39353079352
+Preparando GC-08 (carrossel, 9 mídias) sem publicar...
+OK: o Instagram aceitou as imagens e a legenda de GC-08 (container 18646572760001366). Nada foi publicado; o preparo expira sozinho em 24 h.
