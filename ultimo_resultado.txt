@@ -1,3 +1,3 @@
-2026-10-20T00:49:04Z · push · 39349797370
-Preparando L3-01 (carrossel, 8 mídias) sem publicar...
-OK: o Instagram aceitou as imagens e a legenda de L3-01 (container 18646565095001366). Nada foi publicado; o preparo expira sozinho em 24 h.
+2026-10-20T00:50:05Z · push · 39349951330
+Preparando L3-05 (imagem, 1 mídias) sem publicar...
+OK: o Instagram aceitou as imagens e a legenda de L3-05 (container 18646565218001366). Nada foi publicado; o preparo expira sozinho em 24 h.
