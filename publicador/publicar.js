@@ -233,6 +233,7 @@ async function publicar() {
     if (ACAO === "conferir") return conferir();
     if (ACAO === "midias") return midias();
     if (ACAO === "insights") return insights();
+    if (ACAO === "aviso") { await avisar("Teste do canal de avisos: é aqui que chega cada post publicado.\n\n" + resumoFila()); console.log("Aviso de teste enviado.\n" + resumoFila()); return; }
     if (ACAO === "teste") {
         const p = cal.posts.find(x => x.id === POST_ID);
         if (!p) throw new Error("Post " + (POST_ID || "(vazio)") + " não está no calendário.");
