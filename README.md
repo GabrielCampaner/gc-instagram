@@ -8,6 +8,7 @@ guarda o calendário e as imagens, e o GitHub Actions publica cada post no horá
 - `calendario.json`: os posts (id, data e hora, tipo, legenda, mídias, status). Só sai o que está `agendado`, e só com `"ativo": true`.
 - `midia/<slug>/NN.jpg`: as imagens em JPG (a API só aceita JPG). O repositório é público porque o Instagram busca as imagens por endereço.
 - `publicados.json`: o registro do robô (id no Instagram, link, data, erro). Não edite à mão.
+- `feed.json` e `insights.json`: últimos posts do perfil e métricas (alcance, visualizações, envios, salvos), atualizados pelo robô.
 - `.github/workflows/publicar.yml`: roda a cada 10 minutos e publica o que já venceu. Atraso maior que 6 horas não sai (avisa por e-mail).
 - `.github/workflows/renovar_token.yml`: toda segunda renova o token da Meta, que vale 60 dias.
 
@@ -17,16 +18,19 @@ Status dos posts: `agendado` (sai no horário), `pendente` (falta confirmar algo
 
 ```
 cd Documents/Artes/GC
-node _scripts/enviar_calendario.js Conteudo/Lote_03/lote03.js            # manda o lote (converte, grava, envia)
-node _scripts/enviar_calendario.js Conteudo/Lote_03/lote03.js --liberar L3-06,L3-09   # libera pendências resolvidas
-node ../gc-instagram/publicador/status.js                                # mostra o calendário
-node ../gc-instagram/publicador/pedir.js conferir                        # o robô confere a conta e responde aqui
-node ../gc-instagram/publicador/pedir.js teste L3-01                     # prepara o post no Instagram sem publicar
+node _scripts/enviar_calendario.js                       # junta tudo de Conteudo/ e põe os novos nos próximos horários livres
+node _scripts/enviar_calendario.js --refazer             # redistribui tudo o que não saiu, 2 por dia a partir de amanhã
+node _scripts/enviar_calendario.js --liberar L3-06,GC-10 # libera pendências do "Confirmar"
+node _scripts/enviar_calendario.js --palavras HORA,MAPA  # automações de palavra-chave confirmadas
+node ../gc-instagram/publicador/status.js                # mostra o calendário
+node ../gc-instagram/publicador/pedir.js conferir        # o robô confere a conta e responde aqui
+node ../gc-instagram/publicador/pedir.js teste GC-04     # prepara o post no Instagram sem publicar
+node ../gc-instagram/publicador/pedir.js insights        # alcance e engajamento agora (também roda todo dia às 23h41)
 ```
 
+Horários: 08h30 (prefere post único) e 18h30 (prefere carrossel e Reels). Data comemorativa e Black Friday ficam na data
+original. Cada post publicado (ou falha) vira um comentário na issue "Avisos de publicação", com quantos posts faltam.
 O `pedir.js` grava `pedido.json`, envia, e o robô devolve a resposta em `ultimo_resultado.txt` (sem abrir o site).
-
-Para mudar data ou legenda, mude no arquivo do lote e mande de novo. Post já publicado nunca é mexido.
 
 ## Configuração (uma vez)
 
