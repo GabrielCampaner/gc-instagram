@@ -214,7 +214,7 @@ async function publicar() {
             salvarPub();
             console.log("Publicado: " + p.id + " " + p.titulo + "  " + (reg.permalink || reg.media_id));
             const qtd = p.midias.length + (p.tipo === "reels" ? " vídeo" : p.midias.length > 1 ? " imagens" : " imagem");
-            await avisar("Publicado: **" + p.id + " · " + p.titulo + "** (" + p.tipo + ", " + qtd + "), " + hora(reg.publicado_em) + ".\n" + (reg.permalink || "") + "\n\n" + resumoFila());
+            await avisar("Publicado: **" + p.id + " · " + p.titulo + "** (" + p.tipo + ", " + qtd + "), " + hora(reg.publicado_em) + ".\n" + (reg.permalink || "") + (p.obs ? "\n\nLembrete: " + p.obs + "." : "") + "\n\n" + resumoFila());
         } catch (e) {
             reg.erro = e.message;
             salvarPub(); falhas++;
