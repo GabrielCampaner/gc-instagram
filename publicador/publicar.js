@@ -103,8 +103,12 @@ function resumoFila() {
     const fila = cal.posts.filter(p => p.status === "agendado" && !(pub[p.id] || {}).media_id).sort((a, b) => new Date(a.quando) - new Date(b.quando));
     const pend = cal.posts.filter(p => p.status === "pendente").length;
     if (!fila.length) return "**O calendário acabou.** Não há mais posts agendados" + (pend ? " (e " + pend + " pendentes esperando você)" : "") + ". Hora de criar o próximo lote.";
-    const ult = fila[fila.length - 1], dias = Math.ceil((new Date(ult.quando) - Date.now()) / 864e5);
-    return "Faltam **" + fila.length + "** posts agendados, até " + hora(ult.quando) + " (" + dias + " dias)." + (pend ? " Pendentes esperando você: " + pend + "." : "")
+    // fim da sequência diária: o primeiro buraco de mais de 1 dia (posts depois dele são de data fixa)
+    let fim = 0;
+    while (fim + 1 < fila.length && new Date(fila[fim + 1].quando) - new Date(fila[fim].quando) <= 1.5 * 864e5) fim++;
+    const ult = fila[fim], dias = Math.ceil((new Date(ult.quando) - Date.now()) / 864e5), extras = fila.length - fim - 1;
+    return "Faltam **" + fila.length + "** posts agendados. A sequência diária vai até " + hora(ult.quando) + " (" + dias + " dias)"
+        + (extras ? ", e há mais " + extras + " com data fixa (" + fila.slice(fim + 1).map(p => p.id + " em " + hora(p.quando)).join(", ") + ")" : "") + "." + (pend ? " Pendentes esperando você: " + pend + "." : "")
         + (fila.length <= 10 ? "\n\n**Atenção:** o calendário está acabando. Hora de criar o próximo lote." : "") + "\nPróximo: " + fila[0].id + " · " + fila[0].titulo + " em " + hora(fila[0].quando) + ".";
 }
 
