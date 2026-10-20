@@ -87,8 +87,9 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           # Só religa se o ambiente "intervalo" tem Wait timer (sem ele o ciclo giraria sem pausa).
-          espera=$( (gh api "repos/$REPO/environments/intervalo" --jq '[.protection_rules[]? | select(.type=="wait_timer") | .wait_timer] | max // 0' 2>/dev/null || true) | tail -1 | tr -cd '0-9')
-          espera=${espera:-0}
+          espera=0
+          if out=$(gh api "repos/$REPO/environments/intervalo" --jq '[.protection_rules[]? | select(.type=="wait_timer") | .wait_timer] | max // 0' 2>/dev/null) \
+             && [[ "$out" =~ ^[0-9]+$ ]]; then espera=$out; fi
           if [ "$espera" -lt 5 ]; then
             echo "::warning::Ambiente 'intervalo' sem Wait timer (de 5 minutos ou mais). O ciclo fica desligado e o robô depende do agendador do GitHub."
             exit 0
