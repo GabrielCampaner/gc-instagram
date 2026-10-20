@@ -1,3 +1,4 @@
-2026-10-20T01:25:04Z · push · 39353189315
-Preparando GC-01-R (reels, 1 mídia) sem publicar...
-OK: o Instagram aceitou as imagens e a legenda de GC-01-R (container 18646572796001366). Nada foi publicado; o preparo expira sozinho em 24 h.
+2026-10-20T01:25:54Z · push · 39353371484
+Aviso de teste enviado.
+Faltam **56** posts agendados, até 27/11/2026, 08:30 (39 dias). Pendentes esperando você: 22.
+Próximo: GC-04 · A creatinina em 20/10/2026, 08:30.
