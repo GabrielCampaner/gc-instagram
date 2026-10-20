@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 20/10/2026, 14:28:06. 74 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -26,14 +26,14 @@ Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enq
 
 ## sexta, 23/10
 
-- **06h30 · FR-04 · A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte.** (imagem)
+- **06h30 · FR-04 · Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-13 · O paciente não avalia a sua resina** (carrossel)
   - Stories: Manhã: a clínica odontológica do cliente, sem pacientes. Tarde: enquete "Dentista: o que mais trava a sua clínica hoje?" · Agenda vazia / Orçamento que não fecha.
 
 ## sábado, 24/10
 
-- **06h30 · FR-05 · Gestão é o que acontece na terça-feira às 9h, quando o paciente pergunta o valor e alguém precisa saber responder.** (imagem)
+- **06h30 · FR-05 · Se só você sabe passar o valor, a clínica para quando você atende.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-09 · O teste das 21h** (carrossel)
   - Stories: 21h: "Começou o teste. Manda a mensagem agora." Na manhã seguinte: controle deslizante "Quanto tempo a sua clínica levou?" e caixinha com os tempos (sem nomes).
@@ -47,14 +47,14 @@ Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enq
 
 ## segunda, 26/10
 
-- **06h30 · FR-07 · Todo mundo quer atender. Ninguém quer cuidar do retorno.** (imagem)
+- **06h30 · FR-07 · Todo mundo quer atender. Ninguém liga para quem não voltou.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-01 · A hora vazia** (carrossel)
   - Stories: telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)
 
 ## terça, 27/10
 
-- **06h30 · FR-09 · Agenda cheia e agenda ocupada são coisas diferentes. A diferença está no extrato.** (imagem)
+- **06h30 · FR-09 · Dá para ter a agenda cheia e fechar o mês no vermelho.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **18h30 · GC-03 · Laudo da Semana 01** (carrossel)
 
@@ -78,7 +78,7 @@ Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enq
 
 ## sábado, 31/10
 
-- **06h30 · L3-05 · A explicação que recebeu** (imagem)
+- **06h30 · L3-05 · Acha caro o que ninguém explicou** (imagem)
   - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
 - **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
 
@@ -111,8 +111,8 @@ Gerada em 20/10/2026, 13:53:43. 74 posts agendados, 3 pendentes. Stories com enq
 
 ## quinta, 05/11
 
-- **08h30 · L3-34 · 84% pelo celular** (imagem)
-  - Stories: Teste: "Abre o perfil da sua clínica no celular agora. Em 5 segundos, dá para marcar?"
+- **08h30 · L3-34 · 33% fora do horário** (imagem)
+  - Stories: Enquete: "A sua clínica responde mensagem depois das 18h?" · Responde / Só no dia seguinte.
 - **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
 
 ## sexta, 06/11

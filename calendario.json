@@ -185,14 +185,14 @@
     },
     {
       "id": "FR-04",
-      "titulo": "A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte.",
+      "titulo": "Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.",
       "quando": "2026-10-23T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
       "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "A sua recepção não é ruim. Ela faz cinco trabalhos ao mesmo tempo, e o paciente que chama no meio disso espera.\n\nAtendimento bom não depende de quem está online. Depende de processo, roteiro e de alguém com nome cuidando de cada conversa.\n\nManda para a sua recepção. Ela vai se sentir vista.\n\n#secretariamedica #recepcaodeclinica #gestaodeclinicas #atendimentoaopaciente",
+      "legenda": "A sua recepção não é ruim. Ela atende telefone, balcão e WhatsApp ao mesmo tempo, e o paciente que chama no meio disso espera.\n\nAtendimento bom não depende de quem está online. Depende de processo, roteiro e de alguém com nome cuidando de cada conversa.\n\nManda para a sua recepção. Ela vai se sentir vista.\n\n#secretariamedica #recepcaodeclinica #gestaodeclinicas #atendimentoaopaciente",
       "midias": [
         "midia/2026-10-14_frase-sorte/01.jpg"
       ],
@@ -223,14 +223,14 @@
     },
     {
       "id": "FR-05",
-      "titulo": "Gestão é o que acontece na terça-feira às 9h, quando o paciente pergunta o valor e alguém precisa saber responder.",
+      "titulo": "Se só você sabe passar o valor, a clínica para quando você atende.",
       "quando": "2026-10-24T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
       "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Gestão não é inspiração de fim de semana. Não é a palestra, nem o curso, nem a planilha bonita.\n\nÉ a terça-feira às 9h, quando o paciente pergunta o valor e alguém da sua equipe precisa saber responder.\n\nSegue o perfil: aqui a gestão é a que acontece todo dia.\n\n#gestaodeclinicas #gestaoemsaude #donodeclinica #clinicamedica",
+      "legenda": "Se só você sabe passar o valor, a sua clínica fica parada toda vez que você entra no consultório.\n\nO paciente pergunta às 9h e espera você terminar a consulta. Às vezes, ele não espera.\n\nValor, desconto e retorno com regra escrita: a recepção responde sem bater na sua porta.\n\nSegue o perfil: aqui a gestão é a que acontece todo dia.\n\n#gestaodeclinicas #gestaoemsaude #donodeclinica #clinicamedica",
       "midias": [
         "midia/2026-10-15_frase-terca-9h/01.jpg"
       ],
@@ -299,14 +299,14 @@
     },
     {
       "id": "FR-07",
-      "titulo": "Todo mundo quer atender. Ninguém quer cuidar do retorno.",
+      "titulo": "Todo mundo quer atender. Ninguém liga para quem não voltou.",
       "quando": "2026-10-26T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
       "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Atender é a parte que todo mundo quer fazer. O retorno é a parte que decide se o paciente volta.\n\nO paciente que pediu orçamento e não ouviu mais nada não sumiu. Esfriou esperando alguém.\n\nManda para quem precisa ser o goleiro da sua clínica.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #vendasnasaude",
+      "legenda": "Atender é a parte que todo mundo quer fazer. Ligar para quem não voltou é a parte que ninguém assume.\n\nO paciente que pediu orçamento e não ouviu mais nada não sumiu. Esfriou esperando alguém.\n\nManda para quem precisa ser o goleiro da sua clínica.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #vendasnasaude",
       "midias": [
         "midia/2026-10-17_frase-retorno/01.jpg"
       ],
@@ -337,14 +337,14 @@
     },
     {
       "id": "FR-09",
-      "titulo": "Agenda cheia e agenda ocupada são coisas diferentes. A diferença está no extrato.",
+      "titulo": "Dá para ter a agenda cheia e fechar o mês no vermelho.",
       "quando": "2026-10-27T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
       "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Agenda ocupada é quando não sobra horário. Agenda cheia, de verdade, é quando sobra dinheiro.\n\nSe o procedimento mais vendido paga menos do que a hora custa, a agenda enche e o caixa esvazia.\n\nManda para alguém que trabalha de 7h às 19h e não entende por que não sobra.\n\n#gestaodeclinicas #precificacao #donodeclinica #gestaoemsaude",
+      "legenda": "Dá para ter a agenda cheia e fechar o mês no vermelho. Acontece mais do que parece.\n\nSe o procedimento mais vendido paga menos do que a hora custa, a agenda enche e o caixa esvazia.\n\nManda para alguém que trabalha de 7h às 19h e não entende por que não sobra.\n\n#gestaodeclinicas #precificacao #donodeclinica #gestaoemsaude",
       "midias": [
         "midia/2026-10-19_frase-extrato/01.jpg"
       ],
@@ -478,14 +478,14 @@
     },
     {
       "id": "L3-05",
-      "titulo": "A explicação que recebeu",
+      "titulo": "Acha caro o que ninguém explicou",
       "quando": "2026-10-31T06:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
       "stories": "Repost com enquete: \"Concorda?\" · Concordo / Discordo (a opção que divide gera resposta).",
-      "legenda": "Paciente achou caro? Antes de mexer no preço, olha a explicação.\n\nEle não sabe avaliar a sua técnica. Ele compara o que entendeu: o que está incluído, por que importa e o que acontece se não tratar.\n\nManda para quem acha que o problema é o preço.\n\n#gestaodeclinicas #precificacao #consultorio #atendimento",
+      "legenda": "Paciente achou caro? Antes de dar desconto, olha o que ele ouviu.\n\nEle não sabe avaliar a sua técnica. Ele avalia o que entendeu: o que está incluído, por que importa e o que acontece se não tratar.\n\nPreço sem explicação parece caro em qualquer valor.\n\nManda para quem acha que o problema é o preço.\n\n#gestaodeclinicas #precificacao #consultorio #atendimento",
       "midias": [
         "midia/2026-11-13_frase-explicacao/01.jpg"
       ],
@@ -663,14 +663,14 @@
     },
     {
       "id": "L3-34",
-      "titulo": "84% pelo celular",
+      "titulo": "33% fora do horário",
       "quando": "2026-11-05T08:30:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
       "obs": "",
-      "stories": "Teste: \"Abre o perfil da sua clínica no celular agora. Em 5 segundos, dá para marcar?\"",
-      "legenda": "84% dos acessos dos pacientes à Doctoralia vêm do celular (Perfil do Paciente Digital 2025).\n\nA primeira impressão da sua clínica acontece numa tela de seis polegadas: o perfil, a primeira resposta, a agenda disponível. A sala de espera vem depois.\n\nManda para quem cuida do seu Instagram e do seu WhatsApp.\n\n#pacientedigital #marketingmedico #gestaodeclinicas #atendimento",
+      "stories": "Enquete: \"A sua clínica responde mensagem depois das 18h?\" · Responde / Só no dia seguinte.",
+      "legenda": "33% dos agendamentos online acontecem fora do horário comercial, e 13% dos pacientes preferem marcar no fim de semana (Perfil do Paciente Digital 2025, Doctoralia).\n\nÉ quando o paciente tem tempo: depois do trabalho, com os filhos dormindo. E é quando a recepção já foi para casa.\n\nA mensagem da noite que só é respondida de manhã chega para quem já marcou em outro lugar.\n\nManda para quem cuida do WhatsApp da sua clínica.\n\n#gestaodeclinicas #whatsapp #atendimento #pacientedigital",
       "midias": [
         "midia/2026-11-25_numero-84/01.jpg"
       ],
