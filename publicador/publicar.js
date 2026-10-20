@@ -155,7 +155,7 @@ async function publicar() {
     if (ACAO === "teste") {
         const p = cal.posts.find(x => x.id === POST_ID);
         if (!p) throw new Error("Post " + (POST_ID || "(vazio)") + " não está no calendário.");
-        console.log("Preparando " + p.id + " (" + p.tipo + ", " + p.midias.length + " mídias) sem publicar...");
+        console.log("Preparando " + p.id + " (" + p.tipo + ", " + p.midias.length + (p.midias.length > 1 ? " mídias" : " mídia") + ") sem publicar...");
         const id = await preparar(p);
         console.log("OK: o Instagram aceitou as imagens e a legenda de " + p.id + " (container " + id + "). Nada foi publicado; o preparo expira sozinho em 24 h.");
         return;

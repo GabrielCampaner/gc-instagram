@@ -20,7 +20,11 @@ cd Documents/Artes/GC
 node _scripts/enviar_calendario.js Conteudo/Lote_03/lote03.js            # manda o lote (converte, grava, envia)
 node _scripts/enviar_calendario.js Conteudo/Lote_03/lote03.js --liberar L3-06,L3-09   # libera pendências resolvidas
 node ../gc-instagram/publicador/status.js                                # mostra o calendário
+node ../gc-instagram/publicador/pedir.js conferir                        # o robô confere a conta e responde aqui
+node ../gc-instagram/publicador/pedir.js teste L3-01                     # prepara o post no Instagram sem publicar
 ```
+
+O `pedir.js` grava `pedido.json`, envia, e o robô devolve a resposta em `ultimo_resultado.txt` (sem abrir o site).
 
 Para mudar data ou legenda, mude no arquivo do lote e mande de novo. Post já publicado nunca é mexido.
 
