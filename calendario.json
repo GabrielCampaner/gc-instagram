@@ -20,7 +20,8 @@
         "midia/2026-10-13_sessao-de-80/06.jpg",
         "midia/2026-10-13_sessao-de-80/07.jpg"
       ],
-      "origem": "2026-10-13_sessao-de-80"
+      "origem": "2026-10-13_sessao-de-80",
+      "fixo": true
     },
     {
       "id": "GC-10",
@@ -62,7 +63,8 @@
         "midia/2026-10-18_dia-do-medico/07.jpg",
         "midia/2026-10-18_dia-do-medico/08.jpg"
       ],
-      "origem": "2026-10-18_dia-do-medico"
+      "origem": "2026-10-18_dia-do-medico",
+      "fixo": true
     },
     {
       "id": "FR-08",
@@ -76,7 +78,8 @@
       "midias": [
         "midia/2026-10-18_frase-liberdade/01.jpg"
       ],
-      "origem": "2026-10-18_frase-liberdade"
+      "origem": "2026-10-18_frase-liberdade",
+      "fixo": true
     },
     {
       "id": "GC-04",
@@ -184,28 +187,6 @@
       "origem": "2026-10-12_esta-aqui"
     },
     {
-      "id": "GC-02",
-      "titulo": "4 mensagens para o orçamento parado",
-      "quando": "2026-10-22T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave COBRAR: a automação precisa estar ativa",
-      "obs": "",
-      "legenda": "O paciente pediu orçamento e sumiu. A mensagem que quase toda clínica manda é \"conseguiu ver o orçamento?\". Ela fala de preço. O paciente parou por outro motivo: a dor, o medo ou a agenda.\n\nAqui estão 4 mensagens para a recepção copiar. Nenhuma pede desconto. Testa por 15 dias e mede qual traz mais resposta na sua clínica.\n\nOrçamento parado tem nome, valor e data. E precisa de um dono.\n\nComenta COBRAR que eu te mando o Raio-X comercial da sua clínica.\n\n#gestaodeclinicas #odontologia #harmonizacaofacial #secretariamedica #vendasnasaude",
-      "midias": [
-        "midia/2026-10-22_orcamento-parado/01.jpg",
-        "midia/2026-10-22_orcamento-parado/02.jpg",
-        "midia/2026-10-22_orcamento-parado/03.jpg",
-        "midia/2026-10-22_orcamento-parado/04.jpg",
-        "midia/2026-10-22_orcamento-parado/05.jpg",
-        "midia/2026-10-22_orcamento-parado/06.jpg",
-        "midia/2026-10-22_orcamento-parado/07.jpg",
-        "midia/2026-10-22_orcamento-parado/08.jpg",
-        "midia/2026-10-22_orcamento-parado/09.jpg"
-      ],
-      "origem": "2026-10-22_orcamento-parado"
-    },
-    {
       "id": "FR-04",
       "titulo": "A sua recepção agenda, confirma, cobra e atende telefone ao mesmo tempo. Isso não é atendimento. É sorte .",
       "quando": "2026-10-23T08:30:00-03:00",
@@ -237,7 +218,8 @@
         "midia/2026-10-23_dia-do-dentista/06.jpg",
         "midia/2026-10-23_dia-do-dentista/07.jpg"
       ],
-      "origem": "2026-10-23_dia-do-dentista"
+      "origem": "2026-10-23_dia-do-dentista",
+      "fixo": true
     },
     {
       "id": "FR-05",
@@ -379,26 +361,6 @@
       "origem": "2026-10-20_laudo-da-semana-01"
     },
     {
-      "id": "GC-05",
-      "titulo": "Tabela pronta não sabe quanto custa a sua hora",
-      "quando": "2026-10-27T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave TABELA: a automação precisa estar ativa",
-      "obs": "",
-      "legenda": "Tabela de preço pronta não conhece o seu aluguel, a sua agenda nem o seu paciente.\n\nDuas clínicas na mesma rua cobram R$ 400 a consulta. Uma atende 70% da agenda e ganha R$ 156 por hora. A outra atende 40% e paga R$ 26 para atender. (Simulação.)\n\nMesmo preço, resultado oposto. Preço certo é consequência de três números seus: custo da hora, ocupação e margem por procedimento.\n\nComenta TABELA que eu te mando o Freedom Precificação 2.0.\n\n#precificacao #gestaodeclinicas #consultorio #medicina #odontologia",
-      "midias": [
-        "midia/2026-10-27_tabela-pronta/01.jpg",
-        "midia/2026-10-27_tabela-pronta/02.jpg",
-        "midia/2026-10-27_tabela-pronta/03.jpg",
-        "midia/2026-10-27_tabela-pronta/04.jpg",
-        "midia/2026-10-27_tabela-pronta/05.jpg",
-        "midia/2026-10-27_tabela-pronta/06.jpg",
-        "midia/2026-10-27_tabela-pronta/07.jpg"
-      ],
-      "origem": "2026-10-27_tabela-pronta"
-    },
-    {
       "id": "metafora_balde-furado",
       "titulo": "Antes de colocar mais dinheiro em anúncio, olhe para os furo",
       "quando": "2026-10-28T08:30:00-03:00",
@@ -500,7 +462,7 @@
       "quando": "2026-10-30T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "pendente",
-      "pendencia": "Confirmar: O link dos exemplos (automação CALCULADORA) e se posso citar urologia, estética e emagrecimento como as três especialidades com calculadora pronta. · palavra-chave CALCULADORA: a automação precisa estar ativa",
+      "pendencia": "Confirmar: O link dos exemplos (automação CALCULADORA) e se posso citar urologia, estética e emagrecimento como as três especialidades com calculadora pronta.",
       "obs": "",
       "legenda": "Domingo começa o Novembro Azul. Muita clínica vai postar um laço azul. Quase nenhuma vai encher a agenda com isso.\n\nCampanha de mês colorido costuma virar panfleto: arte bonita e nenhum paciente. O que converte é dar ao paciente um jeito de olhar para si antes de chegar: perguntas que ele responde em dois minutos, uma orientação para procurar avaliação e o contato para receber o resultado.\n\nA equipe para de ligar para nome frio e conversa com quem já disse qual é a dor.\n\nToda calculadora orienta a procurar avaliação, nunca diagnostica, e é validada pelo profissional responsável.\n\nComenta CALCULADORA que eu te mando exemplos por especialidade.\n\n#novembroazul #urologia #marketingmedico #gestaodeclinicas #clinicamedica",
       "midias": [
@@ -512,7 +474,8 @@
         "midia/2026-10-30_novembro-azul/06.jpg",
         "midia/2026-10-30_novembro-azul/07.jpg"
       ],
-      "origem": "2026-10-30_novembro-azul"
+      "origem": "2026-10-30_novembro-azul",
+      "fixo": true
     },
     {
       "id": "metafora_balde-furado-R",
@@ -653,7 +616,7 @@
       "quando": "2026-11-03T18:00:00-03:00",
       "tipo": "carrossel",
       "status": "pendente",
-      "pendencia": "Confirmar: O link do diagnóstico de nível (automação NOTA) e se o resultado aparece na tela. · palavra-chave NOTA: a automação precisa estar ativa",
+      "pendencia": "Confirmar: O link do diagnóstico de nível (automação NOTA) e se o resultado aparece na tela.",
       "obs": "",
       "legenda": "Toda clínica está em um de quatro níveis. E o erro mais caro é tomar remédio de nível 4 com doença de nível 1.\n\nN1: o dono faz tudo. N2: alguém responde, mas não existe processo comercial. N3: tem CRM, comercial e dado. N4: tem gerente, time e mais de uma unidade ou serviço.\n\nA clínica de nível 1 que contrata tráfego, CRM caro e comissão paga para o paciente chegar e vazar.\n\nCada nível tem o seu próximo passo. Na dúvida entre dois, assuma o mais baixo.\n\nComenta NOTA que eu te mando o diagnóstico do nível da sua clínica.\n\n#gestaodeclinicas #gestaoemsaude #crmparaclinicas #trafegopago #donodeclinica",
       "midias": [
@@ -763,8 +726,8 @@
       "titulo": "Black Friday: desconto ou acesso?",
       "quando": "2026-11-05T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave ACESSO: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Black Friday na clínica: o paciente pede 10% e você quer fechar.\n\nNum procedimento com 30% de margem, 10% de desconto não tira 10% do lucro. Tira um terço. Para lucrar o mesmo, você precisaria vender 50% a mais. (Simulação.)\n\nSe for flexibilizar, peça algo em troca: pagamento à vista, pacote fechado ou indicação. Desconto não é estratégia. É pânico com nome bonito.\n\nComenta ACESSO que eu te mando a pauta de escalonamento de protocolo.\n\n#gestaodeclinicas #blackfriday #precificacao #vendasnasaude #gestaoemsaude",
       "midias": [
@@ -776,21 +739,8 @@
         "midia/2026-11-05_desconto-ou-acesso/06.jpg",
         "midia/2026-11-05_desconto-ou-acesso/07.jpg"
       ],
-      "origem": "2026-11-05_desconto-ou-acesso"
-    },
-    {
-      "id": "L3-01-R",
-      "titulo": "Dois donos, mesmo dia (Reels)",
-      "quando": "2026-11-05T18:30:00-03:00",
-      "tipo": "reels",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
-      "midias": [
-        "midia/2026-11-09_dois-donos/reels.mp4"
-      ],
-      "origem": "2026-11-09_dois-donos"
+      "origem": "2026-11-05_desconto-ou-acesso",
+      "fixo": true
     },
     {
       "id": "L3-35",
@@ -812,7 +762,7 @@
       "quando": "2026-11-06T18:00:00-03:00",
       "tipo": "carrossel",
       "status": "pendente",
-      "pendencia": "Confirmar: O link do formulário (automação FREEDOM), a data de início da próxima turma e se a rotina descrita (reunião de segunda, ajuste de roteiro, tecnologia junto) bate com a mentoria. · palavra-chave FREEDOM: a automação precisa estar ativa",
+      "pendencia": "Confirmar: O link do formulário (automação FREEDOM), a data de início da próxima turma e se a rotina descrita (reunião de segunda, ajuste de roteiro, tecnologia junto) bate com a mentoria.",
       "obs": "",
       "legenda": "Você já fez curso de vendas, mandou a secretária para treinamento e assistiu dez lives de gestão. E a clínica continua igual.\n\nTreinamento sem produtividade é teatro: todo mundo aplaude e nada muda.\n\nDesde 2009 eu entro em clínica toda semana. O que falta quase nunca é conhecimento. É rotina, número e alguém cobrando todo dia.\n\nNa Mentoria Freedom, eu e o meu time acompanhamos a clínica no dia a dia: reunião de segunda com placar, roteiro ajustado com as conversas reais e tecnologia medindo o atendimento.\n\nEu não vou te prometer número. Vou te mostrar o seu e o que fazer com ele.\n\nComenta FREEDOM que eu te mando o formulário de aplicação.\n\n#gestaodeclinicas #gestaoemsaude #donodeclinica #clinicamedica #mentoriaparaclinicas",
       "midias": [
@@ -1270,12 +1220,68 @@
       "origem": "2026-12-15_motivos-de-escolha"
     },
     {
+      "id": "L3-01-R",
+      "titulo": "Dois donos, mesmo dia (Reels)",
+      "quando": "2026-11-16T18:30:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
+      "midias": [
+        "midia/2026-11-09_dois-donos/reels.mp4"
+      ],
+      "origem": "2026-11-09_dois-donos"
+    },
+    {
+      "id": "GC-02",
+      "titulo": "4 mensagens para o orçamento parado",
+      "quando": "2026-11-17T08:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "O paciente pediu orçamento e sumiu. A mensagem que quase toda clínica manda é \"conseguiu ver o orçamento?\". Ela fala de preço. O paciente parou por outro motivo: a dor, o medo ou a agenda.\n\nAqui estão 4 mensagens para a recepção copiar. Nenhuma pede desconto. Testa por 15 dias e mede qual traz mais resposta na sua clínica.\n\nOrçamento parado tem nome, valor e data. E precisa de um dono.\n\nComenta COBRAR que eu te mando o Raio-X comercial da sua clínica.\n\n#gestaodeclinicas #odontologia #harmonizacaofacial #secretariamedica #vendasnasaude",
+      "midias": [
+        "midia/2026-10-22_orcamento-parado/01.jpg",
+        "midia/2026-10-22_orcamento-parado/02.jpg",
+        "midia/2026-10-22_orcamento-parado/03.jpg",
+        "midia/2026-10-22_orcamento-parado/04.jpg",
+        "midia/2026-10-22_orcamento-parado/05.jpg",
+        "midia/2026-10-22_orcamento-parado/06.jpg",
+        "midia/2026-10-22_orcamento-parado/07.jpg",
+        "midia/2026-10-22_orcamento-parado/08.jpg",
+        "midia/2026-10-22_orcamento-parado/09.jpg"
+      ],
+      "origem": "2026-10-22_orcamento-parado"
+    },
+    {
+      "id": "GC-05",
+      "titulo": "Tabela pronta não sabe quanto custa a sua hora",
+      "quando": "2026-11-17T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "Tabela de preço pronta não conhece o seu aluguel, a sua agenda nem o seu paciente.\n\nDuas clínicas na mesma rua cobram R$ 400 a consulta. Uma atende 70% da agenda e ganha R$ 156 por hora. A outra atende 40% e paga R$ 26 para atender. (Simulação.)\n\nMesmo preço, resultado oposto. Preço certo é consequência de três números seus: custo da hora, ocupação e margem por procedimento.\n\nComenta TABELA que eu te mando o Freedom Precificação 2.0.\n\n#precificacao #gestaodeclinicas #consultorio #medicina #odontologia",
+      "midias": [
+        "midia/2026-10-27_tabela-pronta/01.jpg",
+        "midia/2026-10-27_tabela-pronta/02.jpg",
+        "midia/2026-10-27_tabela-pronta/03.jpg",
+        "midia/2026-10-27_tabela-pronta/04.jpg",
+        "midia/2026-10-27_tabela-pronta/05.jpg",
+        "midia/2026-10-27_tabela-pronta/06.jpg",
+        "midia/2026-10-27_tabela-pronta/07.jpg"
+      ],
+      "origem": "2026-10-27_tabela-pronta"
+    },
+    {
       "id": "L3-09",
       "titulo": "O mesmo dinheiro",
-      "quando": "2026-11-18T18:30:00-03:00",
+      "quando": "2026-11-18T08:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: A automação MAPA está ativa e entrega o mapa de vazamentos? Se o ativo mudou, troque a palavra. · palavra-chave MAPA: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Clínica não dá lucro? Antes do próximo investimento, olha para onde o dinheiro já está indo.\n\nR$ 60.000 num equipamento novo aparecem no extrato. R$ 60.000 de hora vazia em um ano, não.\n\nDesconto que ninguém pediu pode custar o mesmo que o aluguel da sala. Orçamento sem retorno pode custar uma fachada nova por mês.\n\nSomando hora vazia, desconto oferecido e orçamento parado, a clínica da simulação perde R$ 23.600 por mês. (Simulação, premissas nas lâminas.)\n\nComenta MAPA que eu te mando o mapa de vazamentos.\n\n#gestaodeclinicas #lucro #precificacao #faturamento #gestaofinanceira",
       "midias": [
@@ -1292,10 +1298,10 @@
     {
       "id": "L3-10",
       "titulo": "Quanto fatura uma clínica",
-      "quando": "2026-11-19T18:30:00-03:00",
+      "quando": "2026-11-18T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: A automação HORA entrega a calculadora da hora clínica? Se o ativo for outro, ajuste a lâmina 10. · palavra-chave HORA: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Quanto fatura uma clínica? A pergunta que importa é quanto sobra para o dono.\n\nFaturamento é o que entra. Lucro é o que fica depois de pagar tudo. Pró-labore é o que você tira por trabalhar.\n\nNa simulação: a clínica fatura R$ 100.000, sobram R$ 18.000. Mas o dono atende 40 horas por semana. Separando o salário dele (R$ 15.000), o lucro da clínica é R$ 3.000.\n\nNão quer dizer que a clínica vai mal. Quer dizer que o dono ainda é o maior funcionário dela.\n\nComenta HORA que eu te mando a conta da hora clínica.\n\n#gestaodeclinicas #faturamento #lucro #donodeclinica #gestaofinanceira",
       "midias": [
@@ -1314,10 +1320,10 @@
     {
       "id": "L3-14",
       "titulo": "O orçamento que ele não entendeu",
-      "quando": "2026-11-24T18:30:00-03:00",
+      "quando": "2026-11-19T08:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: A automação COBRAR continua entregando as 4 mensagens do orçamento parado (GC-02 do Lote 01)? · palavra-chave COBRAR: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "legenda": "Como apresentar orçamento ao paciente sem ouvir \"vou pensar\" e nunca mais ter notícia.\n\n1. Comece pelo problema, nas palavras dele. 2. Diga o que acontece se não tratar, sem susto. 3. Mostre em etapas. 4. O valor vem por último, com as formas de acesso. 5. Entregue por escrito. 6. Combine o retorno antes de ele sair.\n\nO paciente leva o orçamento para casa e precisa explicar para alguém. Se ele não consegue explicar, o tratamento trava.\n\nComenta COBRAR que eu te mando as 4 mensagens para o orçamento que já está parado.\n\n#orcamento #planodetratamento #gestaodeclinicas #odontologia #vendasnasaude",
       "midias": [
@@ -1332,6 +1338,26 @@
         "midia/2026-11-24_apresentar-orcamento/09.jpg"
       ],
       "origem": "2026-11-24_apresentar-orcamento"
+    },
+    {
+      "id": "L3-16",
+      "titulo": "A conta do desconto",
+      "quando": "2026-11-19T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "legenda": "Paciente pede desconto. Antes de dar, faz esta conta.\n\nCom margem de 30%, um desconto de 10% derruba o lucro de R$ 300 para R$ 200 num tratamento de R$ 1.000. Para lucrar o mesmo, você precisa de 50% mais pacientes. Com 15%, o dobro. Com 20%, três vezes mais. (Simulação.)\n\nO desconto sai da margem, não do preço.\n\nAntes de qualquer desconto: o paciente pediu? O que ele está trocando? Cabe na sua margem?\n\nComenta ACESSO que eu te mando como atender na Black Friday sem desconto.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto #lucro",
+      "midias": [
+        "midia/2026-11-26_conta-do-desconto/01.jpg",
+        "midia/2026-11-26_conta-do-desconto/02.jpg",
+        "midia/2026-11-26_conta-do-desconto/03.jpg",
+        "midia/2026-11-26_conta-do-desconto/04.jpg",
+        "midia/2026-11-26_conta-do-desconto/05.jpg",
+        "midia/2026-11-26_conta-do-desconto/06.jpg",
+        "midia/2026-11-26_conta-do-desconto/07.jpg"
+      ],
+      "origem": "2026-11-26_conta-do-desconto"
     },
     {
       "id": "L3-15",
@@ -1357,26 +1383,6 @@
       "origem": "2026-11-25_ia-no-whatsapp"
     },
     {
-      "id": "L3-16",
-      "titulo": "A conta do desconto",
-      "quando": "2026-11-26T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "Confirmar: A automação ACESSO está ativa (GC-06, Lote 01)? · palavra-chave ACESSO: a automação precisa estar ativa",
-      "obs": "",
-      "legenda": "Paciente pede desconto. Antes de dar, faz esta conta.\n\nCom margem de 30%, um desconto de 10% derruba o lucro de R$ 300 para R$ 200 num tratamento de R$ 1.000. Para lucrar o mesmo, você precisa de 50% mais pacientes. Com 15%, o dobro. Com 20%, três vezes mais. (Simulação.)\n\nO desconto sai da margem, não do preço.\n\nAntes de qualquer desconto: o paciente pediu? O que ele está trocando? Cabe na sua margem?\n\nComenta ACESSO que eu te mando como atender na Black Friday sem desconto.\n\n#precificacao #blackfriday #gestaodeclinicas #desconto #lucro",
-      "midias": [
-        "midia/2026-11-26_conta-do-desconto/01.jpg",
-        "midia/2026-11-26_conta-do-desconto/02.jpg",
-        "midia/2026-11-26_conta-do-desconto/03.jpg",
-        "midia/2026-11-26_conta-do-desconto/04.jpg",
-        "midia/2026-11-26_conta-do-desconto/05.jpg",
-        "midia/2026-11-26_conta-do-desconto/06.jpg",
-        "midia/2026-11-26_conta-do-desconto/07.jpg"
-      ],
-      "origem": "2026-11-26_conta-do-desconto"
-    },
-    {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
       "quando": "2026-11-27T08:30:00-03:00",
@@ -1388,7 +1394,8 @@
       "midias": [
         "midia/2026-11-27_frase-um-terco/01.jpg"
       ],
-      "origem": "2026-11-27_frase-um-terco"
+      "origem": "2026-11-27_frase-um-terco",
+      "fixo": true
     },
     {
       "id": "L3-22",
@@ -1458,6 +1465,20 @@
       "origem": "2026-12-14_mercado-em-10-numeros"
     }
   ],
-  "liberados": [],
-  "palavras_ativas": []
+  "liberados": [
+    "L3-09",
+    "L3-10",
+    "L3-14",
+    "L3-16"
+  ],
+  "palavras_ativas": [
+    "COBRAR",
+    "TABELA",
+    "CALCULADORA",
+    "NOTA",
+    "ACESSO",
+    "FREEDOM",
+    "MAPA",
+    "HORA"
+  ]
 }
