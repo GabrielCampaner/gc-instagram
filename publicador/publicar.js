@@ -15,7 +15,7 @@ const TOKEN = process.env.IG_TOKEN || "";
 const ACAO = process.env.ACAO || "publicar";
 const POST_ID = (process.env.POST_ID || "").trim();
 const BASE = (process.env.MIDIA_BASE || "").replace(/\/?$/, "/");
-const ATRASO_MAX_H = 6, TENTATIVAS_MAX = 3;
+const ATRASO_MAX_H = 6, TENTATIVAS_MAX = 3, ESPERA_MAX_MIN = 12;   // ESPERA: se o próximo post vence em até 12 min, o robô espera e publica no horário
 
 const cal = JSON.parse(fs.readFileSync(path.join(RAIZ, "calendario.json"), "utf8"));
 const ARQ_PUB = path.join(RAIZ, "publicados.json");
@@ -180,13 +180,20 @@ async function conferir() {
 
 async function publicar() {
     if (!cal.ativo) { console.log("Calendário desligado (\"ativo\": false). Nada publicado."); return; }
-    const agora = Date.now();
-    const vencidos = cal.posts.filter(p => p.status === "agendado" && !(pub[p.id] || {}).media_id && new Date(p.quando) <= agora)
-        .sort((a, b) => new Date(a.quando) - new Date(b.quando));
+    const fila = () => cal.posts.filter(p => p.status === "agendado" && !(pub[p.id] || {}).media_id).sort((a, b) => new Date(a.quando) - new Date(b.quando));
+    let agora = Date.now(), vencidos = fila().filter(p => new Date(p.quando) <= agora);
     if (!vencidos.length) {
-        const prox = cal.posts.filter(p => p.status === "agendado" && !(pub[p.id] || {}).media_id && new Date(p.quando) > agora).sort((a, b) => new Date(a.quando) - new Date(b.quando))[0];
-        console.log("Nada para publicar agora." + (prox ? " Próximo: " + prox.id + " em " + hora(prox.quando) + "." : ""));
-        return;
+        const prox = fila().find(p => new Date(p.quando) > agora);
+        const falta = prox ? new Date(prox.quando) - agora : Infinity;
+        if (falta > ESPERA_MAX_MIN * 60e3) {
+            console.log("Nada para publicar agora." + (prox ? " Próximo: " + prox.id + " em " + hora(prox.quando) + "." : ""));
+            return;
+        }
+        // chegou um pouco antes do horário: espera e publica na hora certa
+        console.log("Esperando " + Math.ceil(falta / 1000) + " s para publicar " + prox.id + " às " + hora(prox.quando) + ".");
+        await espera(falta + 2000);
+        agora = Date.now();
+        vencidos = fila().filter(p => new Date(p.quando) <= agora);
     }
     let falhas = 0;
     for (const p of vencidos) {

@@ -4,7 +4,7 @@
 const fs = require("fs"), path = require("path"), { execFileSync } = require("child_process");
 const RAIZ = path.resolve(__dirname, "..");
 const [acao = "conferir", id = ""] = process.argv.slice(2);
-if (!["conferir", "teste", "midias", "insights", "aviso"].includes(acao)) { console.error("Ações: conferir | teste <id> | midias | insights | aviso"); process.exit(1); }
+if (!["conferir", "teste", "midias", "insights", "aviso", "publicar"].includes(acao)) { console.error("Ações: conferir | teste <id> | midias | insights | aviso | publicar"); process.exit(1); }
 const git = (...a) => execFileSync("git", a, { cwd: RAIZ, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] }).trim();
 const ARQ_RES = path.join(RAIZ, "ultimo_resultado.txt");
 const lerRes = () => fs.existsSync(ARQ_RES) ? fs.readFileSync(ARQ_RES, "utf8") : "";

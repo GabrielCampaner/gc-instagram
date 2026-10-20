@@ -1,34 +1,46 @@
 name: Publicar no Instagram
 
+# Como o agendador do GitHub atrasa e pula execuções (em 20/10/2026 rodou 4 vezes em 11 horas), o robô se mantém sozinho:
+# cada execução, ao terminar, dispara a próxima ("ciclo"), que espera 10 minutos no ambiente "intervalo" (Wait timer) sem
+# ocupar máquina. O agendamento abaixo fica só de vigia: se o ciclo cair, a próxima execução agendada religa.
 on:
   schedule:
-    - cron: "3-59/10 * * * *"   # a cada 10 minutos (o GitHub pode atrasar alguns minutos)
+    - cron: "3-59/10 * * * *"   # vigia (o GitHub roda quando consegue)
     - cron: "41 2 * * *"        # insights do dia, 23h41 de Brasília
   workflow_dispatch:
     inputs:
       acao:
-        description: "conferir (só lê), teste (prepara sem publicar) ou publicar"
+        description: "conferir (só lê), teste (prepara sem publicar), publicar ou ciclo (uso do robô)"
         type: choice
-        options: [conferir, teste, publicar]
+        options: [conferir, teste, publicar, ciclo]
         default: conferir
       id:
         description: "Post do teste (ex.: L3-01)"
         required: false
   push:
-    paths: [pedido.json]          # pedido feito do computador: node publicador/pedir.js conferir | teste <id>
+    paths: [pedido.json]          # pedido feito do computador: node publicador/pedir.js conferir | teste <id> | publicar
 
 permissions:
   contents: write
   issues: write
-
-concurrency:
-  group: publicar-instagram
-  cancel-in-progress: false
+  actions: write
 
 jobs:
-  publicar:
+  intervalo:
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.acao == 'ciclo'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    environment: intervalo        # Settings > Environments > intervalo > Wait timer: 10 minutos
+    steps:
+      - run: echo "Intervalo de 10 minutos cumprido."
+
+  publicar:
+    needs: intervalo
+    if: always() && needs.intervalo.result != 'failure' && needs.intervalo.result != 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency:
+      group: publicar-instagram
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -48,21 +60,45 @@ jobs:
           if [ "$EVENTO" = "push" ]; then
             export ACAO="$(jq -r '.acao // "conferir"' pedido.json)" POST_ID="$(jq -r '.id // ""' pedido.json)"
           fi
+          if [ "$ACAO" = "ciclo" ]; then export ACAO=publicar; fi
           if [ "$CRON" = "41 2 * * *" ]; then export ACAO=insights; fi
           node publicador/publicar.js 2>&1 | tee resultado.txt
       - name: Registrar
         if: always()
         env:
           EVENTO: ${{ github.event_name }}
+          ACAO_IN: ${{ github.event.inputs.acao }}
         run: |
           git config user.name "publicador-gc"
           git config user.email "publicador-gc@users.noreply.github.com"
           git add publicados.json
           for f in feed.json insights.json; do if [ -f "$f" ]; then git add "$f"; fi; done
-          if [ "$EVENTO" != "schedule" ] && [ -f resultado.txt ]; then
+          if [ "$EVENTO" != "schedule" ] && [ "$ACAO_IN" != "ciclo" ] && [ -f resultado.txt ]; then
             { echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) · $EVENTO · ${{ github.run_id }}"; cat resultado.txt; } > ultimo_resultado.txt
             git add ultimo_resultado.txt
           fi
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Registro de publicação"
           git push || (git pull --rebase && git push)
+      - name: Manter o ciclo
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          # Só religa se o ambiente "intervalo" tem Wait timer (sem ele o ciclo giraria sem pausa).
+          espera=$( (gh api "repos/$REPO/environments/intervalo" --jq '[.protection_rules[]? | select(.type=="wait_timer") | .wait_timer] | max // 0' 2>/dev/null || true) | tail -1 | tr -cd '0-9')
+          espera=${espera:-0}
+          if [ "$espera" -lt 5 ]; then
+            echo "::warning::Ambiente 'intervalo' sem Wait timer (de 5 minutos ou mais). O ciclo fica desligado e o robô depende do agendador do GitHub."
+            exit 0
+          fi
+          # Um ciclo só: se já existe outra execução deste robô na fila ou rodando, não dispara outra.
+          outras=$(gh run list --repo "$REPO" --workflow publicar.yml --limit 30 --json databaseId,status \
+            --jq "[.[] | select(.databaseId != ${{ github.run_id }} and (.status == \"queued\" or .status == \"waiting\" or .status == \"in_progress\" or .status == \"pending\" or .status == \"requested\"))] | length" || echo 0)
+          if [ "${outras:-0}" = "0" ]; then
+            gh workflow run publicar.yml --repo "$REPO" --ref main -f acao=ciclo
+            echo "Próximo ciclo disparado (roda em ${espera} minutos)."
+          else
+            echo "Já há $outras execução(ões) na fila; o ciclo segue por elas."
+          fi
