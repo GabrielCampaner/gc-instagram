@@ -1,25 +1,59 @@
 {
-  "coletado_em": "2026-10-21T07:58:46.503Z",
+  "coletado_em": "2026-10-22T07:55:24.391Z",
   "conta": {
     "username": "gabrielcampaner",
     "followers_count": 4696,
     "follows_count": 377,
-    "media_count": 1704,
+    "media_count": 1706,
     "id": "29429052136706930"
   },
   "ultimos_7_dias": {
-    "reach": 4754,
-    "views": 11103,
-    "accounts_engaged": 186,
-    "total_interactions": 358,
-    "likes": 283,
+    "reach": 2580,
+    "views": 8230,
+    "accounts_engaged": 183,
+    "total_interactions": 332,
+    "likes": 270,
     "comments": 12,
-    "shares": 14,
-    "saves": 3,
+    "shares": 10,
+    "saves": 4,
     "follows_and_unfollows": null,
     "profile_links_taps": 0
   },
   "posts": [
+    {
+      "id": "18166698406486505",
+      "gc": "GC-07",
+      "quando": "2026-10-21T21:30:52+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DexYMOJgUeu/",
+      "inicio": "Desde 2009 dentro de clínicas. Médicos, dentistas, fisioterapeutas, nutricionist",
+      "metricas": {
+        "reach": 74,
+        "views": 178,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 7
+      }
+    },
+    {
+      "id": "18130956793699375",
+      "gc": "FR-02",
+      "quando": "2026-10-21T09:30:12+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DewFuKukTdp/",
+      "inicio": "O seu paciente não comparou currículos. Mandou mensagem para três clínicas e mar",
+      "metricas": {
+        "reach": 114,
+        "views": 232,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 4
+      }
+    },
     {
       "id": "17880239334554656",
       "gc": "GC-08",
@@ -28,13 +62,13 @@
       "link": "https://www.instagram.com/p/Deu0kysidL9/",
       "inicio": "Tem profissional de saúde que cobra pouco porque acha que cobrar caro é feio.",
       "metricas": {
-        "reach": 42,
-        "views": 93,
-        "likes": 3,
+        "reach": 63,
+        "views": 166,
+        "likes": 5,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 4
+        "total_interactions": 6
       }
     },
     {
@@ -45,8 +79,8 @@
       "link": "https://www.instagram.com/reel/DeuiQRxBFZL/",
       "inicio": "A mairoria dos leads chega fora do horário comercial. Muitos chegam 21h de uma t",
       "metricas": {
-        "reach": 84,
-        "views": 133,
+        "reach": 123,
+        "views": 186,
         "likes": 6,
         "comments": 0,
         "shares": 0,
@@ -62,8 +96,8 @@
       "link": "https://www.instagram.com/p/Det23DdHCxR/",
       "inicio": "Você pede exame antes de qualquer conduta. Confere valor de referência. Repete s",
       "metricas": {
-        "reach": 43,
-        "views": 87,
+        "reach": 52,
+        "views": 107,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -79,8 +113,8 @@
       "link": "https://www.instagram.com/reel/DesR_S9BpQa/",
       "inicio": "Somente atender não vai te deixar rico. Não to falando somente de dinheiro. Eu f",
       "metricas": {
-        "reach": 94,
-        "views": 136,
+        "reach": 97,
+        "views": 139,
         "likes": 8,
         "comments": 0,
         "shares": 0,
@@ -96,8 +130,8 @@
       "link": "https://www.instagram.com/reel/DerLhZnxyb3/",
       "inicio": "Segundou. E ai? Quais as suas metas nessa semana? Só atender? ",
       "metricas": {
-        "reach": 104,
-        "views": 169,
+        "reach": 106,
+        "views": 171,
         "likes": 9,
         "comments": 0,
         "shares": 0,
@@ -113,8 +147,8 @@
       "link": "https://www.instagram.com/reel/Deo2anXxcB5/",
       "inicio": "Feliz Dia do Médico. Sim hoje é um dia para comemorar para o profissional. ",
       "metricas": {
-        "reach": 240,
-        "views": 329,
+        "reach": 241,
+        "views": 330,
         "likes": 15,
         "comments": 2,
         "shares": 2,
@@ -130,8 +164,8 @@
       "link": "https://www.instagram.com/reel/DemSFD6RU8E/",
       "inicio": "Consulcoach em Ação (contém muuuuitaaa ironia) 🤣🤣 Quem ai também conhece um as",
       "metricas": {
-        "reach": 457,
-        "views": 721,
+        "reach": 459,
+        "views": 729,
         "likes": 9,
         "comments": 6,
         "shares": 1,
@@ -147,8 +181,8 @@
       "link": "https://www.instagram.com/reel/DekaKSvRMxG/",
       "inicio": "Escala 6 x 1 e a sua clínica. Veja o que fazer",
       "metricas": {
-        "reach": 509,
-        "views": 824,
+        "reach": 516,
+        "views": 830,
         "likes": 23,
         "comments": 0,
         "shares": 0,
@@ -164,13 +198,13 @@
       "link": "https://www.instagram.com/p/DekEVXBRW4G/",
       "inicio": "Eu e minha sócia de vida no Troféu Check UP ❤️",
       "metricas": {
-        "reach": 906,
-        "views": 1647,
-        "likes": 123,
+        "reach": 926,
+        "views": 1692,
+        "likes": 124,
         "comments": 4,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 127
+        "total_interactions": 128
       }
     },
     {
@@ -181,8 +215,8 @@
       "link": "https://www.instagram.com/reel/DehxGk3hpRs/",
       "inicio": "Quem promete triplicar seu faturamento em 90 dias, sem ver teus números de fato ",
       "metricas": {
-        "reach": 112,
-        "views": 180,
+        "reach": 114,
+        "views": 182,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -198,13 +232,13 @@
       "link": "https://www.instagram.com/reel/DegscqYBIY1/",
       "inicio": "Você paga para trabalhar? Possivelmente sim. Quem não sabe precificar a sua cons",
       "metricas": {
-        "reach": 104,
-        "views": 161,
-        "likes": 14,
+        "reach": 105,
+        "views": 163,
+        "likes": 15,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 16
+        "total_interactions": 17
       }
     },
     {
@@ -215,8 +249,8 @@
       "link": "https://www.instagram.com/reel/DefMRlLhV9b/",
       "inicio": "Todo mundo quer fazer gol. Ser atacante. E na maioria das clinicas, ninguém quer",
       "metricas": {
-        "reach": 89,
-        "views": 129,
+        "reach": 91,
+        "views": 130,
         "likes": 8,
         "comments": 0,
         "shares": 0,
@@ -232,8 +266,8 @@
       "link": "https://www.instagram.com/reel/DeeIxGMhfMg/",
       "inicio": "Ela detest@u a Trinca 😵🙈",
       "metricas": {
-        "reach": 331,
-        "views": 624,
+        "reach": 334,
+        "views": 627,
         "likes": 33,
         "comments": 4,
         "shares": 9,
@@ -249,8 +283,8 @@
       "link": "https://www.instagram.com/reel/DecndgHB6sc/",
       "inicio": "Em qual nível a sua clinica está? Link na BIO e receba o aeu plano de ação. ",
       "metricas": {
-        "reach": 142,
-        "views": 244,
+        "reach": 143,
+        "views": 245,
         "likes": 12,
         "comments": 4,
         "shares": 2,
@@ -266,8 +300,8 @@
       "link": "https://www.instagram.com/reel/DebjWj4up2q/",
       "inicio": "Você é super específico na parte técnica da sua clínica. E porque você gere sua ",
       "metricas": {
-        "reach": 209,
-        "views": 314,
+        "reach": 212,
+        "views": 316,
         "likes": 17,
         "comments": 0,
         "shares": 1,
@@ -283,8 +317,8 @@
       "link": "https://www.instagram.com/reel/Dd7VHsCxCQ4/",
       "inicio": "O único modelo de gestão que eu acredito é aquela onde a clinica consegue instal",
       "metricas": {
-        "reach": 164,
-        "views": 278,
+        "reach": 165,
+        "views": 279,
         "likes": 16,
         "comments": 2,
         "shares": 1,
@@ -300,8 +334,8 @@
       "link": "https://www.instagram.com/p/DdxIHnuxxVj/",
       "inicio": "Minha familia, meu maior tesouro.",
       "metricas": {
-        "reach": 936,
-        "views": 1844,
+        "reach": 939,
+        "views": 1846,
         "likes": 91,
         "comments": 4,
         "shares": 0,
@@ -317,8 +351,8 @@
       "link": "https://www.instagram.com/p/DdxH8K2RhYo/",
       "inicio": "Deus e seus presentes",
       "metricas": {
-        "reach": 209,
-        "views": 421,
+        "reach": 211,
+        "views": 423,
         "likes": 20,
         "comments": 3,
         "shares": 0,
@@ -556,7 +590,7 @@
       "inicio": "Fechando a semana e lembrando dessa placa maravilhosa que entregamos para a @bia",
       "metricas": {
         "reach": 260,
-        "views": 387,
+        "views": 388,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -834,40 +868,6 @@
         "shares": 3,
         "saved": 1,
         "total_interactions": 48
-      }
-    },
-    {
-      "id": "17892961947465872",
-      "gc": null,
-      "quando": "2026-05-05T21:23:06+0000",
-      "tipo": "carousel_album",
-      "link": "https://www.instagram.com/p/DX-M-vckYEN/",
-      "inicio": "Crescer uma clínica é belo. Mas não é simples. É feio às vezes. É cansativo quas",
-      "metricas": {
-        "reach": 348,
-        "views": 802,
-        "likes": 20,
-        "comments": 4,
-        "shares": 1,
-        "saved": 1,
-        "total_interactions": 26
-      }
-    },
-    {
-      "id": "17949317330981301",
-      "gc": null,
-      "quando": "2026-04-21T21:54:29+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DXaNQVuEZrB/",
-      "inicio": "@toguro lança leilão para profissionais da estética.",
-      "metricas": {
-        "reach": 806,
-        "views": 979,
-        "likes": 12,
-        "comments": 0,
-        "shares": 2,
-        "saved": 0,
-        "total_interactions": 14
       }
     }
   ]
