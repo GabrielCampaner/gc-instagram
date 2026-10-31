@@ -1,11 +1,3 @@
-2026-10-20T16:54:15Z · push · 39461476744
-Conta: @gabrielcampaner (MEDIA_CREATOR, id 29429052136706930)
-Cota de publicação: 1 de 100 nas últimas 24 h
-Últimos posts:
-  20/10/2026, 09:41  https://www.instagram.com/p/Det23DdHCxR/  Você pede exame antes de qualquer conduta. Confere valor de 
-  19/10/2026, 19:00  https://www.instagram.com/reel/DesR_S9BpQa/  Somente atender não vai te deixar rico. Não to falando somen
-  19/10/2026, 08:45  https://www.instagram.com/reel/DerLhZnxyb3/  Segundou. E ai? Quais as suas metas nessa semana? Só atender
-  18/10/2026, 11:04  https://www.instagram.com/reel/Deo2anXxcB5/  Feliz Dia do Médico. Sim hoje é um dia para comemorar para o
-  17/10/2026, 11:07  https://www.instagram.com/reel/DemSFD6RU8E/  Consulcoach em Ação (contém muuuuitaaa ironia) 🤣🤣 Quem ai 
-Calendário ATIVO: 74 agendados, 3 pendentes, 1 publicados.
-Mídia pública: 200 image/jpeg  https://raw.githubusercontent.com/GabrielCampaner/gc-instagram/main/midia/2026-10-12_esta-aqui/01.jpg
+2026-10-31T10:23:16Z · push · 41192489475
+Preparando OD01 (carrossel, 10 mídias) sem publicar...
+OK: o Instagram aceitou as imagens e a legenda de OD01 (container 18650911597001366). Nada foi publicado; o preparo expira sozinho em 24 h.
