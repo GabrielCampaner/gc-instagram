@@ -3615,6 +3615,153 @@
       ],
       "origem": "2027-01-29_od92",
       "fixo": true
+    },
+    {
+      "id": "OD93",
+      "titulo": "Os Doutores · Otávio: o primeiro mês com horário de resposta",
+      "quando": "2027-01-30T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em novembro, o Dr. Otávio respondia paciente às 23h47, da cama. Janeiro foi o primeiro mês com horário de resposta: das 8h às 19h a Dani responde, com roteiro e autonomia. Fora disso, a IAra responde em minutos, organiza os pedidos e deixa a manhã pronta pra equipe. Urgência segue o protocolo da clínica, sem orientação médica.\n\nTeve recaída num sábado à noite. Mas foram quatro domingos com o celular na gaveta.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #atendimento",
+      "midias": [
+        "midia/2027-01-30_od93/01.jpg",
+        "midia/2027-01-30_od93/02.jpg",
+        "midia/2027-01-30_od93/03.jpg",
+        "midia/2027-01-30_od93/04.jpg",
+        "midia/2027-01-30_od93/05.jpg",
+        "midia/2027-01-30_od93/06.jpg",
+        "midia/2027-01-30_od93/07.jpg"
+      ],
+      "origem": "2027-01-30_od93",
+      "fixo": true
+    },
+    {
+      "id": "OD94",
+      "titulo": "Os Doutores · Frase: quantos itens da tua lista ganharam data",
+      "quando": "2027-01-31T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Lembra da lista do último dia do ano? Financeiro em dia, equipe treinada, menos plantão, sábado fechado.\n\nUm mês depois, a pergunta não é quantos itens você cumpriu. É quantos ganharam data na agenda. O que tem data anda, mesmo devagar. O que não tem fica esperando o próximo réveillon.\n\nAbre a agenda hoje e marca um item. Só um.\n\nSalva e manda pra quem fez a lista contigo.\n\n#gestaodeclinicas #planejamento #produtividade",
+      "midias": [
+        "midia/2027-01-31_od94/01.jpg"
+      ],
+      "origem": "2027-01-31_od94",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD95",
+      "titulo": "Os Doutores · Você acordou hoje, janeiro fechou: faturou mais e sobrou menos",
+      "quando": "2027-02-01T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Janeiro fechou com mais faturamento e menos sobra. Parece contradição, mas é a conta mais comum de começo de ano.\n\nEm janeiro mudaram ao mesmo tempo a hora da equipe, com a jornada de 42 horas, o imposto na nota de quem está no regime normal e os reajustes de contrato que caem todo começo de ano. Nenhum deles sozinho assusta. Juntos, comem a sobra do mês. E a tabela de preço continua a de dezembro.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #financeiro",
+      "midias": [
+        "midia/2027-02-01_od95/01.jpg",
+        "midia/2027-02-01_od95/02.jpg",
+        "midia/2027-02-01_od95/03.jpg",
+        "midia/2027-02-01_od95/04.jpg",
+        "midia/2027-02-01_od95/05.jpg",
+        "midia/2027-02-01_od95/06.jpg",
+        "midia/2027-02-01_od95/07.jpg"
+      ],
+      "origem": "2027-02-01_od95",
+      "fixo": true
+    },
+    {
+      "id": "OD96",
+      "titulo": "Os Doutores · Paula: oito sextas dos quatro números",
+      "quando": "2027-02-02T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Paula tinha medo de sistema e respondia \"muitos\" quando alguém perguntava quantos pacientes voltaram. Desde dezembro, ela anota quatro números toda sexta, no caderno dela.\n\nEm janeiro, os novos pacientes caíram. Antes, isso viraria pânico. Com o caderno aberto, ela viu que os retornos marcados na saída tinham subido e que fevereiro já começava com metade da agenda preenchida. Número não serve pra assustar. Serve pra não se assustar à toa.\n\nComenta 9 se você também já entrou em pânico com um mês que nem era ruim.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #indicadores #medicos",
+      "midias": [
+        "midia/2027-02-02_od96/01.jpg",
+        "midia/2027-02-02_od96/02.jpg",
+        "midia/2027-02-02_od96/03.jpg",
+        "midia/2027-02-02_od96/04.jpg",
+        "midia/2027-02-02_od96/05.jpg",
+        "midia/2027-02-02_od96/06.jpg"
+      ],
+      "origem": "2027-02-02_od96",
+      "fixo": true
+    },
+    {
+      "id": "OD97",
+      "titulo": "Os Doutores · Kelly: a primeira meta batida sem chorar no carro",
+      "quando": "2027-02-03T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Kelly passou dois anos ouvindo que não convertia. Em janeiro, bateu a meta pela primeira vez.\n\nEla não fez curso novo nem mudou o jeito de atender. O que mudou foi a sala: desde novembro a Dra. Sofia fala o valor da cirurgia dentro da consulta, junto com a recomendação. A paciente chega no balcão decidida e a Kelly cuida da data e da forma de pagar. A comissão ganhou regra escrita, e o fim do mês ficou em paz.\n\nManda pra quem cuida do comercial aí da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #vendasnasaude #cirurgiaplastica",
+      "midias": [
+        "midia/2027-02-03_od97/01.jpg",
+        "midia/2027-02-03_od97/02.jpg",
+        "midia/2027-02-03_od97/03.jpg",
+        "midia/2027-02-03_od97/04.jpg",
+        "midia/2027-02-03_od97/05.jpg",
+        "midia/2027-02-03_od97/06.jpg"
+      ],
+      "origem": "2027-02-03_od97",
+      "fixo": true
+    },
+    {
+      "id": "OD98",
+      "titulo": "Os Doutores · Notícia: IA na saúde, o que mudou",
+      "quando": "2027-02-04T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Dois números de 2026 contam a mesma história. Na pesquisa da Afya com a Conexa, 78% dos médicos disseram que já usam IA na prática profissional. Na TIC Saúde, só 18% dos estabelecimentos de saúde usavam IA. O médico está na frente da própria clínica.\n\nE desde o fim de agosto vale a Resolução CFM 2.454/2026: o paciente precisa ser informado quando a IA entra no atendimento, e a responsabilidade continua sendo do médico. Antes de comprar a próxima ferramenta, vale arrumar o processo que ela vai acelerar.\n\nFontes: Afya e Conexa, Panorama do uso de IA em saúde (551 médicos), via O Imparcial, 24/06/2026; TIC Saúde 2025 (Cetic.br e CGI.br, 3.270 gestores), via Medicina S/A, 13/05/2026; Resolução CFM 2.454/2026.\n\nSalva e manda pro teu sócio.\n\n#gestaodeclinicas #inteligenciaartificial #saude",
+      "midias": [
+        "midia/2027-02-04_od98/01.jpg",
+        "midia/2027-02-04_od98/02.jpg",
+        "midia/2027-02-04_od98/03.jpg",
+        "midia/2027-02-04_od98/04.jpg",
+        "midia/2027-02-04_od98/05.jpg",
+        "midia/2027-02-04_od98/06.jpg",
+        "midia/2027-02-04_od98/07.jpg"
+      ],
+      "origem": "2027-02-04_od98",
+      "fixo": true
+    },
+    {
+      "id": "OD99",
+      "titulo": "Os Doutores · Rafael: sexta, 18h40, véspera de Carnaval, tudo pra ontem",
+      "quando": "2027-02-05T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Rafael não é preguiçoso, tá? Ele aprendeu que o tempo do médico vale mais que o de todo mundo. Por isso, durante a semana, tudo que é de gestão fica pra depois, e na sexta à tarde vira urgência.\n\nNa véspera do Carnaval, às 18h40, ele quis a tabela nova no ar, a escala do feriado pronta e o post do Instagram publicado. A recepcionista perdeu o ônibus. A pressa de sexta dele é a hora extra da equipe e o paciente que ninguém teve tempo de atender.\n\nQuinta que vem ele senta comigo.\n\nComenta 25 se na tua clínica tudo é pra ontem.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #oftalmologia #lideranca",
+      "midias": [
+        "midia/2027-02-05_od99/01.jpg",
+        "midia/2027-02-05_od99/02.jpg",
+        "midia/2027-02-05_od99/03.jpg",
+        "midia/2027-02-05_od99/04.jpg",
+        "midia/2027-02-05_od99/05.jpg",
+        "midia/2027-02-05_od99/06.jpg",
+        "midia/2027-02-05_od99/07.jpg"
+      ],
+      "origem": "2027-02-05_od99",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -3637,7 +3784,8 @@
     "OD16",
     "OD33",
     "OD43",
-    "OD81"
+    "OD81",
+    "OD93"
   ],
   "palavras_ativas": [
     "COBRAR",

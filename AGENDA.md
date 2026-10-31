@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 16:38:30. 143 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 17:13:28. 150 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -624,6 +624,40 @@ Gerada em 31/10/2026, 16:38:30. 143 posts agendados, 3 pendentes. Stories com en
 ## sexta, 29/01
 
 - **12h30 · OD92 · Os Doutores · Comparação: impulsionar e responder** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 30/01
+
+- **12h30 · OD93 · Os Doutores · Otávio: o primeiro mês com horário de resposta** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 31/01
+
+- **06h00 · OD94 · Os Doutores · Frase: quantos itens da tua lista ganharam data** (imagem)
+
+## segunda, 01/02
+
+- **12h30 · OD95 · Os Doutores · Você acordou hoje, janeiro fechou: faturou mais e sobrou menos** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 02/02
+
+- **12h30 · OD96 · Os Doutores · Paula: oito sextas dos quatro números** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 03/02
+
+- **12h30 · OD97 · Os Doutores · Kelly: a primeira meta batida sem chorar no carro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 04/02
+
+- **12h30 · OD98 · Os Doutores · Notícia: IA na saúde, o que mudou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 05/02
+
+- **12h30 · OD99 · Os Doutores · Rafael: sexta, 18h40, véspera de Carnaval, tudo pra ontem** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)
