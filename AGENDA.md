@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 11:28:40. 87 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -348,9 +348,36 @@ Gerada em 31/10/2026, 11:28:40. 87 posts agendados, 4 pendentes. Stories com enq
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
+## domingo, 06/12
+
+- **12h30 · OD36 · Os Doutores · Marina: voltou do congresso com a terceira máquina em 48 parcelas** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 07/12
+
+- **12h30 · OD38 · Os Doutores · Débora senta com o Gabriel: a margem de cada procedimento e a regra do desconto** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 08/12
+
+- **12h30 · OD39 · Os Doutores · Paula senta com o Gabriel: os quatro números** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 10/12
+
+- **12h30 · OD41 · Os Doutores · O lado da Kelly** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 11/12
+
+- **12h30 · OD42 · Os Doutores · Joana senta com o Gabriel: o sábado** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
 ## Pendentes (não saem até serem liberados)
 
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
 - **OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero**: palavra-chave PLANILHA: a automação precisa estar ativa
+- **OD37 · Os Doutores · Fernando senta com o Gabriel: a conta da troca**: palavra-chave CONTRATA: a automação precisa estar ativa
+- **OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina**: palavra-chave PLANILHA: a automação precisa estar ativa
