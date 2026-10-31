@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 13:24:05. 101 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 14:13:13. 108 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -417,6 +417,40 @@ Gerada em 31/10/2026, 13:24:05. 101 posts agendados, 3 pendentes. Stories com en
 ## sexta, 18/12
 
 - **12h30 · OD49 · Os Doutores · Helena monta a tabela de 2027** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 19/12
+
+- **12h30 · OD50 · Os Doutores · Ricardo senta com o Gabriel: ele tem razão** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 20/12
+
+- **12h30 · OD51 · Os Doutores · Augusto: o vídeo de jargão com 40 visualizações e o novinho lotado** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 21/12
+
+- **12h30 · OD55 · Os Doutores · Otávio: o primeiro domingo sem responder paciente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 22/12
+
+- **12h30 · OD62 · Os Doutores · Lívia: 22h, o grupo da equipe e a briga pela comissão** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 23/12
+
+- **06h00 · OD54 · Os Doutores · Frase: descanso também é gestão** (imagem)
+
+## quinta, 24/12
+
+- **12h30 · OD52 · Os Doutores · Véspera de Natal: a clínica fecha, o WhatsApp não** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 25/12
+
+- **12h30 · OD53 · Os Doutores · Natal de plantão. O último** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

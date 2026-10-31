@@ -2688,6 +2688,160 @@
       ],
       "origem": "2026-12-18_od49",
       "fixo": true
+    },
+    {
+      "id": "OD50",
+      "titulo": "Os Doutores · Ricardo senta com o Gabriel: ele tem razão",
+      "quando": "2026-12-19T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem coisa que o doutor mais experiente sabe melhor do que qualquer curso: paciente indicado chega confiando. O Dr. Ricardo construiu 25 anos de consultório assim.\n\nO que mudou foi o caminho. A indicação continua acontecendo na conversa de família, mas a primeira mensagem chega no WhatsApp. E se ninguém responde, o indicado desiste antes de conhecer o médico.\n\nPedir, registrar, agradecer e responder. Quatro passos, nenhum modismo.\n\nFontes: Doctoralia, Perfil do Paciente Digital 2026; Opinion Box, Pesquisa WhatsApp 2026.\n\nComenta 12 se tem um Dr. Ricardo na tua família.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#consultorio #atendimento #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-19_od50/01.jpg",
+        "midia/2026-12-19_od50/02.jpg",
+        "midia/2026-12-19_od50/03.jpg",
+        "midia/2026-12-19_od50/04.jpg",
+        "midia/2026-12-19_od50/05.jpg",
+        "midia/2026-12-19_od50/06.jpg",
+        "midia/2026-12-19_od50/07.jpg",
+        "midia/2026-12-19_od50/08.jpg",
+        "midia/2026-12-19_od50/09.jpg"
+      ],
+      "origem": "2026-12-19_od50",
+      "fixo": true
+    },
+    {
+      "id": "OD51",
+      "titulo": "Os Doutores · Augusto: o vídeo de jargão com 40 visualizações e o novinho lotado",
+      "quando": "2026-12-20T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Augusto sabe muito, tá? Vinte e seis anos de consultório, congresso, atualização. Ninguém discute a competência dele.\n\nO que mudou foi o jeito de o paciente escolher. Ele procura o que sente com as palavras dele e marca com quem fala a mesma língua. O currículo continua valendo. Só precisa virar uma frase que o paciente entenda.\n\nEm janeiro ele senta comigo, e a gente traduz o currículo dele em frase de paciente.\n\nComenta 14 se você conhece um Dr. Augusto.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #cardiologia",
+      "midias": [
+        "midia/2026-12-20_od51/01.jpg",
+        "midia/2026-12-20_od51/02.jpg",
+        "midia/2026-12-20_od51/03.jpg",
+        "midia/2026-12-20_od51/04.jpg",
+        "midia/2026-12-20_od51/05.jpg",
+        "midia/2026-12-20_od51/06.jpg",
+        "midia/2026-12-20_od51/07.jpg",
+        "midia/2026-12-20_od51/08.jpg"
+      ],
+      "origem": "2026-12-20_od51",
+      "fixo": true
+    },
+    {
+      "id": "OD55",
+      "titulo": "Os Doutores · Otávio: o primeiro domingo sem responder paciente",
+      "quando": "2026-12-21T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem dono de clínica que não lembra a última vez que almoçou num domingo sem olhar o WhatsApp. O Dr. Otávio era um deles.\n\nE não mudou por força de vontade. Mudou porque a resposta ganhou dono: horário combinado, a Dani com roteiro e autonomia, e o fora do horário resolvido. Aí o celular pôde ir pra gaveta.\n\nComeça pequeno: um domingo, um almoço, o celular longe da mesa. E repara no que acontece na segunda.\n\nComenta 1 se você vai tentar no domingo que vem.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#clinicaodontologica #dentistas #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-21_od55/01.jpg",
+        "midia/2026-12-21_od55/02.jpg",
+        "midia/2026-12-21_od55/03.jpg",
+        "midia/2026-12-21_od55/04.jpg",
+        "midia/2026-12-21_od55/05.jpg",
+        "midia/2026-12-21_od55/06.jpg",
+        "midia/2026-12-21_od55/07.jpg"
+      ],
+      "origem": "2026-12-21_od55",
+      "fixo": true
+    },
+    {
+      "id": "OD62",
+      "titulo": "Os Doutores · Lívia: 22h, o grupo da equipe e a briga pela comissão",
+      "quando": "2026-12-22T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Lívia é boa médica e virou juíza de briga. Mentoria de crescimento não ensina a comissão disputada, o atraso que se repete, o atestado na véspera do feriado, a funcionária que sabe muito e envenena quem chega.\n\nNada disso se resolve no grupo às 22h. Resolve com regra escrita, com um placar olhado toda semana e com alguém que acompanhe a equipe no dia a dia. Às vezes, esse alguém é uma gerente, e a conta mostra que ela se paga.\n\nEm janeiro ela senta comigo.\n\nComenta 21 se o grupo da tua equipe também apita às 22h.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #otorrinolaringologia",
+      "midias": [
+        "midia/2026-12-22_od62/01.jpg",
+        "midia/2026-12-22_od62/02.jpg",
+        "midia/2026-12-22_od62/03.jpg",
+        "midia/2026-12-22_od62/04.jpg",
+        "midia/2026-12-22_od62/05.jpg",
+        "midia/2026-12-22_od62/06.jpg",
+        "midia/2026-12-22_od62/07.jpg",
+        "midia/2026-12-22_od62/08.jpg"
+      ],
+      "origem": "2026-12-22_od62",
+      "fixo": true
+    },
+    {
+      "id": "OD54",
+      "titulo": "Os Doutores · Frase: descanso também é gestão",
+      "quando": "2026-12-23T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Semana entre o Natal e o Ano-Novo é o melhor teste que existe pra uma clínica. Se o telefone do dono não para de tocar, é sinal de que tem coisa que nunca foi escrita: como confirma, como agenda, quem decide o quê quando o dono não tá.\n\nNesses dias, descansa de verdade. E anota numa folha cada vez que alguém te chamar, e pra quê. Essa lista é a tua primeira tarefa de janeiro.\n\nDescanso também é gestão, tá? Dono esgotado decide pior.\n\nSalva pra lembrar no dia 4.\n\n#gestaodeclinicas #consultorio #gestaoemsaude",
+      "midias": [
+        "midia/2026-12-23_od54/01.jpg"
+      ],
+      "origem": "2026-12-23_od54",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD52",
+      "titulo": "Os Doutores · Véspera de Natal: a clínica fecha, o WhatsApp não",
+      "quando": "2026-12-24T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Véspera de Natal é o dia em que a clínica fecha e o WhatsApp continua aberto. O paciente não tá errado de mandar mensagem. Ruim é você ficar sem saber o que responder no meio da ceia.\n\nLeva cinco minutos: escreve a mensagem de recesso, ativa a mensagem de ausência do WhatsApp Business com as datas e combina com a equipe quem lê as mensagens no primeiro dia de volta.\n\nA mensagem tá pronta no carrossel, é só copiar e trocar as datas.\n\nBoas festas pra ti, pra tua família e pra tua equipe.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#atendimento #recepcao #consultorio",
+      "midias": [
+        "midia/2026-12-24_od52/01.jpg",
+        "midia/2026-12-24_od52/02.jpg",
+        "midia/2026-12-24_od52/03.jpg",
+        "midia/2026-12-24_od52/04.jpg",
+        "midia/2026-12-24_od52/05.jpg",
+        "midia/2026-12-24_od52/06.jpg",
+        "midia/2026-12-24_od52/07.jpg"
+      ],
+      "origem": "2026-12-24_od52",
+      "fixo": true
+    },
+    {
+      "id": "OD53",
+      "titulo": "Os Doutores · Natal de plantão. O último",
+      "quando": "2026-12-25T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Hoje tem gente trabalhando pra que o teu Natal seja tranquilo. No pronto atendimento, na UTI, na enfermaria, na recepção do hospital.\n\nO Dr. Caio é um deles. Em novembro, ele fez a conta e começou a montar a saída: uma tarde fixa de consultório em janeiro, e o primeiro plantão a menos quando essa tarde se pagar. Mas hoje ele tá lá, e faz bem o que faz.\n\nPra todo profissional da saúde de plantão neste Natal: obrigado. De verdade.\n\nManda pra quem tá de plantão agora.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#plantao #medicos #gestaoemsaude",
+      "midias": [
+        "midia/2026-12-25_od53/01.jpg",
+        "midia/2026-12-25_od53/02.jpg",
+        "midia/2026-12-25_od53/03.jpg",
+        "midia/2026-12-25_od53/04.jpg",
+        "midia/2026-12-25_od53/05.jpg",
+        "midia/2026-12-25_od53/06.jpg",
+        "midia/2026-12-25_od53/07.jpg",
+        "midia/2026-12-25_od53/08.jpg"
+      ],
+      "origem": "2026-12-25_od53",
+      "fixo": true
     }
   ],
   "liberados": [
