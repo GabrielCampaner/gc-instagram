@@ -606,7 +606,7 @@
     {
       "id": "OD01",
       "titulo": "Os Doutores · Estreia: toda clínica tem um desses doutores",
-      "quando": "2026-11-03T18:30:00-03:00",
+      "quando": "2026-11-03T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
@@ -646,7 +646,7 @@
     {
       "id": "OD02",
       "titulo": "Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou",
-      "quando": "2026-11-04T18:30:00-03:00",
+      "quando": "2026-11-04T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
@@ -683,6 +683,28 @@
       "origem": "2026-11-25_numero-84"
     },
     {
+      "id": "OD03",
+      "titulo": "Os Doutores · Notícia: o paciente que desiste",
+      "quando": "2026-11-05T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.\n\nEm 2025, foram mais de 88 milhões de consultas marcadas online no Brasil, segundo a Doctoralia. Até entre quem tem 60 anos ou mais, 35% já preferem o WhatsApp. E no CX Trends 2026, da Octadesk e Opinion Box, 67% desistiram de alguma compra no último ano depois de uma experiência ruim.\n\nO paciente não reclama, tá? Ele simplesmente marca em outro lugar. Por isso, antes de pensar em anúncio, olha quanto tempo a tua clínica leva pra responder a primeira mensagem.\n\nFontes: Viva, com dados da Doctoralia (Perfil do Paciente Digital 2026), jan/2026. CX Trends 2026, Octadesk e Opinion Box.\n\nSalva e manda pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
+      "midias": [
+        "midia/2026-11-05_od03/01.jpg",
+        "midia/2026-11-05_od03/02.jpg",
+        "midia/2026-11-05_od03/03.jpg",
+        "midia/2026-11-05_od03/04.jpg",
+        "midia/2026-11-05_od03/05.jpg",
+        "midia/2026-11-05_od03/06.jpg",
+        "midia/2026-11-05_od03/07.jpg"
+      ],
+      "origem": "2026-11-05_od03",
+      "fixo": true
+    },
+    {
       "id": "GC-06",
       "titulo": "Black Friday: desconto ou acesso?",
       "quando": "2026-11-05T18:30:00-03:00",
@@ -705,28 +727,6 @@
       "fixo": true
     },
     {
-      "id": "OD03",
-      "titulo": "Os Doutores · Notícia: o paciente que desiste",
-      "quando": "2026-11-05T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.\n\nEm 2025, foram mais de 88 milhões de consultas marcadas online no Brasil, segundo a Doctoralia. Até entre quem tem 60 anos ou mais, 35% já preferem o WhatsApp. E no CX Trends 2026, da Octadesk e Opinion Box, 67% desistiram de alguma compra no último ano depois de uma experiência ruim.\n\nO paciente não reclama, tá? Ele simplesmente marca em outro lugar. Por isso, antes de pensar em anúncio, olha quanto tempo a tua clínica leva pra responder a primeira mensagem.\n\nFontes: Viva, com dados da Doctoralia (Perfil do Paciente Digital 2026), jan/2026. CX Trends 2026, Octadesk e Opinion Box.\n\nSalva e manda pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
-      "midias": [
-        "midia/2026-11-05_od03/01.jpg",
-        "midia/2026-11-05_od03/02.jpg",
-        "midia/2026-11-05_od03/03.jpg",
-        "midia/2026-11-05_od03/04.jpg",
-        "midia/2026-11-05_od03/05.jpg",
-        "midia/2026-11-05_od03/06.jpg",
-        "midia/2026-11-05_od03/07.jpg"
-      ],
-      "origem": "2026-11-05_od03",
-      "fixo": true
-    },
-    {
       "id": "L3-35",
       "titulo": "34% com falta acima de 11%",
       "quando": "2026-11-06T08:30:00-03:00",
@@ -744,7 +744,7 @@
     {
       "id": "OD04",
       "titulo": "Os Doutores · Lucas: 94 dias postando, 3 consultas particulares",
-      "quando": "2026-11-06T18:30:00-03:00",
+      "quando": "2026-11-06T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
@@ -782,7 +782,7 @@
     {
       "id": "OD05",
       "titulo": "Os Doutores · Você acordou hoje: o descontinho das 6h52",
-      "quando": "2026-11-07T18:30:00-03:00",
+      "quando": "2026-11-07T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
@@ -819,7 +819,7 @@
     {
       "id": "OD06",
       "titulo": "Os Doutores · Caio: saiu do plantão e dormiu no carro",
-      "quando": "2026-11-08T18:30:00-03:00",
+      "quando": "2026-11-08T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",

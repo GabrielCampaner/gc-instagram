@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 07:20:45. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -99,43 +99,43 @@ Gerada em 31/10/2026, 07:20:45. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-12 · 21h47 em duas clínicas** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
-- **18h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
+- **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quarta, 04/11
 
 - **08h30 · L3-33 · 54% medem só a entrada** (imagem)
   - Stories: Enquete: "Você mede a conversão de orçamento?" · Mede / Não mede.
-- **18h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
+- **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quinta, 05/11
 
 - **08h30 · L3-34 · 33% fora do horário** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem depois das 18h?" · Responde / Só no dia seguinte.
-- **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
-- **18h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
+- **12h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
 
 ## sexta, 06/11
 
 - **08h30 · L3-35 · 34% com falta acima de 11%** (imagem)
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
-- **18h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
+- **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## sábado, 07/11
 
 - **08h30 · L3-36 · 75% já contrataram pelo WhatsApp** (imagem)
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
-- **18h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
+- **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## domingo, 08/11
 
 - **08h30 · L3-24 · Qual ele lembra** (imagem)
   - Stories: Repost com a pergunta: "Qual o seu paciente lembra?" · A consulta / A resposta.
-- **18h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
+- **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## segunda, 09/11
