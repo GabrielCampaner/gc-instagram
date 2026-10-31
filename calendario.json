@@ -85,12 +85,127 @@
       "origem": "2026-10-11_post-manifesto"
     },
     {
+      "id": "GC-08",
+      "titulo": "A culpa de cobrar",
+      "quando": "2026-10-20T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Noite: repost do carrossel + enquete \"Você já deu desconto antes de o paciente pedir?\" · Já / Nunca. Caixinha: \"O que você responde quando dizem que está caro?\" (vira pauta).",
+      "legenda": "Tem profissional de saúde que cobra pouco porque acha que cobrar caro é feio.\n\nO desconto sai antes de o paciente pedir. E o paciente entende o recado: o valor era negociável.\n\nNuma agenda com 120 consultas de R$ 300, 10% oferecidos por culpa são R$ 3.600 por mês. R$ 43.200 no ano. (Simulação.)\n\nQuem paga essa conta é a sua equipe, o seu equipamento e você daqui a 5 anos. No lugar da culpa, método: protocolo escalonado, parcelamento com regra e condição só com contrapartida.\n\nCobrar bem não é ganância. É o que permite continuar atendendo bem.\n\nManda para aquele colega que pede desculpa toda vez que fala o preço.\n\n#gestaodeclinicas #precificacao #consultorio #odontologia #gestaoemsaude",
+      "midias": [
+        "midia/2026-10-11_culpa-de-cobrar/01.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/02.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/03.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/04.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/05.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/06.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/07.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/08.jpg",
+        "midia/2026-10-11_culpa-de-cobrar/09.jpg"
+      ],
+      "origem": "2026-10-11_culpa-de-cobrar"
+    },
+    {
+      "id": "FR-02",
+      "titulo": "O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.",
+      "quando": "2026-10-21T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "O seu paciente não comparou currículos. Mandou mensagem para três clínicas e marcou com a que respondeu primeiro.\n\nTécnica é pré-requisito. O que decide a escolha é o que ele consegue ver: a resposta, o nome, o horário oferecido.\n\nManda para quem cuida do WhatsApp da sua clínica.\n\n#gestaodeclinicas #atendimentoaopaciente #whatsappbusiness #donodeclinica",
+      "midias": [
+        "midia/2026-10-12_frase-respondeu-primeiro/01.jpg"
+      ],
+      "origem": "2026-10-12_frase-respondeu-primeiro",
+      "frase": true
+    },
+    {
+      "id": "GC-07",
+      "titulo": "12 regras que eu não negocio",
+      "quando": "2026-10-21T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "fixar no perfil",
+      "stories": "",
+      "legenda": "Desde 2009 dentro de clínicas. Médicos, dentistas, fisioterapeutas, nutricionistas, biomédicos, harmonização. Mais de 40 especialidades.\n\nMudam a cidade, o tamanho e a especialidade. Estas 12 regras não mudam.\n\nSegue o perfil: toda semana eu mostro uma dessas regras funcionando dentro de uma clínica.\n\n#gestaodeclinicas #gestaoemsaude #empreendedorismonasaude #clinicamedica #odontologia",
+      "midias": [
+        "midia/fixado_12-regras/01.jpg",
+        "midia/fixado_12-regras/02.jpg",
+        "midia/fixado_12-regras/03.jpg",
+        "midia/fixado_12-regras/04.jpg",
+        "midia/fixado_12-regras/05.jpg",
+        "midia/fixado_12-regras/06.jpg",
+        "midia/fixado_12-regras/07.jpg",
+        "midia/fixado_12-regras/08.jpg"
+      ],
+      "origem": "fixado_12-regras"
+    },
+    {
+      "id": "FR-03",
+      "titulo": "Se o seu preço veio do concorrente, o seu lucro também é dele.",
+      "quando": "2026-10-22T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "Preço copiado traz junto o aluguel, a agenda e a margem de outra clínica. Nenhum deles é seu.\n\nAntes de mexer no valor, descubra quanto custa a sua hora.\n\nManda para alguém que montou a tabela olhando a do vizinho.\n\n#precificacao #gestaodeclinicas #consultorio #donodeclinica",
+      "midias": [
+        "midia/2026-10-13_frase-preco-do-concorrente/01.jpg"
+      ],
+      "origem": "2026-10-13_frase-preco-do-concorrente",
+      "frase": true
+    },
+    {
+      "id": "GC-10",
+      "titulo": "O celular da recepção",
+      "quando": "2026-10-22T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Manhã: chegada na clínica do cliente, equipe de costas. Tarde: repost + enquete \"Você sabe quantas conversas estão sem resposta agora?\" · Sei / Não sei.",
+      "legenda": "Quando eu entro numa clínica pela primeira vez, eu não peço o balanço. Peço o celular da recepção.\n\nÉ ali que a clínica conta a verdade. Nos primeiros 30 minutos eu olho três coisas: conversas sem resposta agora, orçamentos sem retorno no último mês e quem faz o quê.\n\nQuase sempre, quem deveria converter está imprimindo boleto. São 66 horas por mês da pessoa que fecha tratamento em tarefa que não fecha nada. (Simulação: 3 h por dia, 22 dias úteis.)\n\nQuem converte não faz tarefa acessória. 30 dias para delegar.\n\nManda para quem gerencia a sua recepção. Na segunda, ela faz os 3 exames.\n\n#gestaodeclinicas #gestaoemsaude #secretariamedica #clinicamedica #odontologia",
+      "midias": [
+        "midia/2026-10-16_celular-da-recepcao/01.jpg",
+        "midia/2026-10-16_celular-da-recepcao/02.jpg",
+        "midia/2026-10-16_celular-da-recepcao/03.jpg",
+        "midia/2026-10-16_celular-da-recepcao/04.jpg",
+        "midia/2026-10-16_celular-da-recepcao/05.jpg",
+        "midia/2026-10-16_celular-da-recepcao/06.jpg",
+        "midia/2026-10-16_celular-da-recepcao/07.jpg",
+        "midia/2026-10-16_celular-da-recepcao/08.jpg"
+      ],
+      "origem": "2026-10-16_celular-da-recepcao"
+    },
+    {
+      "id": "FR-04",
+      "titulo": "Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.",
+      "quando": "2026-10-23T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "A sua recepção não é ruim. Ela atende telefone, balcão e WhatsApp ao mesmo tempo, e o paciente que chama no meio disso espera.\n\nAtendimento bom não depende de quem está online. Depende de processo, roteiro e de alguém com nome cuidando de cada conversa.\n\nManda para a sua recepção. Ela vai se sentir vista.\n\n#secretariamedica #recepcaodeclinica #gestaodeclinicas #atendimentoaopaciente",
+      "midias": [
+        "midia/2026-10-14_frase-sorte/01.jpg"
+      ],
+      "origem": "2026-10-14_frase-sorte",
+      "frase": true
+    },
+    {
       "id": "GC-13",
       "titulo": "O paciente não avalia a sua resina",
       "quando": "2026-10-23T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "data comemorativa já passou (23/10/2026)",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "stories": "Manhã: a clínica odontológica do cliente, sem pacientes. Tarde: enquete \"Dentista: o que mais trava a sua clínica hoje?\" · Agenda vazia / Orçamento que não fecha.",
       "legenda": "Dentista, domingo é o seu dia. E eu vou te falar o que quase ninguém fala no parabéns.\n\nO Brasil tem mais de 426 mil dentistas em atividade (Censo da Odontologia ABIMO/CFO, 2025). Técnica excelente virou pré-requisito.\n\nO paciente não sabe avaliar a sua resina. Ele avalia se você respondeu, se explicou o plano e se alguém ligou no dia seguinte.\n\nIsso não diminui o seu estudo. O estudo te coloca no jogo. A gestão decide quem ganha.\n\nManda para um dentista excelente que ainda não é escolhido como deveria.\n\n#diadodentista #odontologia #gestaodeclinicas #clinicaodontologica #dentista",
@@ -107,12 +222,245 @@
       "fixo": true
     },
     {
+      "id": "FR-05",
+      "titulo": "Se só você sabe passar o valor, a clínica para quando você atende.",
+      "quando": "2026-10-24T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "Se só você sabe passar o valor, a sua clínica fica parada toda vez que você entra no consultório.\n\nO paciente pergunta às 9h e espera você terminar a consulta. Às vezes, ele não espera.\n\nValor, desconto e retorno com regra escrita: a recepção responde sem bater na sua porta.\n\nSegue o perfil: aqui a gestão é a que acontece todo dia.\n\n#gestaodeclinicas #gestaoemsaude #donodeclinica #clinicamedica",
+      "midias": [
+        "midia/2026-10-15_frase-terca-9h/01.jpg"
+      ],
+      "origem": "2026-10-15_frase-terca-9h",
+      "frase": true
+    },
+    {
+      "id": "GC-09",
+      "titulo": "O teste das 21h",
+      "quando": "2026-10-24T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "21h: \"Começou o teste. Manda a mensagem agora.\" Na manhã seguinte: controle deslizante \"Quanto tempo a sua clínica levou?\" e caixinha com os tempos (sem nomes).",
+      "legenda": "Hoje às 21h, faz um teste: manda \"Oi, boa noite. Quanto custa uma avaliação?\" para o WhatsApp da sua clínica, de um número que ela não conhece.\n\nAnota cinco coisas: o tempo da primeira resposta, se informou o valor, se perguntou o seu nome, se ofereceu horário e se alguém voltou a falar com você em 48 horas.\n\n75% dos brasileiros já contrataram um serviço pelo WhatsApp (Opinion Box, Pesquisa WhatsApp no Brasil 2026). O seu paciente decide ali.\n\nO teste serve para achar a conversa que está sem dono, sem procurar culpado.\n\nFaz o teste hoje às 21h e segue o perfil: amanhã eu mostro o que fazer com a resposta que chegar.\n\n#gestaodeclinicas #atendimentoaopaciente #secretariamedica #whatsappbusiness #consultorio",
+      "midias": [
+        "midia/2026-10-14_teste-das-21h/01.jpg",
+        "midia/2026-10-14_teste-das-21h/02.jpg",
+        "midia/2026-10-14_teste-das-21h/03.jpg",
+        "midia/2026-10-14_teste-das-21h/04.jpg",
+        "midia/2026-10-14_teste-das-21h/05.jpg",
+        "midia/2026-10-14_teste-das-21h/06.jpg",
+        "midia/2026-10-14_teste-das-21h/07.jpg",
+        "midia/2026-10-14_teste-das-21h/08.jpg"
+      ],
+      "origem": "2026-10-14_teste-das-21h"
+    },
+    {
+      "id": "FR-06",
+      "titulo": "Clínica não quebra por falta de talento. Quebra por falta de rotina.",
+      "quando": "2026-10-25T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "Desde 2009, em mais de 40 especialidades, eu vi profissional excelente fechar o mês no vermelho. E clínica comum crescer com método.\n\nA diferença quase nunca foi talento. Foi rotina: número toda semana, dono para cada orçamento, recepção com roteiro.\n\nManda para alguém que é excelente no que faz e está cansado de gerir no improviso.\n\n#gestaodeclinicas #gestaoemsaude #empreendedorismonasaude #donodeclinica",
+      "midias": [
+        "midia/2026-10-16_frase-rotina/01.jpg"
+      ],
+      "origem": "2026-10-16_frase-rotina",
+      "frase": true
+    },
+    {
+      "id": "GC-22",
+      "titulo": "Quanto mais rápido passa o preço, menos agenda",
+      "quando": "2026-10-25T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Manhã: \"Teste rápido: manda mensagem para a sua clínica agora.\" Controle deslizante \"Em quanto tempo responderam?\". Noite: repost do carrossel.",
+      "legenda": "Quanto mais rápido a recepção passa o preço, menos paciente agenda.\n\nO paciente manda \"quanto custa a consulta?\". A recepção responde em um minuto: \"R$ 350\". Rápida, educada, correta. E o paciente não volta.\n\nQuem pergunta o preço quer saber se vale a pena. Preço sem contexto vira comparação, e na comparação sempre existe alguém mais barato.\n\nA resposta que agenda tem quatro passos: acolha pelo nome, entenda o motivo, dê o valor com contexto e ofereça o horário.\n\nManda para quem responde o WhatsApp da sua clínica. Ela usa amanhã cedo.\n\n#gestaodeclinicas #secretariamedica #atendimentoaopaciente #whatsappbusiness #recepcaodeclinica",
+      "midias": [
+        "midia/2026-10-15_preco-rapido/01.jpg",
+        "midia/2026-10-15_preco-rapido/02.jpg",
+        "midia/2026-10-15_preco-rapido/03.jpg",
+        "midia/2026-10-15_preco-rapido/04.jpg",
+        "midia/2026-10-15_preco-rapido/05.jpg",
+        "midia/2026-10-15_preco-rapido/06.jpg",
+        "midia/2026-10-15_preco-rapido/07.jpg",
+        "midia/2026-10-15_preco-rapido/08.jpg"
+      ],
+      "origem": "2026-10-15_preco-rapido"
+    },
+    {
+      "id": "FR-07",
+      "titulo": "Todo mundo quer atender. Ninguém liga para quem não voltou.",
+      "quando": "2026-10-26T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "Atender é a parte que todo mundo quer fazer. Ligar para quem não voltou é a parte que ninguém assume.\n\nO paciente que pediu orçamento e não ouviu mais nada não sumiu. Esfriou esperando alguém.\n\nManda para quem precisa ser o goleiro da sua clínica.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #vendasnasaude",
+      "midias": [
+        "midia/2026-10-17_frase-retorno/01.jpg"
+      ],
+      "origem": "2026-10-17_frase-retorno",
+      "frase": true
+    },
+    {
+      "id": "GC-01",
+      "titulo": "A hora vazia",
+      "quando": "2026-10-26T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)",
+      "legenda": "A hora mais cara da sua clínica é a hora vazia. E ela não aparece em nenhum relatório.\n\nA hora vazia parece custo zero. Não atendeu, não gastou. Só que o aluguel, a equipe e o sistema já foram pagos, e ela não devolve nada.\n\nNuma clínica com R$ 24 mil de custo fixo e 45% da agenda vazia, são R$ 10.800 por mês parados na cadeira. R$ 129.600 no ano. (Simulação; a sua conta usa os seus números.)\n\nAntes de mexer no preço, meça a ocupação. Preço vem depois da conta.\n\nManda para alguém que tem hora vazia na agenda e ainda acha que ela não custa nada.\n\n#gestaodeclinicas #precificacao #agendamedica #gestaoemsaude #donodeclinica",
+      "midias": [
+        "midia/2026-10-19_hora-vazia/01.jpg",
+        "midia/2026-10-19_hora-vazia/02.jpg",
+        "midia/2026-10-19_hora-vazia/03.jpg",
+        "midia/2026-10-19_hora-vazia/04.jpg",
+        "midia/2026-10-19_hora-vazia/05.jpg",
+        "midia/2026-10-19_hora-vazia/06.jpg",
+        "midia/2026-10-19_hora-vazia/07.jpg",
+        "midia/2026-10-19_hora-vazia/08.jpg"
+      ],
+      "origem": "2026-10-19_hora-vazia"
+    },
+    {
+      "id": "FR-09",
+      "titulo": "Dá para ter a agenda cheia e fechar o mês no vermelho.",
+      "quando": "2026-10-27T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "Dá para ter a agenda cheia e fechar o mês no vermelho. Acontece mais do que parece.\n\nSe o procedimento mais vendido paga menos do que a hora custa, a agenda enche e o caixa esvazia.\n\nManda para alguém que trabalha de 7h às 19h e não entende por que não sobra.\n\n#gestaodeclinicas #precificacao #donodeclinica #gestaoemsaude",
+      "midias": [
+        "midia/2026-10-19_frase-extrato/01.jpg"
+      ],
+      "origem": "2026-10-19_frase-extrato",
+      "frase": true
+    },
+    {
+      "id": "GC-03",
+      "titulo": "Laudo da Semana 01",
+      "quando": "2026-10-27T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Laudo da Semana. Paciente: uma clínica de dermatologia que faturava bem e não sabia onde perdia dinheiro.\n\nQueixa principal: agenda cheia, margem vazia. O exame mostrou conversão de orçamento em 28% e primeira resposta em 3 h 40.\n\nSó na conversão, R$ 42.840 por mês ficavam pelo caminho. (Caso composto para ilustrar o método.)\n\nA conduta não teve mais anúncio, nem desconto, nem preço novo. Teve dono para o orçamento e quem converte livre de papelada.\n\nSegue o perfil: toda semana eu abro o laudo de uma clínica aqui.\n\n#gestaodeclinicas #dermatologia #clinicamedica #gestaoemsaude #conversao",
+      "midias": [
+        "midia/2026-10-20_laudo-da-semana-01/01.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/02.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/03.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/04.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/05.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/06.jpg",
+        "midia/2026-10-20_laudo-da-semana-01/07.jpg"
+      ],
+      "origem": "2026-10-20_laudo-da-semana-01"
+    },
+    {
+      "id": "metafora_balde-furado",
+      "titulo": "Antes de colocar mais dinheiro em anúncio, olhe para os furo",
+      "quando": "2026-10-28T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Antes de colocar mais dinheiro em anúncio, olhe para os furos.\n\nFalta sem aviso, orçamento parado, retorno que ninguém marcou. Anúncio em clínica que vaza só aumenta o volume do vazamento.\n\nManda para quem cuida do marketing da sua clínica.\n\n#gestaodeclinicas #marketingmedico #clinicamedica",
+      "midias": [
+        "midia/metafora_balde-furado/01.jpg"
+      ],
+      "origem": "metafora_balde-furado"
+    },
+    {
+      "id": "GC-12",
+      "titulo": "Triplicar não cabe na sua agenda",
+      "quando": "2026-10-28T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Tarde: enquete \"Você já comprou curso ou mentoria que não entregou o prometido?\" · Já / Nunca. Caixinha: \"O que te prometeram?\"",
+      "legenda": "Isso Não É Sério, episódio 1: \"fature 3x em 90 dias\".\n\nSe a sua agenda está 70% ocupada, o teto sem contratar ninguém e sem mexer no preço é crescer 43%. Triplicar não cabe. (Simulação.)\n\nPara crescer de verdade, algo precisa mudar: preço, equipe, salas ou conversão. Cada um tem custo, prazo e risco, e a ordem importa.\n\nPromessa que não pergunta nenhum dos seus números é conduta sem exame. Você não faria isso com um paciente.\n\nManda para quem está prestes a comprar essa promessa.\n\n#gestaodeclinicas #empreendedorismonasaude #consultoriomedico #gestaoemsaude #donodeclinica",
+      "midias": [
+        "midia/2026-10-21_isso-nao-e-serio-01/01.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/02.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/03.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/04.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/05.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/06.jpg",
+        "midia/2026-10-21_isso-nao-e-serio-01/07.jpg"
+      ],
+      "origem": "2026-10-21_isso-nao-e-serio-01"
+    },
+    {
+      "id": "metafora_iceberg",
+      "titulo": "Faturamento é o que todo mundo olha.",
+      "quando": "2026-10-29T08:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Faturamento é o que todo mundo olha.\n\nConversão, preço, retorno, agenda e quem atende o WhatsApp é o que decide se ele cresce. Fica tudo embaixo da linha da água.\n\nSegue o perfil: toda semana eu desço um pouco mais nesse iceberg.\n\n#gestaodeclinicas #faturamento #consultorio",
+      "midias": [
+        "midia/metafora_iceberg/01.jpg"
+      ],
+      "origem": "metafora_iceberg"
+    },
+    {
+      "id": "GC-01-R",
+      "titulo": "A hora vazia (Reels)",
+      "quando": "2026-10-29T18:30:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A hora que ninguém atendeu também foi paga.\n\nNuma clínica com R$ 24.000 de custo fixo e 45% da agenda vazia, são R$ 10.800 por mês parados na cadeira. R$ 129.600 no ano. (Simulação.)\n\nAntes de mexer no preço, meça a ocupação: por sala e por profissional.\n\nManda para quem cuida da agenda da sua clínica.\n\n#gestaodeclinicas #agendamedica #consultorio #clinicamedica #secretariamedica",
+      "midias": [
+        "midia/2026-10-19_hora-vazia/reels.mp4"
+      ],
+      "origem": "2026-10-19_hora-vazia"
+    },
+    {
+      "id": "FR-10",
+      "titulo": "A sua clínica não tem problema de marketing. Tem problema de matemática.",
+      "quando": "2026-10-30T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
+      "legenda": "75% das clínicas investem em anúncio pago e 67% nunca mapearam a jornada do paciente (Panorama das Clínicas 2026, Doctoralia).\n\nAntes de contratar mais anúncio, responda: quanto custa a sua hora, quantos orçamentos viraram tratamento no mês e quantas pessoas chamaram e nunca tiveram resposta.\n\nSegue o perfil: toda semana eu abro a conta de uma clínica aqui.\n\n#gestaodeclinicas #marketingmedico #donodeclinica #gestaoemsaude",
+      "midias": [
+        "midia/2026-10-20_frase-matematica/01.jpg"
+      ],
+      "origem": "2026-10-20_frase-matematica",
+      "frase": true
+    },
+    {
       "id": "GC-16",
       "titulo": "Novembro Azul: laço ou agenda",
       "quando": "2026-10-30T18:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "data comemorativa já passou (30/10/2026)",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "",
       "stories": "Manhã: \"30/10, Dia do Ginecologista\". Tarde: demonstração de uma calculadora com dados de exemplo. Noite: link + \"Comenta CALCULADORA no carrossel\".",
       "legenda": "Domingo começa o Novembro Azul. Muita clínica vai postar um laço azul. Quase nenhuma vai encher a agenda com isso.\n\nCampanha de mês colorido costuma virar panfleto: arte bonita e nenhum paciente. O que converte é dar ao paciente um jeito de olhar para si antes de chegar: perguntas que ele responde em dois minutos, uma orientação para procurar avaliação e o contato para receber o resultado.\n\nA equipe para de ligar para nome frio e conversa com quem já disse qual é a dor.\n\nToda calculadora orienta a procurar avaliação, nunca diagnostica, e é validada pelo profissional responsável.\n\nComenta CALCULADORA que eu te mando exemplos por especialidade.\n\n#novembroazul #urologia #marketingmedico #gestaodeclinicas #clinicamedica",
@@ -127,6 +475,22 @@
       ],
       "origem": "2026-10-30_novembro-azul",
       "fixo": true
+    },
+    {
+      "id": "L3-05",
+      "titulo": "Acha caro o que ninguém explicou",
+      "quando": "2026-10-31T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repost com enquete: \"Concorda?\" · Concordo / Discordo (a opção que divide gera resposta).",
+      "legenda": "Paciente achou caro? Antes de dar desconto, olha o que ele ouviu.\n\nEle não sabe avaliar a sua técnica. Ele avalia o que entendeu: o que está incluído, por que importa e o que acontece se não tratar.\n\nPreço sem explicação parece caro em qualquer valor.\n\nManda para quem acha que o problema é o preço.\n\n#gestaodeclinicas #precificacao #consultorio #atendimento",
+      "midias": [
+        "midia/2026-11-13_frase-explicacao/01.jpg"
+      ],
+      "origem": "2026-11-13_frase-explicacao",
+      "frase": true
     },
     {
       "id": "paciente-problema",
@@ -240,29 +604,26 @@
       "origem": "2026-11-21_duas-clinicas-21h47"
     },
     {
-      "id": "OD01",
-      "titulo": "Os Doutores · Estreia: toda clínica tem um desses doutores",
+      "id": "L3-01",
+      "titulo": "Dois donos, mesmo dia",
       "quando": "2026-11-03T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Todo dono de clínica já foi pelo menos um desses. Desde 2009 eu encontro os treze por aí, às vezes todos na mesma pessoa.\n\nA partir de hoje, todo dia às 12h30 tem um deles aqui. Primeiro sozinho, no dia a dia que você conhece bem. Depois sentado comigo, com a conta na mesa e o que fazer amanhã de manhã.\n\nSem julgamento, tá? Cada defeito desses tem uma dor de verdade por trás. E todos têm saída.\n\nAmanhã começa pela Dra. Helena.\n\nComenta o número do teu. E se for a tua sócia, marca ela.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #medicos",
+      "obs": "",
+      "stories": "Repost do carrossel + enquete \"Hoje você foi o de cima ou o de baixo?\" · De cima / De baixo. Caixinha: \"Qual horário do seu dia mais te drena?\" (vira pauta da série Duas Clínicas).",
+      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
       "midias": [
-        "midia/2026-11-03_od01/01.jpg",
-        "midia/2026-11-03_od01/02.jpg",
-        "midia/2026-11-03_od01/03.jpg",
-        "midia/2026-11-03_od01/04.jpg",
-        "midia/2026-11-03_od01/05.jpg",
-        "midia/2026-11-03_od01/06.jpg",
-        "midia/2026-11-03_od01/07.jpg",
-        "midia/2026-11-03_od01/08.jpg",
-        "midia/2026-11-03_od01/09.jpg",
-        "midia/2026-11-03_od01/10.jpg"
+        "midia/2026-11-09_dois-donos/01.jpg",
+        "midia/2026-11-09_dois-donos/02.jpg",
+        "midia/2026-11-09_dois-donos/03.jpg",
+        "midia/2026-11-09_dois-donos/04.jpg",
+        "midia/2026-11-09_dois-donos/05.jpg",
+        "midia/2026-11-09_dois-donos/06.jpg",
+        "midia/2026-11-09_dois-donos/07.jpg",
+        "midia/2026-11-09_dois-donos/08.jpg"
       ],
-      "origem": "2026-11-03_od01",
-      "fixo": true
+      "origem": "2026-11-09_dois-donos"
     },
     {
       "id": "L3-33",
@@ -280,28 +641,25 @@
       "origem": "2026-11-22_numero-54"
     },
     {
-      "id": "OD02",
-      "titulo": "Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou",
+      "id": "L3-03",
+      "titulo": "Os mesmos 40 minutos",
       "quando": "2026-11-04T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Faturar bem e não saber quanto ganha é muito mais comum do que parece. E é das coisas que mais dão vergonha de admitir.\n\nA Dra. Helena tem agenda cheia, paciente satisfeito e equipe boa. O que ela não tem é conta separada, pró-labore definido e o custo da hora. Aí todo mês que aperta, a resposta é trabalhar mais.\n\nSó que trabalhar mais com a hora mal paga não resolve, né? Só acelera o aperto.\n\nDia 16 ela senta comigo e eu te mostro a conta que a gente fez.\n\nComenta 2 se você também tá nessa. Sem julgamento.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #consultorio",
+      "obs": "",
+      "stories": "Caixa de perguntas: \"Onde foram os seus 40 minutos hoje?\" Responda 3 nos Stories com a troca certa.",
+      "legenda": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria o preço.\n\nPodem virar WhatsApp no almoço ou os números da semana. Áudio explicando o plano de novo ou o plano escrito uma vez. Paciente esperando calado ou paciente avisado do atraso.\n\nCom hora clínica de R$ 300, 4 blocos de 40 minutos perdidos por semana são R$ 3.200 por mês. (Simulação.)\n\nAgenda cheia não é agenda boa. Importa quem ocupa o seu tempo.\n\nSalva e mostra para a recepção na segunda.\n\n#gestaodeclinicas #agenda #consultorio #produtividade #gestaoemsaude",
       "midias": [
-        "midia/2026-11-04_od02/01.jpg",
-        "midia/2026-11-04_od02/02.jpg",
-        "midia/2026-11-04_od02/03.jpg",
-        "midia/2026-11-04_od02/04.jpg",
-        "midia/2026-11-04_od02/05.jpg",
-        "midia/2026-11-04_od02/06.jpg",
-        "midia/2026-11-04_od02/07.jpg",
-        "midia/2026-11-04_od02/08.jpg",
-        "midia/2026-11-04_od02/09.jpg"
+        "midia/2026-11-11_mesmos-40-minutos/01.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/02.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/03.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/04.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/05.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/06.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/07.jpg"
       ],
-      "origem": "2026-11-04_od02",
-      "fixo": true
+      "origem": "2026-11-11_mesmos-40-minutos"
     },
     {
       "id": "L3-34",
@@ -341,28 +699,6 @@
       "fixo": true
     },
     {
-      "id": "OD03",
-      "titulo": "Os Doutores · Notícia: o paciente que desiste",
-      "quando": "2026-11-05T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.\n\nEm 2025, foram mais de 88 milhões de consultas marcadas online no Brasil, segundo a Doctoralia. Até entre quem tem 60 anos ou mais, 35% já preferem o WhatsApp. E no CX Trends 2026, da Octadesk e Opinion Box, 67% desistiram de alguma compra no último ano depois de uma experiência ruim.\n\nO paciente não reclama, tá? Ele simplesmente marca em outro lugar. Por isso, antes de pensar em anúncio, olha quanto tempo a tua clínica leva pra responder a primeira mensagem.\n\nFontes: Viva, com dados da Doctoralia (Perfil do Paciente Digital 2026), jan/2026. CX Trends 2026, Octadesk e Opinion Box.\n\nSalva e manda pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
-      "midias": [
-        "midia/2026-11-05_od03/01.jpg",
-        "midia/2026-11-05_od03/02.jpg",
-        "midia/2026-11-05_od03/03.jpg",
-        "midia/2026-11-05_od03/04.jpg",
-        "midia/2026-11-05_od03/05.jpg",
-        "midia/2026-11-05_od03/06.jpg",
-        "midia/2026-11-05_od03/07.jpg"
-      ],
-      "origem": "2026-11-05_od03",
-      "fixo": true
-    },
-    {
       "id": "L3-35",
       "titulo": "34% com falta acima de 11%",
       "quando": "2026-11-06T08:30:00-03:00",
@@ -378,27 +714,26 @@
       "origem": "2026-11-29_numero-34"
     },
     {
-      "id": "OD04",
-      "titulo": "Os Doutores · Lucas: 94 dias postando, 3 consultas particulares",
+      "id": "L3-04",
+      "titulo": "5 erros que parecem educação",
       "quando": "2026-11-06T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá acontecendo, né?\n\nO Dr. Lucas faz tudo certo no Instagram. O problema começa depois: a pessoa vê o vídeo, chama no direct, pergunta o preço e fica dois dias esperando. Quando ele responde, ela já marcou com outro.\n\nO alcance trouxe gente. O que faltou foi alguém pra receber essa gente.\n\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, com 639 gestores.\n\nDia 18 ele senta comigo. Comenta 6 e marca o colega da trend.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#medicos #nutricao #atendimento",
+      "obs": "",
+      "stories": "Enquete: \"Áudio para paciente: sim ou não?\" Depois, a resposta da lâmina 3. Caixinha: \"Qual frase a sua recepção mais usa?\"",
+      "legenda": "Como responder paciente no WhatsApp sem travar o agendamento.\n\n\"Bom dia, tudo bem?\" e esperar. Áudio de 2 minutos. \"Vou verificar e te retorno\". Tabela inteira em PDF. \"Qualquer dúvida, estou à disposição\".\n\nTudo parece educação. Tudo atrasa a decisão do paciente.\n\n51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Cada troca de mensagem a mais é uma chance de ele desistir.\n\nManda para quem cuida do WhatsApp da sua clínica. Sem bronca.\n\n#gestaodeclinicas #atendimento #whatsapp #secretariadeconsultorio #recepcao",
       "midias": [
-        "midia/2026-11-06_od04/01.jpg",
-        "midia/2026-11-06_od04/02.jpg",
-        "midia/2026-11-06_od04/03.jpg",
-        "midia/2026-11-06_od04/04.jpg",
-        "midia/2026-11-06_od04/05.jpg",
-        "midia/2026-11-06_od04/06.jpg",
-        "midia/2026-11-06_od04/07.jpg",
-        "midia/2026-11-06_od04/08.jpg"
+        "midia/2026-11-12_parecem-educacao/01.jpg",
+        "midia/2026-11-12_parecem-educacao/02.jpg",
+        "midia/2026-11-12_parecem-educacao/03.jpg",
+        "midia/2026-11-12_parecem-educacao/04.jpg",
+        "midia/2026-11-12_parecem-educacao/05.jpg",
+        "midia/2026-11-12_parecem-educacao/06.jpg",
+        "midia/2026-11-12_parecem-educacao/07.jpg",
+        "midia/2026-11-12_parecem-educacao/08.jpg"
       ],
-      "origem": "2026-11-06_od04",
-      "fixo": true
+      "origem": "2026-11-12_parecem-educacao"
     },
     {
       "id": "L3-36",
@@ -416,26 +751,26 @@
       "origem": "2026-12-02_numero-75"
     },
     {
-      "id": "OD05",
-      "titulo": "Os Doutores · Você acordou hoje: o descontinho das 6h52",
+      "id": "L3-07",
+      "titulo": "Duas recepções, mesma segunda",
       "quando": "2026-11-07T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Hoje começa um quadro novo aqui: eu vestindo o teu jaleco pra viver um dia teu. Eu passo os dias dentro de clínica desde 2009, e esse dia eu conheço bem.\n\nO pedido de desconto chega antes do café. E a resposta que sai no automático, \"posso ver\", já avisa pra pessoa que o teu preço é negociável.\n\nDesconto não se responde no impulso, tá? Se troca por alguma coisa, se pergunta o que pesa ou se explica o valor.\n\nComenta COBRAR que eu te mando o raio-x comercial da tua clínica. Em 3 minutos você vê onde o orçamento escapa.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #atendimento",
+      "obs": "",
+      "stories": "Enquete: \"Quantas mensagens chegaram no seu fim de semana?\" (controle deslizante). Depois, o quadro dos 4 números para printar.",
+      "legenda": "O que uma secretária de consultório faz numa segunda-feira? Depende do processo que ela recebeu.\n\nÀs 8h, 47 mensagens do fim de semana. Às 9h15, \"quanto custa?\". Às 11h, os orçamentos de ontem. Às 14h, uma falta. Às 17h30, \"tá caro\". Às 19h, o fim do dia.\n\nEm cada horário, uma recepção corre atrás e a outra segue uma regra.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). O fim de semana também é agenda.\n\nSalva e anota 4 números hoje às 19h: conversas, agendamentos, faltas e orçamentos.\n\n#secretariadeconsultorio #recepcao #gestaodeclinicas #atendimento #consultorio",
       "midias": [
-        "midia/2026-11-07_od05/01.jpg",
-        "midia/2026-11-07_od05/02.jpg",
-        "midia/2026-11-07_od05/03.jpg",
-        "midia/2026-11-07_od05/04.jpg",
-        "midia/2026-11-07_od05/05.jpg",
-        "midia/2026-11-07_od05/06.jpg",
-        "midia/2026-11-07_od05/07.jpg"
+        "midia/2026-11-16_duas-recepcoes/01.jpg",
+        "midia/2026-11-16_duas-recepcoes/02.jpg",
+        "midia/2026-11-16_duas-recepcoes/03.jpg",
+        "midia/2026-11-16_duas-recepcoes/04.jpg",
+        "midia/2026-11-16_duas-recepcoes/05.jpg",
+        "midia/2026-11-16_duas-recepcoes/06.jpg",
+        "midia/2026-11-16_duas-recepcoes/07.jpg",
+        "midia/2026-11-16_duas-recepcoes/08.jpg"
       ],
-      "origem": "2026-11-07_od05",
-      "fixo": true
+      "origem": "2026-11-16_duas-recepcoes"
     },
     {
       "id": "L3-24",
@@ -453,29 +788,26 @@
       "origem": "2026-12-05_qual-ele-lembra"
     },
     {
-      "id": "OD06",
-      "titulo": "Os Doutores · Caio: saiu do plantão e dormiu no carro",
+      "id": "L3-08",
+      "titulo": "Os três \"achei caro\"",
       "quando": "2026-11-08T18:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Domingo é dia de falar de cansaço sem vergonha, tá?\n\nO Dr. Caio é o médico que todo mundo conhece: competente, disponível, sempre de plantão. Ele não reclama. Só vai somando escala pra fechar o mês e adiando o consultório pra quando der.\n\nO que ninguém mostrou pra ele é quanto vale de verdade cada uma dessas horas. Sem essa conta, ele não consegue nem decidir quanto cobrar quando sair.\n\nFonte: Afya, pesquisa Qualidade de Vida do Médico 2025.\n\nDia 28 a gente faz essa conta juntos. Comenta 10 ou manda pro colega de plantão.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#plantao #medicos #gestaoemsaude",
+      "obs": "",
+      "stories": "Caixinha: \"Qual resposta você dá quando o paciente diz que está caro?\" Responda 3 com a lâmina certa.",
+      "legenda": "O que responder quando o paciente acha caro? Primeiro, descobrir qual dos três está falando.\n\n1. O que não entendeu o valor: explique o que está incluído.\n\n2. O que não cabe agora: mostre o caminho em etapas. O problema é acesso.\n\n3. O que está comparando: compare o que está incluído, por escrito. Desconto aqui vira leilão.\n\nA pergunta que separa os três: \"O que pesou mais: o valor total ou a forma de pagar?\"\n\nSalva e passa para quem fecha orçamento.\n\n#gestaodeclinicas #vendasnasaude #precificacao #atendimento #orcamento",
       "midias": [
-        "midia/2026-11-08_od06/01.jpg",
-        "midia/2026-11-08_od06/02.jpg",
-        "midia/2026-11-08_od06/03.jpg",
-        "midia/2026-11-08_od06/04.jpg",
-        "midia/2026-11-08_od06/05.jpg",
-        "midia/2026-11-08_od06/06.jpg",
-        "midia/2026-11-08_od06/07.jpg",
-        "midia/2026-11-08_od06/08.jpg",
-        "midia/2026-11-08_od06/09.jpg",
-        "midia/2026-11-08_od06/10.jpg"
+        "midia/2026-11-17_achou-caro/01.jpg",
+        "midia/2026-11-17_achou-caro/02.jpg",
+        "midia/2026-11-17_achou-caro/03.jpg",
+        "midia/2026-11-17_achou-caro/04.jpg",
+        "midia/2026-11-17_achou-caro/05.jpg",
+        "midia/2026-11-17_achou-caro/06.jpg",
+        "midia/2026-11-17_achou-caro/07.jpg",
+        "midia/2026-11-17_achou-caro/08.jpg"
       ],
-      "origem": "2026-11-08_od06",
-      "fixo": true
+      "origem": "2026-11-17_achou-caro"
     },
     {
       "id": "L3-37",
@@ -1205,45 +1537,6 @@
       "origem": "2026-12-14_mercado-em-10-numeros"
     },
     {
-      "id": "FR-02",
-      "titulo": "O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.",
-      "quando": "2026-11-26T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "O seu paciente não comparou currículos. Mandou mensagem para três clínicas e marcou com a que respondeu primeiro.\n\nTécnica é pré-requisito. O que decide a escolha é o que ele consegue ver: a resposta, o nome, o horário oferecido.\n\nManda para quem cuida do WhatsApp da sua clínica.\n\n#gestaodeclinicas #atendimentoaopaciente #whatsappbusiness #donodeclinica",
-      "midias": [
-        "midia/2026-10-12_frase-respondeu-primeiro/01.jpg"
-      ],
-      "origem": "2026-10-12_frase-respondeu-primeiro",
-      "frase": true
-    },
-    {
-      "id": "GC-08",
-      "titulo": "A culpa de cobrar",
-      "quando": "2026-11-26T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Noite: repost do carrossel + enquete \"Você já deu desconto antes de o paciente pedir?\" · Já / Nunca. Caixinha: \"O que você responde quando dizem que está caro?\" (vira pauta).",
-      "legenda": "Tem profissional de saúde que cobra pouco porque acha que cobrar caro é feio.\n\nO desconto sai antes de o paciente pedir. E o paciente entende o recado: o valor era negociável.\n\nNuma agenda com 120 consultas de R$ 300, 10% oferecidos por culpa são R$ 3.600 por mês. R$ 43.200 no ano. (Simulação.)\n\nQuem paga essa conta é a sua equipe, o seu equipamento e você daqui a 5 anos. No lugar da culpa, método: protocolo escalonado, parcelamento com regra e condição só com contrapartida.\n\nCobrar bem não é ganância. É o que permite continuar atendendo bem.\n\nManda para aquele colega que pede desculpa toda vez que fala o preço.\n\n#gestaodeclinicas #precificacao #consultorio #odontologia #gestaoemsaude",
-      "midias": [
-        "midia/2026-10-11_culpa-de-cobrar/01.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/02.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/03.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/04.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/05.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/06.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/07.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/08.jpg",
-        "midia/2026-10-11_culpa-de-cobrar/09.jpg"
-      ],
-      "origem": "2026-10-11_culpa-de-cobrar"
-    },
-    {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
       "quando": "2026-11-27T06:30:00-03:00",
@@ -1259,440 +1552,6 @@
       "origem": "2026-11-27_frase-um-terco",
       "fixo": true,
       "frase": true
-    },
-    {
-      "id": "GC-07",
-      "titulo": "12 regras que eu não negocio",
-      "quando": "2026-11-27T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "fixar no perfil",
-      "stories": "",
-      "legenda": "Desde 2009 dentro de clínicas. Médicos, dentistas, fisioterapeutas, nutricionistas, biomédicos, harmonização. Mais de 40 especialidades.\n\nMudam a cidade, o tamanho e a especialidade. Estas 12 regras não mudam.\n\nSegue o perfil: toda semana eu mostro uma dessas regras funcionando dentro de uma clínica.\n\n#gestaodeclinicas #gestaoemsaude #empreendedorismonasaude #clinicamedica #odontologia",
-      "midias": [
-        "midia/fixado_12-regras/01.jpg",
-        "midia/fixado_12-regras/02.jpg",
-        "midia/fixado_12-regras/03.jpg",
-        "midia/fixado_12-regras/04.jpg",
-        "midia/fixado_12-regras/05.jpg",
-        "midia/fixado_12-regras/06.jpg",
-        "midia/fixado_12-regras/07.jpg",
-        "midia/fixado_12-regras/08.jpg"
-      ],
-      "origem": "fixado_12-regras"
-    },
-    {
-      "id": "FR-03",
-      "titulo": "Se o seu preço veio do concorrente, o seu lucro também é dele.",
-      "quando": "2026-11-28T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Preço copiado traz junto o aluguel, a agenda e a margem de outra clínica. Nenhum deles é seu.\n\nAntes de mexer no valor, descubra quanto custa a sua hora.\n\nManda para alguém que montou a tabela olhando a do vizinho.\n\n#precificacao #gestaodeclinicas #consultorio #donodeclinica",
-      "midias": [
-        "midia/2026-10-13_frase-preco-do-concorrente/01.jpg"
-      ],
-      "origem": "2026-10-13_frase-preco-do-concorrente",
-      "frase": true
-    },
-    {
-      "id": "GC-09",
-      "titulo": "O teste das 21h",
-      "quando": "2026-11-28T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "21h: \"Começou o teste. Manda a mensagem agora.\" Na manhã seguinte: controle deslizante \"Quanto tempo a sua clínica levou?\" e caixinha com os tempos (sem nomes).",
-      "legenda": "Hoje às 21h, faz um teste: manda \"Oi, boa noite. Quanto custa uma avaliação?\" para o WhatsApp da sua clínica, de um número que ela não conhece.\n\nAnota cinco coisas: o tempo da primeira resposta, se informou o valor, se perguntou o seu nome, se ofereceu horário e se alguém voltou a falar com você em 48 horas.\n\n75% dos brasileiros já contrataram um serviço pelo WhatsApp (Opinion Box, Pesquisa WhatsApp no Brasil 2026). O seu paciente decide ali.\n\nO teste serve para achar a conversa que está sem dono, sem procurar culpado.\n\nFaz o teste hoje às 21h e segue o perfil: amanhã eu mostro o que fazer com a resposta que chegar.\n\n#gestaodeclinicas #atendimentoaopaciente #secretariamedica #whatsappbusiness #consultorio",
-      "midias": [
-        "midia/2026-10-14_teste-das-21h/01.jpg",
-        "midia/2026-10-14_teste-das-21h/02.jpg",
-        "midia/2026-10-14_teste-das-21h/03.jpg",
-        "midia/2026-10-14_teste-das-21h/04.jpg",
-        "midia/2026-10-14_teste-das-21h/05.jpg",
-        "midia/2026-10-14_teste-das-21h/06.jpg",
-        "midia/2026-10-14_teste-das-21h/07.jpg",
-        "midia/2026-10-14_teste-das-21h/08.jpg"
-      ],
-      "origem": "2026-10-14_teste-das-21h"
-    },
-    {
-      "id": "FR-04",
-      "titulo": "Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.",
-      "quando": "2026-11-29T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "A sua recepção não é ruim. Ela atende telefone, balcão e WhatsApp ao mesmo tempo, e o paciente que chama no meio disso espera.\n\nAtendimento bom não depende de quem está online. Depende de processo, roteiro e de alguém com nome cuidando de cada conversa.\n\nManda para a sua recepção. Ela vai se sentir vista.\n\n#secretariamedica #recepcaodeclinica #gestaodeclinicas #atendimentoaopaciente",
-      "midias": [
-        "midia/2026-10-14_frase-sorte/01.jpg"
-      ],
-      "origem": "2026-10-14_frase-sorte",
-      "frase": true
-    },
-    {
-      "id": "GC-22",
-      "titulo": "Quanto mais rápido passa o preço, menos agenda",
-      "quando": "2026-11-29T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Manhã: \"Teste rápido: manda mensagem para a sua clínica agora.\" Controle deslizante \"Em quanto tempo responderam?\". Noite: repost do carrossel.",
-      "legenda": "Quanto mais rápido a recepção passa o preço, menos paciente agenda.\n\nO paciente manda \"quanto custa a consulta?\". A recepção responde em um minuto: \"R$ 350\". Rápida, educada, correta. E o paciente não volta.\n\nQuem pergunta o preço quer saber se vale a pena. Preço sem contexto vira comparação, e na comparação sempre existe alguém mais barato.\n\nA resposta que agenda tem quatro passos: acolha pelo nome, entenda o motivo, dê o valor com contexto e ofereça o horário.\n\nManda para quem responde o WhatsApp da sua clínica. Ela usa amanhã cedo.\n\n#gestaodeclinicas #secretariamedica #atendimentoaopaciente #whatsappbusiness #recepcaodeclinica",
-      "midias": [
-        "midia/2026-10-15_preco-rapido/01.jpg",
-        "midia/2026-10-15_preco-rapido/02.jpg",
-        "midia/2026-10-15_preco-rapido/03.jpg",
-        "midia/2026-10-15_preco-rapido/04.jpg",
-        "midia/2026-10-15_preco-rapido/05.jpg",
-        "midia/2026-10-15_preco-rapido/06.jpg",
-        "midia/2026-10-15_preco-rapido/07.jpg",
-        "midia/2026-10-15_preco-rapido/08.jpg"
-      ],
-      "origem": "2026-10-15_preco-rapido"
-    },
-    {
-      "id": "FR-05",
-      "titulo": "Se só você sabe passar o valor, a clínica para quando você atende.",
-      "quando": "2026-11-30T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Se só você sabe passar o valor, a sua clínica fica parada toda vez que você entra no consultório.\n\nO paciente pergunta às 9h e espera você terminar a consulta. Às vezes, ele não espera.\n\nValor, desconto e retorno com regra escrita: a recepção responde sem bater na sua porta.\n\nSegue o perfil: aqui a gestão é a que acontece todo dia.\n\n#gestaodeclinicas #gestaoemsaude #donodeclinica #clinicamedica",
-      "midias": [
-        "midia/2026-10-15_frase-terca-9h/01.jpg"
-      ],
-      "origem": "2026-10-15_frase-terca-9h",
-      "frase": true
-    },
-    {
-      "id": "GC-10",
-      "titulo": "O celular da recepção",
-      "quando": "2026-11-30T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Manhã: chegada na clínica do cliente, equipe de costas. Tarde: repost + enquete \"Você sabe quantas conversas estão sem resposta agora?\" · Sei / Não sei.",
-      "legenda": "Quando eu entro numa clínica pela primeira vez, eu não peço o balanço. Peço o celular da recepção.\n\nÉ ali que a clínica conta a verdade. Nos primeiros 30 minutos eu olho três coisas: conversas sem resposta agora, orçamentos sem retorno no último mês e quem faz o quê.\n\nQuase sempre, quem deveria converter está imprimindo boleto. São 66 horas por mês da pessoa que fecha tratamento em tarefa que não fecha nada. (Simulação: 3 h por dia, 22 dias úteis.)\n\nQuem converte não faz tarefa acessória. 30 dias para delegar.\n\nManda para quem gerencia a sua recepção. Na segunda, ela faz os 3 exames.\n\n#gestaodeclinicas #gestaoemsaude #secretariamedica #clinicamedica #odontologia",
-      "midias": [
-        "midia/2026-10-16_celular-da-recepcao/01.jpg",
-        "midia/2026-10-16_celular-da-recepcao/02.jpg",
-        "midia/2026-10-16_celular-da-recepcao/03.jpg",
-        "midia/2026-10-16_celular-da-recepcao/04.jpg",
-        "midia/2026-10-16_celular-da-recepcao/05.jpg",
-        "midia/2026-10-16_celular-da-recepcao/06.jpg",
-        "midia/2026-10-16_celular-da-recepcao/07.jpg",
-        "midia/2026-10-16_celular-da-recepcao/08.jpg"
-      ],
-      "origem": "2026-10-16_celular-da-recepcao"
-    },
-    {
-      "id": "FR-06",
-      "titulo": "Clínica não quebra por falta de talento. Quebra por falta de rotina.",
-      "quando": "2026-12-01T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Desde 2009, em mais de 40 especialidades, eu vi profissional excelente fechar o mês no vermelho. E clínica comum crescer com método.\n\nA diferença quase nunca foi talento. Foi rotina: número toda semana, dono para cada orçamento, recepção com roteiro.\n\nManda para alguém que é excelente no que faz e está cansado de gerir no improviso.\n\n#gestaodeclinicas #gestaoemsaude #empreendedorismonasaude #donodeclinica",
-      "midias": [
-        "midia/2026-10-16_frase-rotina/01.jpg"
-      ],
-      "origem": "2026-10-16_frase-rotina",
-      "frase": true
-    },
-    {
-      "id": "GC-01",
-      "titulo": "A hora vazia",
-      "quando": "2026-12-01T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)",
-      "legenda": "A hora mais cara da sua clínica é a hora vazia. E ela não aparece em nenhum relatório.\n\nA hora vazia parece custo zero. Não atendeu, não gastou. Só que o aluguel, a equipe e o sistema já foram pagos, e ela não devolve nada.\n\nNuma clínica com R$ 24 mil de custo fixo e 45% da agenda vazia, são R$ 10.800 por mês parados na cadeira. R$ 129.600 no ano. (Simulação; a sua conta usa os seus números.)\n\nAntes de mexer no preço, meça a ocupação. Preço vem depois da conta.\n\nManda para alguém que tem hora vazia na agenda e ainda acha que ela não custa nada.\n\n#gestaodeclinicas #precificacao #agendamedica #gestaoemsaude #donodeclinica",
-      "midias": [
-        "midia/2026-10-19_hora-vazia/01.jpg",
-        "midia/2026-10-19_hora-vazia/02.jpg",
-        "midia/2026-10-19_hora-vazia/03.jpg",
-        "midia/2026-10-19_hora-vazia/04.jpg",
-        "midia/2026-10-19_hora-vazia/05.jpg",
-        "midia/2026-10-19_hora-vazia/06.jpg",
-        "midia/2026-10-19_hora-vazia/07.jpg",
-        "midia/2026-10-19_hora-vazia/08.jpg"
-      ],
-      "origem": "2026-10-19_hora-vazia"
-    },
-    {
-      "id": "FR-07",
-      "titulo": "Todo mundo quer atender. Ninguém liga para quem não voltou.",
-      "quando": "2026-12-02T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Atender é a parte que todo mundo quer fazer. Ligar para quem não voltou é a parte que ninguém assume.\n\nO paciente que pediu orçamento e não ouviu mais nada não sumiu. Esfriou esperando alguém.\n\nManda para quem precisa ser o goleiro da sua clínica.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #vendasnasaude",
-      "midias": [
-        "midia/2026-10-17_frase-retorno/01.jpg"
-      ],
-      "origem": "2026-10-17_frase-retorno",
-      "frase": true
-    },
-    {
-      "id": "GC-03",
-      "titulo": "Laudo da Semana 01",
-      "quando": "2026-12-02T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "",
-      "legenda": "Laudo da Semana. Paciente: uma clínica de dermatologia que faturava bem e não sabia onde perdia dinheiro.\n\nQueixa principal: agenda cheia, margem vazia. O exame mostrou conversão de orçamento em 28% e primeira resposta em 3 h 40.\n\nSó na conversão, R$ 42.840 por mês ficavam pelo caminho. (Caso composto para ilustrar o método.)\n\nA conduta não teve mais anúncio, nem desconto, nem preço novo. Teve dono para o orçamento e quem converte livre de papelada.\n\nSegue o perfil: toda semana eu abro o laudo de uma clínica aqui.\n\n#gestaodeclinicas #dermatologia #clinicamedica #gestaoemsaude #conversao",
-      "midias": [
-        "midia/2026-10-20_laudo-da-semana-01/01.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/02.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/03.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/04.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/05.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/06.jpg",
-        "midia/2026-10-20_laudo-da-semana-01/07.jpg"
-      ],
-      "origem": "2026-10-20_laudo-da-semana-01"
-    },
-    {
-      "id": "FR-09",
-      "titulo": "Dá para ter a agenda cheia e fechar o mês no vermelho.",
-      "quando": "2026-12-03T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "Dá para ter a agenda cheia e fechar o mês no vermelho. Acontece mais do que parece.\n\nSe o procedimento mais vendido paga menos do que a hora custa, a agenda enche e o caixa esvazia.\n\nManda para alguém que trabalha de 7h às 19h e não entende por que não sobra.\n\n#gestaodeclinicas #precificacao #donodeclinica #gestaoemsaude",
-      "midias": [
-        "midia/2026-10-19_frase-extrato/01.jpg"
-      ],
-      "origem": "2026-10-19_frase-extrato",
-      "frase": true
-    },
-    {
-      "id": "GC-12",
-      "titulo": "Triplicar não cabe na sua agenda",
-      "quando": "2026-12-03T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Tarde: enquete \"Você já comprou curso ou mentoria que não entregou o prometido?\" · Já / Nunca. Caixinha: \"O que te prometeram?\"",
-      "legenda": "Isso Não É Sério, episódio 1: \"fature 3x em 90 dias\".\n\nSe a sua agenda está 70% ocupada, o teto sem contratar ninguém e sem mexer no preço é crescer 43%. Triplicar não cabe. (Simulação.)\n\nPara crescer de verdade, algo precisa mudar: preço, equipe, salas ou conversão. Cada um tem custo, prazo e risco, e a ordem importa.\n\nPromessa que não pergunta nenhum dos seus números é conduta sem exame. Você não faria isso com um paciente.\n\nManda para quem está prestes a comprar essa promessa.\n\n#gestaodeclinicas #empreendedorismonasaude #consultoriomedico #gestaoemsaude #donodeclinica",
-      "midias": [
-        "midia/2026-10-21_isso-nao-e-serio-01/01.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/02.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/03.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/04.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/05.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/06.jpg",
-        "midia/2026-10-21_isso-nao-e-serio-01/07.jpg"
-      ],
-      "origem": "2026-10-21_isso-nao-e-serio-01"
-    },
-    {
-      "id": "metafora_balde-furado",
-      "titulo": "Antes de colocar mais dinheiro em anúncio, olhe para os furo",
-      "quando": "2026-12-04T08:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "",
-      "legenda": "Antes de colocar mais dinheiro em anúncio, olhe para os furos.\n\nFalta sem aviso, orçamento parado, retorno que ninguém marcou. Anúncio em clínica que vaza só aumenta o volume do vazamento.\n\nManda para quem cuida do marketing da sua clínica.\n\n#gestaodeclinicas #marketingmedico #clinicamedica",
-      "midias": [
-        "midia/metafora_balde-furado/01.jpg"
-      ],
-      "origem": "metafora_balde-furado"
-    },
-    {
-      "id": "GC-01-R",
-      "titulo": "A hora vazia (Reels)",
-      "quando": "2026-12-04T18:30:00-03:00",
-      "tipo": "reels",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "",
-      "legenda": "A hora que ninguém atendeu também foi paga.\n\nNuma clínica com R$ 24.000 de custo fixo e 45% da agenda vazia, são R$ 10.800 por mês parados na cadeira. R$ 129.600 no ano. (Simulação.)\n\nAntes de mexer no preço, meça a ocupação: por sala e por profissional.\n\nManda para quem cuida da agenda da sua clínica.\n\n#gestaodeclinicas #agendamedica #consultorio #clinicamedica #secretariamedica",
-      "midias": [
-        "midia/2026-10-19_hora-vazia/reels.mp4"
-      ],
-      "origem": "2026-10-19_hora-vazia"
-    },
-    {
-      "id": "metafora_iceberg",
-      "titulo": "Faturamento é o que todo mundo olha.",
-      "quando": "2026-12-05T08:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "",
-      "legenda": "Faturamento é o que todo mundo olha.\n\nConversão, preço, retorno, agenda e quem atende o WhatsApp é o que decide se ele cresce. Fica tudo embaixo da linha da água.\n\nSegue o perfil: toda semana eu desço um pouco mais nesse iceberg.\n\n#gestaodeclinicas #faturamento #consultorio",
-      "midias": [
-        "midia/metafora_iceberg/01.jpg"
-      ],
-      "origem": "metafora_iceberg"
-    },
-    {
-      "id": "L3-01",
-      "titulo": "Dois donos, mesmo dia",
-      "quando": "2026-12-05T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repost do carrossel + enquete \"Hoje você foi o de cima ou o de baixo?\" · De cima / De baixo. Caixinha: \"Qual horário do seu dia mais te drena?\" (vira pauta da série Duas Clínicas).",
-      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
-      "midias": [
-        "midia/2026-11-09_dois-donos/01.jpg",
-        "midia/2026-11-09_dois-donos/02.jpg",
-        "midia/2026-11-09_dois-donos/03.jpg",
-        "midia/2026-11-09_dois-donos/04.jpg",
-        "midia/2026-11-09_dois-donos/05.jpg",
-        "midia/2026-11-09_dois-donos/06.jpg",
-        "midia/2026-11-09_dois-donos/07.jpg",
-        "midia/2026-11-09_dois-donos/08.jpg"
-      ],
-      "origem": "2026-11-09_dois-donos"
-    },
-    {
-      "id": "FR-10",
-      "titulo": "A sua clínica não tem problema de marketing. Tem problema de matemática.",
-      "quando": "2026-12-06T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repostar nos Stories com a pergunta da enquete do dia por cima.",
-      "legenda": "75% das clínicas investem em anúncio pago e 67% nunca mapearam a jornada do paciente (Panorama das Clínicas 2026, Doctoralia).\n\nAntes de contratar mais anúncio, responda: quanto custa a sua hora, quantos orçamentos viraram tratamento no mês e quantas pessoas chamaram e nunca tiveram resposta.\n\nSegue o perfil: toda semana eu abro a conta de uma clínica aqui.\n\n#gestaodeclinicas #marketingmedico #donodeclinica #gestaoemsaude",
-      "midias": [
-        "midia/2026-10-20_frase-matematica/01.jpg"
-      ],
-      "origem": "2026-10-20_frase-matematica",
-      "frase": true
-    },
-    {
-      "id": "L3-03",
-      "titulo": "Os mesmos 40 minutos",
-      "quando": "2026-12-06T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Caixa de perguntas: \"Onde foram os seus 40 minutos hoje?\" Responda 3 nos Stories com a troca certa.",
-      "legenda": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria o preço.\n\nPodem virar WhatsApp no almoço ou os números da semana. Áudio explicando o plano de novo ou o plano escrito uma vez. Paciente esperando calado ou paciente avisado do atraso.\n\nCom hora clínica de R$ 300, 4 blocos de 40 minutos perdidos por semana são R$ 3.200 por mês. (Simulação.)\n\nAgenda cheia não é agenda boa. Importa quem ocupa o seu tempo.\n\nSalva e mostra para a recepção na segunda.\n\n#gestaodeclinicas #agenda #consultorio #produtividade #gestaoemsaude",
-      "midias": [
-        "midia/2026-11-11_mesmos-40-minutos/01.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/02.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/03.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/04.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/05.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/06.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/07.jpg"
-      ],
-      "origem": "2026-11-11_mesmos-40-minutos"
-    },
-    {
-      "id": "L3-05",
-      "titulo": "Acha caro o que ninguém explicou",
-      "quando": "2026-12-07T06:30:00-03:00",
-      "tipo": "imagem",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repost com enquete: \"Concorda?\" · Concordo / Discordo (a opção que divide gera resposta).",
-      "legenda": "Paciente achou caro? Antes de dar desconto, olha o que ele ouviu.\n\nEle não sabe avaliar a sua técnica. Ele avalia o que entendeu: o que está incluído, por que importa e o que acontece se não tratar.\n\nPreço sem explicação parece caro em qualquer valor.\n\nManda para quem acha que o problema é o preço.\n\n#gestaodeclinicas #precificacao #consultorio #atendimento",
-      "midias": [
-        "midia/2026-11-13_frase-explicacao/01.jpg"
-      ],
-      "origem": "2026-11-13_frase-explicacao",
-      "frase": true
-    },
-    {
-      "id": "L3-04",
-      "titulo": "5 erros que parecem educação",
-      "quando": "2026-12-07T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Enquete: \"Áudio para paciente: sim ou não?\" Depois, a resposta da lâmina 3. Caixinha: \"Qual frase a sua recepção mais usa?\"",
-      "legenda": "Como responder paciente no WhatsApp sem travar o agendamento.\n\n\"Bom dia, tudo bem?\" e esperar. Áudio de 2 minutos. \"Vou verificar e te retorno\". Tabela inteira em PDF. \"Qualquer dúvida, estou à disposição\".\n\nTudo parece educação. Tudo atrasa a decisão do paciente.\n\n51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Cada troca de mensagem a mais é uma chance de ele desistir.\n\nManda para quem cuida do WhatsApp da sua clínica. Sem bronca.\n\n#gestaodeclinicas #atendimento #whatsapp #secretariadeconsultorio #recepcao",
-      "midias": [
-        "midia/2026-11-12_parecem-educacao/01.jpg",
-        "midia/2026-11-12_parecem-educacao/02.jpg",
-        "midia/2026-11-12_parecem-educacao/03.jpg",
-        "midia/2026-11-12_parecem-educacao/04.jpg",
-        "midia/2026-11-12_parecem-educacao/05.jpg",
-        "midia/2026-11-12_parecem-educacao/06.jpg",
-        "midia/2026-11-12_parecem-educacao/07.jpg",
-        "midia/2026-11-12_parecem-educacao/08.jpg"
-      ],
-      "origem": "2026-11-12_parecem-educacao"
-    },
-    {
-      "id": "L3-07",
-      "titulo": "Duas recepções, mesma segunda",
-      "quando": "2026-12-08T08:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Enquete: \"Quantas mensagens chegaram no seu fim de semana?\" (controle deslizante). Depois, o quadro dos 4 números para printar.",
-      "legenda": "O que uma secretária de consultório faz numa segunda-feira? Depende do processo que ela recebeu.\n\nÀs 8h, 47 mensagens do fim de semana. Às 9h15, \"quanto custa?\". Às 11h, os orçamentos de ontem. Às 14h, uma falta. Às 17h30, \"tá caro\". Às 19h, o fim do dia.\n\nEm cada horário, uma recepção corre atrás e a outra segue uma regra.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). O fim de semana também é agenda.\n\nSalva e anota 4 números hoje às 19h: conversas, agendamentos, faltas e orçamentos.\n\n#secretariadeconsultorio #recepcao #gestaodeclinicas #atendimento #consultorio",
-      "midias": [
-        "midia/2026-11-16_duas-recepcoes/01.jpg",
-        "midia/2026-11-16_duas-recepcoes/02.jpg",
-        "midia/2026-11-16_duas-recepcoes/03.jpg",
-        "midia/2026-11-16_duas-recepcoes/04.jpg",
-        "midia/2026-11-16_duas-recepcoes/05.jpg",
-        "midia/2026-11-16_duas-recepcoes/06.jpg",
-        "midia/2026-11-16_duas-recepcoes/07.jpg",
-        "midia/2026-11-16_duas-recepcoes/08.jpg"
-      ],
-      "origem": "2026-11-16_duas-recepcoes"
-    },
-    {
-      "id": "L3-08",
-      "titulo": "Os três \"achei caro\"",
-      "quando": "2026-12-08T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Caixinha: \"Qual resposta você dá quando o paciente diz que está caro?\" Responda 3 com a lâmina certa.",
-      "legenda": "O que responder quando o paciente acha caro? Primeiro, descobrir qual dos três está falando.\n\n1. O que não entendeu o valor: explique o que está incluído.\n\n2. O que não cabe agora: mostre o caminho em etapas. O problema é acesso.\n\n3. O que está comparando: compare o que está incluído, por escrito. Desconto aqui vira leilão.\n\nA pergunta que separa os três: \"O que pesou mais: o valor total ou a forma de pagar?\"\n\nSalva e passa para quem fecha orçamento.\n\n#gestaodeclinicas #vendasnasaude #precificacao #atendimento #orcamento",
-      "midias": [
-        "midia/2026-11-17_achou-caro/01.jpg",
-        "midia/2026-11-17_achou-caro/02.jpg",
-        "midia/2026-11-17_achou-caro/03.jpg",
-        "midia/2026-11-17_achou-caro/04.jpg",
-        "midia/2026-11-17_achou-caro/05.jpg",
-        "midia/2026-11-17_achou-caro/06.jpg",
-        "midia/2026-11-17_achou-caro/07.jpg",
-        "midia/2026-11-17_achou-caro/08.jpg"
-      ],
-      "origem": "2026-11-17_achou-caro"
     }
   ],
   "liberados": [
