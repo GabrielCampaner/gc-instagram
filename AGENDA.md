@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 10:58:44. 79 posts agendados, 5 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -262,6 +262,8 @@ Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enq
 
 - **08h30 · L3-22 · Antes e depois: o que a regra pede** (carrossel)
   - Stories: Enquete: "Você sabia que o antes e depois precisa mostrar também resultados insatisfatórios?" · Sabia / Não sabia.
+- **12h30 · OD22 · Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-27 · A avaliação gratuita** (carrossel)
   - Stories: Enquete: "Você cobra a avaliação?" · Cobro / Não cobro / Cobro e abato.
 
@@ -269,12 +271,16 @@ Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enq
 
 - **06h30 · FR-08 · Liberdade não é trabalhar menos. É não precisar estar em tudo.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **12h30 · OD23 · Os Doutores · Sofia senta com o Gabriel: quem vende é você** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-15 · A reunião de 15 minutos** (carrossel)
   - Stories: Manhã: a reunião acontecendo, sem rostos. Tarde: enquete "A sua clínica tem reunião semanal de números?" · Tem / Não tem.
 
 ## segunda, 23/11
 
 - **08h30 · metafora_balde-furado-R · Antes de colocar mais dinheiro em anúncio, olhe para os furo (Reels)** (reels)
+- **12h30 · OD24 · Os Doutores · Paula: quantos voltaram? 'Muitos'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-17 · Remédio de nível 4 em clínica de nível 1** (carrossel)
   - Stories: Manhã: enquete de 4 opções "Em que nível você acha que a sua clínica está?" · N1 / N2 / N3 / N4. Tarde: o quadro com os 4 níveis. Noite: link do diagnóstico.
 
@@ -282,6 +288,8 @@ Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enq
 
 - **08h30 · GC-18 · Agenda cheia, margem vazia** (carrossel)
   - Stories: Tarde: caixinha "Qual procedimento ocupa mais horas da sua agenda?". Noite: "Quer esse laudo com os números da sua clínica?" + link do Mapa da Clínica de Sucesso.
+- **12h30 · OD61 · Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-19 · Treinamento sem produtividade é teatro** (carrossel)
   - Stories: Manhã: um dia de acompanhamento em clínica, sem pacientes. Tarde: depoimento real de cliente, com autorização escrita. Noite: link do formulário "Conversa individual, sem compromisso de compra".
 
@@ -289,8 +297,15 @@ Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enq
 
 - **08h30 · L3-06 · A bio em poucos segundos** (carrossel)
   - Stories: Durante a semana: 3 a 5 bios dos comentários, com permissão, em antes e depois de bio (nunca de paciente).
+- **12h30 · OD26 · Os Doutores · Caio senta com o Gabriel: a conta do plantão** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-39 · O mercado de clínicas em 10 números** (carrossel)
   - Stories: Uma lâmina por dia nos Stories da semana, com enquete "Você sabe o seu?".
+
+## quinta, 26/11
+
+- **12h30 · OD27 · Os Doutores · Joana: sem férias desde 2023, e agora a 5x2** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## sexta, 27/11
 
@@ -303,3 +318,4 @@ Gerada em 31/10/2026, 09:59:33. 73 posts agendados, 4 pendentes. Stories com enq
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
 - **OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero**: palavra-chave PLANILHA: a automação precisa estar ativa
+- **OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados**: palavra-chave ORÇAMENTO: a automação precisa estar ativa

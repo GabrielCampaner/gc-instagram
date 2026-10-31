@@ -1857,6 +1857,29 @@
       "origem": "2026-12-03_antes-e-depois"
     },
     {
+      "id": "OD22",
+      "titulo": "Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180",
+      "quando": "2026-11-21T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu entendo o Dr. Mauro, tá? Ele começou com uma cadeira alugada. Gastar dá medo de voltar pra lá.\n\nSó que o medo dele olha pro lado errado. Ele vigia cada real que sai e não enxerga o que deixa de entrar. O café custa R$ 180. O orçamento que ninguém lembrou custa muito mais, e não aparece no extrato. Não tem boleto pra dinheiro que não entrou, né?\n\nNo dia 14 de dezembro ele senta comigo e a gente faz essa conta na mesa.\n\nComenta 3 e marca o sócio que já cortou o café.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #clinicaodontologica #dentistas",
+      "midias": [
+        "midia/2026-11-21_od22/01.jpg",
+        "midia/2026-11-21_od22/02.jpg",
+        "midia/2026-11-21_od22/03.jpg",
+        "midia/2026-11-21_od22/04.jpg",
+        "midia/2026-11-21_od22/05.jpg",
+        "midia/2026-11-21_od22/06.jpg",
+        "midia/2026-11-21_od22/07.jpg",
+        "midia/2026-11-21_od22/08.jpg"
+      ],
+      "origem": "2026-11-21_od22",
+      "fixo": true
+    },
+    {
       "id": "L3-27",
       "titulo": "A avaliação gratuita",
       "quando": "2026-11-21T18:30:00-03:00",
@@ -1894,6 +1917,29 @@
       "frase": true
     },
     {
+      "id": "OD23",
+      "titulo": "Os Doutores · Sofia senta com o Gabriel: quem vende é você",
+      "quando": "2026-11-22T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Sofia achava que vender era feio. Que a médica fala da técnica e alguém, lá fora, fala do dinheiro.\n\nSó que a paciente não decide no balcão. Ela decide na sala, olhando pra quem ela confia. Quando a médica sai na hora do valor, a dúvida sai junto e cai no colo da Kelly, que não opera ninguém.\n\nQuem vende é você. A Kelly fecha a data, a forma de pagar e cuida do resto. Cada uma no seu papel.\n\nFonte: Doctoralia, Perfil do Paciente Digital 2026.\n\nSalva o roteiro dos quatro passos e comenta 13 se vai testar essa semana.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #medicos",
+      "midias": [
+        "midia/2026-11-22_od23/01.jpg",
+        "midia/2026-11-22_od23/02.jpg",
+        "midia/2026-11-22_od23/03.jpg",
+        "midia/2026-11-22_od23/04.jpg",
+        "midia/2026-11-22_od23/05.jpg",
+        "midia/2026-11-22_od23/06.jpg",
+        "midia/2026-11-22_od23/07.jpg",
+        "midia/2026-11-22_od23/08.jpg"
+      ],
+      "origem": "2026-11-22_od23",
+      "fixo": true
+    },
+    {
       "id": "GC-15",
       "titulo": "A reunião de 15 minutos",
       "quando": "2026-11-22T18:30:00-03:00",
@@ -1928,6 +1974,28 @@
         "midia/metafora_balde-furado/reels.mp4"
       ],
       "origem": "metafora_balde-furado"
+    },
+    {
+      "id": "OD24",
+      "titulo": "Os Doutores · Paula: quantos voltaram? 'Muitos'",
+      "quando": "2026-11-23T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Paula tem quinze anos de consultório e um carinho enorme pelos pacientes. Ela tem medo de sistema porque acha que vai perder o jeito humano dela.\n\nSó que o jeito humano não lembra da Dona Cida desde agosto. O post-it lembra, mas ninguém lê. E quando a pergunta é quantos voltaram, a resposta vem no chute.\n\nPra sair disso, bastam quatro números e um dia fixo pra olhar pra eles, tá? Software caro fica pra depois.\n\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, 639 gestores.\n\nComenta 9 se na tua clínica o sistema ainda é um caderno.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #nutricao #consultorio",
+      "midias": [
+        "midia/2026-11-23_od24/01.jpg",
+        "midia/2026-11-23_od24/02.jpg",
+        "midia/2026-11-23_od24/03.jpg",
+        "midia/2026-11-23_od24/04.jpg",
+        "midia/2026-11-23_od24/05.jpg",
+        "midia/2026-11-23_od24/06.jpg",
+        "midia/2026-11-23_od24/07.jpg"
+      ],
+      "origem": "2026-11-23_od24",
+      "fixo": true
     },
     {
       "id": "GC-17",
@@ -1974,6 +2042,29 @@
       "origem": "2026-11-04_laudo-da-semana-02"
     },
     {
+      "id": "OD61",
+      "titulo": "Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'",
+      "quando": "2026-11-24T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Henrique não é ingênuo, tá? Ele é endocrinologista, e tráfego não é a área dele. Ninguém explicou como funciona, e trocar de fornecedor dá a sensação de estar resolvendo.\n\nSó que a agência leva o paciente até a porta. Quem abre é a clínica. Se ninguém responde as mensagens, a quinta agência vai mandar lead pro mesmo celular parado.\n\nAntes de trocar de agência, vale saber o que cobrar dela. E quem responde do lado de cá.\n\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, via Medicina S/A.\n\nComenta 18 se você já trocou de agência achando que o problema era ela. Em janeiro ele senta comigo.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #atendimento",
+      "midias": [
+        "midia/2026-11-24_od61/01.jpg",
+        "midia/2026-11-24_od61/02.jpg",
+        "midia/2026-11-24_od61/03.jpg",
+        "midia/2026-11-24_od61/04.jpg",
+        "midia/2026-11-24_od61/05.jpg",
+        "midia/2026-11-24_od61/06.jpg",
+        "midia/2026-11-24_od61/07.jpg",
+        "midia/2026-11-24_od61/08.jpg"
+      ],
+      "origem": "2026-11-24_od61",
+      "fixo": true
+    },
+    {
       "id": "GC-19",
       "titulo": "Treinamento sem produtividade é teatro",
       "quando": "2026-11-24T18:30:00-03:00",
@@ -2018,6 +2109,30 @@
       "origem": "2026-11-14_bio-em-segundos"
     },
     {
+      "id": "OD26",
+      "titulo": "Os Doutores · Caio senta com o Gabriel: a conta do plantão",
+      "quando": "2026-11-25T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Muito médico quer sair do plantão e não sabe por onde começar. O Dr. Caio era um deles: seis plantões por semana, uma tarde de consultório e a frase pronta, \"plantão paga certo\".\n\nPaga. Mas quando entra na conta o deslocamento, o imposto e o dia seguinte dormindo, a hora real encolhe. E o consultório só vira saída quando o preço da consulta nasce do custo da tua hora.\n\nA transição é em etapas: uma tarde que se paga, depois a outra.\n\nFonte: Medscape, pesquisa com 1.240 profissionais de saúde, via Viva, 2025.\n\nComenta HORA que eu te mando a calculadora da hora clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#plantao #medicos #precificacao",
+      "midias": [
+        "midia/2026-11-25_od26/01.jpg",
+        "midia/2026-11-25_od26/02.jpg",
+        "midia/2026-11-25_od26/03.jpg",
+        "midia/2026-11-25_od26/04.jpg",
+        "midia/2026-11-25_od26/05.jpg",
+        "midia/2026-11-25_od26/06.jpg",
+        "midia/2026-11-25_od26/07.jpg",
+        "midia/2026-11-25_od26/08.jpg",
+        "midia/2026-11-25_od26/09.jpg"
+      ],
+      "origem": "2026-11-25_od26",
+      "fixo": true
+    },
+    {
       "id": "L3-39",
       "titulo": "O mercado de clínicas em 10 números",
       "quando": "2026-11-25T18:30:00-03:00",
@@ -2045,6 +2160,28 @@
       "origem": "2026-12-14_mercado-em-10-numeros"
     },
     {
+      "id": "OD27",
+      "titulo": "Os Doutores · Joana: sem férias desde 2023, e agora a 5x2",
+      "quando": "2026-11-26T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Joana sente culpa de dizer não. Culpa de fechar o sábado. Culpa de descansar. E aí o sábado, que podia ser o dia de folga, virou o dia mais cheio da semana.\n\nAgora tem uma data no calendário que não aceita encaixe: a partir de meados de dezembro, cada pessoa da equipe tem direito a duas folgas por semana. O sábado vai ter que ser decidido.\n\nNo dia 11 ela senta comigo. E a gente vai olhar pro sábado como o dia de cobrar melhor, e não de trabalhar mais.\n\nFonte: Emenda Constitucional 141/2026, art. 7º.\n\nComenta 11 se você também empurra as férias pra janeiro.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #medicos",
+      "midias": [
+        "midia/2026-11-26_od27/01.jpg",
+        "midia/2026-11-26_od27/02.jpg",
+        "midia/2026-11-26_od27/03.jpg",
+        "midia/2026-11-26_od27/04.jpg",
+        "midia/2026-11-26_od27/05.jpg",
+        "midia/2026-11-26_od27/06.jpg",
+        "midia/2026-11-26_od27/07.jpg"
+      ],
+      "origem": "2026-11-26_od27",
+      "fixo": true
+    },
+    {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
       "quando": "2026-11-27T06:30:00-03:00",
@@ -2060,6 +2197,24 @@
       "origem": "2026-11-27_frase-um-terco",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "OD25",
+      "titulo": "Os Doutores · Comparação: a Black Friday e os orçamentos parados",
+      "quando": "2026-11-27T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "palavra-chave ORÇAMENTO: a automação precisa estar ativa",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Toda Black Friday é igual: a clínica corta o preço pra atrair quem não conhece e esquece quem pediu orçamento em setembro, outubro, novembro.\n\nO paciente do orçamento parado já passou pela tua avaliação. Já ouviu o plano. Já perguntou quanto custa. Ele não precisa de 40% de desconto. Precisa de uma mensagem.\n\nLembrar custa zero. Desconto de 40% sai do teu lucro e ainda ensina o paciente a esperar a próxima Black.\n\nComenta ORÇAMENTO que eu te mando o raio-x comercial. Em 3 minutos você vê onde o teu orçamento para.\n\nValores ilustrativos.\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #atendimento",
+      "midias": [
+        "midia/2026-11-27_od25/01.jpg",
+        "midia/2026-11-27_od25/02.jpg",
+        "midia/2026-11-27_od25/03.jpg"
+      ],
+      "origem": "2026-11-27_od25",
+      "fixo": true
     }
   ],
   "liberados": [
