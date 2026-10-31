@@ -1533,8 +1533,8 @@
       "titulo": "Os Doutores · Você acordou hoje: agenda cheia, mês no zero",
       "quando": "2026-11-16T12:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave PLANILHA: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
       "legenda": "Hoje eu vesti o teu jaleco de novo pra viver um dos dias mais comuns em clínica: o dia cheio que não paga a conta.\n\nNinguém trabalha mais do que o dono com agenda cheia e preço errado. Atende do primeiro ao último horário, almoça em quinze minutos e à noite descobre que o mês fechou no zero. A conta não fecha porque cada hora sai mais cara do que é cobrada.\n\nAntes de abrir mais um horário, faz a conta da hora e da margem, tá?\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação, a mesma que eu uso dentro das clínicas.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#precificacao #gestaodeclinicas #consultorio",
@@ -2376,8 +2376,8 @@
       "titulo": "Os Doutores · Fernando senta com o Gabriel: a conta da troca",
       "quando": "2026-12-05T12:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave CONTRATA: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
       "legenda": "O Dr. Fernando jurava que o problema era o mercado. \"Ninguém quer trabalhar.\" Quatro recepcionistas em um ano.\n\nQuando a gente colocou a troca no papel, a conta passou de R$ 7 mil por vez, sem contar o paciente que ficou sem resposta no meio do caminho. E o mercado mudou mesmo: quem trabalha hoje escolhe onde fica. Fica onde é ensinado, corrigido com respeito e reconhecido.\n\nProcesso de gente não é frescura. É o que segura o próximo pedido de demissão.\n\nFonte: Portal Salário, com dados do Caged. FIEMG, com dados do Novo Caged (2025).\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#recepcao #secretariadeclinica #gestaodeclinicas",
@@ -2468,8 +2468,8 @@
       "titulo": "Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina",
       "quando": "2026-12-09T12:30:00-03:00",
       "tipo": "carrossel",
-      "status": "pendente",
-      "pendencia": "palavra-chave PLANILHA: a automação precisa estar ativa",
+      "status": "agendado",
+      "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
       "legenda": "Na hora da compra, ninguém fala da agenda. O vendedor mostra a parcela, o colega posta o aparelho novo, e a conta que importa fica pra depois: quantas sessões por semana pagam essa máquina.\n\nCom os números de exemplo do post, a Dra. Marina precisava de 13 sessões por mês só pra pagar a parcela. Fazia 6. A diferença saía do resto da clínica, todo mês, sem ninguém ver.\n\nA conta é simples, e a gente faz junto, máquina por máquina. O difícil é fazer antes de assinar.\n\nNúmeros de exemplo (simulação).\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dermatologia #precificacao",
@@ -2565,6 +2565,8 @@
     "HORA",
     "DIAGNOSTICO",
     "EXAME",
-    "NIVEL"
+    "NIVEL",
+    "PLANILHA",
+    "CONTRATA"
   ]
 }

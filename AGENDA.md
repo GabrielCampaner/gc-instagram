@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 11:46:57. 95 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -222,6 +222,8 @@ Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enq
 
 - **08h30 · L3-40 · Os 10 motivos da escolha** (carrossel)
   - Stories: Enquete: "Você pede avaliação para os seus pacientes?" · Peço / Nunca pedi.
+- **12h30 · OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-01-R · Dois donos, mesmo dia (Reels)** (reels)
 
 ## terça, 17/11
@@ -348,6 +350,11 @@ Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enq
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
+## sábado, 05/12
+
+- **12h30 · OD37 · Os Doutores · Fernando senta com o Gabriel: a conta da troca** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
 ## domingo, 06/12
 
 - **12h30 · OD36 · Os Doutores · Marina: voltou do congresso com a terceira máquina em 48 parcelas** (carrossel)
@@ -361,6 +368,11 @@ Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enq
 ## terça, 08/12
 
 - **12h30 · OD39 · Os Doutores · Paula senta com o Gabriel: os quatro números** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 09/12
+
+- **12h30 · OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quinta, 10/12
@@ -378,6 +390,3 @@ Gerada em 31/10/2026, 11:38:56. 92 posts agendados, 6 pendentes. Stories com enq
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
-- **OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero**: palavra-chave PLANILHA: a automação precisa estar ativa
-- **OD37 · Os Doutores · Fernando senta com o Gabriel: a conta da troca**: palavra-chave CONTRATA: a automação precisa estar ativa
-- **OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina**: palavra-chave PLANILHA: a automação precisa estar ativa
