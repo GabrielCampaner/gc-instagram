@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 11:05:52. 80 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 11:18:00. 87 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -312,6 +312,40 @@ Gerada em 31/10/2026, 11:05:52. 80 posts agendados, 4 pendentes. Stories com enq
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
 - **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 28/11
+
+- **12h30 · OD30 · Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 29/11
+
+- **12h30 · OD29 · Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 30/11
+
+- **12h30 · OD31 · Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 01/12
+
+- **12h30 · OD32 · Os Doutores · Lúcia senta com o Gabriel: as três mensagens** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 02/12
+
+- **12h30 · OD33 · Os Doutores · Você acordou hoje com 47 mensagens** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 03/12
+
+- **06h00 · OD34 · Os Doutores · Frase: o paciente não some** (imagem)
+
+## sexta, 04/12
+
+- **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

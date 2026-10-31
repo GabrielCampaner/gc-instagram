@@ -2215,6 +2215,161 @@
       ],
       "origem": "2026-11-27_od25",
       "fixo": true
+    },
+    {
+      "id": "OD30",
+      "titulo": "Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'",
+      "quando": "2026-11-28T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Renata tinha razão: consultoria que aparece uma vez por mês, entrega um plano e some não muda clínica nenhuma. O plano fica bonito na gaveta e a semana engole tudo.\n\nO que muda é rotina. Tarefa pequena, dono com nome, prazo com data e alguém cobrando no mesmo dia. Pauta de manhã, fechamento no fim da tarde. Parece simples, né? E é. O difícil é ter quem segure isso todo dia.\n\nEsse é o meu trabalho desde 2009, do Ceará a Nova Iorque.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica. Se fizer sentido, a gente conversa sobre o acompanhamento.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaoemsaude #consultorio",
+      "midias": [
+        "midia/2026-11-28_od30/01.jpg",
+        "midia/2026-11-28_od30/02.jpg",
+        "midia/2026-11-28_od30/03.jpg",
+        "midia/2026-11-28_od30/04.jpg",
+        "midia/2026-11-28_od30/05.jpg",
+        "midia/2026-11-28_od30/06.jpg",
+        "midia/2026-11-28_od30/07.jpg",
+        "midia/2026-11-28_od30/08.jpg"
+      ],
+      "origem": "2026-11-28_od30",
+      "fixo": true
+    },
+    {
+      "id": "OD29",
+      "titulo": "Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'",
+      "quando": "2026-11-29T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Lúcia é a pessoa mais educada que você vai conhecer nessa série. Ela não liga pro paciente porque não quer ser chata.\n\nSó que do outro lado, o silêncio tem outra leitura. O paciente pediu o orçamento, recebeu um PDF e nunca mais ouviu falar da clínica. Pra ele, quem perdeu o interesse foi ela.\n\nLembrar com respeito também é cuidado. E dá pra fazer isso com três mensagens, sem parecer vendedora. Terça eu mostro quais.\n\nFonte: CX Trends 2026, Octadesk e Opinion Box.\n\nComenta 8 se tem orçamento de outubro na tua gaveta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#fisioterapia #atendimento #gestaodeclinicas",
+      "midias": [
+        "midia/2026-11-29_od29/01.jpg",
+        "midia/2026-11-29_od29/02.jpg",
+        "midia/2026-11-29_od29/03.jpg",
+        "midia/2026-11-29_od29/04.jpg",
+        "midia/2026-11-29_od29/05.jpg",
+        "midia/2026-11-29_od29/06.jpg",
+        "midia/2026-11-29_od29/07.jpg",
+        "midia/2026-11-29_od29/08.jpg"
+      ],
+      "origem": "2026-11-29_od29",
+      "fixo": true
+    },
+    {
+      "id": "OD31",
+      "titulo": "Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro",
+      "quando": "2026-11-30T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu entendo a Dra. Débora, tá? Ela tem medo de perder o paciente pro preço da clínica da esquina. E fechar na hora dá a sensação de vitória.\n\nSó que agenda cheia com margem errada é trabalhar de graça mais rápido. O desconto não aparece no extrato como desconto. Aparece como o dinheiro que não sobrou no fim do mês.\n\nSegunda que vem ela senta comigo, e a gente abre a margem de cada procedimento, um por um.\n\nA conta do post é ilustrativa.\n\nComenta 17 se na tua clínica tem campanha todo mês.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #precificacao",
+      "midias": [
+        "midia/2026-11-30_od31/01.jpg",
+        "midia/2026-11-30_od31/02.jpg",
+        "midia/2026-11-30_od31/03.jpg",
+        "midia/2026-11-30_od31/04.jpg",
+        "midia/2026-11-30_od31/05.jpg",
+        "midia/2026-11-30_od31/06.jpg",
+        "midia/2026-11-30_od31/07.jpg",
+        "midia/2026-11-30_od31/08.jpg"
+      ],
+      "origem": "2026-11-30_od31",
+      "fixo": true
+    },
+    {
+      "id": "OD32",
+      "titulo": "Os Doutores · Lúcia senta com o Gabriel: as três mensagens",
+      "quando": "2026-12-01T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Toda clínica tem uma pilha de orçamento enviado e nenhum retorno feito. A da Dra. Lúcia tinha até orçamento de outubro.\n\nO problema nunca foi falta de educação. Faltava régua. Sem dia marcado pra lembrar, ninguém lembra. Com três mensagens prontas e um dono na recepção, o retorno vira rotina.\n\nCopia as mensagens, ajusta pro teu jeito de falar e testa na pilha que tá aí. Fulana é o nome do paciente, tá?\n\nFonte: Doctoralia, Perfil do Paciente Digital 2026, via Viva.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#fisioterapia #atendimento #recepcao",
+      "midias": [
+        "midia/2026-12-01_od32/01.jpg",
+        "midia/2026-12-01_od32/02.jpg",
+        "midia/2026-12-01_od32/03.jpg",
+        "midia/2026-12-01_od32/04.jpg",
+        "midia/2026-12-01_od32/05.jpg",
+        "midia/2026-12-01_od32/06.jpg",
+        "midia/2026-12-01_od32/07.jpg",
+        "midia/2026-12-01_od32/08.jpg"
+      ],
+      "origem": "2026-12-01_od32",
+      "fixo": true
+    },
+    {
+      "id": "OD33",
+      "titulo": "Os Doutores · Você acordou hoje com 47 mensagens",
+      "quando": "2026-12-02T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Seis e meia da manhã e o WhatsApp da clínica já tá cheio. Você responde da cama, da cozinha, entre um paciente e outro. No fim do dia, atendeu mais celular do que gente.\n\nUm em cada três pacientes marca fora do horário comercial. É a hora que ele tem livre, só isso. Então a pergunta muda: quem responde quando você não pode?\n\nA IAra responde em minutos, organiza e agenda. A tua equipe assume de manhã com tudo pronto, e você volta pro teu lugar.\n\nFonte: Doctoralia, Perfil do Paciente Digital 2025, via Medicina S/A, jun/2026.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#atendimento #secretariadeclinica #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-02_od33/01.jpg",
+        "midia/2026-12-02_od33/02.jpg",
+        "midia/2026-12-02_od33/03.jpg",
+        "midia/2026-12-02_od33/04.jpg",
+        "midia/2026-12-02_od33/05.jpg",
+        "midia/2026-12-02_od33/06.jpg",
+        "midia/2026-12-02_od33/07.jpg",
+        "midia/2026-12-02_od33/08.jpg"
+      ],
+      "origem": "2026-12-02_od33",
+      "fixo": true
+    },
+    {
+      "id": "OD34",
+      "titulo": "Os Doutores · Frase: o paciente não some",
+      "quando": "2026-12-03T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Toda clínica tem uma lista de paciente que \"sumiu\". Quem fez avaliação e não voltou, quem parou o tratamento no meio, quem faltou e ninguém remarcou.\n\nQuase sempre, ninguém ligou. Ninguém mandou mensagem. Ninguém tinha a tarefa de lembrar.\n\nHoje é um bom dia pra pensar nisso, tá? Escolhe cinco nomes dessa lista e manda uma mensagem simples: \"Oi, Fulano, faz tempo que a gente não se vê. Como você tá?\"\n\nSalva e manda pra quem cuida da tua recepção.\n\n#recepcao #atendimento #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-03_od34/01.jpg"
+      ],
+      "origem": "2026-12-03_od34",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD35",
+      "titulo": "Os Doutores · Bia senta com o Gabriel: fecha o caderno",
+      "quando": "2026-12-04T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Bia estuda mais do que qualquer personagem dessa série. Quatro imersões em um ano, três mentorias, quarenta perfis salvos. E a agenda de dezembro igual à de janeiro.\n\nInformação ela tinha de sobra. Faltava parar de trocar de estratégia toda segunda-feira e fazer uma coisa só, por 30 dias, com alguém perguntando no fim do dia se foi feito.\n\nÉ por isso que eu trabalho no dia a dia da clínica. O conteúdo todo mundo já viu. A execução, quase ninguém acompanha.\n\nComenta NIVEL que eu te mando o teste do nível da clínica. Ele te mostra qual é a tua uma coisa.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#dermatologia #gestaodeclinicas #consultorio",
+      "midias": [
+        "midia/2026-12-04_od35/01.jpg",
+        "midia/2026-12-04_od35/02.jpg",
+        "midia/2026-12-04_od35/03.jpg",
+        "midia/2026-12-04_od35/04.jpg",
+        "midia/2026-12-04_od35/05.jpg",
+        "midia/2026-12-04_od35/06.jpg",
+        "midia/2026-12-04_od35/07.jpg",
+        "midia/2026-12-04_od35/08.jpg"
+      ],
+      "origem": "2026-12-04_od35",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -2234,7 +2389,8 @@
     "GC-19",
     "L3-06",
     "OD10",
-    "OD16"
+    "OD16",
+    "OD33"
   ],
   "palavras_ativas": [
     "COBRAR",
