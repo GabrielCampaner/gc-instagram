@@ -3905,6 +3905,156 @@
       ],
       "origem": "2027-02-12_od106",
       "fixo": true
+    },
+    {
+      "id": "OD107",
+      "titulo": "Os Doutores · Ricardo: o primeiro indicado que chegou pelo WhatsApp",
+      "quando": "2027-02-13T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Ricardo sempre disse que paciente bom vem por indicação. Continua certo, tá? A Dona Ivone, paciente há 15 anos, indicou a vizinha. O que mudou foi o caminho: a vizinha mandou mensagem num sábado à noite.\n\nNa segunda, a recepção respondeu com roteiro, ofereceu dois horários e marcou. Na ficha entrou quem indicou, e o próprio Dr. Ricardo agradeceu a Dona Ivone. Sem brinde e sem desconto, só gratidão.\n\nComenta 12 se na tua clínica o indicado ainda espera até segunda.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #indicacao #atendimento",
+      "midias": [
+        "midia/2027-02-13_od107/01.jpg",
+        "midia/2027-02-13_od107/02.jpg",
+        "midia/2027-02-13_od107/03.jpg",
+        "midia/2027-02-13_od107/04.jpg",
+        "midia/2027-02-13_od107/05.jpg",
+        "midia/2027-02-13_od107/06.jpg"
+      ],
+      "origem": "2027-02-13_od107",
+      "fixo": true
+    },
+    {
+      "id": "OD108",
+      "titulo": "Os Doutores · Notícia: avaliação, reputação e indicação",
+      "quando": "2027-02-14T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A indicação continua sendo o caminho mais forte até o consultório. Na pesquisa da Doctoralia de 2026, 72% disseram confiar nas recomendações diretas de médicos que conhecem. E 80% dos pacientes escolhem o médico olhando avaliações de outros pacientes.\n\nAs duas coisas andam juntas: o amigo indica, a busca confirma. Pedir avaliação no fim da consulta, responder todas com respeito e registrar quem indicou quem é rotina de recepção, não de agência.\n\nFontes: Doctoralia, Perfil do Paciente Digital 2026, via Viva (29/01/2026); Doctoralia, Perfil do Paciente Digital, via Medicina S/A (conteúdo de parceria).\n\nSalva e manda pra quem cuida do WhatsApp da tua clínica.\n\n#gestaodeclinicas #reputacao #indicacao",
+      "midias": [
+        "midia/2027-02-14_od108/01.jpg",
+        "midia/2027-02-14_od108/02.jpg",
+        "midia/2027-02-14_od108/03.jpg",
+        "midia/2027-02-14_od108/04.jpg",
+        "midia/2027-02-14_od108/05.jpg",
+        "midia/2027-02-14_od108/06.jpg",
+        "midia/2027-02-14_od108/07.jpg"
+      ],
+      "origem": "2027-02-14_od108",
+      "fixo": true
+    },
+    {
+      "id": "OD109",
+      "titulo": "Os Doutores · Débora: fevereiro fraco e a tentação da campanha",
+      "quando": "2027-02-15T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Fevereiro é o mês em que a agenda fraca grita mais alto. E a resposta automática de muita clínica é a mesma de sempre: campanha com 30% em tudo.\n\nA Dra. Débora sentiu a tentação de novo. Mas dessa vez abriu a tabela antes de abrir o Instagram e viu que três procedimentos ficariam abaixo do piso. A campanha que ela fez foi outra: a recepção ligou pra quem fez tratamento em 2026 e estava no prazo da revisão. Sem desconto, só lembrança.\n\nComenta 17 se fevereiro também é o teu mês da campanha.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #precificacao",
+      "midias": [
+        "midia/2027-02-15_od109/01.jpg",
+        "midia/2027-02-15_od109/02.jpg",
+        "midia/2027-02-15_od109/03.jpg",
+        "midia/2027-02-15_od109/04.jpg",
+        "midia/2027-02-15_od109/05.jpg",
+        "midia/2027-02-15_od109/06.jpg"
+      ],
+      "origem": "2027-02-15_od109",
+      "fixo": true
+    },
+    {
+      "id": "OD110",
+      "titulo": "Os Doutores · Você acordou hoje com a agenda de fevereiro vazia",
+      "quando": "2027-02-16T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Depois do Carnaval, muita agenda acorda com buraco. E a primeira ideia é sempre a mesma: impulsionar um post, fazer uma campanha, baixar o preço.\n\nAntes disso, abre a gaveta da recepção. Os orçamentos de janeiro que ninguém lembrou são pacientes que já te conhecem, já ouviram o plano e já perguntaram o preço. Uma régua simples, D+1, D+3 e D+7, costuma preencher mais horário do que qualquer anúncio.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #vendasnasaude #agenda",
+      "midias": [
+        "midia/2027-02-16_od110/01.jpg",
+        "midia/2027-02-16_od110/02.jpg",
+        "midia/2027-02-16_od110/03.jpg",
+        "midia/2027-02-16_od110/04.jpg",
+        "midia/2027-02-16_od110/05.jpg",
+        "midia/2027-02-16_od110/06.jpg",
+        "midia/2027-02-16_od110/07.jpg"
+      ],
+      "origem": "2027-02-16_od110",
+      "fixo": true
+    },
+    {
+      "id": "OD111",
+      "titulo": "Os Doutores · Augusto: o primeiro vídeo em frase de paciente",
+      "quando": "2027-02-17T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Augusto gravou o primeiro vídeo do jeito que a gente combinou: 40 segundos, uma dor do paciente na primeira frase e o currículo no fim. Não viralizou, e ele quase desistiu no segundo dia.\n\nDuas semanas depois, uma paciente nova chegou dizendo que viu o vídeo e reconheceu o que sentia. Não teve fórmula nem dancinha. Teve a calma e a experiência dele, numa frase que o paciente entende.\n\nComenta 14 se você também já gravou vídeo pro colega entender em vez do paciente.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #cardiologia",
+      "midias": [
+        "midia/2027-02-17_od111/01.jpg",
+        "midia/2027-02-17_od111/02.jpg",
+        "midia/2027-02-17_od111/03.jpg",
+        "midia/2027-02-17_od111/04.jpg",
+        "midia/2027-02-17_od111/05.jpg",
+        "midia/2027-02-17_od111/06.jpg"
+      ],
+      "origem": "2027-02-17_od111",
+      "fixo": true
+    },
+    {
+      "id": "OD112",
+      "titulo": "Os Doutores · Henrique: o primeiro mês sem trocar de agência",
+      "quando": "2027-02-18T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Henrique trocava de agência como quem troca de remédio sem pedir exame. Fechou o primeiro mês sem trocar, e a agência é a mesma.\n\nO que mudou foi o depois do clique: um relatório de cinco linhas toda segunda e resposta em minutos. No horário da clínica, a recepção responde com roteiro. Fora dele, a IAra responde, agenda e passa pra equipe, sem orientação médica. Boa parte do lead ruim era lead esperando.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #atendimento",
+      "midias": [
+        "midia/2027-02-18_od112/01.jpg",
+        "midia/2027-02-18_od112/02.jpg",
+        "midia/2027-02-18_od112/03.jpg",
+        "midia/2027-02-18_od112/04.jpg",
+        "midia/2027-02-18_od112/05.jpg",
+        "midia/2027-02-18_od112/06.jpg"
+      ],
+      "origem": "2027-02-18_od112",
+      "fixo": true
+    },
+    {
+      "id": "OD113",
+      "titulo": "Os Doutores · Carolina: a recepção treinada e o placar de segunda",
+      "quando": "2027-02-19T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em dezembro, a Dra. Carolina tirou a coluna social do orçamento e colocou o dinheiro na recepção. Dois meses depois, a recepção passa preço, confirma na véspera e liga pra quem faltou no mesmo dia. Toda segunda tem placar: ligações, agendados, confirmados e faltas.\n\nAinda não chegou nos 300 atendimentos que pagam a porta aberta. Foi de 210 pra 246. Mas pela primeira vez ela sabe o número toda semana, e recusou a matéria paga do mês.\n\nNúmeros da história (simulação).\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicinadoesporte #recepcao",
+      "midias": [
+        "midia/2027-02-19_od113/01.jpg",
+        "midia/2027-02-19_od113/02.jpg",
+        "midia/2027-02-19_od113/03.jpg",
+        "midia/2027-02-19_od113/04.jpg",
+        "midia/2027-02-19_od113/05.jpg",
+        "midia/2027-02-19_od113/06.jpg",
+        "midia/2027-02-19_od113/07.jpg"
+      ],
+      "origem": "2027-02-19_od113",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -3928,7 +4078,8 @@
     "OD33",
     "OD43",
     "OD81",
-    "OD93"
+    "OD93",
+    "OD112"
   ],
   "palavras_ativas": [
     "COBRAR",

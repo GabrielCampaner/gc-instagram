@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 17:22:42. 157 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 18:05:28. 164 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -692,6 +692,41 @@ Gerada em 31/10/2026, 17:22:42. 157 posts agendados, 3 pendentes. Stories com en
 ## sexta, 12/02
 
 - **12h30 · OD106 · Os Doutores · Comparação: pra ontem e quando estiver perfeito** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 13/02
+
+- **12h30 · OD107 · Os Doutores · Ricardo: o primeiro indicado que chegou pelo WhatsApp** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 14/02
+
+- **12h30 · OD108 · Os Doutores · Notícia: avaliação, reputação e indicação** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 15/02
+
+- **12h30 · OD109 · Os Doutores · Débora: fevereiro fraco e a tentação da campanha** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 16/02
+
+- **12h30 · OD110 · Os Doutores · Você acordou hoje com a agenda de fevereiro vazia** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 17/02
+
+- **12h30 · OD111 · Os Doutores · Augusto: o primeiro vídeo em frase de paciente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 18/02
+
+- **12h30 · OD112 · Os Doutores · Henrique: o primeiro mês sem trocar de agência** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 19/02
+
+- **12h30 · OD113 · Os Doutores · Carolina: a recepção treinada e o placar de segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)
