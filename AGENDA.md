@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 15:56:38. 129 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 16:18:04. 136 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -555,6 +555,40 @@ Gerada em 31/10/2026, 15:56:38. 129 posts agendados, 3 pendentes. Stories com en
 ## sexta, 15/01
 
 - **12h30 · OD78 · Os Doutores · Bia: ano novo, imersão nova** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 16/01
+
+- **12h30 · OD79 · Os Doutores · Jorge senta com o Gabriel: a jornada da porta até o dia seguinte** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 17/01
+
+- **06h00 · OD80 · Os Doutores · Frase: desconto dado antes de o paciente pedir é margem jogada fora** (imagem)
+
+## segunda, 18/01
+
+- **12h30 · OD81 · Os Doutores · Notícia: o WhatsApp da clínica mudou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 19/01
+
+- **12h30 · OD82 · Os Doutores · Lívia senta com o Gabriel: o placar da equipe e a tóxica que sabe** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 20/01
+
+- **12h30 · OD83 · Os Doutores · Joana: a primeira semana de férias desde 2023** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 21/01
+
+- **12h30 · OD84 · Os Doutores · Eduardo senta com o Gabriel: uma voz de comando e o bônus que a margem aguenta** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 22/01
+
+- **12h30 · OD85 · Os Doutores · Você acordou hoje com bronca da equipe** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

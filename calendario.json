@@ -3315,6 +3315,158 @@
       ],
       "origem": "2027-01-15_od78",
       "fixo": true
+    },
+    {
+      "id": "OD79",
+      "titulo": "Os Doutores · Jorge senta com o Gabriel: a jornada da porta até o dia seguinte",
+      "quando": "2027-01-16T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Jorge é um dos melhores neurologistas do estado. E o consultório dele parecia posto de saúde. Quando ele entrou como paciente, ficou 20 minutos numa cadeira de plástico sem ninguém falar com ele.\n\nA gente desenhou a jornada em cinco pontos: a chegada, a espera, a consulta, a saída com retorno marcado e a ligação do dia seguinte. Sem obra: cadeira, luz, café e um roteiro pra recepção.\n\nO paciente não avalia a técnica. Avalia o que vê e como é tratado. A embalagem deixa a técnica aparecer.\n\nComenta NIVEL que eu te mando o teste do nível da clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #jornadadopaciente #neurologia",
+      "midias": [
+        "midia/2027-01-16_od79/01.jpg",
+        "midia/2027-01-16_od79/02.jpg",
+        "midia/2027-01-16_od79/03.jpg",
+        "midia/2027-01-16_od79/04.jpg",
+        "midia/2027-01-16_od79/05.jpg",
+        "midia/2027-01-16_od79/06.jpg",
+        "midia/2027-01-16_od79/07.jpg",
+        "midia/2027-01-16_od79/08.jpg"
+      ],
+      "origem": "2027-01-16_od79",
+      "fixo": true
+    },
+    {
+      "id": "OD80",
+      "titulo": "Os Doutores · Frase: desconto dado antes de o paciente pedir é margem jogada fora",
+      "quando": "2027-01-17T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem doutor que vira a calculadora pro paciente antes de ele abrir a boca. Fecha hoje que eu faço por menos. O paciente, que nem tinha reclamado do preço, aprende que o valor da tabela é negociável.\n\nDesconto pode existir, tá? Quando o paciente pede, com contrapartida (pagamento à vista, pacote fechado, indicação) e nunca abaixo do custo.\n\nSalva e manda pra quem passa o orçamento na tua clínica.\n\n#gestaodeclinicas #precificacao #vendasnasaude",
+      "midias": [
+        "midia/2027-01-17_od80/01.jpg"
+      ],
+      "origem": "2027-01-17_od80",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD81",
+      "titulo": "Os Doutores · Notícia: o WhatsApp da clínica mudou",
+      "quando": "2027-01-18T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Duas mudanças de 2026 que pouca recepção ficou sabendo. Desde outubro, quem usa sistema ou robô ligado à API do WhatsApp paga por mensagem de atendimento, com as primeiras 1.000 do mês grátis por número. Quem usa o app WhatsApp Business no celular não tem custo novo. E desde janeiro de 2026, robô de IA de uso geral saiu da plataforma, enquanto a IA que atende os próprios clientes da empresa continua permitida.\n\nNa prática, o custo que mais pesa continua sendo o do paciente esperando resposta.\n\nFontes: Zenvia (Novas regras de cobrança do WhatsApp em 2026) e TechCrunch (18/10/2025).\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs. Imagens criadas com IA.\n\n#gestaodeclinicas #whatsapp #atendimento",
+      "midias": [
+        "midia/2027-01-18_od81/01.jpg",
+        "midia/2027-01-18_od81/02.jpg",
+        "midia/2027-01-18_od81/03.jpg",
+        "midia/2027-01-18_od81/04.jpg",
+        "midia/2027-01-18_od81/05.jpg",
+        "midia/2027-01-18_od81/06.jpg",
+        "midia/2027-01-18_od81/07.jpg"
+      ],
+      "origem": "2027-01-18_od81",
+      "fixo": true
+    },
+    {
+      "id": "OD82",
+      "titulo": "Os Doutores · Lívia senta com o Gabriel: o placar da equipe e a tóxica que sabe",
+      "quando": "2027-01-19T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Lívia fez três mentorias de crescimento e nenhuma falou da segunda-feira real: a comissão disputada, o atraso, o atestado, a funcionária que sabe muito e envenena quem chega.\n\nA gente resolveu com coisa simples e escrita. Uma regra de quem é o paciente. Um placar semanal no quadro da copa, com o que vai mal e o que vai bem. Uma conversa em particular, com fato e prazo. E o grupo da equipe com horário.\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #otorrinolaringologia",
+      "midias": [
+        "midia/2027-01-19_od82/01.jpg",
+        "midia/2027-01-19_od82/02.jpg",
+        "midia/2027-01-19_od82/03.jpg",
+        "midia/2027-01-19_od82/04.jpg",
+        "midia/2027-01-19_od82/05.jpg",
+        "midia/2027-01-19_od82/06.jpg",
+        "midia/2027-01-19_od82/07.jpg",
+        "midia/2027-01-19_od82/08.jpg"
+      ],
+      "origem": "2027-01-19_od82",
+      "fixo": true
+    },
+    {
+      "id": "OD83",
+      "titulo": "Os Doutores · Joana: a primeira semana de férias desde 2023",
+      "quando": "2027-01-20T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Joana não tirava férias desde 2023. Em dezembro, ela fez a coisa que mais resistiu: marcou a data na agenda. Em janeiro, foi.\n\nAntes de ir, avisou as famílias com antecedência, combinou com uma pediatra parceira o que não podia esperar e deixou a mensagem de ausência pronta. Olhou o celular duas vezes, e nas duas não tinha nada pra ela. Na segunda, a agenda tava cheia e nada tinha quebrado.\n\nComenta 11 se você também tá devendo férias pra você.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #pediatria #descanso",
+      "midias": [
+        "midia/2027-01-20_od83/01.jpg",
+        "midia/2027-01-20_od83/02.jpg",
+        "midia/2027-01-20_od83/03.jpg",
+        "midia/2027-01-20_od83/04.jpg",
+        "midia/2027-01-20_od83/05.jpg",
+        "midia/2027-01-20_od83/06.jpg",
+        "midia/2027-01-20_od83/07.jpg"
+      ],
+      "origem": "2027-01-20_od83",
+      "fixo": true
+    },
+    {
+      "id": "OD84",
+      "titulo": "Os Doutores · Eduardo senta com o Gabriel: uma voz de comando e o bônus que a margem aguenta",
+      "quando": "2027-01-21T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Eduardo decidia tudo na hora e cada sócio mandava numa direção. A equipe ouvia três chefes e não cumpria nenhum. E o bônus de agosto bateu a meta e levou o lucro junto.\n\nOs três sócios sentaram juntos. Escolheram um diretor do ano, combinaram que mudança se discute entre eles antes de chegar na equipe e redesenharam o bônus: sai do que passa da meta, mede o que a recepção controla, tem teto e é pago por trimestre. Antes de mudar, contador na conversa.\n\nNúmeros de exemplo (simulação).\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #sociedade",
+      "midias": [
+        "midia/2027-01-21_od84/01.jpg",
+        "midia/2027-01-21_od84/02.jpg",
+        "midia/2027-01-21_od84/03.jpg",
+        "midia/2027-01-21_od84/04.jpg",
+        "midia/2027-01-21_od84/05.jpg",
+        "midia/2027-01-21_od84/06.jpg",
+        "midia/2027-01-21_od84/07.jpg",
+        "midia/2027-01-21_od84/08.jpg"
+      ],
+      "origem": "2027-01-21_od84",
+      "fixo": true
+    },
+    {
+      "id": "OD85",
+      "titulo": "Os Doutores · Você acordou hoje com bronca da equipe",
+      "quando": "2027-01-22T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Você paga em dia, paga bem e mesmo assim tem dia em que parece que ninguém entrega. Aí o erro aparece e a bronca sai no balcão, na frente do paciente.\n\nQuase sempre o problema não é a pessoa. É que a entrega nunca foi escrita, ninguém confere e ninguém conversa até dar errado. Escreve o que é a entrega, põe um nome pra conferir e marca cinco minutos na sexta. E troca a ordem: correção em particular, elogio em público.\n\nSalva pra reunião de segunda.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2027-01-22_od85/01.jpg",
+        "midia/2027-01-22_od85/02.jpg",
+        "midia/2027-01-22_od85/03.jpg",
+        "midia/2027-01-22_od85/04.jpg",
+        "midia/2027-01-22_od85/05.jpg",
+        "midia/2027-01-22_od85/06.jpg",
+        "midia/2027-01-22_od85/07.jpg"
+      ],
+      "origem": "2027-01-22_od85",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -3336,7 +3488,8 @@
     "OD10",
     "OD16",
     "OD33",
-    "OD43"
+    "OD43",
+    "OD81"
   ],
   "palavras_ativas": [
     "COBRAR",
