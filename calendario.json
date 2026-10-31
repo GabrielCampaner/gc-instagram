@@ -3467,6 +3467,154 @@
       ],
       "origem": "2027-01-22_od85",
       "fixo": true
+    },
+    {
+      "id": "OD86",
+      "titulo": "Os Doutores · Fábio senta com o Gabriel: o número que decide por ele",
+      "quando": "2027-01-23T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Fábio ouvia todo mundo porque tinha medo de decidir sozinho. Quatro conselhos na ceia, seis cursos, nenhuma mudança terminada.\n\nA gente trocou a pergunta. Em vez de \"quem tem razão?\", passou a ser \"qual número da clínica isso mexe?\". O número mais fraco era a avaliação: de cada dez, três começavam o tratamento. Saiu uma mudança só, por 90 dias, e uma lista com os outros conselhos pra olhar em abril.\n\nComenta NIVEL que eu te mando o teste do nível da clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #tomadadedecisao",
+      "midias": [
+        "midia/2027-01-23_od86/01.jpg",
+        "midia/2027-01-23_od86/02.jpg",
+        "midia/2027-01-23_od86/03.jpg",
+        "midia/2027-01-23_od86/04.jpg",
+        "midia/2027-01-23_od86/05.jpg",
+        "midia/2027-01-23_od86/06.jpg",
+        "midia/2027-01-23_od86/07.jpg",
+        "midia/2027-01-23_od86/08.jpg"
+      ],
+      "origem": "2027-01-23_od86",
+      "fixo": true
+    },
+    {
+      "id": "OD87",
+      "titulo": "Os Doutores · Comparação: consultório de posto e consultório que acolhe",
+      "quando": "2027-01-24T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Mesmo médico, mesma consulta, mesmo preço. Numa sala, o paciente acha caro. Na outra, acha que valeu cada real.\n\nO Dr. Jorge descobriu isso entrando na própria clínica como paciente. Não precisou de reforma: cadeira de verdade, luz quente, café, alguém que chama pelo nome e uma ligação no dia seguinte. A técnica continuou a mesma. O que mudou foi o que o paciente consegue perceber.\n\nValor da consulta ilustrativo.\n\nComenta 20 e salva pra mostrar pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #jornadadopaciente #neurologia",
+      "midias": [
+        "midia/2027-01-24_od87/01.jpg",
+        "midia/2027-01-24_od87/02.jpg",
+        "midia/2027-01-24_od87/03.jpg"
+      ],
+      "origem": "2027-01-24_od87",
+      "fixo": true
+    },
+    {
+      "id": "OD88",
+      "titulo": "Os Doutores · Cecília: versão 14 do folder e a colega que lançou primeiro",
+      "quando": "2027-01-25T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Cecília é a pessoa mais caprichosa que você vai conhecer nessa série. Tudo dela é bem feito. O problema é que quase nada fica pronto.\n\nO folder do programa tá na versão 14, a vaga de recepção tá aberta há cinco meses e a tabela tá em revisão desde março. Enquanto isso, uma colega lançou um programa parecido, mais simples, e lotou a agenda. Não é falta de competência, tá? É medo de errar em público.\n\nQuinta ela senta comigo.\n\nComenta 26 se você também tem um projeto na versão 14.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #geriatria #tomadadedecisao",
+      "midias": [
+        "midia/2027-01-25_od88/01.jpg",
+        "midia/2027-01-25_od88/02.jpg",
+        "midia/2027-01-25_od88/03.jpg",
+        "midia/2027-01-25_od88/04.jpg",
+        "midia/2027-01-25_od88/05.jpg",
+        "midia/2027-01-25_od88/06.jpg",
+        "midia/2027-01-25_od88/07.jpg"
+      ],
+      "origem": "2027-01-25_od88",
+      "fixo": true
+    },
+    {
+      "id": "OD89",
+      "titulo": "Os Doutores · Notícia: a falta que ninguém cobra",
+      "quando": "2027-01-26T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Falta sem aviso é dinheiro que não volta. No Panorama das Clínicas e Hospitais 2026, com 639 gestores, 34% disseram ter mais de 11% de faltas, e o não comparecimento sem aviso aparece como o quinto maior desafio de gestão.\n\nComeça medindo a tua taxa. Depois, confirmação com pergunta que pede resposta, ligação quando o paciente não responde, lista de espera, ligação no mesmo dia pra quem faltou e uma regra escrita pra quem falta sempre.\n\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow (639 gestores, 26 estados), via Medicina S/A.\n\nSalva e manda pra quem confirma a agenda da tua clínica.\n\n#gestaodeclinicas #agenda #atendimento",
+      "midias": [
+        "midia/2027-01-26_od89/01.jpg",
+        "midia/2027-01-26_od89/02.jpg",
+        "midia/2027-01-26_od89/03.jpg",
+        "midia/2027-01-26_od89/04.jpg",
+        "midia/2027-01-26_od89/05.jpg",
+        "midia/2027-01-26_od89/06.jpg",
+        "midia/2027-01-26_od89/07.jpg"
+      ],
+      "origem": "2027-01-26_od89",
+      "fixo": true
+    },
+    {
+      "id": "OD90",
+      "titulo": "Os Doutores · Mauro: o primeiro mês do painel de orçamentos",
+      "quando": "2027-01-27T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em novembro, o Dr. Mauro sentou comigo e a gente contou o dinheiro que não entrou. Janeiro foi o primeiro mês do painel: toda sexta, 15 minutos e três números no quadro.\n\nA recepção ligou pros orçamentos parados e parte deles voltou. Teve recaída também: ele quis cortar a hora extra de quem fazia as ligações. O quadro respondeu por mim. E o café, que ele tinha cortado em novembro, voltou melhor.\n\nOs números do post são da história do Mauro.\n\nComenta 3 se tem orçamento de dezembro parado aí na tua gaveta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #vendasnasaude",
+      "midias": [
+        "midia/2027-01-27_od90/01.jpg",
+        "midia/2027-01-27_od90/02.jpg",
+        "midia/2027-01-27_od90/03.jpg",
+        "midia/2027-01-27_od90/04.jpg",
+        "midia/2027-01-27_od90/05.jpg",
+        "midia/2027-01-27_od90/06.jpg",
+        "midia/2027-01-27_od90/07.jpg"
+      ],
+      "origem": "2027-01-27_od90",
+      "fixo": true
+    },
+    {
+      "id": "OD91",
+      "titulo": "Os Doutores · Cecília senta com o Gabriel: o teste de 30 dias",
+      "quando": "2027-01-28T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Cecília não tinha problema de competência. Tinha medo de errar em público. Por isso o folder estava na versão 14, a vaga aberta há cinco meses e a tabela em revisão desde março.\n\nA gente fez o teste de 30 dias. Ela escolheu a primeira versão que já estava boa, abriu dez vagas com data de início e combinou o que medir. A vaga ganhou três requisitos que não se negociam. A tabela ganhou prazo. Decisão de clínica não é cirurgia: dá pra errar pequeno e corrigir.\n\nComenta NIVEL que eu te mando o teste do nível da clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #geriatria #tomadadedecisao",
+      "midias": [
+        "midia/2027-01-28_od91/01.jpg",
+        "midia/2027-01-28_od91/02.jpg",
+        "midia/2027-01-28_od91/03.jpg",
+        "midia/2027-01-28_od91/04.jpg",
+        "midia/2027-01-28_od91/05.jpg",
+        "midia/2027-01-28_od91/06.jpg",
+        "midia/2027-01-28_od91/07.jpg",
+        "midia/2027-01-28_od91/08.jpg"
+      ],
+      "origem": "2027-01-28_od91",
+      "fixo": true
+    },
+    {
+      "id": "OD92",
+      "titulo": "Os Doutores · Comparação: impulsionar e responder",
+      "quando": "2027-01-29T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Toda clínica que posta muito já sentiu a tentação: o post foi bem, então bora impulsionar. R$ 500 pra mais gente ver.\n\nAntes disso, abre o direct e o WhatsApp. Quantas pessoas já mandaram mensagem e ficaram sem resposta? Esse paciente já veio até a porta de graça. Responder custa zero e é o que decide se ele marca.\n\nValores ilustrativos.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #atendimento",
+      "midias": [
+        "midia/2027-01-29_od92/01.jpg",
+        "midia/2027-01-29_od92/02.jpg",
+        "midia/2027-01-29_od92/03.jpg"
+      ],
+      "origem": "2027-01-29_od92",
+      "fixo": true
     }
   ],
   "liberados": [

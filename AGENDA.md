@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 16:18:04. 136 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 16:38:30. 143 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -589,6 +589,41 @@ Gerada em 31/10/2026, 16:18:04. 136 posts agendados, 3 pendentes. Stories com en
 ## sexta, 22/01
 
 - **12h30 · OD85 · Os Doutores · Você acordou hoje com bronca da equipe** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 23/01
+
+- **12h30 · OD86 · Os Doutores · Fábio senta com o Gabriel: o número que decide por ele** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 24/01
+
+- **12h30 · OD87 · Os Doutores · Comparação: consultório de posto e consultório que acolhe** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 25/01
+
+- **12h30 · OD88 · Os Doutores · Cecília: versão 14 do folder e a colega que lançou primeiro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 26/01
+
+- **12h30 · OD89 · Os Doutores · Notícia: a falta que ninguém cobra** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 27/01
+
+- **12h30 · OD90 · Os Doutores · Mauro: o primeiro mês do painel de orçamentos** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 28/01
+
+- **12h30 · OD91 · Os Doutores · Cecília senta com o Gabriel: o teste de 30 dias** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 29/01
+
+- **12h30 · OD92 · Os Doutores · Comparação: impulsionar e responder** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)
