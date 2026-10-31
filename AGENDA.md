@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -101,6 +101,8 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
 - **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
+  - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
 
 ## quarta, 04/11
 
@@ -108,6 +110,8 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
   - Stories: Enquete: "Você mede a conversão de orçamento?" · Mede / Não mede.
 - **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
+  - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
 
 ## quinta, 05/11
 
@@ -123,6 +127,8 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
 - **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
+  - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
 
 ## sábado, 07/11
 
@@ -130,6 +136,8 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
 - **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
+  - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
 
 ## domingo, 08/11
 
@@ -137,6 +145,8 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
   - Stories: Repost com a pergunta: "Qual o seu paciente lembra?" · A consulta / A resposta.
 - **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L3-08 · Os três "achei caro"** (carrossel)
+  - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
 
 ## segunda, 09/11
 
@@ -254,26 +264,10 @@ Gerada em 31/10/2026, 07:21:14. 58 posts agendados, 3 pendentes. Stories com enq
 - **18h30 · L3-39 · O mercado de clínicas em 10 números** (carrossel)
   - Stories: Uma lâmina por dia nos Stories da semana, com enquete "Você sabe o seu?".
 
-## quinta, 26/11
-
-- **08h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
-  - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
-- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
-  - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
-
 ## sexta, 27/11
 
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
-- **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
-  - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
-
-## sábado, 28/11
-
-- **08h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
-  - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
-- **18h30 · L3-08 · Os três "achei caro"** (carrossel)
-  - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
 
 ## Pendentes (não saem até serem liberados)
 

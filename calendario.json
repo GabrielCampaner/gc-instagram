@@ -629,6 +629,28 @@
       "fixo": true
     },
     {
+      "id": "L3-01",
+      "titulo": "Dois donos, mesmo dia",
+      "quando": "2026-11-03T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Repost do carrossel + enquete \"Hoje você foi o de cima ou o de baixo?\" · De cima / De baixo. Caixinha: \"Qual horário do seu dia mais te drena?\" (vira pauta da série Duas Clínicas).",
+      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
+      "midias": [
+        "midia/2026-11-09_dois-donos/01.jpg",
+        "midia/2026-11-09_dois-donos/02.jpg",
+        "midia/2026-11-09_dois-donos/03.jpg",
+        "midia/2026-11-09_dois-donos/04.jpg",
+        "midia/2026-11-09_dois-donos/05.jpg",
+        "midia/2026-11-09_dois-donos/06.jpg",
+        "midia/2026-11-09_dois-donos/07.jpg",
+        "midia/2026-11-09_dois-donos/08.jpg"
+      ],
+      "origem": "2026-11-09_dois-donos"
+    },
+    {
       "id": "L3-33",
       "titulo": "54% medem só a entrada",
       "quando": "2026-11-04T08:30:00-03:00",
@@ -666,6 +688,27 @@
       ],
       "origem": "2026-11-04_od02",
       "fixo": true
+    },
+    {
+      "id": "L3-03",
+      "titulo": "Os mesmos 40 minutos",
+      "quando": "2026-11-04T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Caixa de perguntas: \"Onde foram os seus 40 minutos hoje?\" Responda 3 nos Stories com a troca certa.",
+      "legenda": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria o preço.\n\nPodem virar WhatsApp no almoço ou os números da semana. Áudio explicando o plano de novo ou o plano escrito uma vez. Paciente esperando calado ou paciente avisado do atraso.\n\nCom hora clínica de R$ 300, 4 blocos de 40 minutos perdidos por semana são R$ 3.200 por mês. (Simulação.)\n\nAgenda cheia não é agenda boa. Importa quem ocupa o seu tempo.\n\nSalva e mostra para a recepção na segunda.\n\n#gestaodeclinicas #agenda #consultorio #produtividade #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-11_mesmos-40-minutos/01.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/02.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/03.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/04.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/05.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/06.jpg",
+        "midia/2026-11-11_mesmos-40-minutos/07.jpg"
+      ],
+      "origem": "2026-11-11_mesmos-40-minutos"
     },
     {
       "id": "L3-34",
@@ -765,6 +808,28 @@
       "fixo": true
     },
     {
+      "id": "L3-04",
+      "titulo": "5 erros que parecem educação",
+      "quando": "2026-11-06T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Enquete: \"Áudio para paciente: sim ou não?\" Depois, a resposta da lâmina 3. Caixinha: \"Qual frase a sua recepção mais usa?\"",
+      "legenda": "Como responder paciente no WhatsApp sem travar o agendamento.\n\n\"Bom dia, tudo bem?\" e esperar. Áudio de 2 minutos. \"Vou verificar e te retorno\". Tabela inteira em PDF. \"Qualquer dúvida, estou à disposição\".\n\nTudo parece educação. Tudo atrasa a decisão do paciente.\n\n51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Cada troca de mensagem a mais é uma chance de ele desistir.\n\nManda para quem cuida do WhatsApp da sua clínica. Sem bronca.\n\n#gestaodeclinicas #atendimento #whatsapp #secretariadeconsultorio #recepcao",
+      "midias": [
+        "midia/2026-11-12_parecem-educacao/01.jpg",
+        "midia/2026-11-12_parecem-educacao/02.jpg",
+        "midia/2026-11-12_parecem-educacao/03.jpg",
+        "midia/2026-11-12_parecem-educacao/04.jpg",
+        "midia/2026-11-12_parecem-educacao/05.jpg",
+        "midia/2026-11-12_parecem-educacao/06.jpg",
+        "midia/2026-11-12_parecem-educacao/07.jpg",
+        "midia/2026-11-12_parecem-educacao/08.jpg"
+      ],
+      "origem": "2026-11-12_parecem-educacao"
+    },
+    {
       "id": "L3-36",
       "titulo": "75% já contrataram pelo WhatsApp",
       "quando": "2026-11-07T08:30:00-03:00",
@@ -800,6 +865,28 @@
       ],
       "origem": "2026-11-07_od05",
       "fixo": true
+    },
+    {
+      "id": "L3-07",
+      "titulo": "Duas recepções, mesma segunda",
+      "quando": "2026-11-07T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Enquete: \"Quantas mensagens chegaram no seu fim de semana?\" (controle deslizante). Depois, o quadro dos 4 números para printar.",
+      "legenda": "O que uma secretária de consultório faz numa segunda-feira? Depende do processo que ela recebeu.\n\nÀs 8h, 47 mensagens do fim de semana. Às 9h15, \"quanto custa?\". Às 11h, os orçamentos de ontem. Às 14h, uma falta. Às 17h30, \"tá caro\". Às 19h, o fim do dia.\n\nEm cada horário, uma recepção corre atrás e a outra segue uma regra.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). O fim de semana também é agenda.\n\nSalva e anota 4 números hoje às 19h: conversas, agendamentos, faltas e orçamentos.\n\n#secretariadeconsultorio #recepcao #gestaodeclinicas #atendimento #consultorio",
+      "midias": [
+        "midia/2026-11-16_duas-recepcoes/01.jpg",
+        "midia/2026-11-16_duas-recepcoes/02.jpg",
+        "midia/2026-11-16_duas-recepcoes/03.jpg",
+        "midia/2026-11-16_duas-recepcoes/04.jpg",
+        "midia/2026-11-16_duas-recepcoes/05.jpg",
+        "midia/2026-11-16_duas-recepcoes/06.jpg",
+        "midia/2026-11-16_duas-recepcoes/07.jpg",
+        "midia/2026-11-16_duas-recepcoes/08.jpg"
+      ],
+      "origem": "2026-11-16_duas-recepcoes"
     },
     {
       "id": "L3-24",
@@ -840,6 +927,28 @@
       ],
       "origem": "2026-11-08_od06",
       "fixo": true
+    },
+    {
+      "id": "L3-08",
+      "titulo": "Os três \"achei caro\"",
+      "quando": "2026-11-08T18:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "Caixinha: \"Qual resposta você dá quando o paciente diz que está caro?\" Responda 3 com a lâmina certa.",
+      "legenda": "O que responder quando o paciente acha caro? Primeiro, descobrir qual dos três está falando.\n\n1. O que não entendeu o valor: explique o que está incluído.\n\n2. O que não cabe agora: mostre o caminho em etapas. O problema é acesso.\n\n3. O que está comparando: compare o que está incluído, por escrito. Desconto aqui vira leilão.\n\nA pergunta que separa os três: \"O que pesou mais: o valor total ou a forma de pagar?\"\n\nSalva e passa para quem fecha orçamento.\n\n#gestaodeclinicas #vendasnasaude #precificacao #atendimento #orcamento",
+      "midias": [
+        "midia/2026-11-17_achou-caro/01.jpg",
+        "midia/2026-11-17_achou-caro/02.jpg",
+        "midia/2026-11-17_achou-caro/03.jpg",
+        "midia/2026-11-17_achou-caro/04.jpg",
+        "midia/2026-11-17_achou-caro/05.jpg",
+        "midia/2026-11-17_achou-caro/06.jpg",
+        "midia/2026-11-17_achou-caro/07.jpg",
+        "midia/2026-11-17_achou-caro/08.jpg"
+      ],
+      "origem": "2026-11-17_achou-caro"
     },
     {
       "id": "L3-37",
@@ -1569,49 +1678,6 @@
       "origem": "2026-12-14_mercado-em-10-numeros"
     },
     {
-      "id": "L3-01",
-      "titulo": "Dois donos, mesmo dia",
-      "quando": "2026-11-26T08:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Repost do carrossel + enquete \"Hoje você foi o de cima ou o de baixo?\" · De cima / De baixo. Caixinha: \"Qual horário do seu dia mais te drena?\" (vira pauta da série Duas Clínicas).",
-      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUm responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40.\n\nO outro atende, olha 3 números com a equipe às 18h30 e dorme.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nManda para aquele amigo que ainda responde paciente às 23h.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #consultorio #rotina",
-      "midias": [
-        "midia/2026-11-09_dois-donos/01.jpg",
-        "midia/2026-11-09_dois-donos/02.jpg",
-        "midia/2026-11-09_dois-donos/03.jpg",
-        "midia/2026-11-09_dois-donos/04.jpg",
-        "midia/2026-11-09_dois-donos/05.jpg",
-        "midia/2026-11-09_dois-donos/06.jpg",
-        "midia/2026-11-09_dois-donos/07.jpg",
-        "midia/2026-11-09_dois-donos/08.jpg"
-      ],
-      "origem": "2026-11-09_dois-donos"
-    },
-    {
-      "id": "L3-03",
-      "titulo": "Os mesmos 40 minutos",
-      "quando": "2026-11-26T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Caixa de perguntas: \"Onde foram os seus 40 minutos hoje?\" Responda 3 nos Stories com a troca certa.",
-      "legenda": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria o preço.\n\nPodem virar WhatsApp no almoço ou os números da semana. Áudio explicando o plano de novo ou o plano escrito uma vez. Paciente esperando calado ou paciente avisado do atraso.\n\nCom hora clínica de R$ 300, 4 blocos de 40 minutos perdidos por semana são R$ 3.200 por mês. (Simulação.)\n\nAgenda cheia não é agenda boa. Importa quem ocupa o seu tempo.\n\nSalva e mostra para a recepção na segunda.\n\n#gestaodeclinicas #agenda #consultorio #produtividade #gestaoemsaude",
-      "midias": [
-        "midia/2026-11-11_mesmos-40-minutos/01.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/02.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/03.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/04.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/05.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/06.jpg",
-        "midia/2026-11-11_mesmos-40-minutos/07.jpg"
-      ],
-      "origem": "2026-11-11_mesmos-40-minutos"
-    },
-    {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
       "quando": "2026-11-27T06:30:00-03:00",
@@ -1627,72 +1693,6 @@
       "origem": "2026-11-27_frase-um-terco",
       "fixo": true,
       "frase": true
-    },
-    {
-      "id": "L3-04",
-      "titulo": "5 erros que parecem educação",
-      "quando": "2026-11-27T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Enquete: \"Áudio para paciente: sim ou não?\" Depois, a resposta da lâmina 3. Caixinha: \"Qual frase a sua recepção mais usa?\"",
-      "legenda": "Como responder paciente no WhatsApp sem travar o agendamento.\n\n\"Bom dia, tudo bem?\" e esperar. Áudio de 2 minutos. \"Vou verificar e te retorno\". Tabela inteira em PDF. \"Qualquer dúvida, estou à disposição\".\n\nTudo parece educação. Tudo atrasa a decisão do paciente.\n\n51% dos brasileiros consideram ideal resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Cada troca de mensagem a mais é uma chance de ele desistir.\n\nManda para quem cuida do WhatsApp da sua clínica. Sem bronca.\n\n#gestaodeclinicas #atendimento #whatsapp #secretariadeconsultorio #recepcao",
-      "midias": [
-        "midia/2026-11-12_parecem-educacao/01.jpg",
-        "midia/2026-11-12_parecem-educacao/02.jpg",
-        "midia/2026-11-12_parecem-educacao/03.jpg",
-        "midia/2026-11-12_parecem-educacao/04.jpg",
-        "midia/2026-11-12_parecem-educacao/05.jpg",
-        "midia/2026-11-12_parecem-educacao/06.jpg",
-        "midia/2026-11-12_parecem-educacao/07.jpg",
-        "midia/2026-11-12_parecem-educacao/08.jpg"
-      ],
-      "origem": "2026-11-12_parecem-educacao"
-    },
-    {
-      "id": "L3-07",
-      "titulo": "Duas recepções, mesma segunda",
-      "quando": "2026-11-28T08:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Enquete: \"Quantas mensagens chegaram no seu fim de semana?\" (controle deslizante). Depois, o quadro dos 4 números para printar.",
-      "legenda": "O que uma secretária de consultório faz numa segunda-feira? Depende do processo que ela recebeu.\n\nÀs 8h, 47 mensagens do fim de semana. Às 9h15, \"quanto custa?\". Às 11h, os orçamentos de ontem. Às 14h, uma falta. Às 17h30, \"tá caro\". Às 19h, o fim do dia.\n\nEm cada horário, uma recepção corre atrás e a outra segue uma regra.\n\n33% dos agendamentos online acontecem fora do horário comercial (Perfil do Paciente Digital 2025, Doctoralia). O fim de semana também é agenda.\n\nSalva e anota 4 números hoje às 19h: conversas, agendamentos, faltas e orçamentos.\n\n#secretariadeconsultorio #recepcao #gestaodeclinicas #atendimento #consultorio",
-      "midias": [
-        "midia/2026-11-16_duas-recepcoes/01.jpg",
-        "midia/2026-11-16_duas-recepcoes/02.jpg",
-        "midia/2026-11-16_duas-recepcoes/03.jpg",
-        "midia/2026-11-16_duas-recepcoes/04.jpg",
-        "midia/2026-11-16_duas-recepcoes/05.jpg",
-        "midia/2026-11-16_duas-recepcoes/06.jpg",
-        "midia/2026-11-16_duas-recepcoes/07.jpg",
-        "midia/2026-11-16_duas-recepcoes/08.jpg"
-      ],
-      "origem": "2026-11-16_duas-recepcoes"
-    },
-    {
-      "id": "L3-08",
-      "titulo": "Os três \"achei caro\"",
-      "quando": "2026-11-28T18:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "Caixinha: \"Qual resposta você dá quando o paciente diz que está caro?\" Responda 3 com a lâmina certa.",
-      "legenda": "O que responder quando o paciente acha caro? Primeiro, descobrir qual dos três está falando.\n\n1. O que não entendeu o valor: explique o que está incluído.\n\n2. O que não cabe agora: mostre o caminho em etapas. O problema é acesso.\n\n3. O que está comparando: compare o que está incluído, por escrito. Desconto aqui vira leilão.\n\nA pergunta que separa os três: \"O que pesou mais: o valor total ou a forma de pagar?\"\n\nSalva e passa para quem fecha orçamento.\n\n#gestaodeclinicas #vendasnasaude #precificacao #atendimento #orcamento",
-      "midias": [
-        "midia/2026-11-17_achou-caro/01.jpg",
-        "midia/2026-11-17_achou-caro/02.jpg",
-        "midia/2026-11-17_achou-caro/03.jpg",
-        "midia/2026-11-17_achou-caro/04.jpg",
-        "midia/2026-11-17_achou-caro/05.jpg",
-        "midia/2026-11-17_achou-caro/06.jpg",
-        "midia/2026-11-17_achou-caro/07.jpg",
-        "midia/2026-11-17_achou-caro/08.jpg"
-      ],
-      "origem": "2026-11-17_achou-caro"
     }
   ],
   "liberados": [
