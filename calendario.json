@@ -493,6 +493,31 @@
       "frase": true
     },
     {
+      "id": "OD01",
+      "titulo": "Os Doutores · Estreia: toda clínica tem um desses doutores",
+      "quando": "2026-10-31T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Todo dono de clínica já foi pelo menos um desses. Desde 2009 eu encontro os treze por aí, às vezes todos na mesma pessoa.\n\nA partir de hoje, todo dia às 12h30 tem um deles aqui. Primeiro sozinho, no dia a dia que você conhece bem. Depois sentado comigo, com a conta na mesa e o que fazer amanhã de manhã.\n\nSem julgamento, tá? Cada defeito desses tem uma dor de verdade por trás. E todos têm saída.\n\nAmanhã começa pela Dra. Helena.\n\nComenta o número do teu. E se for a tua sócia, marca ela.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #medicos",
+      "midias": [
+        "midia/2026-10-31_od01/01.jpg",
+        "midia/2026-10-31_od01/02.jpg",
+        "midia/2026-10-31_od01/03.jpg",
+        "midia/2026-10-31_od01/04.jpg",
+        "midia/2026-10-31_od01/05.jpg",
+        "midia/2026-10-31_od01/06.jpg",
+        "midia/2026-10-31_od01/07.jpg",
+        "midia/2026-10-31_od01/08.jpg",
+        "midia/2026-10-31_od01/09.jpg",
+        "midia/2026-10-31_od01/10.jpg"
+      ],
+      "origem": "2026-10-31_od01",
+      "fixo": true
+    },
+    {
       "id": "paciente-problema",
       "titulo": "Toda clínica atende os quatro. Toda semana.",
       "quando": "2026-10-31T18:30:00-03:00",
@@ -528,6 +553,30 @@
         "midia/2026-11-15_numero-3-em-4/01.jpg"
       ],
       "origem": "2026-11-15_numero-3-em-4"
+    },
+    {
+      "id": "OD02",
+      "titulo": "Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou",
+      "quando": "2026-11-01T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Faturar bem e não saber quanto ganha é muito mais comum do que parece. E é das coisas que mais dão vergonha de admitir.\r\n\r\nA Dra. Helena tem agenda cheia, paciente satisfeito e equipe boa. O que ela não tem é conta separada, pró-labore definido e o custo da hora. Aí todo mês que aperta, a resposta é trabalhar mais.\r\n\r\nSó que trabalhar mais com a hora mal paga não resolve, né? Só acelera o aperto.\r\n\r\nDia 13 ela senta comigo e eu te mostro a conta que a gente fez.\r\n\r\nComenta 2 se você também tá nessa. Sem julgamento.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#gestaodeclinicas #precificacao #consultorio",
+      "midias": [
+        "midia/2026-11-01_od02/01.jpg",
+        "midia/2026-11-01_od02/02.jpg",
+        "midia/2026-11-01_od02/03.jpg",
+        "midia/2026-11-01_od02/04.jpg",
+        "midia/2026-11-01_od02/05.jpg",
+        "midia/2026-11-01_od02/06.jpg",
+        "midia/2026-11-01_od02/07.jpg",
+        "midia/2026-11-01_od02/08.jpg",
+        "midia/2026-11-01_od02/09.jpg"
+      ],
+      "origem": "2026-11-01_od02",
+      "fixo": true
     },
     {
       "id": "como-atender-cada-um",
@@ -567,6 +616,28 @@
       "origem": "2026-11-18_numero-635-mil"
     },
     {
+      "id": "OD03",
+      "titulo": "Os Doutores · Notícia: o paciente que desiste",
+      "quando": "2026-11-02T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.\n\nEm 2025, foram mais de 88 milhões de consultas marcadas online no Brasil, segundo a Doctoralia. Até entre quem tem 60 anos ou mais, 35% já preferem o WhatsApp. E no CX Trends 2026, da Octadesk e Opinion Box, 67% desistiram de alguma compra no último ano depois de uma experiência ruim.\n\nO paciente não reclama, tá? Ele simplesmente marca em outro lugar. Por isso, antes de pensar em anúncio, olha quanto tempo a tua clínica leva pra responder a primeira mensagem.\n\nFontes: Viva, com dados da Doctoralia (Perfil do Paciente Digital 2026), jan/2026. CX Trends 2026, Octadesk e Opinion Box.\n\nSalva e manda pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
+      "midias": [
+        "midia/2026-11-02_od03/01.jpg",
+        "midia/2026-11-02_od03/02.jpg",
+        "midia/2026-11-02_od03/03.jpg",
+        "midia/2026-11-02_od03/04.jpg",
+        "midia/2026-11-02_od03/05.jpg",
+        "midia/2026-11-02_od03/06.jpg",
+        "midia/2026-11-02_od03/07.jpg"
+      ],
+      "origem": "2026-11-02_od03",
+      "fixo": true
+    },
+    {
       "id": "GC-14",
       "titulo": "Falta sem aviso não é azar",
       "quando": "2026-11-02T18:30:00-03:00",
@@ -604,28 +675,26 @@
       "origem": "2026-11-21_duas-clinicas-21h47"
     },
     {
-      "id": "OD01",
-      "titulo": "Os Doutores · Estreia: toda clínica tem um desses doutores",
+      "id": "OD04",
+      "titulo": "Os Doutores · Lucas: 94 dias postando, 3 consultas particulares",
       "quando": "2026-11-03T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
-      "legenda": "Todo dono de clínica já foi pelo menos um desses. Desde 2009 eu encontro os treze por aí, às vezes todos na mesma pessoa.\n\nA partir de hoje, todo dia às 12h30 tem um deles aqui. Primeiro sozinho, no dia a dia que você conhece bem. Depois sentado comigo, com a conta na mesa e o que fazer amanhã de manhã.\n\nSem julgamento, tá? Cada defeito desses tem uma dor de verdade por trás. E todos têm saída.\n\nAmanhã começa pela Dra. Helena.\n\nComenta o número do teu. E se for a tua sócia, marca ela.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #medicos",
+      "legenda": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá acontecendo, né?\r\n\r\nO Dr. Lucas faz tudo certo no Instagram. O problema começa depois: a pessoa vê o vídeo, chama no direct, pergunta o preço e fica dois dias esperando. Quando ele responde, ela já marcou com outro.\r\n\r\nO alcance trouxe gente. O que faltou foi alguém pra receber essa gente.\r\n\r\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, com 639 gestores.\r\n\r\nDia 15 ele senta comigo. Comenta 6 e marca o colega da trend.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#medicos #nutricao #atendimento",
       "midias": [
-        "midia/2026-11-03_od01/01.jpg",
-        "midia/2026-11-03_od01/02.jpg",
-        "midia/2026-11-03_od01/03.jpg",
-        "midia/2026-11-03_od01/04.jpg",
-        "midia/2026-11-03_od01/05.jpg",
-        "midia/2026-11-03_od01/06.jpg",
-        "midia/2026-11-03_od01/07.jpg",
-        "midia/2026-11-03_od01/08.jpg",
-        "midia/2026-11-03_od01/09.jpg",
-        "midia/2026-11-03_od01/10.jpg"
+        "midia/2026-11-03_od04/01.jpg",
+        "midia/2026-11-03_od04/02.jpg",
+        "midia/2026-11-03_od04/03.jpg",
+        "midia/2026-11-03_od04/04.jpg",
+        "midia/2026-11-03_od04/05.jpg",
+        "midia/2026-11-03_od04/06.jpg",
+        "midia/2026-11-03_od04/07.jpg",
+        "midia/2026-11-03_od04/08.jpg"
       ],
-      "origem": "2026-11-03_od01",
+      "origem": "2026-11-03_od04",
       "fixo": true
     },
     {
@@ -666,27 +735,25 @@
       "origem": "2026-11-22_numero-54"
     },
     {
-      "id": "OD02",
-      "titulo": "Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou",
+      "id": "OD05",
+      "titulo": "Os Doutores · Você acordou hoje: o descontinho das 6h52",
       "quando": "2026-11-04T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
-      "legenda": "Faturar bem e não saber quanto ganha é muito mais comum do que parece. E é das coisas que mais dão vergonha de admitir.\n\nA Dra. Helena tem agenda cheia, paciente satisfeito e equipe boa. O que ela não tem é conta separada, pró-labore definido e o custo da hora. Aí todo mês que aperta, a resposta é trabalhar mais.\n\nSó que trabalhar mais com a hora mal paga não resolve, né? Só acelera o aperto.\n\nDia 16 ela senta comigo e eu te mostro a conta que a gente fez.\n\nComenta 2 se você também tá nessa. Sem julgamento.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #consultorio",
+      "legenda": "Hoje começa um quadro novo aqui: eu vestindo o teu jaleco pra viver um dia teu. Eu passo os dias dentro de clínica desde 2009, e esse dia eu conheço bem.\n\nO pedido de desconto chega antes do café. E a resposta que sai no automático, \"posso ver\", já avisa pra pessoa que o teu preço é negociável.\n\nDesconto não se responde no impulso, tá? Se troca por alguma coisa, se pergunta o que pesa ou se explica o valor.\n\nComenta COBRAR que eu te mando o raio-x comercial da tua clínica. Em 3 minutos você vê onde o orçamento escapa.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #atendimento",
       "midias": [
-        "midia/2026-11-04_od02/01.jpg",
-        "midia/2026-11-04_od02/02.jpg",
-        "midia/2026-11-04_od02/03.jpg",
-        "midia/2026-11-04_od02/04.jpg",
-        "midia/2026-11-04_od02/05.jpg",
-        "midia/2026-11-04_od02/06.jpg",
-        "midia/2026-11-04_od02/07.jpg",
-        "midia/2026-11-04_od02/08.jpg",
-        "midia/2026-11-04_od02/09.jpg"
+        "midia/2026-11-04_od05/01.jpg",
+        "midia/2026-11-04_od05/02.jpg",
+        "midia/2026-11-04_od05/03.jpg",
+        "midia/2026-11-04_od05/04.jpg",
+        "midia/2026-11-04_od05/05.jpg",
+        "midia/2026-11-04_od05/06.jpg",
+        "midia/2026-11-04_od05/07.jpg"
       ],
-      "origem": "2026-11-04_od02",
+      "origem": "2026-11-04_od05",
       "fixo": true
     },
     {
@@ -726,25 +793,28 @@
       "origem": "2026-11-25_numero-84"
     },
     {
-      "id": "OD03",
-      "titulo": "Os Doutores · Notícia: o paciente que desiste",
+      "id": "OD06",
+      "titulo": "Os Doutores · Caio: saiu do plantão e dormiu no carro",
       "quando": "2026-11-05T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
       "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
-      "legenda": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.\n\nEm 2025, foram mais de 88 milhões de consultas marcadas online no Brasil, segundo a Doctoralia. Até entre quem tem 60 anos ou mais, 35% já preferem o WhatsApp. E no CX Trends 2026, da Octadesk e Opinion Box, 67% desistiram de alguma compra no último ano depois de uma experiência ruim.\n\nO paciente não reclama, tá? Ele simplesmente marca em outro lugar. Por isso, antes de pensar em anúncio, olha quanto tempo a tua clínica leva pra responder a primeira mensagem.\n\nFontes: Viva, com dados da Doctoralia (Perfil do Paciente Digital 2026), jan/2026. CX Trends 2026, Octadesk e Opinion Box.\n\nSalva e manda pra tua recepção.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
+      "legenda": "Hoje é dia de falar de cansaço sem vergonha, tá?\r\n\r\nO Dr. Caio é o médico que todo mundo conhece: competente, disponível, sempre de plantão. Ele não reclama. Só vai somando escala pra fechar o mês e adiando o consultório pra quando der.\r\n\r\nO que ninguém mostrou pra ele é quanto vale de verdade cada uma dessas horas. Sem essa conta, ele não consegue nem decidir quanto cobrar quando sair.\r\n\r\nFonte: Afya, pesquisa Qualidade de Vida do Médico 2025.\r\n\r\nDia 25 a gente faz essa conta juntos. Comenta 10 ou manda pro colega de plantão.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#plantao #medicos #gestaoemsaude",
       "midias": [
-        "midia/2026-11-05_od03/01.jpg",
-        "midia/2026-11-05_od03/02.jpg",
-        "midia/2026-11-05_od03/03.jpg",
-        "midia/2026-11-05_od03/04.jpg",
-        "midia/2026-11-05_od03/05.jpg",
-        "midia/2026-11-05_od03/06.jpg",
-        "midia/2026-11-05_od03/07.jpg"
+        "midia/2026-11-05_od06/01.jpg",
+        "midia/2026-11-05_od06/02.jpg",
+        "midia/2026-11-05_od06/03.jpg",
+        "midia/2026-11-05_od06/04.jpg",
+        "midia/2026-11-05_od06/05.jpg",
+        "midia/2026-11-05_od06/06.jpg",
+        "midia/2026-11-05_od06/07.jpg",
+        "midia/2026-11-05_od06/08.jpg",
+        "midia/2026-11-05_od06/09.jpg",
+        "midia/2026-11-05_od06/10.jpg"
       ],
-      "origem": "2026-11-05_od03",
+      "origem": "2026-11-05_od06",
       "fixo": true
     },
     {
@@ -785,29 +855,6 @@
       "origem": "2026-11-29_numero-34"
     },
     {
-      "id": "OD04",
-      "titulo": "Os Doutores · Lucas: 94 dias postando, 3 consultas particulares",
-      "quando": "2026-11-06T12:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá acontecendo, né?\n\nO Dr. Lucas faz tudo certo no Instagram. O problema começa depois: a pessoa vê o vídeo, chama no direct, pergunta o preço e fica dois dias esperando. Quando ele responde, ela já marcou com outro.\n\nO alcance trouxe gente. O que faltou foi alguém pra receber essa gente.\n\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, com 639 gestores.\n\nDia 18 ele senta comigo. Comenta 6 e marca o colega da trend.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#medicos #nutricao #atendimento",
-      "midias": [
-        "midia/2026-11-06_od04/01.jpg",
-        "midia/2026-11-06_od04/02.jpg",
-        "midia/2026-11-06_od04/03.jpg",
-        "midia/2026-11-06_od04/04.jpg",
-        "midia/2026-11-06_od04/05.jpg",
-        "midia/2026-11-06_od04/06.jpg",
-        "midia/2026-11-06_od04/07.jpg",
-        "midia/2026-11-06_od04/08.jpg"
-      ],
-      "origem": "2026-11-06_od04",
-      "fixo": true
-    },
-    {
       "id": "L3-04",
       "titulo": "5 erros que parecem educação",
       "quando": "2026-11-06T18:30:00-03:00",
@@ -845,28 +892,6 @@
       "origem": "2026-12-02_numero-75"
     },
     {
-      "id": "OD05",
-      "titulo": "Os Doutores · Você acordou hoje: o descontinho das 6h52",
-      "quando": "2026-11-07T12:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Hoje começa um quadro novo aqui: eu vestindo o teu jaleco pra viver um dia teu. Eu passo os dias dentro de clínica desde 2009, e esse dia eu conheço bem.\n\nO pedido de desconto chega antes do café. E a resposta que sai no automático, \"posso ver\", já avisa pra pessoa que o teu preço é negociável.\n\nDesconto não se responde no impulso, tá? Se troca por alguma coisa, se pergunta o que pesa ou se explica o valor.\n\nComenta COBRAR que eu te mando o raio-x comercial da tua clínica. Em 3 minutos você vê onde o orçamento escapa.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #atendimento",
-      "midias": [
-        "midia/2026-11-07_od05/01.jpg",
-        "midia/2026-11-07_od05/02.jpg",
-        "midia/2026-11-07_od05/03.jpg",
-        "midia/2026-11-07_od05/04.jpg",
-        "midia/2026-11-07_od05/05.jpg",
-        "midia/2026-11-07_od05/06.jpg",
-        "midia/2026-11-07_od05/07.jpg"
-      ],
-      "origem": "2026-11-07_od05",
-      "fixo": true
-    },
-    {
       "id": "L3-07",
       "titulo": "Duas recepções, mesma segunda",
       "quando": "2026-11-07T18:30:00-03:00",
@@ -902,31 +927,6 @@
         "midia/2026-12-05_qual-ele-lembra/01.jpg"
       ],
       "origem": "2026-12-05_qual-ele-lembra"
-    },
-    {
-      "id": "OD06",
-      "titulo": "Os Doutores · Caio: saiu do plantão e dormiu no carro",
-      "quando": "2026-11-08T12:30:00-03:00",
-      "tipo": "carrossel",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
-      "stories": "",
-      "legenda": "Domingo é dia de falar de cansaço sem vergonha, tá?\n\nO Dr. Caio é o médico que todo mundo conhece: competente, disponível, sempre de plantão. Ele não reclama. Só vai somando escala pra fechar o mês e adiando o consultório pra quando der.\n\nO que ninguém mostrou pra ele é quanto vale de verdade cada uma dessas horas. Sem essa conta, ele não consegue nem decidir quanto cobrar quando sair.\n\nFonte: Afya, pesquisa Qualidade de Vida do Médico 2025.\n\nDia 28 a gente faz essa conta juntos. Comenta 10 ou manda pro colega de plantão.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#plantao #medicos #gestaoemsaude",
-      "midias": [
-        "midia/2026-11-08_od06/01.jpg",
-        "midia/2026-11-08_od06/02.jpg",
-        "midia/2026-11-08_od06/03.jpg",
-        "midia/2026-11-08_od06/04.jpg",
-        "midia/2026-11-08_od06/05.jpg",
-        "midia/2026-11-08_od06/06.jpg",
-        "midia/2026-11-08_od06/07.jpg",
-        "midia/2026-11-08_od06/08.jpg",
-        "midia/2026-11-08_od06/09.jpg",
-        "midia/2026-11-08_od06/10.jpg"
-      ],
-      "origem": "2026-11-08_od06",
-      "fixo": true
     },
     {
       "id": "L3-08",

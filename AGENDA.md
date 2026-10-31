@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 07:36:26. 58 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -80,18 +80,24 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **06h30 · L3-05 · Acha caro o que ninguém explicou** (imagem) · publicado: https://www.instagram.com/p/DfJ1q2sHM9o/
   - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
+- **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
 
 ## domingo, 01/11
 
 - **08h30 · L3-31 · 3 em cada 4 sem plano** (imagem)
   - Stories: Enquete: "Quanto da sua agenda é particular?" (controle deslizante).
+- **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · como-atender-cada-um · Você não receita a mesma dose para todo paciente. Por que a ** (carrossel)
 
 ## segunda, 02/11
 
 - **08h30 · L3-32 · 635.706 médicos** (imagem)
   - Stories: Pergunta: "A sua agenda enche mais ou menos que há 5 anos?"
+- **12h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-14 · Falta sem aviso não é azar** (carrossel)
   - Stories: Tarde: enquete "Você sabe a taxa de falta da sua clínica?" · Sei o número / Não sei. Noite: "O Exame da sua clínica mostra a falta real, não a percebida" (tela da IAra, separada).
 
@@ -99,7 +105,7 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-12 · 21h47 em duas clínicas** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
-- **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
+- **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
   - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
@@ -108,7 +114,7 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-33 · 54% medem só a entrada** (imagem)
   - Stories: Enquete: "Você mede a conversão de orçamento?" · Mede / Não mede.
-- **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
+- **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
   - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
@@ -117,7 +123,7 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-34 · 33% fora do horário** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem depois das 18h?" · Responde / Só no dia seguinte.
-- **12h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
+- **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
 
@@ -125,8 +131,6 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-35 · 34% com falta acima de 11%** (imagem)
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
-- **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
-  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
   - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
 
@@ -134,8 +138,6 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-36 · 75% já contrataram pelo WhatsApp** (imagem)
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
-- **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
-  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
   - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
 
@@ -143,8 +145,6 @@ Gerada em 31/10/2026, 07:21:33. 58 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-24 · Qual ele lembra** (imagem)
   - Stories: Repost com a pergunta: "Qual o seu paciente lembra?" · A consulta / A resposta.
-- **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
-  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-08 · Os três "achei caro"** (carrossel)
   - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
 
