@@ -683,7 +683,7 @@
       "pendencia": "",
       "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
       "stories": "",
-      "legenda": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá acontecendo, né?\r\n\r\nO Dr. Lucas faz tudo certo no Instagram. O problema começa depois: a pessoa vê o vídeo, chama no direct, pergunta o preço e fica dois dias esperando. Quando ele responde, ela já marcou com outro.\r\n\r\nO alcance trouxe gente. O que faltou foi alguém pra receber essa gente.\r\n\r\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, com 639 gestores.\r\n\r\nDia 15 ele senta comigo. Comenta 6 e marca o colega da trend.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#medicos #nutricao #atendimento",
+      "legenda": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá acontecendo, né?\r\n\r\nO Dr. Lucas faz tudo certo no Instagram. O problema começa depois: a pessoa vê o vídeo, chama no direct, pergunta o preço e fica dois dias esperando. Quando ele responde, ela já marcou com outro.\r\n\r\nO alcance trouxe gente. O que faltou foi alguém pra receber essa gente.\r\n\r\nFonte: Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow, com 639 gestores.\r\n\r\nDia 19 ele senta comigo. Comenta 6 e marca o colega da trend.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#medicos #nutricao #atendimento",
       "midias": [
         "midia/2026-11-03_od04/01.jpg",
         "midia/2026-11-03_od04/02.jpg",
@@ -1303,6 +1303,30 @@
       "origem": "2026-12-04_pos-consulta"
     },
     {
+      "id": "OD14",
+      "titulo": "Os Doutores · Helena senta com o Gabriel: a conta da hora",
+      "quando": "2026-11-13T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Faturamento todo mundo sabe responder. Custo da hora, quase ninguém.\n\nA Dra. Helena descobriu que cada consulta de 40 minutos deixava uns R$ 60 antes de imposto e taxa. Abrir o sábado só ia multiplicar esse aperto. Por isso a primeira conta é a da hora, tá?\n\nOs números do post são de exemplo. Os teus podem ser melhores ou piores, e só tem um jeito de saber.\n\nComenta HORA que eu te mando a calculadora da hora clínica. Três minutos e você para de chutar.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#precificacao #gestaodeclinicas #consultorio",
+      "midias": [
+        "midia/2026-11-13_od14/01.jpg",
+        "midia/2026-11-13_od14/02.jpg",
+        "midia/2026-11-13_od14/03.jpg",
+        "midia/2026-11-13_od14/04.jpg",
+        "midia/2026-11-13_od14/05.jpg",
+        "midia/2026-11-13_od14/06.jpg",
+        "midia/2026-11-13_od14/07.jpg",
+        "midia/2026-11-13_od14/08.jpg",
+        "midia/2026-11-13_od14/09.jpg"
+      ],
+      "origem": "2026-11-13_od14",
+      "fixo": true
+    },
+    {
       "id": "L3-25",
       "titulo": "O WhatsApp pessoal do médico",
       "quando": "2026-11-13T18:30:00-03:00",
@@ -1347,6 +1371,29 @@
       "origem": "2026-12-08_horario-nobre"
     },
     {
+      "id": "OD15",
+      "titulo": "Os Doutores · Notícia: o médico cansado e o plantão",
+      "quando": "2026-11-14T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem médico que sai do plantão e ainda passa a tarde no consultório. E chama isso de normal.\r\n\r\nA AMIB, com o CFM, ouviu 2.338 médicos de UTI: 48,5% estão com esgotamento alto. E no Medscape, 59% dos médicos com menos de 45 anos pensam em antecipar a aposentadoria por esgotamento, mas só 36% têm orientação financeira.\r\n\r\nQuerer parar mais cedo é legítimo. Só que ninguém planeja a saída sem saber quanto vale a hora de hoje. Essa é a primeira conta, antes de qualquer decisão.\r\n\r\nFontes: IstoÉ, com dados da AMIB e do CFM, set/2026. Viva, com dados do Medscape, out/2025.\r\n\r\nManda pro colega que tá de plantão agora.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#medicos #plantao #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-14_od15/01.jpg",
+        "midia/2026-11-14_od15/02.jpg",
+        "midia/2026-11-14_od15/03.jpg",
+        "midia/2026-11-14_od15/04.jpg",
+        "midia/2026-11-14_od15/05.jpg",
+        "midia/2026-11-14_od15/06.jpg",
+        "midia/2026-11-14_od15/07.jpg",
+        "midia/2026-11-14_od15/08.jpg"
+      ],
+      "origem": "2026-11-14_od15",
+      "fixo": true
+    },
+    {
       "id": "L3-28",
       "titulo": "Vale a pena atender convênio?",
       "quando": "2026-11-14T18:30:00-03:00",
@@ -1388,6 +1435,28 @@
         "midia/2026-12-11_indicacao/07.jpg"
       ],
       "origem": "2026-12-11_indicacao"
+    },
+    {
+      "id": "OD20",
+      "titulo": "Os Doutores · Você saiu do plantão às 7h. Às 8h tava no consultório",
+      "quando": "2026-11-15T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Hoje eu vesti o teu jaleco pra viver o dia de quem emenda plantão com consultório. É um dos dias mais longos da saúde, e tem muita gente vivendo ele toda semana sem perceber o tamanho.\n\nO cansaço vem das horas, claro. Mas vem também de não saber se elas estão valendo a pena. Sem a conta da hora, todo plantão extra parece solução. E o consultório, que podia ser a saída, vira só mais uma escala.\n\nHoje é domingo. Descansa. E manda pro colega que sai do plantão amanhã de manhã.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#plantao #medicos #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-15_od20/01.jpg",
+        "midia/2026-11-15_od20/02.jpg",
+        "midia/2026-11-15_od20/03.jpg",
+        "midia/2026-11-15_od20/04.jpg",
+        "midia/2026-11-15_od20/05.jpg",
+        "midia/2026-11-15_od20/06.jpg",
+        "midia/2026-11-15_od20/07.jpg"
+      ],
+      "origem": "2026-11-15_od20",
+      "fixo": true
     },
     {
       "id": "L3-30",
@@ -1436,6 +1505,28 @@
       "origem": "2026-12-15_motivos-de-escolha"
     },
     {
+      "id": "OD17",
+      "titulo": "Os Doutores · Você acordou hoje: agenda cheia, mês no zero",
+      "quando": "2026-11-16T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "palavra-chave PLANILHA: a automação precisa estar ativa",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Hoje eu vesti o teu jaleco de novo pra viver um dos dias mais comuns em clínica: o dia cheio que não paga a conta.\n\nNinguém trabalha mais do que o dono com agenda cheia e preço errado. Atende do primeiro ao último horário, almoça em quinze minutos e à noite descobre que o mês fechou no zero. A conta não fecha porque cada hora sai mais cara do que é cobrada.\n\nAntes de abrir mais um horário, faz a conta da hora e da margem, tá?\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação, a mesma que eu uso dentro das clínicas.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#precificacao #gestaodeclinicas #consultorio",
+      "midias": [
+        "midia/2026-11-16_od17/01.jpg",
+        "midia/2026-11-16_od17/02.jpg",
+        "midia/2026-11-16_od17/03.jpg",
+        "midia/2026-11-16_od17/04.jpg",
+        "midia/2026-11-16_od17/05.jpg",
+        "midia/2026-11-16_od17/06.jpg",
+        "midia/2026-11-16_od17/07.jpg"
+      ],
+      "origem": "2026-11-16_od17",
+      "fixo": true
+    },
+    {
       "id": "L3-01-R",
       "titulo": "Dois donos, mesmo dia (Reels)",
       "quando": "2026-11-16T18:30:00-03:00",
@@ -1472,6 +1563,29 @@
         "midia/2026-10-22_orcamento-parado/09.jpg"
       ],
       "origem": "2026-10-22_orcamento-parado"
+    },
+    {
+      "id": "OD21",
+      "titulo": "Os Doutores · Ricardo: 25 anos e um telefone fixo",
+      "quando": "2026-11-17T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Vinte e cinco anos de consultório não é pouca coisa, tá? O Dr. Ricardo construiu tudo no boca a boca. E funciona até hoje.\r\n\r\nO problema é o caminho. O paciente indicado não pega mais o telefone pra ligar no horário comercial. Ele manda mensagem às 12h10, às 21h, no sábado. E se ninguém responde, ele procura outro nome.\r\n\r\nExperiência é ativo. A teimosia é que custa caro.\r\n\r\nFonte: Doctoralia, Perfil do Paciente Digital 2026. Opinion Box, Pesquisa WhatsApp 2026.\r\n\r\nComenta 12 se na tua clínica ainda tem um telefone que ninguém atende. Dia 19 de dezembro ele senta comigo.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#gestaodeclinicas #atendimento #medicos",
+      "midias": [
+        "midia/2026-11-17_od21/01.jpg",
+        "midia/2026-11-17_od21/02.jpg",
+        "midia/2026-11-17_od21/03.jpg",
+        "midia/2026-11-17_od21/04.jpg",
+        "midia/2026-11-17_od21/05.jpg",
+        "midia/2026-11-17_od21/06.jpg",
+        "midia/2026-11-17_od21/07.jpg",
+        "midia/2026-11-17_od21/08.jpg"
+      ],
+      "origem": "2026-11-17_od21",
+      "fixo": true
     },
     {
       "id": "GC-05",
@@ -1514,6 +1628,30 @@
         "midia/2026-11-18_mesmo-dinheiro/07.jpg"
       ],
       "origem": "2026-11-18_mesmo-dinheiro"
+    },
+    {
+      "id": "OD19",
+      "titulo": "Os Doutores · Sofia: 'a Kelly te passa os valores'",
+      "quando": "2026-11-18T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Essa cena acontece em clínica de todo tamanho e de toda especialidade.\r\n\r\nO profissional faz a parte técnica com excelência, a paciente confia nele, e na hora do valor ele sai da sala. A decisão vai parar no balcão, com quem a paciente acabou de conhecer. Depois, a conversão baixa vira culpa da secretária ou da vendedora.\r\n\r\nA Dra. Sofia não é desleixada nem gananciosa. Ela só aprendeu que falar de preço é feio. Domingo ela senta comigo e eu te mostro o roteiro que muda isso.\r\n\r\nComenta 13 se você também terceiriza o preço.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#atendimento #secretariadeclinica #consultorio",
+      "midias": [
+        "midia/2026-11-18_od19/01.jpg",
+        "midia/2026-11-18_od19/02.jpg",
+        "midia/2026-11-18_od19/03.jpg",
+        "midia/2026-11-18_od19/04.jpg",
+        "midia/2026-11-18_od19/05.jpg",
+        "midia/2026-11-18_od19/06.jpg",
+        "midia/2026-11-18_od19/07.jpg",
+        "midia/2026-11-18_od19/08.jpg",
+        "midia/2026-11-18_od19/09.jpg"
+      ],
+      "origem": "2026-11-18_od19",
+      "fixo": true
     },
     {
       "id": "L3-10",
@@ -1562,6 +1700,31 @@
       "origem": "2026-11-24_apresentar-orcamento"
     },
     {
+      "id": "OD16",
+      "titulo": "Os Doutores · Lucas senta com o Gabriel: o WhatsApp, não o Instagram",
+      "quando": "2026-11-19T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quase sempre que o Instagram vai bem e a agenda não, o problema mora no WhatsApp.\n\nO Dr. Lucas faz a parte difícil, que é chamar atenção. A parte que faltava ninguém tinha mostrado pra ele: responder em minutos, com um roteiro que pergunta antes de passar preço. No horário, quem atende segue o roteiro. Fora dele, a IAra responde, entende o que a pessoa quer e agenda.\n\nFonte: Opinion Box, Pesquisa WhatsApp 2026.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#nutricao #atendimento #medicos",
+      "midias": [
+        "midia/2026-11-19_od16/01.jpg",
+        "midia/2026-11-19_od16/02.jpg",
+        "midia/2026-11-19_od16/03.jpg",
+        "midia/2026-11-19_od16/04.jpg",
+        "midia/2026-11-19_od16/05.jpg",
+        "midia/2026-11-19_od16/06.jpg",
+        "midia/2026-11-19_od16/07.jpg",
+        "midia/2026-11-19_od16/08.jpg",
+        "midia/2026-11-19_od16/09.jpg",
+        "midia/2026-11-19_od16/10.jpg"
+      ],
+      "origem": "2026-11-19_od16",
+      "fixo": true
+    },
+    {
       "id": "L3-16",
       "titulo": "A conta do desconto",
       "quando": "2026-11-19T18:30:00-03:00",
@@ -1581,6 +1744,23 @@
         "midia/2026-11-26_conta-do-desconto/07.jpg"
       ],
       "origem": "2026-11-26_conta-do-desconto"
+    },
+    {
+      "id": "OD18",
+      "titulo": "Os Doutores · Frase: o feriado testa a clínica",
+      "quando": "2026-11-20T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Bom feriado pra você e pra tua equipe.\n\nSe hoje o teu celular não parou, vale uma pergunta honesta: o que a tua equipe precisaria saber pra resolver sem te ligar? Quase sempre a resposta já existe. Só que mora na tua cabeça, não no papel.\n\nEscreve uma coisa por semana. O jeito de confirmar paciente, o que responder quando pedem desconto, quem fecha o caixa e como. Aos poucos, o feriado volta a ser teu.\n\nSalva pra ler na segunda e manda pra tua sócia.\n\n#gestaodeclinicas #consultorio #recepcao",
+      "midias": [
+        "midia/2026-11-20_od18/01.jpg"
+      ],
+      "origem": "2026-11-20_od18",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L3-02",
@@ -1874,7 +2054,8 @@
     "GC-18",
     "GC-19",
     "L3-06",
-    "OD10"
+    "OD10",
+    "OD16"
   ],
   "palavras_ativas": [
     "COBRAR",

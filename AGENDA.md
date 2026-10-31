@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 08:14:35. 72 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -194,6 +194,8 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-23 · As 3 mensagens depois da consulta** (carrossel)
   - Stories: Caixinha: "Você manda mensagem no dia seguinte à consulta?" Mostre 2 respostas com a mensagem pronta.
+- **12h30 · OD14 · Os Doutores · Helena senta com o Gabriel: a conta da hora** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-25 · O WhatsApp pessoal do médico** (carrossel)
   - Stories: Enquete: "Paciente tem o seu WhatsApp pessoal?" · Tem / Não tem / Tinha.
 
@@ -201,6 +203,8 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-26 · O horário mais caro da agenda** (carrossel)
   - Stories: Enquete: "Quem ocupa o seu horário das 18h?" · Particular / Convênio / Retorno.
+- **12h30 · OD15 · Os Doutores · Notícia: o médico cansado e o plantão** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-28 · Vale a pena atender convênio?** (carrossel)
   - Stories: Enquete: "Quanto da sua agenda é convênio?" (controle deslizante).
 
@@ -208,6 +212,8 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-29 · Indicação não vem sozinha** (carrossel)
   - Stories: Caixinha: "Como você agradece quem te indica?"
+- **12h30 · OD20 · Os Doutores · Você saiu do plantão às 7h. Às 8h tava no consultório** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-30 · A recepcionista saiu** (carrossel)
   - Stories: Enquete: "Se a sua recepcionista sair amanhã, a clínica sabe responder?" · Sabe / Não sabe.
 
@@ -221,12 +227,16 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · GC-02 · 4 mensagens para o orçamento parado** (carrossel)
   - Stories: telas prontas em Conteudo/2026-10-22_stories-orcamento (ST-GC-02)
+- **12h30 · OD21 · Os Doutores · Ricardo: 25 anos e um telefone fixo** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
 
 ## quarta, 18/11
 
 - **08h30 · L3-09 · O mesmo dinheiro** (carrossel)
   - Stories: Enquete: "Qual desses vaza mais na sua clínica?" · Hora vazia / Desconto / Orçamento parado. Depois, lembrete do MAPA.
+- **12h30 · OD19 · Os Doutores · Sofia: 'a Kelly te passa os valores'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-10 · Quanto fatura uma clínica** (carrossel)
   - Stories: Enquete: "Você sabe quanto a sua clínica lucra sem o seu salário?" · Sei / Nunca separei. Depois, lembrete do HORA.
 
@@ -234,11 +244,15 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-14 · O orçamento que ele não entendeu** (carrossel)
   - Stories: Enquete: "O seu orçamento sai com data de retorno combinada?" · Sim / Não. Depois, lembrete do COBRAR.
+- **12h30 · OD16 · Os Doutores · Lucas senta com o Gabriel: o WhatsApp, não o Instagram** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-16 · A conta do desconto** (carrossel)
   - Stories: Enquete: "Você vai dar desconto na Black Friday?" · Vou / Não vou / Vou dar acesso. No dia 27, repost do post único L3-17.
 
 ## sexta, 20/11
 
+- **06h00 · OD18 · Os Doutores · Frase: o feriado testa a clínica** (imagem)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **08h30 · L3-02 · Retorno de 30 dias não existe** (carrossel)
   - Stories: Enquete "Na sua clínica, o retorno tem prazo de quantos dias?" · 30 dias / Quem define é o médico. Depois: print da resolução com o § 1º marcado.
 - **18h30 · L3-15 · IA no WhatsApp da clínica** (carrossel)
@@ -288,3 +302,4 @@ Gerada em 31/10/2026, 07:51:33. 65 posts agendados, 3 pendentes. Stories com enq
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
+- **OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero**: palavra-chave PLANILHA: a automação precisa estar ativa
