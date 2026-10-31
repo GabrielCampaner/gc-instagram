@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 11:46:57. 95 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 13:24:05. 101 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -80,7 +80,7 @@ Gerada em 31/10/2026, 11:46:57. 95 posts agendados, 3 pendentes. Stories com enq
 
 - **06h30 · L3-05 · Acha caro o que ninguém explicou** (imagem) · publicado: https://www.instagram.com/p/DfJ1q2sHM9o/
   - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
-- **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
+- **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel) · publicado: https://www.instagram.com/p/DfKe797kY90/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
 
@@ -383,6 +383,40 @@ Gerada em 31/10/2026, 11:46:57. 95 posts agendados, 3 pendentes. Stories com enq
 ## sexta, 11/12
 
 - **12h30 · OD42 · Os Doutores · Joana senta com o Gabriel: o sábado** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 12/12
+
+- **12h30 · OD43 · Os Doutores · Joana: sábado, 7h, a clínica fechada e o WhatsApp não** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 13/12
+
+- **12h30 · OD44 · Os Doutores · Carolina: a matéria no portal e o caixa negativo** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 14/12
+
+- **12h30 · OD45 · Os Doutores · Mauro senta com o Gabriel: o dinheiro que não entrou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 15/12
+
+- **12h30 · OD46 · Os Doutores · Carolina senta com o Gabriel: o modelo de negócio na ponta do lápis** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 16/12
+
+- **12h30 · OD47 · Os Doutores · Marcelo: nove 'vou pensar' na semana. Nenhum voltou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 17/12
+
+- **06h00 · OD48 · Os Doutores · Frase: o preço dito baixinho** (imagem)
+
+## sexta, 18/12
+
+- **12h30 · OD49 · Os Doutores · Helena monta a tabela de 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

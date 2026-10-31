@@ -2532,6 +2532,162 @@
       ],
       "origem": "2026-12-11_od42",
       "fixo": true
+    },
+    {
+      "id": "OD43",
+      "titulo": "Os Doutores · Joana: sábado, 7h, a clínica fechada e o WhatsApp não",
+      "quando": "2026-12-12T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Fim de semana é quando a mãe tem tempo de resolver a agenda do filho. E é justamente quando a clínica tá fechada.\n\nA Dra. Joana passou anos respondendo WhatsApp no sábado à noite. Agora a IAra responde em minutos, organiza os pedidos e deixa a segunda-feira pronta pra recepção. Urgência segue o protocolo da clínica, sem orientação médica.\n\nOntem, ela fechou a escala da equipe. Hoje, fechou o fim de semana dela.\n\nFonte: Doctoralia, Perfil do Paciente Digital 2025.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#atendimento #consultorio #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-12_od43/01.jpg",
+        "midia/2026-12-12_od43/02.jpg",
+        "midia/2026-12-12_od43/03.jpg",
+        "midia/2026-12-12_od43/04.jpg",
+        "midia/2026-12-12_od43/05.jpg",
+        "midia/2026-12-12_od43/06.jpg",
+        "midia/2026-12-12_od43/07.jpg",
+        "midia/2026-12-12_od43/08.jpg"
+      ],
+      "origem": "2026-12-12_od43",
+      "fixo": true
+    },
+    {
+      "id": "OD44",
+      "titulo": "Os Doutores · Carolina: a matéria no portal e o caixa negativo",
+      "quando": "2026-12-13T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Clínica bonita tem valor, tá? Paciente de alto padrão espera estrutura, e a Dra. Carolina tem razão nisso.\n\nO risco é quando a estrutura vira a estratégia inteira. R$ 3 milhões de obra, matéria paga todo mês e uma recepção que ninguém treinou pra passar preço, confirmar consulta ou ligar pra quem faltou. A conta não fecha, e o ego segura a porta aberta.\n\nTerça ela senta comigo e a gente coloca o modelo de negócio na ponta do lápis.\n\nComenta 22 se você conhece uma clínica linda que não fecha a conta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicinadoesporte #gestaodepessoas",
+      "midias": [
+        "midia/2026-12-13_od44/01.jpg",
+        "midia/2026-12-13_od44/02.jpg",
+        "midia/2026-12-13_od44/03.jpg",
+        "midia/2026-12-13_od44/04.jpg",
+        "midia/2026-12-13_od44/05.jpg",
+        "midia/2026-12-13_od44/06.jpg",
+        "midia/2026-12-13_od44/07.jpg",
+        "midia/2026-12-13_od44/08.jpg"
+      ],
+      "origem": "2026-12-13_od44",
+      "fixo": true
+    },
+    {
+      "id": "OD45",
+      "titulo": "Os Doutores · Mauro senta com o Gabriel: o dinheiro que não entrou",
+      "quando": "2026-12-14T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Todo dono de clínica sabe quanto gastou de luz no mês. Quase nenhum sabe quanto deixou de receber.\n\nO Dr. Mauro é cuidadoso com dinheiro, e isso é qualidade. O problema é que ele só olhava a saída. Quando a gente contou os orçamentos que foram embora sem retorno, a economia do café ficou pequena perto do que tava parado.\n\nA régua é simples: nome, valor e data em todo orçamento, retorno em D+1, D+3 e D+7, e 15 minutos na sexta pra olhar o painel. Faz aí essa semana.\n\nOs números do post são de exemplo, da história do Mauro.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #clinicaodontologica #atendimento",
+      "midias": [
+        "midia/2026-12-14_od45/01.jpg",
+        "midia/2026-12-14_od45/02.jpg",
+        "midia/2026-12-14_od45/03.jpg",
+        "midia/2026-12-14_od45/04.jpg",
+        "midia/2026-12-14_od45/05.jpg",
+        "midia/2026-12-14_od45/06.jpg",
+        "midia/2026-12-14_od45/07.jpg",
+        "midia/2026-12-14_od45/08.jpg",
+        "midia/2026-12-14_od45/09.jpg"
+      ],
+      "origem": "2026-12-14_od45",
+      "fixo": true
+    },
+    {
+      "id": "OD46",
+      "titulo": "Os Doutores · Carolina senta com o Gabriel: o modelo de negócio na ponta do lápis",
+      "quando": "2026-12-15T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Carolina nunca tinha visto a conta da porta aberta: quanto custa abrir a clínica todo mês e quantos atendimentos pagam isso.\n\nCom os números de exemplo, faltavam R$ 54 mil por mês. A coluna social custava R$ 8 mil e trouxe duas consultas. Uma clínica do interior, com menos da metade do custo, faturava mais e ainda sobrava dinheiro.\n\nA estrutura fica. O que entra é recepção treinada, placar toda segunda e meta de atendimentos olhada toda semana. Isso a gente faz junto, dentro da clínica.\n\nNúmeros de exemplo (simulação).\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicinadoesporte #precificacao",
+      "midias": [
+        "midia/2026-12-15_od46/01.jpg",
+        "midia/2026-12-15_od46/02.jpg",
+        "midia/2026-12-15_od46/03.jpg",
+        "midia/2026-12-15_od46/04.jpg",
+        "midia/2026-12-15_od46/05.jpg",
+        "midia/2026-12-15_od46/06.jpg",
+        "midia/2026-12-15_od46/07.jpg",
+        "midia/2026-12-15_od46/08.jpg"
+      ],
+      "origem": "2026-12-15_od46",
+      "fixo": true
+    },
+    {
+      "id": "OD47",
+      "titulo": "Os Doutores · Marcelo: nove 'vou pensar' na semana. Nenhum voltou",
+      "quando": "2026-12-16T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Marcelo tem medo de parecer vendedor, tá? E por isso deixa a decisão mais importante da consulta sem dono.\n\nO paciente que veio até ele já confia. Quando sai sem uma recomendação clara e sem data, leva a dúvida pra casa. E marca com quem disse \"a gente começa terça\".\n\nRecomendar com firmeza também é cuidar. A comercial ajuda a negociar a forma de pagar, mas quem indica o tratamento é o médico, na sala.\n\nComenta 19 se você também termina a consulta com \"pensa com calma\". Em janeiro ele senta comigo.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #vendasnasaude #medicos",
+      "midias": [
+        "midia/2026-12-16_od47/01.jpg",
+        "midia/2026-12-16_od47/02.jpg",
+        "midia/2026-12-16_od47/03.jpg",
+        "midia/2026-12-16_od47/04.jpg",
+        "midia/2026-12-16_od47/05.jpg",
+        "midia/2026-12-16_od47/06.jpg",
+        "midia/2026-12-16_od47/07.jpg",
+        "midia/2026-12-16_od47/08.jpg"
+      ],
+      "origem": "2026-12-16_od47",
+      "fixo": true
+    },
+    {
+      "id": "OD48",
+      "titulo": "Os Doutores · Frase: o preço dito baixinho",
+      "quando": "2026-12-17T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Ninguém te ensinou a falar de dinheiro na faculdade. Ensinaram anatomia, protocolo, técnica. O preço ficou pra secretária, pro site, pra tabela impressa.\n\nSó que o paciente lê o teu corpo. Se você fala o valor com vergonha, ele entende que nem você acredita no que tá cobrando. E aí o \"vou pensar\" vem fácil.\n\nTreina em voz alta: a recomendação, o valor, o que tá incluso. Na mesma voz em que você explica o procedimento.\n\nSalva e lê antes da próxima consulta.\n\n#precificacao #consultorio #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-17_od48/01.jpg"
+      ],
+      "origem": "2026-12-17_od48",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD49",
+      "titulo": "Os Doutores · Helena monta a tabela de 2027",
+      "quando": "2026-12-18T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Janeiro é o mês do reajuste. E é também o mês em que muito doutor copia a tabela do colega, aumenta um tanto em tudo e torce pra dar certo.\n\nA Dra. Helena fez a conta antes. Atualizou o custo da hora com o que pesa em janeiro, olhou procedimento por procedimento e descobriu que o mais procurado era o que pagava pra trabalhar. Reajustou só o que precisava e avisou os pacientes com antecedência, por escrito.\n\nOs números do post são de exemplo, tá? A tua conta é a tua.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#precificacao #consultorio #gestaodeclinicas",
+      "midias": [
+        "midia/2026-12-18_od49/01.jpg",
+        "midia/2026-12-18_od49/02.jpg",
+        "midia/2026-12-18_od49/03.jpg",
+        "midia/2026-12-18_od49/04.jpg",
+        "midia/2026-12-18_od49/05.jpg",
+        "midia/2026-12-18_od49/06.jpg",
+        "midia/2026-12-18_od49/07.jpg",
+        "midia/2026-12-18_od49/08.jpg"
+      ],
+      "origem": "2026-12-18_od49",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -2552,7 +2708,8 @@
     "L3-06",
     "OD10",
     "OD16",
-    "OD33"
+    "OD33",
+    "OD43"
   ],
   "palavras_ativas": [
     "COBRAR",
