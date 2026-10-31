@@ -855,6 +855,29 @@
       "origem": "2026-11-29_numero-34"
     },
     {
+      "id": "OD07",
+      "titulo": "Os Doutores · Notícia: a 5x2 na clínica que abre sábado",
+      "quando": "2026-11-06T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Dia 16 de dezembro muda a semana de quem trabalha na tua clínica.\n\nA Emenda Constitucional 141, publicada em 16 de outubro, garante duas folgas por semana e leva a jornada pra 42 horas a partir de 16/12/2026 e 40 horas em 16/12/2027, sem reduzir salário. No Ceará, 20,55% dos trabalhadores ainda estão na 6x1, segundo o MTE.\n\nPra clínica que abre sábado, abrir continua possível. A pergunta é quem cobre o sábado e quanto isso custa. Faz a escala agora, com calma, e leva pro teu contador antes de dezembro.\n\nFontes: EC 141/2026, Senado Federal. Nota Orientativa Fenacon DL 001/2026. MTE, via Diário do Nordeste, out/2026.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #recepcao",
+      "midias": [
+        "midia/2026-11-06_od07/01.jpg",
+        "midia/2026-11-06_od07/02.jpg",
+        "midia/2026-11-06_od07/03.jpg",
+        "midia/2026-11-06_od07/04.jpg",
+        "midia/2026-11-06_od07/05.jpg",
+        "midia/2026-11-06_od07/06.jpg",
+        "midia/2026-11-06_od07/07.jpg",
+        "midia/2026-11-06_od07/08.jpg"
+      ],
+      "origem": "2026-11-06_od07",
+      "fixo": true
+    },
+    {
       "id": "L3-04",
       "titulo": "5 erros que parecem educação",
       "quando": "2026-11-06T18:30:00-03:00",
@@ -890,6 +913,31 @@
         "midia/2026-12-02_numero-75/01.jpg"
       ],
       "origem": "2026-12-02_numero-75"
+    },
+    {
+      "id": "OD08",
+      "titulo": "Os Doutores · Otávio: 23h47, o 14º paciente do dia, da cama",
+      "quando": "2026-11-07T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Esse é o dono que todo paciente ama e que nenhuma família aguenta, né?\r\n\r\nO Dr. Otávio responde tudo, a qualquer hora, porque já perdeu paciente por demora. O medo dele é legítimo. Mas a solução que ele encontrou, virar o atendente da clínica, cobra caro: o sono dele, a casa dele e a própria equipe, que nunca sabe o que foi combinado.\r\n\r\nUm terço dos agendamentos acontece fora do horário comercial. Então a pergunta certa é quem vai responder.\r\n\r\nFonte: Doctoralia, Perfil do Paciente Digital 2025.\r\n\r\nSegunda ele senta comigo. Comenta 1 se o WhatsApp da clínica dorme no teu travesseiro.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#clinicaodontologica #dentistas #atendimento",
+      "midias": [
+        "midia/2026-11-07_od08/01.jpg",
+        "midia/2026-11-07_od08/02.jpg",
+        "midia/2026-11-07_od08/03.jpg",
+        "midia/2026-11-07_od08/04.jpg",
+        "midia/2026-11-07_od08/05.jpg",
+        "midia/2026-11-07_od08/06.jpg",
+        "midia/2026-11-07_od08/07.jpg",
+        "midia/2026-11-07_od08/08.jpg",
+        "midia/2026-11-07_od08/09.jpg",
+        "midia/2026-11-07_od08/10.jpg"
+      ],
+      "origem": "2026-11-07_od08",
+      "fixo": true
     },
     {
       "id": "L3-07",
@@ -929,6 +977,30 @@
       "origem": "2026-12-05_qual-ele-lembra"
     },
     {
+      "id": "OD09",
+      "titulo": "Os Doutores · Bia: quatro imersões e a agenda igual",
+      "quando": "2026-11-08T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Essa eu escrevo com carinho, porque a Dra. Bia é das pessoas mais estudiosas que existem.\r\n\r\nEla foi em tudo, anotou tudo e sabe falar de tudo. E é justamente aí que trava: toda semana chega uma ideia nova e a anterior fica no caderno. Começar de novo dá sensação de progresso. Terminar é que muda a agenda.\r\n\r\nO que falta pra ela não é mais um curso, tá? Dia 4 de dezembro eu te mostro o que é.\r\n\r\nComenta 4 e marca a amiga do caderno bonito.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#dermatologia #gestaodeclinicas #consultorio",
+      "midias": [
+        "midia/2026-11-08_od09/01.jpg",
+        "midia/2026-11-08_od09/02.jpg",
+        "midia/2026-11-08_od09/03.jpg",
+        "midia/2026-11-08_od09/04.jpg",
+        "midia/2026-11-08_od09/05.jpg",
+        "midia/2026-11-08_od09/06.jpg",
+        "midia/2026-11-08_od09/07.jpg",
+        "midia/2026-11-08_od09/08.jpg",
+        "midia/2026-11-08_od09/09.jpg"
+      ],
+      "origem": "2026-11-08_od09",
+      "fixo": true
+    },
+    {
       "id": "L3-08",
       "titulo": "Os três \"achei caro\"",
       "quando": "2026-11-08T18:30:00-03:00",
@@ -964,6 +1036,31 @@
         "midia/2026-12-06_numero-esteticos/01.jpg"
       ],
       "origem": "2026-12-06_numero-esteticos"
+    },
+    {
+      "id": "OD10",
+      "titulo": "Os Doutores · Otávio senta com o Gabriel: o celular na mesa",
+      "quando": "2026-11-09T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Contar as conversas foi a parte mais silenciosa da reunião. Quarenta e uma abertas, catorze respondidas da cama.\n\nA dedicação do Dr. Otávio nunca foi o problema. O problema é o desenho: a clínica inteira passa pelo celular dele. Então a gente redesenhou. A equipe responde no horário, com roteiro e autonomia. Ele entra só no que é clínico. E fora do horário, a IAra atende em minutos e deixa tudo organizado pra equipe de manhã.\n\nFonte: Doctoralia, Perfil do Paciente Digital 2025.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#clinicaodontologica #atendimento #secretariadeclinica",
+      "midias": [
+        "midia/2026-11-09_od10/01.jpg",
+        "midia/2026-11-09_od10/02.jpg",
+        "midia/2026-11-09_od10/03.jpg",
+        "midia/2026-11-09_od10/04.jpg",
+        "midia/2026-11-09_od10/05.jpg",
+        "midia/2026-11-09_od10/06.jpg",
+        "midia/2026-11-09_od10/07.jpg",
+        "midia/2026-11-09_od10/08.jpg",
+        "midia/2026-11-09_od10/09.jpg",
+        "midia/2026-11-09_od10/10.jpg"
+      ],
+      "origem": "2026-11-09_od10",
+      "fixo": true
     },
     {
       "id": "L3-11",
@@ -1002,6 +1099,31 @@
         "midia/2026-12-13_numero-58/01.jpg"
       ],
       "origem": "2026-12-13_numero-58"
+    },
+    {
+      "id": "OD11",
+      "titulo": "Os Doutores · Fernando: a quarta recepcionista do ano",
+      "quando": "2026-11-10T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quando alguém diz \"ninguém quer trabalhar\", vale fazer duas perguntas: quanto tempo a última pessoa ficou e quem ensinou ela.\n\nO Dr. Fernando é um ótimo médico e um chefe que aprendeu que exigir é o mesmo que liderar. Ele cobra, corrige em público e não ensina. Aí a recepção vira porta giratória e a culpa vai pro mercado.\n\nO mercado mudou, sim. Em 2025 o Brasil bateu recorde de pedidos de demissão. Quem trabalha hoje escolhe onde fica, né?\n\nFonte: Novo Caged, 2025.\n\nEm dezembro ele senta comigo. Comenta 5 se você já trabalhou com um Dr. Fernando.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#recepcao #gestaodeclinicas #secretariadeclinica",
+      "midias": [
+        "midia/2026-11-10_od11/01.jpg",
+        "midia/2026-11-10_od11/02.jpg",
+        "midia/2026-11-10_od11/03.jpg",
+        "midia/2026-11-10_od11/04.jpg",
+        "midia/2026-11-10_od11/05.jpg",
+        "midia/2026-11-10_od11/06.jpg",
+        "midia/2026-11-10_od11/07.jpg",
+        "midia/2026-11-10_od11/08.jpg",
+        "midia/2026-11-10_od11/09.jpg",
+        "midia/2026-11-10_od11/10.jpg"
+      ],
+      "origem": "2026-11-10_od11",
+      "fixo": true
     },
     {
       "id": "L3-13",
@@ -1049,6 +1171,24 @@
       "origem": "2026-11-28_tudo-para-todos"
     },
     {
+      "id": "OD12",
+      "titulo": "Os Doutores · Comparação: a imersão e a segunda-feira",
+      "quando": "2026-11-11T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Esse meme é da Dra. Bia, mas podia ser de muita gente, né?\r\n\r\nImersão boa vale o que custa. O que pesa é o que acontece depois: a segunda-feira chega, a agenda engole tudo e o caderno vai pra gaveta junto com os outros. Aplicar uma coisa custa zero real. Custa constância. E constância precisa de alguém perguntando todo dia.\r\n\r\nQuer saber qual é a tua primeira coisa? Comenta NIVEL que eu te mando o teste do nível da tua clínica. Em 3 minutos você sabe por onde começar.\r\n\r\nValores ilustrativos.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#gestaodeclinicas #dermatologia #consultorio",
+      "midias": [
+        "midia/2026-11-11_od12/01.jpg",
+        "midia/2026-11-11_od12/02.jpg",
+        "midia/2026-11-11_od12/03.jpg"
+      ],
+      "origem": "2026-11-11_od12",
+      "fixo": true
+    },
+    {
       "id": "L3-19",
       "titulo": "O mesmo paciente, duas clínicas",
       "quando": "2026-11-11T18:30:00-03:00",
@@ -1094,6 +1234,29 @@
         "midia/2026-12-01_paciente-sumiu/10.jpg"
       ],
       "origem": "2026-12-01_paciente-sumiu"
+    },
+    {
+      "id": "OD13",
+      "titulo": "Os Doutores · Renata: domingo, 21h, a tarefa de sexta",
+      "quando": "2026-11-12T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Domingo à noite tem um silêncio que denuncia, né? É a hora em que a lista da semana aparece inteira na cabeça.\r\n\r\nA Dra. Renata não é desorganizada por falta de vontade. Ela carrega o consultório, a sócia, a casa e todo pedido que chega. Quando tudo é prioridade, a tarefa que mexe no faturamento vira a última. E quando nada muda, a culpa precisa ir pra algum lugar.\r\n\r\nDia 29 de novembro ela senta comigo, e eu vou concordar com ela. Você vai entender por quê.\r\n\r\nComenta 7 se a tua lista de domingo é a mesma de sexta.\r\n\r\nPersonagens fictícios, criados com IA. As situações são reais.\r\n\r\n#gestaodeclinicas #consultorio #medicos",
+      "midias": [
+        "midia/2026-11-12_od13/01.jpg",
+        "midia/2026-11-12_od13/02.jpg",
+        "midia/2026-11-12_od13/03.jpg",
+        "midia/2026-11-12_od13/04.jpg",
+        "midia/2026-11-12_od13/05.jpg",
+        "midia/2026-11-12_od13/06.jpg",
+        "midia/2026-11-12_od13/07.jpg",
+        "midia/2026-11-12_od13/08.jpg"
+      ],
+      "origem": "2026-11-12_od13",
+      "fixo": true
     },
     {
       "id": "L3-21",
@@ -1710,7 +1873,8 @@
     "GC-17",
     "GC-18",
     "GC-19",
-    "L3-06"
+    "L3-06",
+    "OD10"
   ],
   "palavras_ativas": [
     "COBRAR",
@@ -1720,6 +1884,9 @@
     "ACESSO",
     "FREEDOM",
     "MAPA",
-    "HORA"
+    "HORA",
+    "DIAGNOSTICO",
+    "EXAME",
+    "NIVEL"
   ]
 }
