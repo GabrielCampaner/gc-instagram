@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 10:58:44. 79 posts agendados, 5 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 11:05:52. 80 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -311,6 +311,8 @@ Gerada em 31/10/2026, 10:58:44. 79 posts agendados, 5 pendentes. Stories com enq
 
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
+- **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)
 
@@ -318,4 +320,3 @@ Gerada em 31/10/2026, 10:58:44. 79 posts agendados, 5 pendentes. Stories com enq
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
 - **OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero**: palavra-chave PLANILHA: a automação precisa estar ativa
-- **OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados**: palavra-chave ORÇAMENTO: a automação precisa estar ativa
