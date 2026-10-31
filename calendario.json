@@ -3004,6 +3004,160 @@
       ],
       "origem": "2027-01-01_od60",
       "fixo": true
+    },
+    {
+      "id": "OD65",
+      "titulo": "Os Doutores · Estreia da temporada 2: os doutores voltaram, e dois chegaram",
+      "quando": "2027-01-02T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Temporada 2 começando. Em dezembro, oito doutores ficaram com uma promessa: em janeiro, a gente senta. Começa terça, com o Dr. Thiago e a clínica dos sonhos.\n\nE chegaram dois: o Dr. Rafael, que deixa tudo pra última hora e quer que todo mundo resolva por ele, e a Dra. Cecília, que só faz quando tá perfeito e por isso nunca faz.\n\nQuem sentou comigo em novembro também volta. O primeiro mês de verdade tem recaída, ajuste e coisa que anda devagar. É isso que eu vou mostrar.\n\nComenta o número do teu. E se for a tua sócia, marca ela.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #osdoutores #medicos",
+      "midias": [
+        "midia/2027-01-02_od65/01.jpg",
+        "midia/2027-01-02_od65/02.jpg",
+        "midia/2027-01-02_od65/03.jpg",
+        "midia/2027-01-02_od65/04.jpg",
+        "midia/2027-01-02_od65/05.jpg",
+        "midia/2027-01-02_od65/06.jpg",
+        "midia/2027-01-02_od65/07.jpg",
+        "midia/2027-01-02_od65/08.jpg",
+        "midia/2027-01-02_od65/09.jpg"
+      ],
+      "origem": "2027-01-02_od65",
+      "fixo": true
+    },
+    {
+      "id": "OD66",
+      "titulo": "Os Doutores · Frase: meta sem a conta da hora é desejo com data",
+      "quando": "2027-01-03T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Todo começo de ano tem meta: faturar mais, atender mais, crescer tanto por cento. Quase nenhuma começa pela pergunta que sustenta todas as outras: quanto custa uma hora da tua clínica aberta.\n\nSem esse número, a meta é um desejo com data. Com ele, dá pra saber quantos atendimentos pagam a porta aberta e quanto sobra depois.\n\nAmanhã é segunda, dia 4. Se você marcou aqueles 30 minutos, começa por essa conta.\n\nSalva e manda pra quem divide a clínica contigo.\n\n#gestaodeclinicas #planejamento #precificacao",
+      "midias": [
+        "midia/2027-01-03_od66/01.jpg"
+      ],
+      "origem": "2027-01-03_od66",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD67",
+      "titulo": "Os Doutores · Você acordou hoje com 30 minutos marcados na agenda",
+      "quando": "2027-01-04T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "No último dia do ano eu pedi uma coisa: em vez de prometer, marcar. Segunda, dia 4, às 8h, 30 minutos e três perguntas.\n\nSe você marcou, já percebeu: a primeira pergunta é a que mais trava. Quanto custa uma hora da tua clínica aberta? Quase ninguém sabe de cabeça, e não é falta de inteligência. É que o custo fixo nunca foi somado inteiro, a agenda mostra horário marcado em vez de hora atendida e o teu pró-labore fica de fora da conta.\n\nComenta HORA que eu te mando a calculadora da hora clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #planejamento",
+      "midias": [
+        "midia/2027-01-04_od67/01.jpg",
+        "midia/2027-01-04_od67/02.jpg",
+        "midia/2027-01-04_od67/03.jpg",
+        "midia/2027-01-04_od67/04.jpg",
+        "midia/2027-01-04_od67/05.jpg",
+        "midia/2027-01-04_od67/06.jpg",
+        "midia/2027-01-04_od67/07.jpg"
+      ],
+      "origem": "2027-01-04_od67",
+      "fixo": true
+    },
+    {
+      "id": "OD68",
+      "titulo": "Os Doutores · Thiago senta com o Gabriel: o raio de 5 km e o ponto de equilíbrio",
+      "quando": "2027-01-05T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Thiago tinha a clínica mais bonita da cidade e 11 consultas em novembro. O sonho tava certo, tá? O que faltava era o mapa.\n\nA gente fez duas contas. A primeira: quanto custa abrir a porta todo mês e quantos atendimentos pagam isso. A segunda: quem mora num raio de 5 km, quanto paga e quem mais atende ali. Saiu uma meta semanal, uma lista de clínicos pra visitar e um convênio com horário limitado pra encher a agenda enquanto o particular cresce.\n\nNúmeros de exemplo (simulação).\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #planejamentoestrategico #urologia",
+      "midias": [
+        "midia/2027-01-05_od68/01.jpg",
+        "midia/2027-01-05_od68/02.jpg",
+        "midia/2027-01-05_od68/03.jpg",
+        "midia/2027-01-05_od68/04.jpg",
+        "midia/2027-01-05_od68/05.jpg",
+        "midia/2027-01-05_od68/06.jpg",
+        "midia/2027-01-05_od68/07.jpg",
+        "midia/2027-01-05_od68/08.jpg"
+      ],
+      "origem": "2027-01-05_od68",
+      "fixo": true
+    },
+    {
+      "id": "OD69",
+      "titulo": "Os Doutores · Notícia: começou a CBS. O que mudou na nota da clínica em janeiro",
+      "quando": "2027-01-06T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O ano virou e o imposto também. Em 1º de janeiro de 2027, PIS e Cofins acabaram e entrou a CBS. A saúde tem redução de 60% na alíquota, ou seja, paga 40%. Quem está no regime normal passa a usar o imposto do fornecedor como crédito. Quem está no Simples continua no DAS, a não ser que tenha optado por pagar CBS e IBS por fora.\n\nIsso aqui não é consultoria tributária, tá? Imposto é com o teu contador. O que eu faço é o preço: refazer a conta da hora com o custo novo e ver se a tabela de 2027 aguenta.\n\nFontes: Receita Federal (Reforma Tributária do Consumo) e Lei Complementar 214/2025.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\n#gestaodeclinicas #reformatributaria #precificacao",
+      "midias": [
+        "midia/2027-01-06_od69/01.jpg",
+        "midia/2027-01-06_od69/02.jpg",
+        "midia/2027-01-06_od69/03.jpg",
+        "midia/2027-01-06_od69/04.jpg",
+        "midia/2027-01-06_od69/05.jpg",
+        "midia/2027-01-06_od69/06.jpg",
+        "midia/2027-01-06_od69/07.jpg"
+      ],
+      "origem": "2027-01-06_od69",
+      "fixo": true
+    },
+    {
+      "id": "OD70",
+      "titulo": "Os Doutores · Helena: o primeiro paciente reclamou do reajuste",
+      "quando": "2027-01-07T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em dezembro a Dra. Helena montou a tabela de 2027 com conta, e não copiando o colega. Reajustou só o que estava abaixo do custo e avisou os pacientes por escrito, com antecedência.\n\nMesmo assim, a primeira reclamação chega. Sempre chega. A diferença é como ela é respondida: concordando que mudou, explicando sem pedir desculpa e oferecendo um caminho de pagamento em vez de desconto.\n\nComenta 2 se você também tem medo da primeira reclamação do reajuste.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #dermatologia",
+      "midias": [
+        "midia/2027-01-07_od70/01.jpg",
+        "midia/2027-01-07_od70/02.jpg",
+        "midia/2027-01-07_od70/03.jpg",
+        "midia/2027-01-07_od70/04.jpg",
+        "midia/2027-01-07_od70/05.jpg",
+        "midia/2027-01-07_od70/06.jpg",
+        "midia/2027-01-07_od70/07.jpg",
+        "midia/2027-01-07_od70/08.jpg"
+      ],
+      "origem": "2027-01-07_od70",
+      "fixo": true
+    },
+    {
+      "id": "OD71",
+      "titulo": "Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente",
+      "quando": "2027-01-08T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "pendente",
+      "pendencia": "palavra-chave MARKETING: a automação precisa estar ativa",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Augusto não precisava aprender a fazer vídeo. Precisava trocar de língua.\n\nO paciente procura o que sente, com as palavras dele: o coração que dispara do nada, a falta de ar na escada. Quando o vídeo começa pelo nome da doença, ele passa reto. A gente transformou vinte anos de consultório em uma lista de frases de paciente. E o currículo foi pro lugar dele: confirmar a escolha de quem já chegou.\n\nComenta MARKETING que eu te mando o diagnóstico de marketing.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #cardiologia",
+      "midias": [
+        "midia/2027-01-08_od71/01.jpg",
+        "midia/2027-01-08_od71/02.jpg",
+        "midia/2027-01-08_od71/03.jpg",
+        "midia/2027-01-08_od71/04.jpg",
+        "midia/2027-01-08_od71/05.jpg",
+        "midia/2027-01-08_od71/06.jpg",
+        "midia/2027-01-08_od71/07.jpg",
+        "midia/2027-01-08_od71/08.jpg"
+      ],
+      "origem": "2027-01-08_od71",
+      "fixo": true
     }
   ],
   "liberados": [

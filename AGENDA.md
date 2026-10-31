@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 15:00:29. 115 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 15:13:29. 121 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -488,8 +488,38 @@ Gerada em 31/10/2026, 15:00:29. 115 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD60 · Os Doutores · Os doutores em 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
+## sábado, 02/01
+
+- **12h30 · OD65 · Os Doutores · Estreia da temporada 2: os doutores voltaram, e dois chegaram** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 03/01
+
+- **06h00 · OD66 · Os Doutores · Frase: meta sem a conta da hora é desejo com data** (imagem)
+
+## segunda, 04/01
+
+- **12h30 · OD67 · Os Doutores · Você acordou hoje com 30 minutos marcados na agenda** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 05/01
+
+- **12h30 · OD68 · Os Doutores · Thiago senta com o Gabriel: o raio de 5 km e o ponto de equilíbrio** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 06/01
+
+- **12h30 · OD69 · Os Doutores · Notícia: começou a CBS. O que mudou na nota da clínica em janeiro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 07/01
+
+- **12h30 · OD70 · Os Doutores · Helena: o primeiro paciente reclamou do reajuste** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
 ## Pendentes (não saem até serem liberados)
 
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
+- **OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente**: palavra-chave MARKETING: a automação precisa estar ativa
