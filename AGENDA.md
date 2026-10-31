@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 17:13:28. 150 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 17:22:42. 157 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -658,6 +658,40 @@ Gerada em 31/10/2026, 17:13:28. 150 posts agendados, 3 pendentes. Stories com en
 ## sexta, 05/02
 
 - **12h30 · OD99 · Os Doutores · Rafael: sexta, 18h40, véspera de Carnaval, tudo pra ontem** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 06/02
+
+- **12h30 · OD100 · Os Doutores · Carnaval: como cada doutor fechou a clínica** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 07/02
+
+- **06h00 · OD101 · Os Doutores · Frase: decisão de clínica não é cirurgia** (imagem)
+
+## segunda, 08/02
+
+- **12h30 · OD102 · Os Doutores · Caio: o primeiro Carnaval sem plantão extra** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 09/02
+
+- **12h30 · OD103 · Os Doutores · Você acordou hoje na terça de Carnaval e abriu o computador** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 10/02
+
+- **12h30 · OD104 · Os Doutores · Fernando: a quinta recepcionista fez 90 dias** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 11/02
+
+- **12h30 · OD105 · Os Doutores · Rafael senta com o Gabriel: a reunião de segunda e o prazo que vale para o dono** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 12/02
+
+- **12h30 · OD106 · Os Doutores · Comparação: pra ontem e quando estiver perfeito** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

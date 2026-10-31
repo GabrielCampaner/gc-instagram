@@ -3762,6 +3762,149 @@
       ],
       "origem": "2027-02-05_od99",
       "fixo": true
+    },
+    {
+      "id": "OD100",
+      "titulo": "Os Doutores · Carnaval: como cada doutor fechou a clínica",
+      "quando": "2027-02-06T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Feriado longo é o melhor raio-x da clínica. Tem doutor que fecha e desliga. Tem doutor que fecha e continua no grupo da equipe. E tem doutor que nem sabe ainda se abre na quarta.\n\nOlha pra tua sexta-feira e repara no que só funciona se você estiver lá. Essa é a lista de março.\n\nComenta o número de quem fechou a clínica igual a você. E bom Carnaval.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #carnaval #osdoutores",
+      "midias": [
+        "midia/2027-02-06_od100/01.jpg",
+        "midia/2027-02-06_od100/02.jpg",
+        "midia/2027-02-06_od100/03.jpg",
+        "midia/2027-02-06_od100/04.jpg",
+        "midia/2027-02-06_od100/05.jpg",
+        "midia/2027-02-06_od100/06.jpg"
+      ],
+      "origem": "2027-02-06_od100",
+      "fixo": true
+    },
+    {
+      "id": "OD101",
+      "titulo": "Os Doutores · Frase: decisão de clínica não é cirurgia",
+      "quando": "2027-02-07T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem decisão que pede todo o cuidado do mundo: a da sala de cirurgia. A da clínica, quase nunca. Trocar o roteiro da recepção, lançar um programa, testar um horário novo: dá pra fazer pequeno, medir e ajustar.\n\nO que custa caro é esperar. Cada mês aguardando a versão perfeita é um mês que a clínica não cresceu.\n\nSalva e manda pra quem decide contigo.\n\n#gestaodeclinicas #tomadadedecisao #lideranca",
+      "midias": [
+        "midia/2027-02-07_od101/01.jpg"
+      ],
+      "origem": "2027-02-07_od101",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD102",
+      "titulo": "Os Doutores · Caio: o primeiro Carnaval sem plantão extra",
+      "quando": "2027-02-08T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Plantão de Carnaval paga o dobro, e o Dr. Caio nunca tinha recusado um. Esse ano recusou.\n\nNão foi preguiça. Desde janeiro ele tem uma tarde fixa de consultório, que é a saída dele do plantão. E o plantão extra cobrava a tarde da semana seguinte: ele chegava cansado demais pra atender bem. Fazendo a conta inteira, o dobro não compensava.\n\nO plano continua. Quando a tarde fixa se pagar dois meses seguidos, sai o primeiro plantão.\n\nComenta 10 se você também nunca recusa o plantão extra.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #plantao #medicos",
+      "midias": [
+        "midia/2027-02-08_od102/01.jpg",
+        "midia/2027-02-08_od102/02.jpg",
+        "midia/2027-02-08_od102/03.jpg",
+        "midia/2027-02-08_od102/04.jpg",
+        "midia/2027-02-08_od102/05.jpg",
+        "midia/2027-02-08_od102/06.jpg"
+      ],
+      "origem": "2027-02-08_od102",
+      "fixo": true
+    },
+    {
+      "id": "OD103",
+      "titulo": "Os Doutores · Você acordou hoje na terça de Carnaval e abriu o computador",
+      "quando": "2027-02-09T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Terça de Carnaval, clínica fechada, e você abre o computador só pra dar uma olhada. Responde os e-mails que podiam esperar, manda áudio no grupo da equipe no meio do almoço e chega no fim do feriado sem ter descansado. E a equipe, que estava de folga, também não descansou.\n\nO exemplo de quem manda pesa mais que qualquer regra. Combina antes o que é urgência e quem resolve, deixa o grupo em silêncio e guarda as ideias pra segunda.\n\nSalva pro próximo feriado.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #descanso #lideranca",
+      "midias": [
+        "midia/2027-02-09_od103/01.jpg",
+        "midia/2027-02-09_od103/02.jpg",
+        "midia/2027-02-09_od103/03.jpg",
+        "midia/2027-02-09_od103/04.jpg",
+        "midia/2027-02-09_od103/05.jpg",
+        "midia/2027-02-09_od103/06.jpg",
+        "midia/2027-02-09_od103/07.jpg"
+      ],
+      "origem": "2027-02-09_od103",
+      "fixo": true
+    },
+    {
+      "id": "OD104",
+      "titulo": "Os Doutores · Fernando: a quinta recepcionista fez 90 dias",
+      "quando": "2027-02-10T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Fernando trocou de recepcionista quatro vezes em um ano e jurava que o problema era o mercado. A quinta fez 90 dias na Quarta-feira de Cinzas.\n\nO que mudou foi o que veio antes dela: o cargo escrito, o roteiro no primeiro dia, as conversas de 30, 60 e 90 dias e uma regra que custou mais pra ele do que pra ela: correção em particular, elogio em público. Na conversa dos 90 dias, ela disse que agora sabe o que esperam dela.\n\nComenta 5 se a recepção da tua clínica também já trocou mais de uma vez no ano.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #recepcao",
+      "midias": [
+        "midia/2027-02-10_od104/01.jpg",
+        "midia/2027-02-10_od104/02.jpg",
+        "midia/2027-02-10_od104/03.jpg",
+        "midia/2027-02-10_od104/04.jpg",
+        "midia/2027-02-10_od104/05.jpg",
+        "midia/2027-02-10_od104/06.jpg"
+      ],
+      "origem": "2027-02-10_od104",
+      "fixo": true
+    },
+    {
+      "id": "OD105",
+      "titulo": "Os Doutores · Rafael senta com o Gabriel: a reunião de segunda e o prazo que vale para o dono",
+      "quando": "2027-02-11T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Rafael deixava tudo pra última hora e queria que todo mundo resolvesse por ele. A sexta das 18h40 parecia o problema. Não era: o problema era a semana inteira sem nenhum minuto de gestão.\n\nA gente montou uma reunião de 30 minutos na segunda, com prazo pra tudo que depende dele, e regras que valem pro dono: pedido tarde vira tarefa do dia seguinte, almoço é dele e horário de paciente começa com ele na sala antes. Clínica que gira em volta de uma pessoa para quando ela atrasa.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #lideranca #oftalmologia",
+      "midias": [
+        "midia/2027-02-11_od105/01.jpg",
+        "midia/2027-02-11_od105/02.jpg",
+        "midia/2027-02-11_od105/03.jpg",
+        "midia/2027-02-11_od105/04.jpg",
+        "midia/2027-02-11_od105/05.jpg",
+        "midia/2027-02-11_od105/06.jpg",
+        "midia/2027-02-11_od105/07.jpg",
+        "midia/2027-02-11_od105/08.jpg"
+      ],
+      "origem": "2027-02-11_od105",
+      "fixo": true
+    },
+    {
+      "id": "OD106",
+      "titulo": "Os Doutores · Comparação: pra ontem e quando estiver perfeito",
+      "quando": "2027-02-12T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Rafael deixa tudo pra sexta às 18h40 e faz às pressas. A Dra. Cecília espera ficar perfeito e não lança nunca. Parecem opostos, mas perdem a mesma coisa: o trimestre.\n\nO remédio dos dois é parecido. Prazo escrito no meio da semana, e não na sexta à noite nem no mês que vem, e alguém conferindo se saiu. Os dois já sentaram comigo e começaram por aí.\n\nComenta NIVEL que eu te mando o teste do nível da clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #produtividade #tomadadedecisao",
+      "midias": [
+        "midia/2027-02-12_od106/01.jpg",
+        "midia/2027-02-12_od106/02.jpg",
+        "midia/2027-02-12_od106/03.jpg"
+      ],
+      "origem": "2027-02-12_od106",
+      "fixo": true
     }
   ],
   "liberados": [
