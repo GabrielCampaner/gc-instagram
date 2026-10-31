@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 15:16:53. 122 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 15:56:38. 129 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -495,7 +495,7 @@ Gerada em 31/10/2026, 15:16:53. 122 posts agendados, 3 pendentes. Stories com en
 
 ## domingo, 03/01
 
-- **06h00 · OD66 · Os Doutores · Frase: meta sem a conta da hora é desejo com data** (imagem)
+- **06h00 · OD66 · Os Doutores · Frase: meta sem a conta da hora é chute com data marcada** (imagem)
 
 ## segunda, 04/01
 
@@ -509,7 +509,7 @@ Gerada em 31/10/2026, 15:16:53. 122 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 06/01
 
-- **12h30 · OD69 · Os Doutores · Notícia: começou a CBS. O que mudou na nota da clínica em janeiro** (carrossel)
+- **12h30 · OD69 · Os Doutores · Notícia: começou a CBS. O que muda no preço da clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quinta, 07/01
@@ -520,6 +520,41 @@ Gerada em 31/10/2026, 15:16:53. 122 posts agendados, 3 pendentes. Stories com en
 ## sexta, 08/01
 
 - **12h30 · OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 09/01
+
+- **12h30 · OD72 · Os Doutores · Caio: a primeira tarde fixa de consultório** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 10/01
+
+- **12h30 · OD73 · Os Doutores · Notícia: os cinco números que 2026 mostrou para quem tem clínica** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 11/01
+
+- **12h30 · OD74 · Os Doutores · Marcelo senta com o Gabriel: quem vende é o médico** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 12/01
+
+- **12h30 · OD75 · Os Doutores · Thiago: o ano inteiro numa folha só** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 13/01
+
+- **12h30 · OD76 · Os Doutores · Você acordou hoje e a recepção sai mais cedo** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 14/01
+
+- **12h30 · OD77 · Os Doutores · Henrique senta com o Gabriel: os três números que se cobra de uma agência** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 15/01
+
+- **12h30 · OD78 · Os Doutores · Bia: ano novo, imersão nova** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

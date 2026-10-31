@@ -3031,7 +3031,7 @@
     },
     {
       "id": "OD66",
-      "titulo": "Os Doutores · Frase: meta sem a conta da hora é desejo com data",
+      "titulo": "Os Doutores · Frase: meta sem a conta da hora é chute com data marcada",
       "quando": "2027-01-03T06:00:00-03:00",
       "tipo": "imagem",
       "status": "agendado",
@@ -3093,7 +3093,7 @@
     },
     {
       "id": "OD69",
-      "titulo": "Os Doutores · Notícia: começou a CBS. O que mudou na nota da clínica em janeiro",
+      "titulo": "Os Doutores · Notícia: começou a CBS. O que muda no preço da clínica",
       "quando": "2027-01-06T12:30:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
@@ -3157,6 +3157,163 @@
         "midia/2027-01-08_od71/08.jpg"
       ],
       "origem": "2027-01-08_od71",
+      "fixo": true
+    },
+    {
+      "id": "OD72",
+      "titulo": "Os Doutores · Caio: a primeira tarde fixa de consultório",
+      "quando": "2027-01-09T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Caio passou o Natal de plantão. Em janeiro, abriu a primeira tarde fixa de consultório: cinco consultas marcadas, quatro vieram, preço calculado pela conta da hora dele.\n\nAinda não dá pra dizer que deu certo, tá? Uma tarde não é tendência. O combinado é esperar a tarde se pagar dois meses seguidos antes de largar um plantão. Mas na quinta, pela primeira vez em muito tempo, ele jantou em casa.\n\nComenta 10 se você também tá montando a tua saída do plantão.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #plantao #medicos",
+      "midias": [
+        "midia/2027-01-09_od72/01.jpg",
+        "midia/2027-01-09_od72/02.jpg",
+        "midia/2027-01-09_od72/03.jpg",
+        "midia/2027-01-09_od72/04.jpg",
+        "midia/2027-01-09_od72/05.jpg",
+        "midia/2027-01-09_od72/06.jpg",
+        "midia/2027-01-09_od72/07.jpg"
+      ],
+      "origem": "2027-01-09_od72",
+      "fixo": true
+    },
+    {
+      "id": "OD73",
+      "titulo": "Os Doutores · Notícia: os cinco números que 2026 mostrou para quem tem clínica",
+      "quando": "2027-01-10T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Antes de escrever a meta de 2027, vale olhar pra trás com número, e não com sensação.\n\nOitenta e oito milhões de consultas marcadas online. Dois terços das clínicas sem saber por onde o paciente passa. Uma em cada três com mais de 11% de faltas. Recorde de pedidos de demissão. E mais de 635 mil médicos disputando a escolha do paciente.\n\nCada número desses vira uma pergunta sobre a tua clínica. Responde as cinco e a meta sai com base.\n\nFontes: Doctoralia (via Viva, 29/01/2026); Panorama das Clínicas e Hospitais 2026, Doctoralia e Feegow (via Medicina S/A, 28/04 e 22/06/2026); FIEMG com dados do Novo Caged (abril de 2026); Demografia Médica 2025, Ministério da Saúde, FMUSP e AMB (via Medicina S/A).\n\nSalva e manda pra quem decide contigo.\n\n#gestaodeclinicas #planejamento #saude",
+      "midias": [
+        "midia/2027-01-10_od73/01.jpg",
+        "midia/2027-01-10_od73/02.jpg",
+        "midia/2027-01-10_od73/03.jpg",
+        "midia/2027-01-10_od73/04.jpg",
+        "midia/2027-01-10_od73/05.jpg",
+        "midia/2027-01-10_od73/06.jpg",
+        "midia/2027-01-10_od73/07.jpg"
+      ],
+      "origem": "2027-01-10_od73",
+      "fixo": true
+    },
+    {
+      "id": "OD74",
+      "titulo": "Os Doutores · Marcelo senta com o Gabriel: quem vende é o médico",
+      "quando": "2027-01-11T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Marcelo faz uma consulta impecável e termina com \"pensa com calma\". O paciente sai sabendo o que tem, mas sem saber o que fazer. E marca com quem disse \"a gente começa terça\".\n\nA gente trocou uma frase, aprendeu a perguntar o que falta pra decidir e combinou a passagem pra Jéssica, na frente do paciente. Quem recomenda é o médico. Quem negocia a forma de pagar e passa o cartão é a comercial. Cada um no seu papel.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #vendasnasaude #medicos",
+      "midias": [
+        "midia/2027-01-11_od74/01.jpg",
+        "midia/2027-01-11_od74/02.jpg",
+        "midia/2027-01-11_od74/03.jpg",
+        "midia/2027-01-11_od74/04.jpg",
+        "midia/2027-01-11_od74/05.jpg",
+        "midia/2027-01-11_od74/06.jpg",
+        "midia/2027-01-11_od74/07.jpg",
+        "midia/2027-01-11_od74/08.jpg"
+      ],
+      "origem": "2027-01-11_od74",
+      "fixo": true
+    },
+    {
+      "id": "OD75",
+      "titulo": "Os Doutores · Thiago: o ano inteiro numa folha só",
+      "quando": "2027-01-12T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Planejamento estratégico parece coisa de empresa grande, com 40 páginas e consultoria cara. Na clínica, cabe numa folha: onde eu tô, onde eu quero estar em dezembro, três prioridades, cinco números toda sexta e um ritual que não falha.\n\nO Dr. Thiago escreveu a dele em janeiro. A folha fica na parede do consultório e é reescrita a cada três meses. O que importa é que alguém olha pra ela toda semana.\n\nSalva a estrutura e monta a tua essa semana. Comenta 15 se você também nunca escreveu o plano do ano.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #planejamentoestrategico #urologia",
+      "midias": [
+        "midia/2027-01-12_od75/01.jpg",
+        "midia/2027-01-12_od75/02.jpg",
+        "midia/2027-01-12_od75/03.jpg",
+        "midia/2027-01-12_od75/04.jpg",
+        "midia/2027-01-12_od75/05.jpg",
+        "midia/2027-01-12_od75/06.jpg",
+        "midia/2027-01-12_od75/07.jpg",
+        "midia/2027-01-12_od75/08.jpg"
+      ],
+      "origem": "2027-01-12_od75",
+      "fixo": true
+    },
+    {
+      "id": "OD76",
+      "titulo": "Os Doutores · Você acordou hoje e a recepção sai mais cedo",
+      "quando": "2027-01-13T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A jornada de 42 horas começou em dezembro, sem redução de salário. Na prática, cada pessoa da equipe trabalha duas horas a menos por semana. E muita clínica só percebeu quando o último paciente chegou e não tinha ninguém no balcão.\n\nTem três saídas, e todas têm custo: hora extra (no mínimo 50% a mais por hora), escala desencontrada ou agenda redesenhada. A escolha certa depende da tua convenção, então fecha com o teu contador. O que não dá é deixar a agenda como estava.\n\nFonte: Emenda Constitucional 141/2026 e Constituição Federal, art. 7º.\n\nManda pra quem faz a escala da tua clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #escala",
+      "midias": [
+        "midia/2027-01-13_od76/01.jpg",
+        "midia/2027-01-13_od76/02.jpg",
+        "midia/2027-01-13_od76/03.jpg",
+        "midia/2027-01-13_od76/04.jpg",
+        "midia/2027-01-13_od76/05.jpg",
+        "midia/2027-01-13_od76/06.jpg",
+        "midia/2027-01-13_od76/07.jpg"
+      ],
+      "origem": "2027-01-13_od76",
+      "fixo": true
+    },
+    {
+      "id": "OD77",
+      "titulo": "Os Doutores · Henrique senta com o Gabriel: os três números que se cobra de uma agência",
+      "quando": "2027-01-14T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Henrique chegou querendo saber se contratava a quinta agência. A gente abriu o celular da clínica antes.\n\nTrês números resolvem a conversa com qualquer agência: para quem a clínica fala, quanto custa um paciente que fechou tratamento (não um lead) e em quanto tempo alguém responde. Metade do \"lead ruim\" nunca tinha recebido resposta. Agora o relatório tem cinco linhas e chega toda segunda.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #atendimento",
+      "midias": [
+        "midia/2027-01-14_od77/01.jpg",
+        "midia/2027-01-14_od77/02.jpg",
+        "midia/2027-01-14_od77/03.jpg",
+        "midia/2027-01-14_od77/04.jpg",
+        "midia/2027-01-14_od77/05.jpg",
+        "midia/2027-01-14_od77/06.jpg",
+        "midia/2027-01-14_od77/07.jpg",
+        "midia/2027-01-14_od77/08.jpg"
+      ],
+      "origem": "2027-01-14_od77",
+      "fixo": true
+    },
+    {
+      "id": "OD78",
+      "titulo": "Os Doutores · Bia: ano novo, imersão nova",
+      "quando": "2027-01-15T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Toda clínica tem uma Dra. Bia, e todo janeiro tem uma imersão nova prometendo mudar o ano. Não tem nada de errado em aprender, tá?\n\nO problema é quando cada conteúdo novo derruba o que estava funcionando. A Bia tinha cinco terças seguidas de ligações pra quem fez avaliação e sumiu. Antes de ir pra imersão, ela escreveu uma regra: nada novo começa até a terça fazer três meses. O conteúdo novo entra na fila, não no lugar.\n\nComenta 4 se você também comprou curso novo em janeiro.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dermatologia #produtividade",
+      "midias": [
+        "midia/2027-01-15_od78/01.jpg",
+        "midia/2027-01-15_od78/02.jpg",
+        "midia/2027-01-15_od78/03.jpg",
+        "midia/2027-01-15_od78/04.jpg",
+        "midia/2027-01-15_od78/05.jpg",
+        "midia/2027-01-15_od78/06.jpg",
+        "midia/2027-01-15_od78/07.jpg"
+      ],
+      "origem": "2027-01-15_od78",
       "fixo": true
     }
   ],
