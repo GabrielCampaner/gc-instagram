@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 08:21:55. 72 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 09:54:26. 73 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -107,6 +107,7 @@ Gerada em 31/10/2026, 08:21:55. 72 posts agendados, 4 pendentes. Stories com enq
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
 - **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **15h00 · ODR1 · Os Doutores · A eleição acabou: o que muda na tua clínica, data por data** (carrossel)
 - **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
   - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
 
@@ -252,7 +253,6 @@ Gerada em 31/10/2026, 08:21:55. 72 posts agendados, 4 pendentes. Stories com enq
 ## sexta, 20/11
 
 - **06h00 · OD18 · Os Doutores · Frase: o feriado testa a clínica** (imagem)
-  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **08h30 · L3-02 · Retorno de 30 dias não existe** (carrossel)
   - Stories: Enquete "Na sua clínica, o retorno tem prazo de quantos dias?" · 30 dias / Quem define é o médico. Depois: print da resolução com o § 1º marcado.
 - **18h30 · L3-15 · IA no WhatsApp da clínica** (carrossel)

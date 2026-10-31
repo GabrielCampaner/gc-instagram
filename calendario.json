@@ -698,6 +698,30 @@
       "fixo": true
     },
     {
+      "id": "ODR1",
+      "titulo": "Os Doutores · A eleição acabou: o que muda na tua clínica, data por data",
+      "quando": "2026-11-03T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A eleição acabou e ainda tem muita gente discutindo resultado. Enquanto isso, o calendário da tua clínica já tá escrito na lei: o prazo do Simples, a jornada de 42 horas, o imposto novo em janeiro e o split payment. Nada disso depende de quem ganhou.\n\nO que eu vejo desde 2009: quando o custo muda, quem sofre é a clínica que não mexe na tabela de preço. A conta da hora muda em dezembro, e quase ninguém refez.\n\nIsso aqui não é consultoria tributária, tá? Imposto é com o teu contador. O meu trabalho é fazer a conta da hora e do preço junto contigo, dentro da clínica.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nFontes: Receita Federal, EC 141/2026, LC 214/2025, Agência Senado, Folha via Contábeis e Agência Câmara.\n\n#gestaodeclinicas #reformatributaria #precificacao",
+      "midias": [
+        "midia/2026-11-03_odr1/01.jpg",
+        "midia/2026-11-03_odr1/02.jpg",
+        "midia/2026-11-03_odr1/03.jpg",
+        "midia/2026-11-03_odr1/04.jpg",
+        "midia/2026-11-03_odr1/05.jpg",
+        "midia/2026-11-03_odr1/06.jpg",
+        "midia/2026-11-03_odr1/07.jpg",
+        "midia/2026-11-03_odr1/08.jpg",
+        "midia/2026-11-03_odr1/09.jpg"
+      ],
+      "origem": "2026-11-03_odr1",
+      "fixo": true
+    },
+    {
       "id": "L3-01",
       "titulo": "Dois donos, mesmo dia",
       "quando": "2026-11-03T18:30:00-03:00",
@@ -1752,7 +1776,7 @@
       "tipo": "imagem",
       "status": "agendado",
       "pendencia": "",
-      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "obs": "",
       "stories": "",
       "legenda": "Bom feriado pra você e pra tua equipe.\n\nSe hoje o teu celular não parou, vale uma pergunta honesta: o que a tua equipe precisaria saber pra resolver sem te ligar? Quase sempre a resposta já existe. Só que mora na tua cabeça, não no papel.\n\nEscreve uma coisa por semana. O jeito de confirmar paciente, o que responder quando pedem desconto, quem fecha o caixa e como. Aos poucos, o feriado volta a ser teu.\n\nSalva pra ler na segunda e manda pra tua sócia.\n\n#gestaodeclinicas #consultorio #recepcao",
       "midias": [
