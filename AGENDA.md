@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 14:18:56. 108 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 14:50:29. 115 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -451,6 +451,41 @@ Gerada em 31/10/2026, 14:18:56. 108 posts agendados, 3 pendentes. Stories com en
 ## sexta, 25/12
 
 - **12h30 · OD53 · Os Doutores · Natal de plantão. O último** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 26/12
+
+- **12h30 · OD56 · Os Doutores · Fábio: na ceia, cada parente deu um conselho** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 27/12
+
+- **12h30 · OD58 · Os Doutores · Thiago: a clínica dos sonhos aberta e vazia** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 28/12
+
+- **12h30 · OD57 · Os Doutores · Você fechou o ano sem saber quanto ganhou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 29/12
+
+- **12h30 · OD63 · Os Doutores · Eduardo: o bônus que virou salário** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 30/12
+
+- **12h30 · OD64 · Os Doutores · Jorge: o melhor neurologista do estado, com recepção de posto** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 31/12
+
+- **12h30 · OD59 · Os Doutores · Último dia do ano: você vai prometer de novo** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 01/01
+
+- **12h30 · OD60 · Os Doutores · Os doutores em 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)
