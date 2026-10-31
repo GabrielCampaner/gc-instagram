@@ -1,85 +1,15 @@
 # Agenda do Instagram da GC
 
-Gerada em 20/10/2026, 14:28:21. 74 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 07:19:36. 78 posts agendados, 5 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
 
 - **08h30 · GC-04 · A creatinina** (imagem) · publicado: https://www.instagram.com/p/Det23DdHCxR/
   - Lembrete: fixar no perfil
-- **18h30 · GC-08 · A culpa de cobrar** (carrossel)
-  - Stories: Noite: repost do carrossel + enquete "Você já deu desconto antes de o paciente pedir?" · Já / Nunca. Caixinha: "O que você responde quando dizem que está caro?" (vira pauta).
-
-## quarta, 21/10
-
-- **06h30 · FR-02 · O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-07 · 12 regras que eu não negocio** (carrossel)
-  - Lembrete: fixar no perfil
-
-## quinta, 22/10
-
-- **06h30 · FR-03 · Se o seu preço veio do concorrente, o seu lucro também é dele.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-10 · O celular da recepção** (carrossel)
-  - Stories: Manhã: chegada na clínica do cliente, equipe de costas. Tarde: repost + enquete "Você sabe quantas conversas estão sem resposta agora?" · Sei / Não sei.
-
-## sexta, 23/10
-
-- **06h30 · FR-04 · Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-13 · O paciente não avalia a sua resina** (carrossel)
-  - Stories: Manhã: a clínica odontológica do cliente, sem pacientes. Tarde: enquete "Dentista: o que mais trava a sua clínica hoje?" · Agenda vazia / Orçamento que não fecha.
-
-## sábado, 24/10
-
-- **06h30 · FR-05 · Se só você sabe passar o valor, a clínica para quando você atende.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-09 · O teste das 21h** (carrossel)
-  - Stories: 21h: "Começou o teste. Manda a mensagem agora." Na manhã seguinte: controle deslizante "Quanto tempo a sua clínica levou?" e caixinha com os tempos (sem nomes).
-
-## domingo, 25/10
-
-- **06h30 · FR-06 · Clínica não quebra por falta de talento. Quebra por falta de rotina.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-22 · Quanto mais rápido passa o preço, menos agenda** (carrossel)
-  - Stories: Manhã: "Teste rápido: manda mensagem para a sua clínica agora." Controle deslizante "Em quanto tempo responderam?". Noite: repost do carrossel.
-
-## segunda, 26/10
-
-- **06h30 · FR-07 · Todo mundo quer atender. Ninguém liga para quem não voltou.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-01 · A hora vazia** (carrossel)
-  - Stories: telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)
-
-## terça, 27/10
-
-- **06h30 · FR-09 · Dá para ter a agenda cheia e fechar o mês no vermelho.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-03 · Laudo da Semana 01** (carrossel)
-
-## quarta, 28/10
-
-- **08h30 · metafora_balde-furado · Antes de colocar mais dinheiro em anúncio, olhe para os furo** (imagem)
-- **18h30 · GC-12 · Triplicar não cabe na sua agenda** (carrossel)
-  - Stories: Tarde: enquete "Você já comprou curso ou mentoria que não entregou o prometido?" · Já / Nunca. Caixinha: "O que te prometeram?"
-
-## quinta, 29/10
-
-- **08h30 · metafora_iceberg · Faturamento é o que todo mundo olha.** (imagem)
-- **18h30 · GC-01-R · A hora vazia (Reels)** (reels)
-
-## sexta, 30/10
-
-- **06h30 · FR-10 · A sua clínica não tem problema de marketing. Tem problema de matemática.** (imagem)
-  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
-- **18h30 · GC-16 · Novembro Azul: laço ou agenda** (carrossel)
-  - Stories: Manhã: "30/10, Dia do Ginecologista". Tarde: demonstração de uma calculadora com dados de exemplo. Noite: link + "Comenta CALCULADORA no carrossel".
 
 ## sábado, 31/10
 
-- **06h30 · L3-05 · Acha caro o que ninguém explicou** (imagem)
-  - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
 - **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
 
 ## domingo, 01/11
@@ -99,42 +29,44 @@ Gerada em 20/10/2026, 14:28:21. 74 posts agendados, 3 pendentes. Stories com enq
 
 - **08h30 · L3-12 · 21h47 em duas clínicas** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
-- **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
-  - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
+- **18h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quarta, 04/11
 
 - **08h30 · L3-33 · 54% medem só a entrada** (imagem)
   - Stories: Enquete: "Você mede a conversão de orçamento?" · Mede / Não mede.
-- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
-  - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
+- **18h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quinta, 05/11
 
 - **08h30 · L3-34 · 33% fora do horário** (imagem)
   - Stories: Enquete: "A sua clínica responde mensagem depois das 18h?" · Responde / Só no dia seguinte.
 - **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
+- **18h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## sexta, 06/11
 
 - **08h30 · L3-35 · 34% com falta acima de 11%** (imagem)
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
-- **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
-  - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
+- **18h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## sábado, 07/11
 
 - **08h30 · L3-36 · 75% já contrataram pelo WhatsApp** (imagem)
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
-- **18h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
-  - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
+- **18h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## domingo, 08/11
 
 - **08h30 · L3-24 · Qual ele lembra** (imagem)
   - Stories: Repost com a pergunta: "Qual o seu paciente lembra?" · A consulta / A resposta.
-- **18h30 · L3-08 · Os três "achei caro"** (carrossel)
-  - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
+- **18h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## segunda, 09/11
 
@@ -252,13 +184,97 @@ Gerada em 20/10/2026, 14:28:21. 74 posts agendados, 3 pendentes. Stories com enq
 - **18h30 · L3-39 · O mercado de clínicas em 10 números** (carrossel)
   - Stories: Uma lâmina por dia nos Stories da semana, com enquete "Você sabe o seu?".
 
+## quinta, 26/11
+
+- **06h30 · FR-02 · O paciente não escolheu o melhor profissional. Escolheu quem respondeu primeiro.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-08 · A culpa de cobrar** (carrossel)
+  - Stories: Noite: repost do carrossel + enquete "Você já deu desconto antes de o paciente pedir?" · Já / Nunca. Caixinha: "O que você responde quando dizem que está caro?" (vira pauta).
+
 ## sexta, 27/11
 
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
+- **18h30 · GC-07 · 12 regras que eu não negocio** (carrossel)
+  - Lembrete: fixar no perfil
+
+## sábado, 28/11
+
+- **06h30 · FR-03 · Se o seu preço veio do concorrente, o seu lucro também é dele.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-09 · O teste das 21h** (carrossel)
+  - Stories: 21h: "Começou o teste. Manda a mensagem agora." Na manhã seguinte: controle deslizante "Quanto tempo a sua clínica levou?" e caixinha com os tempos (sem nomes).
+
+## domingo, 29/11
+
+- **06h30 · FR-04 · Recepção que atende telefone, balcão e WhatsApp ao mesmo tempo não atende ninguém.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-22 · Quanto mais rápido passa o preço, menos agenda** (carrossel)
+  - Stories: Manhã: "Teste rápido: manda mensagem para a sua clínica agora." Controle deslizante "Em quanto tempo responderam?". Noite: repost do carrossel.
+
+## segunda, 30/11
+
+- **06h30 · FR-05 · Se só você sabe passar o valor, a clínica para quando você atende.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-10 · O celular da recepção** (carrossel)
+  - Stories: Manhã: chegada na clínica do cliente, equipe de costas. Tarde: repost + enquete "Você sabe quantas conversas estão sem resposta agora?" · Sei / Não sei.
+
+## terça, 01/12
+
+- **06h30 · FR-06 · Clínica não quebra por falta de talento. Quebra por falta de rotina.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-01 · A hora vazia** (carrossel)
+  - Stories: telas prontas em Conteudo/2026-10-13_stories-hora (ST-GC-01: enquete, R$ 89, caixinha)
+
+## quarta, 02/12
+
+- **06h30 · FR-07 · Todo mundo quer atender. Ninguém liga para quem não voltou.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-03 · Laudo da Semana 01** (carrossel)
+
+## quinta, 03/12
+
+- **06h30 · FR-09 · Dá para ter a agenda cheia e fechar o mês no vermelho.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · GC-12 · Triplicar não cabe na sua agenda** (carrossel)
+  - Stories: Tarde: enquete "Você já comprou curso ou mentoria que não entregou o prometido?" · Já / Nunca. Caixinha: "O que te prometeram?"
+
+## sexta, 04/12
+
+- **08h30 · metafora_balde-furado · Antes de colocar mais dinheiro em anúncio, olhe para os furo** (imagem)
+- **18h30 · GC-01-R · A hora vazia (Reels)** (reels)
+
+## sábado, 05/12
+
+- **08h30 · metafora_iceberg · Faturamento é o que todo mundo olha.** (imagem)
+- **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
+  - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
+
+## domingo, 06/12
+
+- **06h30 · FR-10 · A sua clínica não tem problema de marketing. Tem problema de matemática.** (imagem)
+  - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
+  - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
+
+## segunda, 07/12
+
+- **06h30 · L3-05 · Acha caro o que ninguém explicou** (imagem)
+  - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
+- **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
+  - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
+
+## terça, 08/12
+
+- **08h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
+  - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
+- **18h30 · L3-08 · Os três "achei caro"** (carrossel)
+  - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
 
 ## Pendentes (não saem até serem liberados)
 
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
+- **GC-13 · O paciente não avalia a sua resina**: data comemorativa já passou (23/10/2026)
+- **GC-16 · Novembro Azul: laço ou agenda**: data comemorativa já passou (30/10/2026)
