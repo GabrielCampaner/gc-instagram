@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 18:05:28. 164 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 19:01:27. 174 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -82,7 +82,7 @@ Gerada em 31/10/2026, 18:05:28. 164 posts agendados, 3 pendentes. Stories com en
   - Stories: Repost com enquete: "Concorda?" · Concordo / Discordo (a opção que divide gera resposta).
 - **12h30 · OD01 · Os Doutores · Estreia: toda clínica tem um desses doutores** (carrossel) · publicado: https://www.instagram.com/p/DfKe797kY90/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel)
+- **18h30 · paciente-problema · Toda clínica atende os quatro. Toda semana.** (carrossel) · publicado: https://www.instagram.com/p/DfLII07kmNf/
 
 ## domingo, 01/11
 
@@ -727,6 +727,60 @@ Gerada em 31/10/2026, 18:05:28. 164 posts agendados, 3 pendentes. Stories com en
 ## sexta, 19/02
 
 - **12h30 · OD113 · Os Doutores · Carolina: a recepção treinada e o placar de segunda** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 20/02
+
+- **12h30 · OD114 · Os Doutores · Marina: o congresso de março e a conta pronta** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 21/02
+
+- **06h00 · OD115 · Os Doutores · Frase: a equipe erra o que você só pensou** (imagem)
+
+## segunda, 22/02
+
+- **12h30 · OD116 · Os Doutores · Lívia: o primeiro mês com uma gerente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 23/02
+
+- **12h30 · OD117 · Os Doutores · Eduardo: a primeira decisão que ficou escrita** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 24/02
+
+- **12h30 · OD118 · Os Doutores · Notícia do mês: o médico quer parar cedo e não tem plano** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 25/02
+
+- **12h30 · OD119 · Os Doutores · Fábio: o primeiro conselho que ele não aceitou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 26/02
+
+- **12h30 · OD120 · Os Doutores · Você acordou hoje com dois meses de 2027 e a lista de 31/12** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 27/02
+
+- **12h30 · OD121 · Os Doutores · Thiago: a primeira semana no ponto de equilíbrio** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 28/02
+
+- **12h30 · OD122 · Os Doutores · Cecília: 30 dias depois, a versão 4** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 01/03
+
+- **12h30 · OD123 · Os Doutores · Rafael: a primeira segunda-feira sem 'pra ontem'** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 02/03
+
+- **12h30 · OD124 · Os Doutores · Final da temporada 2: o que os doutores aprenderam em 60 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

@@ -4055,6 +4055,238 @@
       ],
       "origem": "2027-02-19_od113",
       "fixo": true
+    },
+    {
+      "id": "OD114",
+      "titulo": "Os Doutores · Marina: o congresso de março e a conta pronta",
+      "quando": "2027-02-20T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Marina voltava de todo congresso com uma máquina nova em 48 parcelas. Em março, ela foi de novo, e levou a planilha.\n\nNo estande, fez a conta ali mesmo: a máquina nova precisaria de quatro sessões por semana, e a agenda dela não tinha nenhuma livre. Agradeceu, pediu a proposta por e-mail e foi tomar café. A terceira máquina, a que vivia coberta, já está perto de pagar a própria parcela com o preço refeito.\n\nComenta 16 se você também já assinou no estande e se arrependeu em casa.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dermatologia #precificacao",
+      "midias": [
+        "midia/2027-02-20_od114/01.jpg",
+        "midia/2027-02-20_od114/02.jpg",
+        "midia/2027-02-20_od114/03.jpg",
+        "midia/2027-02-20_od114/04.jpg",
+        "midia/2027-02-20_od114/05.jpg",
+        "midia/2027-02-20_od114/06.jpg"
+      ],
+      "origem": "2027-02-20_od114",
+      "fixo": true
+    },
+    {
+      "id": "OD115",
+      "titulo": "Os Doutores · Frase: a equipe erra o que você só pensou",
+      "quando": "2027-02-21T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Boa parte da bronca na equipe nasce de uma coisa que nunca foi dita em voz alta, muito menos escrita. Na tua cabeça estava claro: confirmar até as 16h, ligar pra quem faltou, passar o preço sem chamar ninguém. Na cabeça dela, não.\n\nAntes da próxima cobrança, escreve a entrega numa linha. E combina quem confere.\n\nSalva pra reunião de segunda.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2027-02-21_od115/01.jpg"
+      ],
+      "origem": "2027-02-21_od115",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD116",
+      "titulo": "Os Doutores · Lívia: o primeiro mês com uma gerente",
+      "quando": "2027-02-22T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Lívia achava que gerente era custo. A conta, em simulação, mostrou outra coisa: oito horas por semana resolvendo briga, atraso e escala davam 32 horas no mês fora do consultório. Em consultas de exemplo de R$ 400, R$ 12.800 que ela deixava de atender, bem mais do que uma gerente custa.\n\nNo primeiro mês, o placar ganhou dona, o grupo silenciou à noite e ela voltou pra duas tardes de consulta. A técnica difícil mudou pela metade e ganhou mais 30 dias, acompanhada.\n\nNúmeros de exemplo (simulação).\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #otorrinolaringologia",
+      "midias": [
+        "midia/2027-02-22_od116/01.jpg",
+        "midia/2027-02-22_od116/02.jpg",
+        "midia/2027-02-22_od116/03.jpg",
+        "midia/2027-02-22_od116/04.jpg",
+        "midia/2027-02-22_od116/05.jpg",
+        "midia/2027-02-22_od116/06.jpg",
+        "midia/2027-02-22_od116/07.jpg"
+      ],
+      "origem": "2027-02-22_od116",
+      "fixo": true
+    },
+    {
+      "id": "OD117",
+      "titulo": "Os Doutores · Eduardo: a primeira decisão que ficou escrita",
+      "quando": "2027-02-23T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Eduardo e os sócios mudavam de ideia toda semana, e a equipe ouvia três chefes. Em janeiro, combinaram uma regra: mudança de rumo se discute entre os sócios antes de chegar no balcão.\n\nEm fevereiro, a regra foi testada. Um sócio chegou com uma ideia nova na segunda. Em vez de virar ordem às 8h10, foi pra reunião de quinta, virou uma página escrita e foi explicada à equipe uma vez, pelo diretor do ano. A recepcionista resumiu: agora eu sei qual ordem vale.\n\nComenta 23 se na tua clínica a ordem muda toda semana.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #sociedade",
+      "midias": [
+        "midia/2027-02-23_od117/01.jpg",
+        "midia/2027-02-23_od117/02.jpg",
+        "midia/2027-02-23_od117/03.jpg",
+        "midia/2027-02-23_od117/04.jpg",
+        "midia/2027-02-23_od117/05.jpg",
+        "midia/2027-02-23_od117/06.jpg"
+      ],
+      "origem": "2027-02-23_od117",
+      "fixo": true
+    },
+    {
+      "id": "OD118",
+      "titulo": "Os Doutores · Notícia do mês: o médico quer parar cedo e não tem plano",
+      "quando": "2027-02-24T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Na pesquisa do Medscape divulgada em outubro de 2025, 59% dos médicos com menos de 45 anos disseram pensar em antecipar a aposentadoria. E só 36% dos entrevistados contavam com orientação financeira.\n\nQuerer parar cedo sem plano costuma virar o contrário: mais plantão, mais horário, a saída sempre adiada. Antes de juntar o papel do imposto de renda, vale arrumar a parte de dentro: conta da clínica separada, pró-labore fixo e destino pro que sobra. Imposto e investimento ficam com quem é do ramo.\n\nFonte: Medscape, pesquisa com 1.240 profissionais de saúde, via Viva (23/10/2025).\n\nSalva e leva pra reunião com o teu contador.\n\n#gestaodeclinicas #financeiro #medicos",
+      "midias": [
+        "midia/2027-02-24_od118/01.jpg",
+        "midia/2027-02-24_od118/02.jpg",
+        "midia/2027-02-24_od118/03.jpg",
+        "midia/2027-02-24_od118/04.jpg",
+        "midia/2027-02-24_od118/05.jpg",
+        "midia/2027-02-24_od118/06.jpg",
+        "midia/2027-02-24_od118/07.jpg"
+      ],
+      "origem": "2027-02-24_od118",
+      "fixo": true
+    },
+    {
+      "id": "OD119",
+      "titulo": "Os Doutores · Fábio: o primeiro conselho que ele não aceitou",
+      "quando": "2027-02-25T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Fábio passou a vida concordando com todo mundo. No cafezinho do congresso, um colega garantiu que ele precisava de agência. Dessa vez, a resposta foi outra: faz sentido, mas não mexe no meu número mais fraco.\n\nO número mais fraco era a avaliação: de cada dez, três começavam o tratamento. Com o roteiro e o retorno em 48 horas, chegou a cinco. O conselho da agência foi pra lista de abril, junto com os outros.\n\nNúmeros da história.\n\nComenta 24 se você ainda diz \"você tem razão\" pra todo mundo.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #tomadadedecisao",
+      "midias": [
+        "midia/2027-02-25_od119/01.jpg",
+        "midia/2027-02-25_od119/02.jpg",
+        "midia/2027-02-25_od119/03.jpg",
+        "midia/2027-02-25_od119/04.jpg",
+        "midia/2027-02-25_od119/05.jpg",
+        "midia/2027-02-25_od119/06.jpg"
+      ],
+      "origem": "2027-02-25_od119",
+      "fixo": true
+    },
+    {
+      "id": "OD120",
+      "titulo": "Os Doutores · Você acordou hoje com dois meses de 2027 e a lista de 31/12",
+      "quando": "2027-02-26T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "No último dia do ano, a lista era a de sempre: financeiro em dia, equipe treinada, menos plantão. Dois meses depois, a pergunta não é quantos itens você cumpriu. É quantos ganharam data.\n\nSe foi um ou dois, tá tudo bem. A diferença entre a lista que anda e a que vira a lista de 2028 é simples: próxima ação do tamanho de um dia, um dono e um dia marcado em março.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #planejamento #produtividade",
+      "midias": [
+        "midia/2027-02-26_od120/01.jpg",
+        "midia/2027-02-26_od120/02.jpg",
+        "midia/2027-02-26_od120/03.jpg",
+        "midia/2027-02-26_od120/04.jpg",
+        "midia/2027-02-26_od120/05.jpg",
+        "midia/2027-02-26_od120/06.jpg",
+        "midia/2027-02-26_od120/07.jpg"
+      ],
+      "origem": "2027-02-26_od120",
+      "fixo": true
+    },
+    {
+      "id": "OD121",
+      "titulo": "Os Doutores · Thiago: a primeira semana no ponto de equilíbrio",
+      "quando": "2027-02-27T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em novembro, a clínica dos sonhos do Dr. Thiago fez 11 consultas no mês. Na última semana de fevereiro, fez 31 atendimentos, um a mais que a meta semanal que a gente combinou em janeiro.\n\nNão foi mágica, tá? Foram nove clínicos visitados no raio de 5 km, um convênio com horário limitado nas manhãs e o aparelho caro com agenda própria. Uma semana boa não paga o ano. A meta agora é constância: quatro semanas seguidas.\n\nNúmeros da história.\n\nComenta 15 se a tua clínica também abriu antes da conta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #planejamentoestrategico #urologia",
+      "midias": [
+        "midia/2027-02-27_od121/01.jpg",
+        "midia/2027-02-27_od121/02.jpg",
+        "midia/2027-02-27_od121/03.jpg",
+        "midia/2027-02-27_od121/04.jpg",
+        "midia/2027-02-27_od121/05.jpg",
+        "midia/2027-02-27_od121/06.jpg"
+      ],
+      "origem": "2027-02-27_od121",
+      "fixo": true
+    },
+    {
+      "id": "OD122",
+      "titulo": "Os Doutores · Cecília: 30 dias depois, a versão 4",
+      "quando": "2027-02-28T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Cecília lançou o programa em 1º de fevereiro, na versão 3, com dez vagas. Trinta dias depois, sete estavam preenchidas. E ela fez a coisa mais importante do teste: anotou as perguntas que os pacientes faziam antes de entrar.\n\nTrês perguntas se repetiam, e nenhuma das 14 versões do folder respondia. A versão 4 respondeu as três em duas horas. A vaga de recepção também foi preenchida com quem passou nos três requisitos. Quem lança e ajusta aprende com o paciente.\n\nNúmeros da história.\n\nComenta 26 se você vai lançar alguma coisa em março.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #geriatria #tomadadedecisao",
+      "midias": [
+        "midia/2027-02-28_od122/01.jpg",
+        "midia/2027-02-28_od122/02.jpg",
+        "midia/2027-02-28_od122/03.jpg",
+        "midia/2027-02-28_od122/04.jpg",
+        "midia/2027-02-28_od122/05.jpg",
+        "midia/2027-02-28_od122/06.jpg"
+      ],
+      "origem": "2027-02-28_od122",
+      "fixo": true
+    },
+    {
+      "id": "OD123",
+      "titulo": "Os Doutores · Rafael: a primeira segunda-feira sem 'pra ontem'",
+      "quando": "2027-03-01T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Três semanas depois de sentar comigo, o Dr. Rafael teve a primeira sexta em que a equipe saiu no horário. Às 18h20 ele lembrou de uma coisa urgente. Em vez de mandar mensagem, escreveu no caderno da segunda. Na reunião, o urgente levou dois minutos.\n\nA tabela foi aprovada na quarta, o almoço é dele e chegar às 8h20 ainda falha em três dias de cinco. Rotina nova também tem recaída. O que mudou é que a pressa dele deixou de ser a hora extra da equipe.\n\nComenta 25 se você também já mandou mensagem pra equipe às 22h.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #lideranca #oftalmologia",
+      "midias": [
+        "midia/2027-03-01_od123/01.jpg",
+        "midia/2027-03-01_od123/02.jpg",
+        "midia/2027-03-01_od123/03.jpg",
+        "midia/2027-03-01_od123/04.jpg",
+        "midia/2027-03-01_od123/05.jpg"
+      ],
+      "origem": "2027-03-01_od123",
+      "fixo": true
+    },
+    {
+      "id": "OD124",
+      "titulo": "Os Doutores · Final da temporada 2: o que os doutores aprenderam em 60 dias",
+      "quando": "2027-03-02T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Dois meses atrás, oito doutores prometeram sentar comigo em janeiro, e chegaram mais dois. Todos sentaram. Alguns andaram rápido, outros tiveram recaída, e foi justamente isso que eu quis mostrar: gestão de verdade é uma coisa por vez, feita toda semana, com alguém perguntando se foi feita.\n\nO Thiago achou o mapa, o Augusto mudou de língua, o Marcelo passou a recomendar, o Jorge cuidou da embalagem, a Lívia ganhou uma gerente, o Eduardo escreveu as decisões, o Fábio aprendeu a dizer \"agora não\", a Cecília lançou e o Rafael respeitou o prazo.\n\nA temporada 3 já está sendo escrita.\n\nComenta o que mudou na tua clínica desde janeiro. Eu leio e respondo todo mundo.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #osdoutores #medicos",
+      "midias": [
+        "midia/2027-03-02_od124/01.jpg",
+        "midia/2027-03-02_od124/02.jpg",
+        "midia/2027-03-02_od124/03.jpg",
+        "midia/2027-03-02_od124/04.jpg",
+        "midia/2027-03-02_od124/05.jpg",
+        "midia/2027-03-02_od124/06.jpg",
+        "midia/2027-03-02_od124/07.jpg",
+        "midia/2027-03-02_od124/08.jpg",
+        "midia/2027-03-02_od124/09.jpg"
+      ],
+      "origem": "2027-03-02_od124",
+      "fixo": true
     }
   ],
   "liberados": [
