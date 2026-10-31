@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 15:13:29. 121 posts agendados, 4 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 31/10/2026, 15:16:53. 122 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -517,9 +517,13 @@ Gerada em 31/10/2026, 15:13:29. 121 posts agendados, 4 pendentes. Stories com en
 - **12h30 · OD70 · Os Doutores · Helena: o primeiro paciente reclamou do reajuste** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
+## sexta, 08/01
+
+- **12h30 · OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
 ## Pendentes (não saem até serem liberados)
 
 - **GC-20 · Você está aqui. Mas está aqui?**: data comemorativa já passou (12/10/2026)
 - **GC-21 · A conta da sessão de R$ 80**: data comemorativa já passou (13/10/2026)
 - **GC-11 · A consulta que ninguém marca**: data comemorativa já passou (18/10/2026)
-- **OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente**: palavra-chave MARKETING: a automação precisa estar ativa
