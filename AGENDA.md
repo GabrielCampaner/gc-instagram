@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 01/11/2026, 00:17:42. 181 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 01/11/2026, 09:09:03. 187 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -86,7 +86,7 @@ Gerada em 01/11/2026, 00:17:42. 181 posts agendados, 3 pendentes. Stories com en
 
 ## domingo, 01/11
 
-- **08h30 · L3-31 · 3 em cada 4 sem plano** (imagem)
+- **08h30 · L3-31 · 3 em cada 4 sem plano** (imagem) · publicado: https://www.instagram.com/p/DfMoMvTEUKV/
   - Stories: Enquete: "Quanto da sua agenda é particular?" (controle deslizante).
 - **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -815,6 +815,41 @@ Gerada em 01/11/2026, 00:17:42. 181 posts agendados, 3 pendentes. Stories com en
 ## terça, 09/03
 
 - **12h30 · OD131 · Os Doutores · Sérgio (estreia): 38 pacientes por dia e o mês que fechou no zero** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 10/03
+
+- **12h30 · OD132 · Os Doutores · Notícia: os planos de saúde em 2027** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 11/03
+
+- **12h30 · OD133 · Os Doutores · Vanessa senta com o Gabriel: a reunião de sócios e quem fala com a recepção** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 12/03
+
+- **12h30 · OD134 · Os Doutores · Dani: o fim de semana da clínica do Dr. Otávio, contado por ela** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 13/03
+
+- **12h30 · OD135 · Os Doutores · Renata: 100 dias de pauta às 7h30** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 14/03
+
+- **12h30 · OD136 · Os Doutores · Comparação: o dono que faz tudo e o dono que treina** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 15/03
+
+- **12h30 · OD137 · Os Doutores · Dia do Consumidor: você acordou hoje com uma avaliação de uma estrela** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 16/03
+
+- **12h30 · OD138 · Os Doutores · Fernando: a segunda recepcionista tem 21 anos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

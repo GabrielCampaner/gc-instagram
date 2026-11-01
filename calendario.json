@@ -4436,6 +4436,157 @@
       ],
       "origem": "2027-03-09_od131",
       "fixo": true
+    },
+    {
+      "id": "OD132",
+      "titulo": "Os Doutores · Notícia: os planos de saúde em 2027",
+      "quando": "2027-03-10T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "São 53 milhões de brasileiros com plano de assistência médica, segundo a ANS. Convênio vai continuar na agenda de muita clínica, e tudo bem. O que precisa é de conta.\n\nEm 12 meses, 16 milhões entraram num plano e 15 milhões saíram: quando a empresa troca de plano, o paciente vai junto. Nos hospitais da Anahp, quase 15% do que foi cobrado voltou glosado, e no fim só 2% se justificou. O dinheiro levou mais de 79 dias pra entrar.\n\nÉ dado de hospital, mas a lógica chega no consultório. Cada convênio tem um valor, um prazo e uma glosa. Convênio não se corta, se restringe: horário limitado pro que paga pior, recurso de glosa com dono e prazo, e uma linha por convênio pra saber quanto cada um paga pela tua hora.\n\nFontes: ANS, dados de agosto de 2026, via Estadão Conteúdo (O Liberal, 06/10/2026); Balanço Observatório Anahp, 7ª edição (setembro de 2025).\n\nSalva e manda pra quem fatura convênio na tua clínica.\n\n#gestaodeclinicas #planosdesaude #convenios",
+      "midias": [
+        "midia/2027-03-10_od132/01.jpg",
+        "midia/2027-03-10_od132/02.jpg",
+        "midia/2027-03-10_od132/03.jpg",
+        "midia/2027-03-10_od132/04.jpg",
+        "midia/2027-03-10_od132/05.jpg",
+        "midia/2027-03-10_od132/06.jpg",
+        "midia/2027-03-10_od132/07.jpg",
+        "midia/2027-03-10_od132/08.jpg"
+      ],
+      "origem": "2027-03-10_od132",
+      "fixo": true
+    },
+    {
+      "id": "OD133",
+      "titulo": "Os Doutores · Vanessa senta com o Gabriel: a reunião de sócios e quem fala com a recepção",
+      "quando": "2027-03-11T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Vanessa sentou comigo com medo de uma coisa só: brigar com os sócios, amigos de vinte anos. Eu disse que ninguém ia brigar. A gente ia marcar uma reunião.\n\nSe ver todo dia no corredor não é decidir junto. A Reunião de Direção tem hora fixa na segunda, pauta escrita até sexta, um sócio dono de cada área e uma página com as decisões no mesmo dia. A recepção passou a receber pedido de uma pessoa só. E o assunto mais difícil, o pró-labore igual com agenda diferente, entrou na pauta com número na mesa.\n\nSociedade quebra pela conversa que ninguém marca.\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #sociedade #cardiologia",
+      "midias": [
+        "midia/2027-03-11_od133/01.jpg",
+        "midia/2027-03-11_od133/02.jpg",
+        "midia/2027-03-11_od133/03.jpg",
+        "midia/2027-03-11_od133/04.jpg",
+        "midia/2027-03-11_od133/05.jpg",
+        "midia/2027-03-11_od133/06.jpg",
+        "midia/2027-03-11_od133/07.jpg"
+      ],
+      "origem": "2027-03-11_od133",
+      "fixo": true
+    },
+    {
+      "id": "OD134",
+      "titulo": "Os Doutores · Dani: o fim de semana da clínica do Dr. Otávio, contado por ela",
+      "quando": "2027-03-12T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Hoje quem conta é a Dani, recepcionista do Dr. Otávio há quatro anos. Antes, toda segunda ela descobria o que o doutor tinha respondido e prometido no fim de semana, da cama.\n\nAgora, das 8h às 19h, quem responde é ela, com roteiro e autonomia pra marcar avaliação. Fora disso, a IAra responde em minutos, organiza os pedidos e deixa a segunda pronta. Urgência segue o protocolo da clínica, sem orientação médica. A Dani deixou de ser quem descobre o problema e virou quem resolve.\n\nComenta EXAME que a gente faz o exame do WhatsApp da tua clínica.\n\nGabriel Campaner é sócio da IAra Labs.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #odontologia #atendimento",
+      "midias": [
+        "midia/2027-03-12_od134/01.jpg",
+        "midia/2027-03-12_od134/02.jpg",
+        "midia/2027-03-12_od134/03.jpg",
+        "midia/2027-03-12_od134/04.jpg",
+        "midia/2027-03-12_od134/05.jpg",
+        "midia/2027-03-12_od134/06.jpg",
+        "midia/2027-03-12_od134/07.jpg"
+      ],
+      "origem": "2027-03-12_od134",
+      "fixo": true
+    },
+    {
+      "id": "OD135",
+      "titulo": "Os Doutores · Renata: 100 dias de pauta às 7h30",
+      "quando": "2027-03-13T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em novembro, a Dra. Renata sentou comigo e disse que consultoria não funciona. Eu concordei e propus outra coisa: a pauta às 7h30 e a cobrança às 18h, todo dia.\n\nFaz mais de cem dias. A folha vai pro contador, os orçamentos ficam na recepção com roteiro e o fechamento de sexta leva 15 minutos. Ainda atrasa, tá? A primeira consulta da segunda continua escorregando, e a sócia continua sem decidir. Mas o domingo à noite deixou de ser notebook e culpa.\n\nEm abril vem o teste mais difícil: uma semana inteira sem a minha pauta.\n\nComenta 7 se a tua semana também começa atrasada na segunda.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #ginecologia #produtividade",
+      "midias": [
+        "midia/2027-03-13_od135/01.jpg",
+        "midia/2027-03-13_od135/02.jpg",
+        "midia/2027-03-13_od135/03.jpg",
+        "midia/2027-03-13_od135/04.jpg",
+        "midia/2027-03-13_od135/05.jpg",
+        "midia/2027-03-13_od135/06.jpg",
+        "midia/2027-03-13_od135/07.jpg"
+      ],
+      "origem": "2027-03-13_od135",
+      "fixo": true
+    },
+    {
+      "id": "OD136",
+      "titulo": "Os Doutores · Comparação: o dono que faz tudo e o dono que treina",
+      "quando": "2027-03-14T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Mesma clínica, mesmo mês. O dono que faz tudo responde, marca, cobra e confere sozinho, e às 23h ainda tá no WhatsApp. O dono que treina escreve uma vez como faz, entrega e confere na sexta.\n\nQuem faz tudo vira o gargalo da própria clínica. Quem treina gasta uma hora na segunda e ganha a semana. Começa por uma tarefa que você repete toda semana.\n\nSalva pra fazer amanhã.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #delegar",
+      "midias": [
+        "midia/2027-03-14_od136/01.jpg",
+        "midia/2027-03-14_od136/02.jpg",
+        "midia/2027-03-14_od136/03.jpg"
+      ],
+      "origem": "2027-03-14_od136",
+      "fixo": true
+    },
+    {
+      "id": "OD137",
+      "titulo": "Os Doutores · Dia do Consumidor: você acordou hoje com uma avaliação de uma estrela",
+      "quando": "2027-03-15T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Dia do Consumidor, 7h10, e chega uma avaliação de uma estrela: o paciente esperou 50 minutos e ninguém avisou do atraso. A primeira vontade é responder com três parágrafos se defendendo.\n\nAvaliação ruim quase nunca é sobre a consulta. É sobre o que aconteceu antes e depois dela. Responde agradecendo, sem dado do paciente, diz o que muda a partir de hoje e muda de verdade na recepção. A resposta pública mostra cuidado pros próximos que vão ler.\n\nComenta NIVEL que eu te mando o teste do nível da clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #experienciadopaciente #atendimento",
+      "midias": [
+        "midia/2027-03-15_od137/01.jpg",
+        "midia/2027-03-15_od137/02.jpg",
+        "midia/2027-03-15_od137/03.jpg",
+        "midia/2027-03-15_od137/04.jpg",
+        "midia/2027-03-15_od137/05.jpg",
+        "midia/2027-03-15_od137/06.jpg",
+        "midia/2027-03-15_od137/07.jpg"
+      ],
+      "origem": "2027-03-15_od137",
+      "fixo": true
+    },
+    {
+      "id": "OD138",
+      "titulo": "Os Doutores · Fernando: a segunda recepcionista tem 21 anos",
+      "quando": "2027-03-16T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Fernando trocou cinco vezes de recepcionista em um ano e jurava que ninguém queria trabalhar. Agora ele contratou a segunda, de 21 anos, no primeiro emprego com carteira.\n\nNa entrevista, a Yasmin perguntou o que era esperado dela e onde podia estar em um ano. O Fernando de antes ia achar atrevimento. O de agora tinha as respostas escritas: o cargo, o roteiro, as conversas de 30, 60 e 90 dias e um degrau de comercial júnior em 12 meses. Quem treina a nova é a Priscila, a que fez 90 dias em fevereiro.\n\nA geração nova quer trabalhar, sim. Só não quer ficar adivinhando.\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #recrutamento",
+      "midias": [
+        "midia/2027-03-16_od138/01.jpg",
+        "midia/2027-03-16_od138/02.jpg",
+        "midia/2027-03-16_od138/03.jpg",
+        "midia/2027-03-16_od138/04.jpg",
+        "midia/2027-03-16_od138/05.jpg",
+        "midia/2027-03-16_od138/06.jpg",
+        "midia/2027-03-16_od138/07.jpg"
+      ],
+      "origem": "2027-03-16_od138",
+      "fixo": true
     }
   ],
   "liberados": [
@@ -4460,7 +4611,8 @@
     "OD43",
     "OD81",
     "OD93",
-    "OD112"
+    "OD112",
+    "OD134"
   ],
   "palavras_ativas": [
     "COBRAR",
