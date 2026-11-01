@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 01/11/2026, 09:09:03. 187 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 01/11/2026, 12:00:41. 194 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -850,6 +850,40 @@ Gerada em 01/11/2026, 09:09:03. 187 posts agendados, 3 pendentes. Stories com en
 ## terça, 16/03
 
 - **12h30 · OD138 · Os Doutores · Fernando: a segunda recepcionista tem 21 anos** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 17/03
+
+- **12h30 · OD139 · Os Doutores · Sérgio senta com o Gabriel: quanto cada convênio paga pela hora dele** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 18/03
+
+- **12h30 · OD140 · Os Doutores · Lúcia: a régua de retorno saiu da mão dela** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 19/03
+
+- **12h30 · OD141 · Os Doutores · Notícia: o que a geração Z quer de um emprego** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 20/03
+
+- **12h30 · OD142 · Os Doutores · Ricardo: a avaliação de uma estrela que ele respondeu com calma** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 21/03
+
+- **06h00 · OD143 · Os Doutores · Frase: a equipe faz o que você confere** (imagem)
+
+## segunda, 22/03
+
+- **12h30 · OD144 · Os Doutores · Lívia: a técnica que sabe tudo, 60 dias depois** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 23/03
+
+- **12h30 · OD145 · Os Doutores · Você acordou hoje com a recepcionista pedindo demissão por mensagem** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

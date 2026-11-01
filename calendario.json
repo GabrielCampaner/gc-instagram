@@ -4587,6 +4587,155 @@
       ],
       "origem": "2027-03-16_od138",
       "fixo": true
+    },
+    {
+      "id": "OD139",
+      "titulo": "Os Doutores · Sérgio senta com o Gabriel: quanto cada convênio paga pela hora dele",
+      "quando": "2027-03-17T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Sérgio sabia de cabeça quanto cada convênio paga por consulta. O que ninguém tinha feito era a conta da hora: a consulta vezes quantas cabem na hora, menos a glosa. Quando a gente fez, o convênio que ocupava as cinco manhãs pagava menos do que custava abrir a porta naquela hora.\n\nSair de tudo de uma vez foi o que quebrou o colega dele. Convênio não se corta, se restringe. O convênio que paga pior vira duas manhãs, uma tarde vira turno particular com consulta mais longa e a glosa ganha recurso com dono e prazo.\n\nOs números do post são de exemplo, tá? A conta da tua hora é tua.\n\nComenta HORA que eu te mando a calculadora da hora clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #convenios #ortopedia",
+      "midias": [
+        "midia/2027-03-17_od139/01.jpg",
+        "midia/2027-03-17_od139/02.jpg",
+        "midia/2027-03-17_od139/03.jpg",
+        "midia/2027-03-17_od139/04.jpg",
+        "midia/2027-03-17_od139/05.jpg",
+        "midia/2027-03-17_od139/06.jpg",
+        "midia/2027-03-17_od139/07.jpg"
+      ],
+      "origem": "2027-03-17_od139",
+      "fixo": true
+    },
+    {
+      "id": "OD140",
+      "titulo": "Os Doutores · Lúcia: a régua de retorno saiu da mão dela",
+      "quando": "2027-03-18T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Em dezembro, a Dra. Lúcia saiu daqui com três mensagens prontas pra quem pediu orçamento e sumiu: tirar dúvida no dia seguinte, perguntar o que pesa no terceiro dia e a última, com respeito, no sétimo. Só que quem mandava era ela, quando dava.\n\nEm fevereiro, a régua saiu da mão dela e foi pra Bruna, da recepção, com as mensagens escritas e uma planilha de uma aba. A Bruna manda no dia certo e a Dra. Lúcia confere na sexta. E ela descobriu que lembrar não era pressionar. Era cuidado com quem pediu.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #fisioterapia #pilates",
+      "midias": [
+        "midia/2027-03-18_od140/01.jpg",
+        "midia/2027-03-18_od140/02.jpg",
+        "midia/2027-03-18_od140/03.jpg",
+        "midia/2027-03-18_od140/04.jpg",
+        "midia/2027-03-18_od140/05.jpg",
+        "midia/2027-03-18_od140/06.jpg",
+        "midia/2027-03-18_od140/07.jpg"
+      ],
+      "origem": "2027-03-18_od140",
+      "fixo": true
+    },
+    {
+      "id": "OD141",
+      "titulo": "Os Doutores · Notícia: o que a geração Z quer de um emprego",
+      "quando": "2027-03-19T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "\"Jovem não para em emprego.\" Os números concordam: segundo o Ministério do Trabalho, 38,2% dos jovens de 18 a 24 anos saem antes de completar um ano, e entre 25 e 29 anos é um em cada quatro. O motivo é que muda a conversa: parte deles sai quando sente que ninguém aposta neles nem valoriza o trabalho.\n\nNo Brasil, a geração Z põe flexibilidade de horário, crescimento e salário adequado entre as prioridades. Na clínica, isso vira três perguntas na entrevista: o que é esperado, quem vai ensinar e onde dá pra estar em um ano. Quem tem as respostas escritas antes de contratar para de dizer que ninguém quer trabalhar.\n\nFontes: Diagnóstico da Juventude Brasileira, Ministério do Trabalho e Emprego (25/06/2026), via Folhapress no Diário do Comércio; Randstad, \"O plano da Geração Z para o mundo do trabalho\", via ISTOÉ Dinheiro (10/10/2025).\n\nSalva e manda pra quem contrata na tua clínica.\n\n#gestaodeclinicas #gestaodepessoas #geracaoz",
+      "midias": [
+        "midia/2027-03-19_od141/01.jpg",
+        "midia/2027-03-19_od141/02.jpg",
+        "midia/2027-03-19_od141/03.jpg",
+        "midia/2027-03-19_od141/04.jpg",
+        "midia/2027-03-19_od141/05.jpg",
+        "midia/2027-03-19_od141/06.jpg",
+        "midia/2027-03-19_od141/07.jpg"
+      ],
+      "origem": "2027-03-19_od141",
+      "fixo": true
+    },
+    {
+      "id": "OD142",
+      "titulo": "Os Doutores · Ricardo: a avaliação de uma estrela que ele respondeu com calma",
+      "quando": "2027-03-20T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Ricardo recebeu a primeira avaliação de uma estrela da vida dele: um paciente ligou quatro vezes no telefone fixo, em dezembro, e ninguém atendeu. A primeira resposta que ele escreveu começava com \"atendo há 25 anos\" e tinha mais dois parágrafos.\n\nAntes de publicar, ele mostrou pra recepcionista, e ela pediu pra sugerir uma coisa. A resposta publicada reconheceu o problema, contou que hoje a clínica também responde pelo WhatsApp e ofereceu um encaixe na semana, sem nenhum dado do paciente.\n\nTeimoso também aprende. Só precisa de alguém da equipe com espaço pra sugerir.\n\nComenta 12 se na tua clínica a equipe já sabe a resposta antes de você.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #ortopedia #experienciadopaciente",
+      "midias": [
+        "midia/2027-03-20_od142/01.jpg",
+        "midia/2027-03-20_od142/02.jpg",
+        "midia/2027-03-20_od142/03.jpg",
+        "midia/2027-03-20_od142/04.jpg",
+        "midia/2027-03-20_od142/05.jpg",
+        "midia/2027-03-20_od142/06.jpg",
+        "midia/2027-03-20_od142/07.jpg"
+      ],
+      "origem": "2027-03-20_od142",
+      "fixo": true
+    },
+    {
+      "id": "OD143",
+      "titulo": "Os Doutores · Frase: a equipe faz o que você confere",
+      "quando": "2027-03-21T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você pediu pra confirmar a agenda até as 16h. Pediu pra ligar pra quem faltou. Pediu de novo na semana seguinte. E reclamou que ninguém faz.\n\nA equipe aprende rápido o que importa pra você: é o que você confere. Pedido sem dia de conferir vira sugestão. Escolhe uma coisa só, marca cinco minutos na sexta e pergunta se foi feita.\n\nSalva pra reunião de segunda.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2027-03-21_od143/01.jpg"
+      ],
+      "origem": "2027-03-21_od143",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD144",
+      "titulo": "Os Doutores · Lívia: a técnica que sabe tudo, 60 dias depois",
+      "quando": "2027-03-22T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A técnica que sabia tudo e fazia as novatas chorarem no banheiro ganhou 30 dias em janeiro e mais 30 em fevereiro, com a Sílvia, a gerente, acompanhando. Com os pacientes ela melhorou. Com as novatas, voltou ao de sempre na terceira semana.\n\nSó que nesses 60 dias aconteceu uma coisa que a clínica não fazia havia seis anos: tudo que ela sabia foi pro papel, doze procedimentos com checklist. Ela saiu em março, com conversa franca, tudo pago certinho e um elogio sincero pelo que sabia. Quem assumiu foi a novata que queria aprender, com o manual na mão.\n\nAntes de decidir sobre a pessoa, tira o conhecimento da cabeça dela. Aí a decisão para de ser medo e vira escolha.\n\nComenta 21 se na tua clínica tem alguém que ninguém pode perder, porque só ela sabe.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #otorrino",
+      "midias": [
+        "midia/2027-03-22_od144/01.jpg",
+        "midia/2027-03-22_od144/02.jpg",
+        "midia/2027-03-22_od144/03.jpg",
+        "midia/2027-03-22_od144/04.jpg",
+        "midia/2027-03-22_od144/05.jpg",
+        "midia/2027-03-22_od144/06.jpg",
+        "midia/2027-03-22_od144/07.jpg"
+      ],
+      "origem": "2027-03-22_od144",
+      "fixo": true
+    },
+    {
+      "id": "OD145",
+      "titulo": "Os Doutores · Você acordou hoje com a recepcionista pedindo demissão por mensagem",
+      "quando": "2027-03-23T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "6h40, uma mensagem: \"doutor, hoje eu não vou mais\". Caixa postal. Às 7h50, 22 pacientes na agenda e ninguém na recepção. Você atende, confirma, cobra e atrasa a primeira consulta.\n\nRecepcionista que sai por mensagem quase sempre avisou antes, do jeito dela: atraso, atestado, silêncio na reunião. E cada troca custa caro, em anúncio, entrevista, treinamento e paciente que se perde no caminho. Na conta de exemplo, passa de R$ 7 mil.\n\nHoje, chama quem pode cobrir a semana. E escreve o roteiro da recepção antes da próxima chegar.\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #recepcao",
+      "midias": [
+        "midia/2027-03-23_od145/01.jpg",
+        "midia/2027-03-23_od145/02.jpg",
+        "midia/2027-03-23_od145/03.jpg",
+        "midia/2027-03-23_od145/04.jpg",
+        "midia/2027-03-23_od145/05.jpg",
+        "midia/2027-03-23_od145/06.jpg",
+        "midia/2027-03-23_od145/07.jpg"
+      ],
+      "origem": "2027-03-23_od145",
+      "fixo": true
     }
   ],
   "liberados": [
