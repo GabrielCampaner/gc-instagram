@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 31/10/2026, 19:01:27. 174 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 01/11/2026, 00:17:42. 181 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -781,6 +781,40 @@ Gerada em 31/10/2026, 19:01:27. 174 posts agendados, 3 pendentes. Stories com en
 ## terça, 02/03
 
 - **12h30 · OD124 · Os Doutores · Final da temporada 2: o que os doutores aprenderam em 60 dias** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 03/03
+
+- **12h30 · OD125 · Os Doutores · Estreia da temporada 3: a equipe entra em cena** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 04/03
+
+- **12h30 · OD126 · Os Doutores · Você acordou hoje com nove perguntas da recepção antes das 8h** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 05/03
+
+- **12h30 · OD127 · Os Doutores · Vanessa (estreia): três sócios, três pedidos pra recepção antes das 9h** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 06/03
+
+- **12h30 · OD128 · Os Doutores · Bia: três dias de imersão e a regra dos três meses** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 07/03
+
+- **06h00 · OD129 · Os Doutores · Frase: clínica que só anda com você dentro é um emprego** (imagem)
+
+## segunda, 08/03
+
+- **12h30 · OD130 · Os Doutores · Dia da Mulher: Joana e as três coisas que ela parou de carregar** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 09/03
+
+- **12h30 · OD131 · Os Doutores · Sérgio (estreia): 38 pacientes por dia e o mês que fechou no zero** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

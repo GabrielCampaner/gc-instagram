@@ -4287,6 +4287,155 @@
       ],
       "origem": "2027-03-02_od124",
       "fixo": true
+    },
+    {
+      "id": "OD125",
+      "titulo": "Os Doutores · Estreia da temporada 3: a equipe entra em cena",
+      "quando": "2027-03-03T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A temporada 3 de Os Doutores começa hoje, e ela é sobre a parte que quase ninguém mostra.\n\nMudar uma coisa na clínica já é difícil. Fazer essa coisa continuar quando o doutor tá cansado, de férias ou num mês corrido é mais difícil ainda. Isso só acontece quando a mudança sai da mão do dono e vai pra mão da equipe. Por isso, nesta temporada, a equipe fala.\n\nE chegam dois: a Dra. Vanessa, que divide a clínica com dois sócios e uma recepcionista só, e o Dr. Sérgio, com 38 pacientes por dia e o mês fechando no zero.\n\nComenta o cargo de quem segura a tua clínica quando você sai.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #osdoutores #gestaodepessoas",
+      "midias": [
+        "midia/2027-03-03_od125/01.jpg",
+        "midia/2027-03-03_od125/02.jpg",
+        "midia/2027-03-03_od125/03.jpg",
+        "midia/2027-03-03_od125/04.jpg",
+        "midia/2027-03-03_od125/05.jpg",
+        "midia/2027-03-03_od125/06.jpg",
+        "midia/2027-03-03_od125/07.jpg"
+      ],
+      "origem": "2027-03-03_od125",
+      "fixo": true
+    },
+    {
+      "id": "OD126",
+      "titulo": "Os Doutores · Você acordou hoje com nove perguntas da recepção antes das 8h",
+      "quando": "2027-03-04T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem dia que o consultório começa às 8h, mas o trabalho começou às 6h50, na cozinha, respondendo a recepção. Pode remarcar? Quanto é o retorno? Pode dar desconto no pacote?\n\nNenhuma pergunta difícil. Todas com a mesma resposta da semana passada. Pergunta que se repete é regra que ninguém escreveu, e enquanto ela não estiver escrita, quem responde é você, de graça, antes do primeiro paciente.\n\nAnota as perguntas desta semana. Escreve a resposta uma vez. Deixa do lado do telefone da recepção.\n\nComenta HORA que eu te mando a calculadora da hora clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #produtividade",
+      "midias": [
+        "midia/2027-03-04_od126/01.jpg",
+        "midia/2027-03-04_od126/02.jpg",
+        "midia/2027-03-04_od126/03.jpg",
+        "midia/2027-03-04_od126/04.jpg",
+        "midia/2027-03-04_od126/05.jpg",
+        "midia/2027-03-04_od126/06.jpg",
+        "midia/2027-03-04_od126/07.jpg"
+      ],
+      "origem": "2027-03-04_od126",
+      "fixo": true
+    },
+    {
+      "id": "OD127",
+      "titulo": "Os Doutores · Vanessa (estreia): três sócios, três pedidos pra recepção antes das 9h",
+      "quando": "2027-03-05T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Vanessa divide a clínica com dois amigos da residência. Três cardiologistas, uma recepcionista e um grupo de WhatsApp onde as decisões acontecem às 23h, por áudio.\n\nNa manhã seguinte, cada sócio pede uma coisa diferente pra recepção, e a recepcionista vira juíza de uma briga que ninguém teve coragem de ter. O pró-labore é igual, a agenda não é, e ninguém fala disso pra não estragar uma amizade de vinte anos.\n\nSociedade sem reunião vira três clínicas no mesmo endereço. Quinta que vem ela senta comigo.\n\nComenta 27 se a tua recepção tem mais de um chefe.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #cardiologia #sociedade",
+      "midias": [
+        "midia/2027-03-05_od127/01.jpg",
+        "midia/2027-03-05_od127/02.jpg",
+        "midia/2027-03-05_od127/03.jpg",
+        "midia/2027-03-05_od127/04.jpg",
+        "midia/2027-03-05_od127/05.jpg",
+        "midia/2027-03-05_od127/06.jpg",
+        "midia/2027-03-05_od127/07.jpg"
+      ],
+      "origem": "2027-03-05_od127",
+      "fixo": true
+    },
+    {
+      "id": "OD128",
+      "titulo": "Os Doutores · Bia: três dias de imersão e a regra dos três meses",
+      "quando": "2027-03-06T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Bia foi à imersão de março, aquela que ela comprou em janeiro. Voltou com 37 ideias e a vontade de começar todas na segunda.\n\nSó que a primeira página do caderno ainda tinha a regra que ela escreveu antes de comprar o ingresso: nada novo começa até a terça fazer três meses. A terça são 30 minutos ligando pra quem fez avaliação e sumiu, toda semana, desde dezembro.\n\nDia 16 a terça faz três meses. Até lá, as 37 ideias ficam numa lista, e ela vai escolher uma.\n\nComenta 4 se você também já voltou de um curso querendo mudar tudo na segunda.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dermatologia #produtividade",
+      "midias": [
+        "midia/2027-03-06_od128/01.jpg",
+        "midia/2027-03-06_od128/02.jpg",
+        "midia/2027-03-06_od128/03.jpg",
+        "midia/2027-03-06_od128/04.jpg",
+        "midia/2027-03-06_od128/05.jpg",
+        "midia/2027-03-06_od128/06.jpg",
+        "midia/2027-03-06_od128/07.jpg"
+      ],
+      "origem": "2027-03-06_od128",
+      "fixo": true
+    },
+    {
+      "id": "OD129",
+      "titulo": "Os Doutores · Frase: clínica que só anda com você dentro é um emprego",
+      "quando": "2027-03-07T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem dono de clínica que trabalha mais do que qualquer funcionário dele, decide até a cor do copo descartável e não consegue tirar uma semana. A clínica é dele, mas quem não pode faltar é ele.\n\nNão precisa mudar tudo. Começa por uma lista: o que travaria se você faltasse amanhã? Cada item dessa lista é uma coisa pra escrever e entregar, uma por vez.\n\nSalva pra fazer a lista na segunda.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2027-03-07_od129/01.jpg"
+      ],
+      "origem": "2027-03-07_od129",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "OD130",
+      "titulo": "Os Doutores · Dia da Mulher: Joana e as três coisas que ela parou de carregar",
+      "quando": "2027-03-08T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Pela primeira vez, as mulheres são maioria entre os médicos do Brasil. E muita médica dona de clínica carrega o consultório, a casa e um monte de coisa que ninguém vê.\n\nA Dra. Joana carregava. Este ano ela largou três: o \"só mais esse encaixe\", que virou regra escrita e decisão da recepção; o WhatsApp depois das 19h, com mensagem de ausência e o que é urgência combinado; e o caixa de toda noite, que agora a funcionária fecha e ela confere na sexta.\n\nNinguém tirou nada das costas dela. Ela escreveu o combinado e entregou.\n\nComenta 11 e me conta qual é a coisa que só você faz e não precisava ser você.\n\nFonte: Demografia Médica 2025 (Ministério da Saúde, FMUSP e AMB), via Medicina S/A, 02/05/2025.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #diadamulher #medicas",
+      "midias": [
+        "midia/2027-03-08_od130/01.jpg",
+        "midia/2027-03-08_od130/02.jpg",
+        "midia/2027-03-08_od130/03.jpg",
+        "midia/2027-03-08_od130/04.jpg",
+        "midia/2027-03-08_od130/05.jpg",
+        "midia/2027-03-08_od130/06.jpg",
+        "midia/2027-03-08_od130/07.jpg"
+      ],
+      "origem": "2027-03-08_od130",
+      "fixo": true
+    },
+    {
+      "id": "OD131",
+      "titulo": "Os Doutores · Sérgio (estreia): 38 pacientes por dia e o mês que fechou no zero",
+      "quando": "2027-03-09T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O Dr. Sérgio é ortopedista há vinte e poucos anos. Atende 38 pacientes por dia, a recepção vive cheia, e o mês passado fechou no zero.\n\nOito em cada dez pacientes dele são de convênio, e cada convênio tem um valor, um prazo e uma glosa. Quando aparece um novo, ele aceita, porque na agenda sempre cabe mais um. Na conta, ninguém olhou. Ele pensa em atender particular, mas lembra do colega que saiu de todos os convênios de uma vez e fechou a clínica.\n\nConvênio não é vilão, tá? O problema é não saber quanto cada um paga pela tua hora. Quarta que vem ele senta comigo.\n\nComenta 28 se a tua agenda tá cheia e a conta não fecha.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #ortopedia #convenios",
+      "midias": [
+        "midia/2027-03-09_od131/01.jpg",
+        "midia/2027-03-09_od131/02.jpg",
+        "midia/2027-03-09_od131/03.jpg",
+        "midia/2027-03-09_od131/04.jpg",
+        "midia/2027-03-09_od131/05.jpg",
+        "midia/2027-03-09_od131/06.jpg",
+        "midia/2027-03-09_od131/07.jpg"
+      ],
+      "origem": "2027-03-09_od131",
+      "fixo": true
     }
   ],
   "liberados": [
