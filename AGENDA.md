@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 01/11/2026, 12:00:41. 194 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 01/11/2026, 12:58:27. 200 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -88,7 +88,7 @@ Gerada em 01/11/2026, 12:00:41. 194 posts agendados, 3 pendentes. Stories com en
 
 - **08h30 · L3-31 · 3 em cada 4 sem plano** (imagem) · publicado: https://www.instagram.com/p/DfMoMvTEUKV/
   - Stories: Enquete: "Quanto da sua agenda é particular?" (controle deslizante).
-- **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel)
+- **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel) · publicado: https://www.instagram.com/p/DfNDutckZ79/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · como-atender-cada-um · Você não receita a mesma dose para todo paciente. Por que a ** (carrossel)
 
@@ -884,6 +884,41 @@ Gerada em 01/11/2026, 12:00:41. 194 posts agendados, 3 pendentes. Stories com en
 ## terça, 23/03
 
 - **12h30 · OD145 · Os Doutores · Você acordou hoje com a recepcionista pedindo demissão por mensagem** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quarta, 24/03
+
+- **12h30 · OD146 · Os Doutores · Marcelo: o "vou pensar" agora tem data marcada** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## quinta, 25/03
+
+- **12h30 · OD147 · Os Doutores · Rafael: a escala da Semana Santa saiu com 30 dias** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sexta, 26/03
+
+- **12h30 · OD148 · Os Doutores · Cecília: o feriado decidido em dez minutos** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## sábado, 27/03
+
+- **12h30 · OD149 · Os Doutores · Mauro: a quarta das 13h que ninguém precisou lembrar** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## domingo, 28/03
+
+- **12h30 · OD150 · Os Doutores · Páscoa: Jorge e o bombom do dia seguinte** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## segunda, 29/03
+
+- **12h30 · OD151 · Os Doutores · Vanessa: a primeira reunião de sócios que terminou no horário** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+
+## terça, 30/03
+
+- **12h30 · OD152 · Os Doutores · Comparação: convênio e particular, a mesma hora, duas contas** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## Pendentes (não saem até serem liberados)

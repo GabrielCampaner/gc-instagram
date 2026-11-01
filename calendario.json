@@ -4736,6 +4736,158 @@
       ],
       "origem": "2027-03-23_od145",
       "fixo": true
+    },
+    {
+      "id": "OD146",
+      "titulo": "Os Doutores · Marcelo: o \"vou pensar\" agora tem data marcada",
+      "quando": "2027-03-24T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O paciente do Dr. Marcelo ainda diz \"vou pensar\". A diferença é o que acontece depois. Em dezembro, eram nove por semana, todos saindo com um \"pensa com calma e me procura\". Nenhum voltou.\n\nHoje, quando o paciente ainda precisa pensar, o Dr. Marcelo combina a data ali mesmo e leva até a Jéssica, que anota na agenda na frente dele: quinta, 10h. Na quinta, ela liga perguntando se ficou alguma dúvida, sem cobrar decisão. Na semana passada, foram seis \"vou pensar\", seis com data e quatro já começaram.\n\n\"Vou pensar\" sem data é despedida educada. Com data, é conversa que continua.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #vendasnaclinica #cirurgiavascular",
+      "midias": [
+        "midia/2027-03-24_od146/01.jpg",
+        "midia/2027-03-24_od146/02.jpg",
+        "midia/2027-03-24_od146/03.jpg",
+        "midia/2027-03-24_od146/04.jpg",
+        "midia/2027-03-24_od146/05.jpg",
+        "midia/2027-03-24_od146/06.jpg",
+        "midia/2027-03-24_od146/07.jpg",
+        "midia/2027-03-24_od146/08.jpg"
+      ],
+      "origem": "2027-03-24_od146",
+      "fixo": true
+    },
+    {
+      "id": "OD147",
+      "titulo": "Os Doutores · Rafael: a escala da Semana Santa saiu com 30 dias",
+      "quando": "2027-03-25T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Amanhã é Sexta-feira Santa, e a escala do feriado da clínica do Dr. Rafael tá na parede desde 22 de fevereiro. No Carnaval, ela saiu na sexta, às 18h40, junto com a tabela e o post, e a recepcionista perdeu o ônibus.\n\nDessa vez, quem montou foi a equipe. A Thaís, a mesma do ônibus, levou a escala pronta pra reunião de segunda: quem trabalha na quinta, quem cobre o sábado, quem folga. Ele leu, mudou uma coisa e aprovou em cinco minutos. Na segunda passada, ainda lembrou de um \"urgente\" pra mexer na escala. A Thaís mostrou a data da aprovação, ele riu e ficou como tava.\n\nQuem sabe antes, planeja. Quem sabe na véspera, só obedece.\n\nComenta 25 se a escala do feriado de amanhã saiu ontem.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodepessoas #oftalmologia",
+      "midias": [
+        "midia/2027-03-25_od147/01.jpg",
+        "midia/2027-03-25_od147/02.jpg",
+        "midia/2027-03-25_od147/03.jpg",
+        "midia/2027-03-25_od147/04.jpg",
+        "midia/2027-03-25_od147/05.jpg",
+        "midia/2027-03-25_od147/06.jpg",
+        "midia/2027-03-25_od147/07.jpg"
+      ],
+      "origem": "2027-03-25_od147",
+      "fixo": true
+    },
+    {
+      "id": "OD148",
+      "titulo": "Os Doutores · Cecília: o feriado decidido em dez minutos",
+      "quando": "2027-03-26T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Hoje é Sexta-feira Santa e a clínica da Dra. Cecília tá fechada. A decisão levou dez minutos, no dia 1º de março. No Carnaval, a decisão de abrir ou não na quarta ficou pra terça, às 23h, e a recepção avisou os pacientes às 7h da quarta.\n\nDessa vez, a pergunta veio da recepcionista nova, na segunda semana dela. A Dra. Cecília pediu dois números do ano passado: quantos pacientes vieram na quinta à tarde (três) e quantos pediram o sábado (nenhum). Dez minutos depois: quinta até as 13h, sexta e sábado fechado. A mensagem pros pacientes saiu no mesmo dia.\n\nDecisão de clínica não é cirurgia. Errar pequeno custa pouco. Adiar custa a semana de quem espera a resposta.\n\nBom feriado.\n\nComenta 26 se tem decisão pequena parada aí há mais de uma semana.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #geriatria #tomadadedecisao",
+      "midias": [
+        "midia/2027-03-26_od148/01.jpg",
+        "midia/2027-03-26_od148/02.jpg",
+        "midia/2027-03-26_od148/03.jpg",
+        "midia/2027-03-26_od148/04.jpg",
+        "midia/2027-03-26_od148/05.jpg",
+        "midia/2027-03-26_od148/06.jpg",
+        "midia/2027-03-26_od148/07.jpg"
+      ],
+      "origem": "2027-03-26_od148",
+      "fixo": true
+    },
+    {
+      "id": "OD149",
+      "titulo": "Os Doutores · Mauro: a quarta das 13h que ninguém precisou lembrar",
+      "quando": "2027-03-27T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quarta, 13h20, o Dr. Mauro levantou da mesa com um susto: ninguém tinha lembrado a recepção de ligar pros orçamentos. Chegou no balcão e a recepcionista tava no telefone, com a lista presa num clipe. Fez sinal com a mão: já tava na metade.\n\nDesde o Carnaval é assim. Toda quarta, às 13h, sete quartas seguidas, nenhuma com lembrete. No começo ele perguntava toda semana. Depois parou de perguntar. Nessa, esqueceu, e não fez falta.\n\nRegra que depende do dono lembrar morre no primeiro mês corrido. Regra com dia, hora e dono vira costume. E o café continua lá: quem liga os orçamentos toma o primeiro.\n\nComenta 3 se na tua clínica alguma coisa já anda sem você lembrar.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #orcamento #rotina",
+      "midias": [
+        "midia/2027-03-27_od149/01.jpg",
+        "midia/2027-03-27_od149/02.jpg",
+        "midia/2027-03-27_od149/03.jpg",
+        "midia/2027-03-27_od149/04.jpg",
+        "midia/2027-03-27_od149/05.jpg",
+        "midia/2027-03-27_od149/06.jpg",
+        "midia/2027-03-27_od149/07.jpg"
+      ],
+      "origem": "2027-03-27_od149",
+      "fixo": true
+    },
+    {
+      "id": "OD150",
+      "titulo": "Os Doutores · Páscoa: Jorge e o bombom do dia seguinte",
+      "quando": "2027-03-28T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Na Quinta-feira Santa, a Dona Lurdes, de 78 anos, voltou na clínica do Dr. Jorge sem consulta marcada. Tinha consultado na quarta e, na quinta de manhã, recebeu a ligação do dia seguinte: era a Neusa, da recepção, perguntando como ela tinha passado a noite.\n\nA ligação foi criada pelo Dr. Jorge em janeiro e, desde fevereiro, quem liga é a equipe. A Dona Lurdes trouxe uma caixinha de bombom e disse que, em 40 anos de consulta, ninguém nunca tinha ligado no dia seguinte. Em 20 anos de consultório, o Dr. Jorge nunca tinha ganhado bombom de paciente. Quem ganhou foi a Neusa, e ele achou certo.\n\nA técnica é do médico. O vínculo, a equipe constrói, uma ligação de dois minutos de cada vez.\n\nFeliz Páscoa.\n\nComenta 20 se na tua clínica alguém liga no dia seguinte.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #experienciadopaciente #neurologia",
+      "midias": [
+        "midia/2027-03-28_od150/01.jpg",
+        "midia/2027-03-28_od150/02.jpg",
+        "midia/2027-03-28_od150/03.jpg",
+        "midia/2027-03-28_od150/04.jpg",
+        "midia/2027-03-28_od150/05.jpg",
+        "midia/2027-03-28_od150/06.jpg",
+        "midia/2027-03-28_od150/07.jpg"
+      ],
+      "origem": "2027-03-28_od150",
+      "fixo": true
+    },
+    {
+      "id": "OD151",
+      "titulo": "Os Doutores · Vanessa: a primeira reunião de sócios que terminou no horário",
+      "quando": "2027-03-29T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Segunda, 8h10, a reunião de sócios da Dra. Vanessa terminou no horário pela primeira vez. A primeira, no dia 15, foi até 8h50. A segunda, até 8h25. Ninguém sabia ainda o que cabia em 40 minutos.\n\nE hoje tinha o assunto que ninguém tocava havia anos: o pró-labore igual com agenda diferente. Com as horas atendidas de cada um na mesa, eles decidiram o critério: uma parte igual, pela sociedade, e outra pela agenda de cada um, a partir de maio. O grupo dos sócios, que tinha áudio às 23h toda noite, teve três mensagens na semana, todas antes das 21h. E a recepcionista agora sabe de quem é cada pedido.\n\nReunião boa não é a que resolve tudo. É a que termina no horário e marca a próxima.\n\nComenta 27 se a tua sociedade ainda decide no grupo, às 23h.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #sociedade #cardiologia",
+      "midias": [
+        "midia/2027-03-29_od151/01.jpg",
+        "midia/2027-03-29_od151/02.jpg",
+        "midia/2027-03-29_od151/03.jpg",
+        "midia/2027-03-29_od151/04.jpg",
+        "midia/2027-03-29_od151/05.jpg",
+        "midia/2027-03-29_od151/06.jpg",
+        "midia/2027-03-29_od151/07.jpg"
+      ],
+      "origem": "2027-03-29_od151",
+      "fixo": true
+    },
+    {
+      "id": "OD152",
+      "titulo": "Os Doutores · Comparação: convênio e particular, a mesma hora, duas contas",
+      "quando": "2027-03-30T12:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A mesma hora do Dr. Sérgio, em duas contas. No convênio que paga menos, cabem quatro consultas de R$ 65 e a glosa leva um pedaço: a hora fica em R$ 234. No particular, cabem duas consultas de R$ 400, mas só rendem se a agenda encher: com 30% dela cheia, a hora fica em R$ 240. Com 60%, em R$ 480. E a hora clínica dele custa R$ 260.\n\nParticular vazio paga menos que convênio cheio. E convênio cheio pode pagar menos que a porta aberta. Convênio não é vilão, particular não é salvação: os dois são preço, e preço precisa de conta. Por isso ele não saiu de nada. Restringiu o convênio que paga menos que a hora e, na terça que vem, abre a primeira tarde particular.\n\nOs números do post são de exemplo, tá? A conta da tua hora é tua.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #convenios #precificacao",
+      "midias": [
+        "midia/2027-03-30_od152/01.jpg",
+        "midia/2027-03-30_od152/02.jpg",
+        "midia/2027-03-30_od152/03.jpg",
+        "midia/2027-03-30_od152/04.jpg"
+      ],
+      "origem": "2027-03-30_od152",
+      "fixo": true
     }
   ],
   "liberados": [
