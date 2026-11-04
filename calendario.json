@@ -1101,6 +1101,22 @@
       "origem": "2026-11-17_achou-caro"
     },
     {
+      "id": "MD-05",
+      "titulo": "Você cuida do paciente ou só da próxima venda?",
+      "quando": "2026-11-08T20:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Lousa modelada (referência enviada pelo Gabriel em 04/11). Faixa com fonte e logo da GC.",
+      "stories": "Repost da lousa com controle deslizante: \"Em qual passo a sua clínica para?\" e caixinha para as respostas.",
+      "legenda": "Tem clínica que só lembra do paciente quando precisa vender o próximo procedimento.\n\nE ele percebe.\n\nFidelizar não é campanha de fim de ano nem desconto de aniversário. É o que acontece entre a primeira mensagem e a volta dele: resposta rápida, horário oferecido, confirmação, ser chamado pelo nome, retorno marcado antes de sair, a ligação no dia seguinte.\n\nSão 11 passos. Nenhum depende de talento. Todos dependem de processo, e de alguém cobrando o processo.\n\nPaciente bem cuidado volta, indica e defende a sua clínica. Paciente tratado como venda compara preço.\n\nSalva e confere: em qual passo a sua clínica para?\n\n#gestaodeclinicas #donodeclinica #fidelizacao #experienciadopaciente #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-08_cuida-ou-vende/01.jpg"
+      ],
+      "origem": "2026-11-08_cuida-ou-vende",
+      "fixo": true
+    },
+    {
       "id": "L3-37",
       "titulo": "3,1 milhões de procedimentos",
       "quando": "2026-11-09T08:30:00-03:00",
