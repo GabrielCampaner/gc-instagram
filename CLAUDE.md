@@ -10,7 +10,8 @@
   - Som de câmera nas falas: Audio Effects com `cheap_microphone` + `small_room` + distância 0,6 (gratuito).
 - **Adobe (conector "Adobe")**: ferramentas online da Adobe (montar vídeo por linha do tempo, redimensionar, exportar, Photoshop e InDesign online). Não abre o Premiere do computador, não põe legenda nem texto no vídeo e só aceita arquivos do Creative Cloud (recusa links do ElevenLabs).
 - **Gemini/Veo na conta Google**: existe na conta, mas não há conector do Gemini nas sessões do Claude. A rede do ambiente bloqueia `generativelanguage.googleapis.com`.
-- **Rede do ambiente**: `elevenlabsusercontent.com` precisa estar em Allowed domains para o Claude baixar vídeos e áudios do ElevenLabs e montar o Reel aqui (ffmpeg está instalado).
+- **Rede do ambiente**: `elevenlabsusercontent.com` já foi liberado em Allowed domains (04/11/2026): dá para baixar vídeos e áudios do ElevenLabs e montar o Reel aqui com ffmpeg. O envio direto para o Creative Cloud (`at.adobe.com`) continua bloqueado.
+- **Montagem do Reel**: `producao/ci-01/build/montar.py` monta a versão PRONTA (legendas, letreiro REC/CAM/hora, selo SIMULAÇÃO · IA, visual de câmera, cartela) e a LIMPA, mais o `.srt`. Espera os arquivos baixados em `producao/ci-01/media/` (s1–s6.mp4, l1–l7.mp3, n1–n4.mp3, amb, porta, passos, termica, manta) e grava em `producao/ci-01/saida/`. Para outro episódio, copie e troque a linha do tempo (CENAS, FALAS, SONS).
 
 ## Preferências
 
