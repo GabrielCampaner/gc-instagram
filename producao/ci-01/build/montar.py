@@ -144,8 +144,9 @@ def video(pronta):
         ("Atraso não é defeito", 58, "white", 640, FB),
         ("de caráter, tá?", 58, "white", 730, FB),
         ("É agenda sem folga.", 58, "white", 820, FB),
-        ("Comenta 7", 96, "0xFFE14D", 980, FB),
-        ("[aqui entra a tua selfie]", 34, "0x9AA59F", 1140, FR)], pronta))
+        ("Comenta", 70, "white", 960, FB),
+        ("DIAGNÓSTICO", 96, "0xFFE14D", 1050, FB),
+        ("[aqui entra a tua selfie]", 34, "0x9AA59F", 1200, FR)], pronta))
     lista = os.path.join(B, f"lista_{'p' if pronta else 'c'}.txt")
     with open(lista, "w") as fh:
         for sg in segs:
@@ -199,10 +200,15 @@ def legendas():
                 "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, "
                 "Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, "
                 "Alignment, MarginL, MarginR, MarginV, Encoding\n"
-                "Style: Fala,DejaVu Sans,54,&H004DE1FF,&H004DE1FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,2,90,90,520,1\n\n"
+                "Style: Fala,DejaVu Sans,54,&H004DE1FF,&H004DE1FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,2,90,90,520,1\n"
+                "Style: Marca,DejaVu Sans,112,&H00FFFFFF,&H00FFFFFF,&H50000000,&H00000000,-1,0,0,0,100,100,2,0,3,26,0,5,60,60,0,1\n\n"
                 "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
         for _, a, b, quem, texto in FALAS:
             f.write(f"Dialogue: 0,{ts(a, False)},{ts(b, False)},Fala,{quem},0,0,0,,{texto}\n")
+        for i, (_, _, _, dia, (h, m, _)) in enumerate(CENAS):
+            a = starts[i]
+            f.write(f"Dialogue: 1,{ts(a, False)},{ts(a + 1.9, False)},Marca,,0,0,0,,"
+                    f"{{\\fad(120,280)}}DIA {dia}\\N{{\\fs82\\c&H4DE1FF&}}{h}:{m:02d} DA MANHÃ\n")
     return srt, ass
 
 
@@ -225,5 +231,6 @@ if __name__ == "__main__":
     vp = video(True)
     vc = video(False)
     print(final(vp, aud, ass, "CI-01_A-doutora-pontual_PRONTA.mp4"))
-    print(final(vc, aud, None, "CI-01_A-doutora-pontual_LIMPA.mp4"))
+    if not os.path.exists(os.path.join(O, "CI-01_A-doutora-pontual_LIMPA.mp4")):
+        print(final(vc, aud, None, "CI-01_A-doutora-pontual_LIMPA.mp4"))
     print(srt)

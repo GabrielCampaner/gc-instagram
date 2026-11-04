@@ -19,6 +19,8 @@
 - Máximo realismo. Mostrar o custo em créditos antes de gerar.
 - Página do projeto (roteiros, prompts, linha do tempo): https://claude.ai/artifact/Wd9YGWXSBaGoi1s8p8xbZA
 - Reel final em `midia/<slug>/reels.mp4`, 1080×1920, 30 qps.
+- Série Circuito Interno: vídeos curtos, com direcionamento claro e legenda caprichada. Cada cena abre com a marcação grande no meio da tela, "DIA 1" e "7:58 DA MANHÃ" (amarelo), por ~2 s; legendas das falas em amarelo com contorno preto, longe dos 20% de baixo; letreiro REC/CAM/hora no topo e selo "SIMULAÇÃO · IA".
+- Chamada final: "Comenta DIAGNÓSTICO" (não "Comenta 7").
 
 ## Lições dos prompts de vídeo (CI-01)
 
