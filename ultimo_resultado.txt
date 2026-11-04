@@ -1,3 +1,3 @@
-2026-10-31T10:23:16Z · push · 41192489475
-Preparando OD01 (carrossel, 10 mídias) sem publicar...
-OK: o Instagram aceitou as imagens e a legenda de OD01 (container 18650911597001366). Nada foi publicado; o preparo expira sozinho em 24 h.
+2026-11-04T16:08:09Z · push · 41864334336
+Preparando MD-01 (imagem, 1 mídia) sem publicar...
+OK: o Instagram aceitou as imagens e a legenda de MD-01 (container 18652594417001366). Nada foi publicado; o preparo expira sozinho em 24 h.
