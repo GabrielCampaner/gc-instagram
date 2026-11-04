@@ -880,6 +880,28 @@
       "fixo": true
     },
     {
+      "id": "MD-02",
+      "titulo": "O que a sua recepção passa de imagem",
+      "quando": "2026-11-05T20:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Carrossel modelado (referência enviada pelo Gabriel em 04/11). Fotos geradas por IA, acabamento no Photoshop (Adobe).",
+      "stories": "Enquete com o slide 1: \"Na sua clínica tem padrão escrito para a recepção?\" · Tem / Não tem.",
+      "legenda": "Pode ser a clínica mais bonita da cidade. Mármore, iluminação planejada, equipamento de última geração.\n\nSe a recepção não acompanha, você só construiu um lugar bonito para perder dinheiro.\n\nO paciente não sabe avaliar a sua técnica. Mas percebe o uniforme amassado, o celular na mão, o balcão cheio de papel e o elogio que ninguém aproveitou.\n\nE aqui vai a parte que dói: nada disso é culpa da recepcionista. Padrão que não está escrito, treinado e cobrado não existe. Quem define o padrão é o dono.\n\nSalva e mostra para a equipe amanhã. Qual desses a sua clínica ainda precisa ajustar?\n\n#gestaodeclinicas #donodeclinica #recepcaodeclinica #experienciadopaciente #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-05_imagem-da-recepcao/01.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/02.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/03.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/04.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/05.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/06.jpg",
+        "midia/2026-11-05_imagem-da-recepcao/07.jpg"
+      ],
+      "origem": "2026-11-05_imagem-da-recepcao",
+      "fixo": true
+    },
+    {
       "id": "L3-35",
       "titulo": "34% com falta acima de 11%",
       "quando": "2026-11-06T08:30:00-03:00",
