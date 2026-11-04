@@ -802,6 +802,22 @@
       "origem": "2026-11-11_mesmos-40-minutos"
     },
     {
+      "id": "MD-01",
+      "titulo": "O protocolo diário do dono que enche a agenda",
+      "quando": "2026-11-04T20:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Lousa modelada (referência enviada pelo Gabriel em 04/11).",
+      "stories": "Repost da lousa com enquete: \"Quantos desses 10 você faz todo dia?\" · Mais de 5 / Menos de 5.",
+      "legenda": "Agenda cheia não é sorte. É rotina.\n\nA maioria dos donos só olha a agenda quando ela já esvaziou. Aí corre atrás de anúncio, de promoção, de paciente novo.\n\nEnquanto isso, dentro da própria clínica: conversa sem resposta desde ontem, orçamento parado há uma semana, paciente que não confirmou e ninguém ligou, avaliação no Google sem resposta.\n\nEsse protocolo leva menos de 20 minutos por dia. E não depende de a recepção lembrar. Depende de o dono cobrar, todo dia, do mesmo jeito.\n\nSalva para fazer amanhã cedo. E manda para o sócio.\n\n#gestaodeclinicas #donodeclinica #agendacheia #recepcaodeclinica #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-04_protocolo-do-dono/01.jpg"
+      ],
+      "origem": "2026-11-04_protocolo-do-dono",
+      "fixo": true
+    },
+    {
       "id": "L3-34",
       "titulo": "33% fora do horário",
       "quando": "2026-11-05T08:30:00-03:00",
@@ -922,6 +938,22 @@
         "midia/2026-11-12_parecem-educacao/08.jpg"
       ],
       "origem": "2026-11-12_parecem-educacao"
+    },
+    {
+      "id": "MD-03",
+      "titulo": "Sua recepção ainda responde como em 2016?",
+      "quando": "2026-11-06T20:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Lousa modelada (referência enviada pelo Gabriel em 04/11).",
+      "stories": "Caixa de perguntas: \"Como a sua recepção responde 'quanto custa?'\" Responder 3 nos Stories com a versão 2027.",
+      "legenda": "\"Quanto custa?\" é a pergunta que mais chega no WhatsApp da clínica. E a resposta mais comum ainda é a de 2016: \"o valor só na avaliação\".\n\nO paciente não sai de casa, não perde a tarde e não paga estacionamento para descobrir se cabe no bolso dele. Ele agradece e pergunta na próxima clínica.\n\nResponder o preço seco também não resolve. Vira comparação de tabela.\n\nO caminho do meio é treinável: acolhe a pergunta, entende o motivo e, se ele insistir, passa uma faixa real. Quem pergunta conduz a conversa. Quem só responde vira tabela de preço.\n\nIsso não é dom da recepcionista. É roteiro, treino e cobrança.\n\nManda para quem cuida do WhatsApp da sua clínica.\n\n#gestaodeclinicas #donodeclinica #recepcaodeclinica #whatsappnaclinica #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-06_recepcao-2016/01.jpg"
+      ],
+      "origem": "2026-11-06_recepcao-2016",
+      "fixo": true
     },
     {
       "id": "L3-36",
