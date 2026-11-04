@@ -1164,6 +1164,32 @@
       "origem": "2026-11-20_o-que-postar"
     },
     {
+      "id": "MD-06",
+      "titulo": "10 ações para começar a semana no controle",
+      "quando": "2026-11-09T20:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Carrossel modelado (referência enviada pelo Gabriel em 04/11). Caderno com a caneta da GC.",
+      "stories": "Segunda de manhã: foto do caderno + enquete \"Você já fez a reunião de 15 minutos hoje?\" · Já / Ainda não.",
+      "legenda": "Doutor(a), entre faculdade, especialização e cursos, você passou anos estudando para cuidar bem de um paciente.\n\nQuanto desse tempo foi para aprender gestão, financeiro, liderança e vendas?\n\nNas clínicas que eu atendo desde 2009, a resposta quase sempre é a mesma: \"nunca estudei isso a fundo\".\n\nSó que, no dia em que você abriu a clínica, assumiu outro trabalho. Tem salário para pagar, imposto vencendo, material para comprar, paciente esperando resposta e decisões que ninguém toma por você.\n\nVocê não precisa virar administrador. Precisa de uma rotina simples que se repete toda segunda. Essas 10 ações cabem na primeira hora da semana.\n\nSalva e começa na próxima segunda. Qual delas você já faz?\n\n#gestaodeclinicas #donodeclinica #rotinadeclinica #gestaoemsaude #segundafeira",
+      "midias": [
+        "midia/2026-11-09_segunda-na-clinica/01.jpg",
+        "midia/2026-11-09_segunda-na-clinica/02.jpg",
+        "midia/2026-11-09_segunda-na-clinica/03.jpg",
+        "midia/2026-11-09_segunda-na-clinica/04.jpg",
+        "midia/2026-11-09_segunda-na-clinica/05.jpg",
+        "midia/2026-11-09_segunda-na-clinica/06.jpg",
+        "midia/2026-11-09_segunda-na-clinica/07.jpg",
+        "midia/2026-11-09_segunda-na-clinica/08.jpg",
+        "midia/2026-11-09_segunda-na-clinica/09.jpg",
+        "midia/2026-11-09_segunda-na-clinica/10.jpg",
+        "midia/2026-11-09_segunda-na-clinica/11.jpg"
+      ],
+      "origem": "2026-11-09_segunda-na-clinica",
+      "fixo": true
+    },
+    {
       "id": "L3-38",
       "titulo": "58% com burnout",
       "quando": "2026-11-10T08:30:00-03:00",
