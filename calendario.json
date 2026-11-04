@@ -1040,6 +1040,30 @@
       "origem": "2026-11-16_duas-recepcoes"
     },
     {
+      "id": "MD-04",
+      "titulo": "A saúde virou isso? (guerra de preço)",
+      "quando": "2026-11-07T20:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Carrossel modelado (referência enviada pelo Gabriel em 04/11). Doutor gerado por IA; trocar pelo rosto do Gabriel quando houver Gemini/fal.ai. Cartazes de saúde pública desfocados.",
+      "stories": "Enquete: \"Você vai entrar na Black Friday com desconto?\" · Vou / Não vou. Caixinha: \"Qual foi o pior desconto que você já deu?\"",
+      "legenda": "Começou com \"faço por menos para não perder o paciente\".\n\nFuncionou. O paciente fechou. Aí baixou de novo no próximo. E no outro.\n\nQuando viu, estava cobrindo o preço de qualquer um: entrada pequena, \"24x no boleto\", Black Friday de consulta.\n\nVirou a banca da feira que não paga a própria hora clínica. Agenda cheia, caixa vazio. De segunda a sábado para ganhar menos do que quando era funcionário.\n\nFoi aí que ele parou e entendeu três coisas:\n\n1. Paciente que chega pelo desconto vai embora pelo próximo desconto.\n2. O preço só parece alto quando o valor não foi construído antes.\n3. Quem constrói esse valor é a recepção, o atendimento e o processo. Não a promoção.\n\nDesconto não é estratégia. É o atalho mais caro que existe.\n\nManda para um colega que está pensando em entrar na guerra de preço nesta Black Friday.\n\n#gestaodeclinicas #donodeclinica #precificacao #blackfriday #gestaoemsaude",
+      "midias": [
+        "midia/2026-11-07_a-saude-virou-isso/01.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/02.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/03.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/04.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/05.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/06.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/07.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/08.jpg",
+        "midia/2026-11-07_a-saude-virou-isso/09.jpg"
+      ],
+      "origem": "2026-11-07_a-saude-virou-isso",
+      "fixo": true
+    },
+    {
       "id": "L3-24",
       "titulo": "Qual ele lembra",
       "quando": "2026-11-08T08:30:00-03:00",
