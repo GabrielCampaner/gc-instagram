@@ -131,8 +131,7 @@ def cartao(nome, dur, linhas, pronta):
 def video(pronta):
     segs = [cartao("gancho", GANCHO, [
         ("Quando eu lembro da câmera", 56, "white", 760, FB),
-        ("da recepção da Dra. Renata…", 56, "white", 850, FB),
-        ("[aqui entra a tua selfie]", 34, "0x9AA59F", 1010, FR)], pronta)]
+        ("da recepção da Dra. Renata…", 56, "white", 850, FB)], pronta)]
     segs += [cena(i, pronta) for i in range(len(CENAS))]
     segs.append(cartao("cartela", CARTELA, [
         ("40 min de atraso por dia", 62, "white", 700, FB),
@@ -146,7 +145,8 @@ def video(pronta):
         ("É agenda sem folga.", 58, "white", 820, FB),
         ("Comenta", 70, "white", 960, FB),
         ("DIAGNÓSTICO", 96, "0xFFE14D", 1050, FB),
-        ("[aqui entra a tua selfie]", 34, "0x9AA59F", 1200, FR)], pronta))
+        ("entenda como ganhar mais dinheiro", 40, "white", 1195, FR),
+        ("sem perder a agenda", 40, "white", 1250, FR)], pronta))
     lista = os.path.join(B, f"lista_{'p' if pronta else 'c'}.txt")
     with open(lista, "w") as fh:
         for sg in segs:
