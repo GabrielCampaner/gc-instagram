@@ -1,0 +1,27 @@
+# Notas para o Claude
+
+## Ferramentas conectadas (série Circuito Interno · Os Doutores)
+
+- **ElevenLabs (conector completo "Conector Claude Eleven Labs")**: vozes, falas, sons, imagens e vídeo no mesmo canvas.
+  - Imagem: Nano Banana Pro (`gemini-3-pro-image`), 9:16, 2K. Edição com imagem de entrada custa mais que geração.
+  - Vídeo: Veo 3.1 Fast (`veo-3.1-fast-generate-001`), 9:16, 1080p, **sem áudio** (o áudio sai do ElevenLabs). Kling 4.0 sai mais caro.
+  - Canvas do piloto CI-01: flow `L5nXJaMctwi1nCxolgz8`.
+  - Vozes salvas: CI · Kelly `29HxveKS0Gbg95FjkOLi`, CI · Dra. Renata `egWVlTU24Py3R6DyhmgD`, CI · Dona Marta `LWgMh66nVQMbF67LyvtY`.
+  - Som de câmera nas falas: Audio Effects com `cheap_microphone` + `small_room` + distância 0,6 (gratuito).
+- **Adobe (conector "Adobe")**: ferramentas online da Adobe (montar vídeo por linha do tempo, redimensionar, exportar, Photoshop e InDesign online). Não abre o Premiere do computador, não põe legenda nem texto no vídeo e só aceita arquivos do Creative Cloud (recusa links do ElevenLabs).
+- **Gemini/Veo na conta Google**: existe na conta, mas não há conector do Gemini nas sessões do Claude. A rede do ambiente bloqueia `generativelanguage.googleapis.com`.
+- **Rede do ambiente**: `elevenlabsusercontent.com` precisa estar em Allowed domains para o Claude baixar vídeos e áudios do ElevenLabs e montar o Reel aqui (ffmpeg está instalado).
+
+## Preferências
+
+- Fazer tudo pelo Claude, sem passos manuais no Flow.
+- Máximo realismo. Mostrar o custo em créditos antes de gerar.
+- Página do projeto (roteiros, prompts, linha do tempo): https://claude.ai/artifact/Wd9YGWXSBaGoi1s8p8xbZA
+- Reel final em `midia/<slug>/reels.mp4`, 1080×1920, 30 qps.
+
+## Lições dos prompts de vídeo (CI-01)
+
+- Quem entra pela porta de vidro sem abrir: deixar uma folha já aberta no quadro inicial e pedir "walks in through the open side, never touching the glass".
+- Quem abre a porta: "pushes the glass entrance door open, the door swings back and closes"; dizer que só essa porta se mexe.
+- Pessoa sumindo: pedir que fique visível do começo ao fim e pôr "person disappearing, ghost" no prompt negativo.
+- Duas pessoas conversando de perto pode parecer beijo: manter distância ("about two meters apart, faces never close").
