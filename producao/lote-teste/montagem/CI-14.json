@@ -26,12 +26,13 @@
     "14:12"
    ],
    "marca_de": 0.2,
-   "sfx_db": -8
+   "sfx_db": -8,
+   "video": "CI-14_s1_sync.mp4"
   },
   {
    "clip": "CI-14_s2",
    "de": 0,
-   "ate": 7,
+   "ate": 5.6,
    "cam": "CAM 01 · RECEPÇÃO",
    "rotulo": "SEXTA",
    "hora": [
@@ -39,10 +40,12 @@
     12,
     13
    ],
-   "sfx_db": -8
+   "sfx_db": -8,
+   "hold": 0.3,
+   "vel": 0.9
   },
   {
-   "clip": "CI-14_s3",
+   "clip": "CI-14_s3b",
    "de": 0,
    "ate": 8,
    "cam": "CAM 02 · CONSULTÓRIO",
@@ -56,7 +59,9 @@
     "14:31",
     "CONSULTÓRIO"
    ],
-   "sfx_db": -10
+   "sfx_db": -10,
+   "vel": 0.85,
+   "hold": 0.6
   },
   {
    "clip": "CI-14_s4",
@@ -113,32 +118,48 @@
   {
    "a": "CI-14_p2_t1",
    "cena": 1,
-   "t": 0.6,
-   "texto": "E esse aí? Chegou depois de mim e vai entrar antes? Isso aqui é uma palhaçada!"
+   "t": 1.1,
+   "texto": "E esse aí? Chegou depois de mim e vai entrar antes? Isso aqui é uma palhaçada!",
+   "rosto": [
+    410,
+    640
+   ]
   },
   {
    "a": "CI-14_o1_t1",
    "cena": 2,
-   "t": 0.6,
-   "texto": "O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias."
+   "t": 0.4,
+   "texto": "O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias.",
+   "rosto": [
+    930,
+    900
+   ]
   },
   {
    "a": "CI-14_p3_t1",
    "cena": 2,
-   "t": 5.0,
-   "texto": "Trinta dias? Eu pago particular pra sair daqui resolvida!"
+   "t": 5.2,
+   "texto": "Trinta dias? Eu pago particular pra sair daqui resolvida!",
+   "rosto": [
+    210,
+    860
+   ]
   },
   {
    "a": "CI-14_p4_t1",
    "cena": 3,
-   "t": 1.2,
+   "t": 1.0,
    "texto": "Vocês só querem o meu dinheiro! Nunca mais eu piso aqui!"
   },
   {
    "a": "CI-14_p5_t1",
    "cena": 4,
-   "t": 2.2,
-   "texto": "Bando de incompetentes!"
+   "t": 1.6,
+   "texto": "Bando de incompetentes!",
+   "rosto": [
+    545,
+    645
+   ]
   }
  ],
  "fecho": {

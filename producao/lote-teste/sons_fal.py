@@ -52,6 +52,7 @@ SONS = {
                  "patients shifting in their seats, soft air conditioning", SEM_FALA),
     "CI-14_s2": ("upscale clinic reception, tense silence, a chair creak, uncomfortable murmur of patients", SEM_FALA),
     "CI-14_s3": ("quiet elegant doctor's office, soft air conditioning hum, paper rustling, leather chair creak", SEM_FALA),
+    "CI-14_s3b": ("quiet elegant doctor's office, soft air conditioning hum, paper rustling, leather chair creak", SEM_FALA),
     "CI-14_s4": ("doctor's office, a chair pushed back fast, papers and an envelope swept off a wooden desk and falling "
                  "on the floor, a pen holder falling and pens scattering, fast footsteps leaving, a door opening", SEM_FALA),
     "CI-14_s5": ("upscale clinic reception, fast angry high-heel footsteps on porcelain floor, a ceramic flower pot "

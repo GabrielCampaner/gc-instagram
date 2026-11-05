@@ -168,6 +168,56 @@
    ],
    "baixo": true,
    "y": 1120
+  },
+  {
+   "id": "CI-14",
+   "imagem": "producao/lote-teste/quadros/CI-14_capa.jpg",
+   "hud": {
+    "cam": "CAM 01 · RECEPÇÃO",
+    "dia": "SEXTA",
+    "hora": "14:12:06"
+   },
+   "tag": "CIRCUITO INTERNO",
+   "kicker": "A recepção do Dr. Otávio, sexta, 14:12:",
+   "titulo": [
+    "Nem sempre",
+    "o <b>cliente</b>",
+    "tem razão."
+   ],
+   "tam": 118,
+   "caixa": [
+    330,
+    540,
+    640,
+    1060,
+    "PACIENTE · 14:12"
+   ],
+   "baixo": true,
+   "y": 1100
+  },
+  {
+   "id": "CI-15",
+   "imagem": "producao/lote-teste/quadros/CI-15_capa.jpg",
+   "hud": {
+    "cam": "CAM 01 · RECEPÇÃO",
+    "dia": "QUARTA",
+    "hora": "11:52:15"
+   },
+   "tag": "CIRCUITO INTERNO",
+   "kicker": "Dois dias tentando marcar pelo WhatsApp:",
+   "titulo": [
+    "Recepção <b>lotada</b>",
+    "não é paciente",
+    "bem atendido."
+   ],
+   "tam": 100,
+   "caixa": [
+    470,
+    830,
+    720,
+    1250,
+    "PACIENTE · 11:52"
+   ]
   }
  ]
 }

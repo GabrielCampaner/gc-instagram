@@ -458,7 +458,7 @@
     },
     {
       "id": "CI-14_s4",
-      "quadro": "CI-14_C",
+      "quadro": "CI-14_D",
       "dur": 8,
       "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, hitting, punching, weapon, blood",
       "prompt": "Security camera footage (CCTV) from a fixed wall camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The woman with the platinum-blonde bob suddenly stands up, upset; as she gets up, her arm knocks the papers and the open envelope off the desk and they fall to the floor; she grabs her handbag and walks out of the frame quickly. The doctor stays seated, calm, with his palms open. They never touch. Natural motion at real speed."

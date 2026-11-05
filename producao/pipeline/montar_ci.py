@@ -194,8 +194,19 @@ class Reel:
             else:
                 vf.append(f"eq=brightness='-0.34*min(t/0.8\\,1)':eval=frame")
         out = os.path.join(self.b, f"{'p' if pronta else 'c'}_fecho.mp4")
-        run(["ffmpeg", "-v", "error", "-y", "-loop", "1", "-framerate", str(FPS), "-t", f"{d:.3f}", "-i", quadro,
-             "-vf", ",".join(vf), "-frames:v", str(n), "-c:v", "libx264", "-preset", "medium", "-crf", "16",
+        ins = ["-loop", "1", "-framerate", str(FPS), "-t", f"{d:.3f}", "-i", quadro]
+        sobre = f.get("sobre", [])  # ex.: a notificação que chegou no fim da última cena continua na tela
+        if sobre:
+            fc = f"[0:v]{','.join(vf)}[b0]"
+            for k, s in enumerate(sobre):
+                ins += ["-i", os.path.join(self.media, s["arquivo"])]
+                fc += (f";[{k + 1}:v]format=argb,setpts=PTS-STARTPTS+{s.get('de', 0)}/TB[o{k}]"
+                       f";[b{k}][o{k}]overlay=0:0:eof_action=pass[b{k + 1}]")
+            filtro = ["-filter_complex", fc, "-map", f"[b{len(sobre)}]"]
+        else:
+            filtro = ["-vf", ",".join(vf)]
+        run(["ffmpeg", "-v", "error", "-y"] + ins + filtro +
+            ["-frames:v", str(n), "-c:v", "libx264", "-preset", "medium", "-crf", "16",
              "-pix_fmt", "yuv420p", "-r", str(FPS), out])
         return out
 

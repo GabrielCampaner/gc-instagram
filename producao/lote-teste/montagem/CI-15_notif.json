@@ -1,7 +1,7 @@
 {
  "saida": "producao/lote-teste/media/CI-15_notif.mov",
  "tipo": "notificacao",
- "dur": 3.0,
+ "dur": 12.0,
  "de": 0.0,
  "y": 200,
  "app": "Mensagens",

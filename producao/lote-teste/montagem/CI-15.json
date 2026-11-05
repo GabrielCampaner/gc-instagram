@@ -47,7 +47,8 @@
     "11:52 DA MANHÃ"
    ],
    "marca_de": 0.1,
-   "sfx_db": -2
+   "sfx_db": -2,
+   "video": "CI-15_s2_sync.mp4"
   },
   {
    "clip": "CI-15_s3",
@@ -65,13 +66,14 @@
     1.35,
     700,
     1000
-   ]
+   ],
+   "video": "CI-15_s3_sync.mp4"
   },
   {
    "clip": "CI-15_s4",
    "de": 0,
-   "ate": 8,
-   "hold": 0.6,
+   "ate": 4.8,
+   "hold": 0.8,
    "cam": "CAM 01 · RECEPÇÃO",
    "rotulo": "QUARTA",
    "hora": [
@@ -83,7 +85,7 @@
    "sobre": [
     {
      "arquivo": "CI-15_notif.mov",
-     "de": 5.6
+     "de": 5.0
     }
    ]
   }
@@ -188,19 +190,27 @@
   {
    "a": "CI-15_r3_t1",
    "cena": 3,
-   "t": 0.4,
-   "texto": "Ah, mas pelo WhatsApp é bem mais rápido, viu?"
+   "t": 0.45,
+   "texto": "Ah, mas pelo WhatsApp é bem mais rápido, viu?",
+   "rosto": [
+    950,
+    910
+   ]
   },
   {
    "a": "CI-15_m3_t1",
    "cena": 3,
-   "t": 3.0,
-   "texto": "…Pelo WhatsApp."
+   "t": 3.4,
+   "texto": "…Pelo WhatsApp.",
+   "rosto": [
+    660,
+    970
+   ]
   },
   {
    "a": "som_notif",
    "cena": 3,
-   "t": 5.6,
+   "t": 5.0,
    "db": -8,
    "limpo": true
   }
@@ -300,7 +310,13 @@
     5.5,
     5.9
    ]
-  }
+  },
+  "sobre": [
+   {
+    "arquivo": "CI-15_notif.mov",
+    "de": 0.0
+   }
+  ]
  },
  "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
 }
