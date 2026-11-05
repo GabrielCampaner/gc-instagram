@@ -6,12 +6,12 @@ const LOGO = { 'logo_horizontal.png': 'CPDDEM_logo_horizontal_transparente.png',
 const A = (f) => 'file://' + (LOGO[f] ? path.join(__dirname, '..', 'logo', LOGO[f]) : path.join(__dirname, 'assets', f));
 const W = 1080;
 
-const STOCK = { familia: '436582561', infusao: '593175984', equipe: '673613237', consulta: '671528341' };
+const STOCK = { familia: '436582561', equipe: '374753388', medica: '1890701560' };
 
 // ---------- peças base ----------
 const fundo = (cor = '#FFFFFF') => `<div class="fundo" ${L('Fundo', 'Fundo', 'fill')} style="background:${cor}"></div>`;
 const logo = (w) => `<img src="${A('logo_horizontal.png')}" ${L('Logo CPDDEM (horizontal)', 'Logo', 'image')} style="display:block;flex:none;width:${w}px;height:${Math.round(w * 1315 / 2458)}px">`;
-const idTexto = `Diretor técnico-médico: ${PH.nome}\n${PH.crm} · ${PH.rqe} · ${PH.end}`;
+const idTexto = `Diretor técnico-médico: ${PH.nome}\n${PH.crm} · ${PH.rqe}\n${PH.end}`;
 const marca = (logoW = 250) => `<div class="row" style="width:100%">
     ${logo(logoW)}
     ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: idTexto, size: 26, lh: 34, style: 'margin-left:30px' })}
@@ -117,7 +117,7 @@ function seq2() {
   const PT = 740;
   const inner = `
   ${fundo()}
-  ${foto('infusao', 'foto_infusao_story.jpg', 1080, 800)}
+  ${foto('equipe', 'foto_equipe_story.jpg', 1080, 800)}
   ${ilustrativa(36, PT - 24)}
   ${painel(PT, 1920)}
   <div class="col" style="left:88px;top:${PT + 44}px;width:904px">
@@ -175,7 +175,7 @@ function seq5() {
   const PT = 740;
   const inner = `
   ${fundo()}
-  ${foto('equipe', 'foto_equipe_story.jpg', 1080, 800)}
+  ${foto('medica', 'foto_medica_story.jpg', 1080, 800)}
   ${ilustrativa(36, PT - 24)}
   ${painel(PT, 1920)}
   <div class="col" style="left:88px;top:${PT + 44}px;width:904px">
@@ -205,7 +205,7 @@ function story() {
   const PT = 700;
   const inner = `
   ${fundo()}
-  ${foto('infusao', 'foto_infusao_unico.jpg', 1080, 760)}
+  ${foto('equipe', 'foto_equipe_unico.jpg', 1080, 760)}
   ${ilustrativa(36, PT - 24)}
   ${painel(PT, 1920)}
   <div class="col" style="left:88px;top:${PT + 44}px;width:904px">
@@ -231,7 +231,7 @@ function whatsapp() {
   const PT = 490;
   const inner = `
   ${fundo()}
-  ${foto('consulta', 'foto_consulta_whatsapp.jpg', 1080, 540)}
+  ${foto('medica', 'foto_medica_whatsapp.jpg', 1080, 540)}
   ${ilustrativa(32, PT - 22)}
   ${painel(PT, 1350)}
   ${shape('Faixa do rodapé', 'Rodapé', `position:absolute;left:0;top:1240px;width:1080px;height:110px;background:${C.gelo}`)}

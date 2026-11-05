@@ -1,6 +1,9 @@
-# CPDDEM · Infusão para osteoporose · v2 (5/11/2026)
+# CPDDEM · Infusão para osteoporose · v3 (5/11/2026)
 
-A v1 (só tipografia, sem foto, com texto técnico) foi recusada pelo Gabriel. A v2 muda a linha:
+Histórico: a v1 (só tipografia, texto técnico) foi recusada; a v2 trouxe a linha humanizada; a **v3** troca as fotos por
+pessoas com cara do público do Ceará (médica e paciente latinas) e entra com os dados reais do CPDDEM.
+
+A linha atual:
 
 - **Humanizada**: fotos de pessoas reais (Adobe Stock), texto em conversa com o paciente e com a família, sem jargão.
 - **Mais conteúdo útil**: além do "como funciona", entram benefícios e as dúvidas mais comuns, em formato de conversa.
@@ -8,34 +11,37 @@ A v1 (só tipografia, sem foto, com texto técnico) foi recusada pelo Gabriel. A
   figurinha de link e o número por extenso para quem prefere digitar.
 - **Marca presente**: a logo fica sempre sobre branco (painel ou cartão), com a identificação do diretor técnico-médico.
 
-**Ainda com marcadores** (`[Nome]`, `[nº]`, `[endereço]`, `(85) 9XXXX-XXXX`): não publicar até fechar as pendências abaixo.
+Dados nas peças: WhatsApp (85) 98619-7965 · Rua Machado de Assis, 514, Damas, Fortaleza-CE, 60426-000 ·
+Diretor técnico-médico: Dr. Miguel Nasser Hissa, CRM-CE 2113.
+
+**Falta só o RQE** (aparece como `RQE [nº]`). Não publicar até preencher ou até a direção técnica confirmar que não se aplica.
 
 ## Peças
 
 | Arquivo | Tamanho | O que é |
 |---|---|---|
-| `CPDDEM_osteoporose_story_1de5_v2.png` | 1080 × 1920 | Gancho: "Recebeu o diagnóstico de osteoporose?" (foto avó e neta) |
-| `CPDDEM_osteoporose_story_2de5_v2.png` | 1080 × 1920 | Como funciona: 3 passos (foto da infusão) |
-| `CPDDEM_osteoporose_story_3de5_v2.png` | 1080 × 1920 | Benefícios: o que a pessoa encontra no CPDDEM |
-| `CPDDEM_osteoporose_story_4de5_v2.png` | 1080 × 1920 | Dúvidas frequentes em balões de conversa |
-| `CPDDEM_osteoporose_story_5de5_v2.png` | 1080 × 1920 | Agende sua avaliação: figurinha de link + número (foto da equipe) |
-| `CPDDEM_osteoporose_story_unico_v2.png` | 1080 × 1920 | Versão resumida em um story só |
-| `CPDDEM_osteoporose_whatsapp_v2.jpg` | 1080 × 1350 | Lista de transmissão: peça principal |
-| `CPDDEM_osteoporose_whatsapp_duvidas_v2.jpg` | 1080 × 1350 | Lista de transmissão: dúvidas frequentes |
+| `CPDDEM_osteoporose_story_1de5_v3.png` | 1080 × 1920 | Gancho: "Recebeu o diagnóstico de osteoporose?" (foto avó e neta) |
+| `CPDDEM_osteoporose_story_2de5_v3.png` | 1080 × 1920 | Como funciona: 3 passos (foto da equipe com a paciente) |
+| `CPDDEM_osteoporose_story_3de5_v3.png` | 1080 × 1920 | Benefícios: o que a pessoa encontra no CPDDEM |
+| `CPDDEM_osteoporose_story_4de5_v3.png` | 1080 × 1920 | Dúvidas frequentes em balões de conversa |
+| `CPDDEM_osteoporose_story_5de5_v3.png` | 1080 × 1920 | Agende sua avaliação: figurinha de link + número (foto da médica com a paciente) |
+| `CPDDEM_osteoporose_story_unico_v3.png` | 1080 × 1920 | Versão resumida em um story só |
+| `CPDDEM_osteoporose_whatsapp_v3.jpg` | 1080 × 1350 | Lista de transmissão: peça principal |
+| `CPDDEM_osteoporose_whatsapp_duvidas_v3.jpg` | 1080 × 1350 | Lista de transmissão: dúvidas frequentes |
 | `legenda_whatsapp.txt` | — | Texto para enviar junto (asteriscos = negrito no WhatsApp) |
-| `previa_todas_as_pecas_v2.png` | — | Todas as peças lado a lado; nos stories com link, a figurinha aparece simulada |
+| `previa_todas_as_pecas_v3.png` | — | Todas as peças lado a lado; nos stories com link, a figurinha aparece simulada |
 
 Recomendação: no Instagram, publicar a sequência de 5 stories (uma ideia por tela). No WhatsApp, enviar as duas imagens
 como foto, com HD ativado, e a legenda.
 
 ### Figurinha de link (stories 5 e único)
 
-No app do Instagram: figurinha > Link > colar o `wa.me` do CPDDEM > texto personalizado "AGENDAR AVALIAÇÃO". Posicione
+No app do Instagram: figurinha > Link > `https://wa.me/5585986197965` > texto personalizado "AGENDAR AVALIAÇÃO". Posicione
 sobre a base azul-clara abaixo de "Toque no link…". A prévia mostra como fica.
 
 ## PSDs (não ficam no repositório)
 
-`psd/CPDDEM_osteoporose_v2.psd` (Story único + 2 WhatsApp) e `psd/CPDDEM_osteoporose_sequencia_v2.psd` (5 stories) foram
+`psd/CPDDEM_osteoporose_v3.psd` (Story único + 2 WhatsApp) e `psd/CPDDEM_osteoporose_sequencia_v3.psd` (5 stories) foram
 enviados como anexo na conversa. Ficam fora do Git porque o repositório é público e a licença do Adobe Stock não permite
 deixar a foto disponível para download como arquivo solto (dentro da arte publicada pode).
 
@@ -53,13 +59,13 @@ Exportação: Exportar como, sRGB. Stories em PNG; WhatsApp em JPG qualidade 90.
 
 | Uso | ID |
 |---|---|
-| Story 1 · avó e neta | 436582561 |
-| Story 2 e story único · paciente na infusão | 593175984 |
-| Story 5 · enfermeira e paciente | 673613237 |
-| WhatsApp principal · consulta | 671528341 |
+| Story 1 · avó e neta (família brasileira) | 436582561 |
+| Story 2 e story único · médico e enfermeira com a paciente (foto espelhada) | 374753388 |
+| Story 5 e WhatsApp principal · paciente latina com a médica | 1890701560 |
 
-As fotos são de modelos, por isso cada peça leva o selo "Imagem ilustrativa". Se o CPDDEM tiver foto real da sala de
-infusão em boa resolução, ela pode entrar no lugar da foto do story 2.
+As fotos são de modelos, por isso cada peça leva o selo "Imagem ilustrativa". O banco gratuito não tem foto de infusão com
+paciente latina madura; se o CPDDEM tiver foto real da sala de infusão em boa resolução, ela pode entrar no story 2.
+As fotos da v2 (IDs 593175984, 673613237 e 671528341) saíram por não terem a cara do público.
 
 ## Textos para a direção técnica validar
 
@@ -73,9 +79,10 @@ ou fratura; identificação do diretor técnico-médico em todas as peças.
 
 ## Pendências antes de publicar
 
-- [ ] Nome, CRM-CE e RQE do diretor técnico-médico
-- [ ] Número oficial de WhatsApp e link wa.me para a figurinha
-- [ ] Endereço atual (o briefing de 4/11 registra mudança de sede)
+- [x] Nome e CRM-CE do diretor técnico-médico (Dr. Miguel Nasser Hissa, CRM-CE 2113)
+- [ ] RQE do diretor técnico-médico (ou confirmação de que não se aplica)
+- [x] WhatsApp (85) 98619-7965 · link wa.me/5585986197965
+- [x] Endereço: Rua Machado de Assis, 514, Damas, Fortaleza-CE
 - [ ] Os 12x valem para consulta e aplicação? Com ou sem juros? (as peças não dizem "sem juros")
 - [ ] Aprovação da direção técnica para os textos acima
 - [ ] O CPDDEM aplica com prescrição de médico externo? Define se sai uma versão para esse público
