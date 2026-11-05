@@ -42,6 +42,8 @@
 - 05/11/2026: E-02 (Helena), E-04 (Sofia) e E-06 (Renata) prontos com a voz gravada do Gabriel, em `midia/e-0*/`. As gravações dele ficam em `producao/lote-teste/gravacoes/` (fora do Git: o repositório é público). Para cortar as falas: transcrição com tempo por palavra (`fal-ai/whisper`, áudio em mp3) e as pausas do `silencedetect`; a voz dele entra 2,5 dB abaixo para igualar à dos doutores.
 - Vozes por personagem: Helena "Isabela" `Pxxu743NJcLUqO1QxfD6`, Sofia "Sofia - Natural" `n2a9VtkZLl8j1FSXHsL7`, Otávio "Kenn" `R3mQ9kzdIW8y3atS1Ec2`, Caio "Cirilo" `1DXriIY2zhyCt1cj8onn` (biblioteca, servem no fal). A Renata é a voz salva do CI-01, só no ElevenLabs.
 - Não pôr nomes de pessoas no prompt de vídeo: o Veo escreveu "GABRIEL" e "Dra. Helena" na tela. Descrever ("o homem de camisa azul à esquerda"). Doutor que reage precisa estar de frente para a câmera: se o quadro deixar alguém de costas, pedir câmera na parede lateral.
+- Sincronia labial (desde 05/11/2026): toda fala passa pelo sync-3 (`fal-ai/sync-lipsync/v3`, US$ 8/min) com o áudio real, apontando o rosto de quem fala (`options.active_speaker_detection.coordinates` no primeiro quadro). Script: `producao/lote-teste/sincronia_fal.py CLIPE FALA INICIO X Y SAIDA`. Testado na fala do preço da Sofia (E-04): ficou natural. No prompt do clipe, quem ouve fica de boca fechada.
+- O Gabriel dos vídeos precisa sair das fotos reais dele (os carrosséis eram imagens de IA e não parecem com ele; ele usa óculos). Esperando as fotos e um vídeo curto dele falando.
 - Formato "Os Doutores em cena": etiquetas de nome (GABRIEL / DRA. X) depois da marcação, zoom digital em quem ouve (`zoom` na cena do JSON), marcação só na primeira cena (é uma reunião contínua).
 
 ## Lições dos prompts de vídeo (CI-01)
