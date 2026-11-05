@@ -169,13 +169,21 @@
    "a": "CI-15_m2_t1",
    "cena": 2,
    "t": 0.3,
-   "texto": "Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar."
+   "texto": "Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar.",
+   "rosto": [
+    610,
+    960
+   ]
   },
   {
    "a": "CI-15_r2_t1",
    "cena": 2,
    "t": 5.2,
-   "texto": "Pode aguardar na linha? … Crédito ou débito?"
+   "texto": "Pode aguardar na linha? … Crédito ou débito?",
+   "rosto": [
+    1010,
+    925
+   ]
   },
   {
    "a": "CI-15_r3_t1",
