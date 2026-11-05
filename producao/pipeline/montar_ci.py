@@ -123,9 +123,14 @@ class Reel:
         c = self.j["cenas"][i]
         out = os.path.join(self.b, f"{'p' if pronta else 'c'}_{i}.mp4")
         v = c.get("vel", 1.0)
-        vf = [f"trim={c['de']}:{c['ate']}", "setpts=PTS-STARTPTS", f"setpts=PTS/{v}", f"fps={FPS}"]
-        if c.get("hold"):
-            vf.append(f"tpad=stop_mode=clone:stop_duration={c['hold']}")
+        if c.get("video"):  # clipe já no tempo final (ex.: saída da sincronia labial)
+            src = os.path.join(self.media, c["video"])
+            vf = [f"fps={FPS}", "tpad=stop_mode=clone:stop_duration=1", f"trim=0:{c['dur']:.3f}", "setpts=PTS-STARTPTS"]
+        else:
+            src = os.path.join(self.media, c["clip"] + ".mp4")
+            vf = [f"trim={c['de']}:{c['ate']}", "setpts=PTS-STARTPTS", f"setpts=PTS/{v}", f"fps={FPS}"]
+            if c.get("hold"):
+                vf.append(f"tpad=stop_mode=clone:stop_duration={c['hold']}")
         vf += self.enquadra()
         if c.get("zoom"):  # zoom digital da câmera em quem ouve
             zf, zx, zy = c["zoom"]
@@ -135,7 +140,7 @@ class Reel:
             vf += [f"crop={w}:{h}:{x}:{y}", "scale=1080:1920,setsar=1"]
         if pronta:
             vf += self.look() + self.hud(c)
-        run(["ffmpeg", "-v", "error", "-y", "-i", os.path.join(self.media, c["clip"] + ".mp4"), "-an",
+        run(["ffmpeg", "-v", "error", "-y", "-i", src, "-an",
              "-vf", ",".join(vf), "-c:v", "libx264", "-preset", "medium", "-crf", "16",
              "-pix_fmt", "yuv420p", "-r", str(FPS), out])
         return out
@@ -145,9 +150,11 @@ class Reel:
         c = self.j["cenas"][-1]
         f = self.j["fecho"]
         quadro = os.path.join(self.b, "ultimo.png")
-        v = c.get("vel", 1.0)
-        run(["ffmpeg", "-v", "error", "-y", "-ss", str(max(c["ate"] - 0.06, 0)), "-i",
-             os.path.join(self.media, c["clip"] + ".mp4"), "-frames:v", "1",
+        if c.get("video"):
+            src, ss = os.path.join(self.media, c["video"]), min(c["dur"], dur(os.path.join(self.media, c["video"]))) - 0.06
+        else:
+            src, ss = os.path.join(self.media, c["clip"] + ".mp4"), c["ate"] - 0.06
+        run(["ffmpeg", "-v", "error", "-y", "-ss", str(max(ss, 0)), "-i", src, "-frames:v", "1",
              "-vf", ",".join(self.enquadra()), quadro])
         zf, zx, zy = f.get("zoom", [1.4, 540, 960])
         d = self.rec + self.pausa

@@ -96,39 +96,63 @@
    "cena": 0,
    "t": 0.4,
    "db": -2.5,
-   "texto": "Finge que eu sou o paciente. Quanto fica?"
+   "texto": "Finge que eu sou o paciente. Quanto fica?",
+   "rosto": [
+    270,
+    910
+   ]
   },
   {
    "a": "E-04_s1_t1",
    "cena": 0,
    "t": 4.0,
-   "texto": "Então… a Kelly te passa direitinho os valores, tá?"
+   "texto": "Então… a Kelly te passa direitinho os valores, tá?",
+   "rosto": [
+    670,
+    864
+   ]
   },
   {
    "a": "E-04_g2",
    "cena": 1,
    "t": 0.1,
    "db": -2.5,
-   "texto": "Doutora, olhando pra mim, tá? Com voz normal."
+   "texto": "Doutora, olhando pra mim, tá? Com voz normal.",
+   "rosto": [
+    270,
+    910
+   ]
   },
   {
    "a": "E-04_s2_t1",
    "cena": 2,
    "t": 0.8,
-   "texto": "Pro teu caso, eu indico a cirurgia. Fica trinta e dois mil, com exames e retornos inclusos."
+   "texto": "Pro teu caso, eu indico a cirurgia. Fica trinta e dois mil, com exames e retornos inclusos.",
+   "rosto": [
+    670,
+    864
+   ]
   },
   {
    "a": "E-04_g3",
    "cena": 3,
    "t": 0.3,
    "db": -2.5,
-   "texto": "Agora fica em silêncio. Depois pergunta o que ficou de dúvida."
+   "texto": "Agora fica em silêncio. Depois pergunta o que ficou de dúvida.",
+   "rosto": [
+    270,
+    910
+   ]
   },
   {
    "a": "E-04_s3_t1",
    "cena": 3,
    "t": 4.7,
-   "texto": "Nossa. Não doeu."
+   "texto": "Nossa. Não doeu.",
+   "rosto": [
+    670,
+    864
+   ]
   }
  ],
  "fecho": {

@@ -109,46 +109,74 @@
    "cena": 0,
    "t": 0.3,
    "db": -2.5,
-   "texto": "Quanto você tira pra você, todo mês?"
+   "texto": "Quanto você tira pra você, todo mês?",
+   "rosto": [
+    330,
+    770
+   ]
   },
   {
    "a": "E-02_h1_t1",
    "cena": 0,
    "t": 3.9,
-   "texto": "Ah… depende do mês."
+   "texto": "Ah… depende do mês.",
+   "rosto": [
+    800,
+    920
+   ]
   },
   {
    "a": "E-02_g2",
    "cena": 1,
    "t": 0.3,
    "db": -2.5,
-   "texto": "Quanto custa a clínica aberta? Quantas horas você atende de verdade?"
+   "texto": "Quanto custa a clínica aberta? Quantas horas você atende de verdade?",
+   "rosto": [
+    330,
+    770
+   ]
   },
   {
    "a": "E-02_h2_t1",
    "cena": 2,
    "t": 0.3,
-   "texto": "Uns cinquenta e dois mil. E… umas cento e vinte horas?"
+   "texto": "Uns cinquenta e dois mil. E… umas cento e vinte horas?",
+   "rosto": [
+    800,
+    920
+   ]
   },
   {
    "a": "E-02_g3",
    "cena": 3,
    "t": 0.6,
    "db": -2.5,
-   "texto": "R$ 433 por hora, pra abrir a porta. Na consulta, sobram R$ 60."
+   "texto": "R$ 433 por hora, pra abrir a porta. Na consulta, sobram R$ 60.",
+   "rosto": [
+    330,
+    770
+   ]
   },
   {
    "a": "E-02_h3_t1",
    "cena": 4,
    "t": 0.3,
-   "texto": "E eu ia abrir o sábado."
+   "texto": "E eu ia abrir o sábado.",
+   "rosto": [
+    800,
+    920
+   ]
   },
   {
    "a": "E-02_g4",
    "cena": 4,
    "t": 2.6,
    "db": -2.5,
-   "texto": "Agora faz a conta aí, vai, antes de abrir o horário."
+   "texto": "Agora faz a conta aí, vai, antes de abrir o horário.",
+   "rosto": [
+    330,
+    770
+   ]
   }
  ],
  "fecho": {
