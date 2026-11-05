@@ -106,6 +106,71 @@
       "id": "E-04_s3",
       "voz": "sofia",
       "texto": "[surprised laugh, relieved] Nossa. Não doeu."
+    },
+    {
+      "id": "CI-14_p1",
+      "voz": "paciente_50",
+      "texto": "[furious, shouting] Minha consulta era às duas! Já são duas e doze! Eu não vou ficar esperando, não!"
+    },
+    {
+      "id": "CI-14_r1",
+      "voz": "recep_otavio",
+      "texto": "[calm, polite] Senhora, o doutor já vai te chamar, tá? Só mais um minutinho."
+    },
+    {
+      "id": "CI-14_p2",
+      "voz": "paciente_50",
+      "texto": "[furious, pointing at someone] E esse aí? Chegou depois de mim e vai entrar antes? Isso aqui é uma palhaçada!"
+    },
+    {
+      "id": "CI-14_o1",
+      "voz": "otavio",
+      "texto": "[calm, gentle] O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias."
+    },
+    {
+      "id": "CI-14_p3",
+      "voz": "paciente_50",
+      "texto": "[indignant] Trinta dias? Eu pago particular pra sair daqui resolvida!"
+    },
+    {
+      "id": "CI-14_p4",
+      "voz": "paciente_50",
+      "texto": "[shouting, furious] Vocês só querem o meu dinheiro! Nunca mais eu piso aqui!"
+    },
+    {
+      "id": "CI-14_p5",
+      "voz": "paciente_50",
+      "texto": "[shouting, walking away] Bando de incompetentes!"
+    },
+    {
+      "id": "CI-15_m1",
+      "voz": "paciente_loira",
+      "texto": "[annoyed] Moça, por que vocês não dão conta de responder o WhatsApp?"
+    },
+    {
+      "id": "CI-15_r1",
+      "voz": "recep_helena",
+      "texto": "[stressed, on the phone, without looking] Só um minutinho, senhora... Clínica Venna, bom dia?"
+    },
+    {
+      "id": "CI-15_m2",
+      "voz": "paciente_loira",
+      "texto": "[frustrated] Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar."
+    },
+    {
+      "id": "CI-15_r2",
+      "voz": "recep_helena",
+      "texto": "[distracted, on the phone] Pode aguardar na linha? ... Crédito ou débito?"
+    },
+    {
+      "id": "CI-15_r3",
+      "voz": "recep_helena",
+      "texto": "[cheerful, quick] Ah, mas pelo WhatsApp é bem mais rápido, viu?"
+    },
+    {
+      "id": "CI-15_m3",
+      "voz": "paciente_loira",
+      "texto": "[in disbelief, quietly] ...Pelo WhatsApp."
     }
   ]
 }

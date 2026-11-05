@@ -1,0 +1,10 @@
+{
+ "saida": "producao/lote-teste/media/CI-15_notif.mov",
+ "tipo": "notificacao",
+ "dur": 3.0,
+ "de": 0.0,
+ "y": 200,
+ "app": "Mensagens",
+ "titulo": "Clínica Venna · Saúde da Mulher",
+ "txt": "Olá! Qual seu convênio?"
+}

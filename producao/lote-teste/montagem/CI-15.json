@@ -1,0 +1,290 @@
+{
+ "id": "CI-15",
+ "slug": "ci-15-recepcao-lotada",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "Dois dias tentando marcar",
+   "uma ginecologista."
+  ],
+  "ate": 3.0
+ },
+ "cenas": [
+  {
+   "clip": "CI-15_s1",
+   "de": 0,
+   "ate": 8,
+   "hold": 0.9,
+   "sem_hud": true,
+   "sfx_db": -12,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    11,
+    44,
+    0
+   ],
+   "sobre": [
+    {
+     "arquivo": "CI-15_chat.mov",
+     "de": 0.0
+    }
+   ]
+  },
+  {
+   "clip": "CI-15_s2",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "QUARTA",
+   "hora": [
+    11,
+    52,
+    4
+   ],
+   "marca": [
+    "QUARTA",
+    "11:52 DA MANHÃ"
+   ],
+   "marca_de": 0.1,
+   "sfx_db": -2
+  },
+  {
+   "clip": "CI-15_s3",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "QUARTA",
+   "hora": [
+    11,
+    52,
+    12
+   ],
+   "sfx_db": -3,
+   "zoom": [
+    1.35,
+    700,
+    1000
+   ]
+  },
+  {
+   "clip": "CI-15_s4",
+   "de": 0,
+   "ate": 8,
+   "hold": 0.6,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "QUARTA",
+   "hora": [
+    11,
+    52,
+    20
+   ],
+   "sfx_db": -3,
+   "sobre": [
+    {
+     "arquivo": "CI-15_notif.mov",
+     "de": 5.6
+    }
+   ]
+  }
+ ],
+ "falas": [
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 0.1,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 1.1,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_ela",
+   "cena": 0,
+   "t": 2.3,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_ela",
+   "cena": 0,
+   "t": 2.8,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 3.8,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 5.0,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 6.0,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "som_msg_eu",
+   "cena": 0,
+   "t": 7.8,
+   "db": -14,
+   "limpo": true
+  },
+  {
+   "a": "CI-15_m1_t1",
+   "cena": 1,
+   "t": 2.0,
+   "texto": "Moça, por que vocês não dão conta de responder o WhatsApp?"
+  },
+  {
+   "a": "CI-15_r1_t1",
+   "cena": 1,
+   "t": 5.0,
+   "texto": "Só um minutinho, senhora… Clínica Venna, bom dia?"
+  },
+  {
+   "a": "CI-15_m2_t1",
+   "cena": 2,
+   "t": 0.3,
+   "texto": "Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar."
+  },
+  {
+   "a": "CI-15_r2_t1",
+   "cena": 2,
+   "t": 5.2,
+   "texto": "Pode aguardar na linha? … Crédito ou débito?"
+  },
+  {
+   "a": "CI-15_r3_t1",
+   "cena": 3,
+   "t": 0.4,
+   "texto": "Ah, mas pelo WhatsApp é bem mais rápido, viu?"
+  },
+  {
+   "a": "CI-15_m3_t1",
+   "cena": 3,
+   "t": 3.0,
+   "texto": "…Pelo WhatsApp."
+  },
+  {
+   "a": "som_notif",
+   "cena": 3,
+   "t": 5.6,
+   "db": -8,
+   "limpo": true
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   760,
+   900
+  ],
+  "rec": 1.2,
+  "pausa": 8.6,
+  "cta_de": 5.1,
+  "cta_y": 800,
+  "cta": "EXAME",
+  "sub": [
+   "que eu avalio o atendimento",
+   "da tua clínica"
+  ],
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.8,
+    "y": 450,
+    "tam": 48,
+    "cor": "b",
+    "txt": "Pra responder “qual seu convênio?”:"
+   },
+   {
+    "de": 0.5,
+    "ate": 3.8,
+    "y": 590,
+    "tam": 150,
+    "cor": "a",
+    "conta": [
+     280,
+     "",
+     " min"
+    ]
+   },
+   {
+    "de": 1.4,
+    "ate": 3.8,
+    "y": 720,
+    "tam": 44,
+    "cor": "b",
+    "txt": "e a consulta não foi marcada."
+   },
+   {
+    "de": 2.0,
+    "ate": 3.8,
+    "y": 820,
+    "tam": 40,
+    "cor": "b",
+    "txt": "Quem atende o balcão não dá conta do WhatsApp."
+   },
+   {
+    "de": 2.4,
+    "ate": 3.8,
+    "y": 900,
+    "tam": 30,
+    "cor": "c",
+    "txt": "números de exemplo",
+    "fonte": "r"
+   },
+   {
+    "de": 3.95,
+    "y": 470,
+    "tam": 56,
+    "cor": "b",
+    "txt": "Recepção lotada"
+   },
+   {
+    "de": 4.3,
+    "y": 570,
+    "tam": 56,
+    "cor": "a",
+    "txt": "não é paciente bem atendido."
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.5,
+     0.6
+    ]
+   ],
+   "impacto": [
+    1.1
+   ],
+   "pop": [
+    1.4,
+    2.0,
+    3.95,
+    4.3,
+    5.1,
+    5.5,
+    5.9
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

@@ -139,10 +139,25 @@ class Reel:
             y = max(0, min(1920 - h, int(zy - h / 2)))
             vf += [f"crop={w}:{h}:{x}:{y}", "scale=1080:1920,setsar=1"]
         if pronta:
-            vf += self.look() + self.hud(c)
-        run(["ffmpeg", "-v", "error", "-y", "-i", src, "-an",
-             "-vf", ",".join(vf), "-c:v", "libx264", "-preset", "medium", "-crf", "16",
-             "-pix_fmt", "yuv420p", "-r", str(FPS), out])
+            if c.get("sem_hud"):  # cena fora da câmera de segurança (ex.: na rua, pelo celular)
+                vf += ["eq=saturation=0.95:contrast=1.02", "vignette=angle=PI/4", "noise=alls=4:allf=t"]
+            else:
+                vf += self.look() + self.hud(c)
+        # telas desenhadas por cima (conversa no celular, notificação): .mov com transparência
+        sobre = c.get("sobre", [])
+        ins = ["-i", src]
+        if sobre:
+            fc = f"[0:v]{','.join(vf)}[b0]"
+            for k, s in enumerate(sobre):
+                ins += ["-i", os.path.join(self.media, s["arquivo"])]
+                fc += (f";[{k + 1}:v]format=argb,setpts=PTS-STARTPTS+{s.get('de', 0)}/TB[o{k}]"
+                       f";[b{k}][o{k}]overlay=0:0:eof_action=pass[b{k + 1}]")
+            filtro = ["-filter_complex", fc, "-map", f"[b{len(sobre)}]"]
+        else:
+            filtro = ["-vf", ",".join(vf)]
+        run(["ffmpeg", "-v", "error", "-y"] + ins + ["-an"] + filtro +
+            ["-c:v", "libx264", "-preset", "medium", "-crf", "16",
+             "-pix_fmt", "yuv420p", "-r", str(FPS), "-t", f"{c['dur']:.3f}", out])
         return out
 
     def fecho(self, pronta):
@@ -222,7 +237,8 @@ class Reel:
         # falas
         for fa in self.j["falas"]:
             ini = self.ini[fa["cena"]] + fa["t"]
-            add(os.path.join(self.media, fa["a"] + ".mp3"), f"{filtro_cam},volume={fa.get('db', 0)}dB", ini)
+            filtro = "anull" if fa.get("limpo") else filtro_cam  # limpo: som de celular, fora da câmera
+            add(os.path.join(self.media, fa["a"] + ".mp3"), f"{filtro},volume={fa.get('db', 0)}dB", ini)
         # sons do fechamento (sintetizados)
         P = self.ini_pausa
         fs = self.j["fecho"].get("sons", {})

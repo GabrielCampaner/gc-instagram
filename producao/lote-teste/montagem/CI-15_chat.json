@@ -1,0 +1,31 @@
+{
+ "saida": "producao/lote-teste/media/CI-15_chat.mov",
+ "tipo": "chat",
+ "dur": 8.9,
+ "contato": "Clínica Venna · Saúde da Mulher",
+ "inicial": "V",
+ "status": "online",
+ "relogio": "11:44",
+ "x": 190,
+ "y": 470,
+ "largura": 700,
+ "altura": 1080,
+ "eventos": [
+  {"t": 0.0, "tipo": "dia", "txt": "ONTEM"},
+  {"t": 0.0, "tipo": "eu", "txt": "Oi, boa tarde! Quero marcar uma consulta com a ginecologista", "hora": "14:47"},
+  {"t": 1.1, "tipo": "eu", "txt": "Tem horário essa semana?", "hora": "15:30"},
+  {"t": 2.3, "tipo": "ler"},
+  {"t": 2.3, "tipo": "ela", "txt": "Olá", "hora": "19:27"},
+  {"t": 2.5, "tipo": "ela", "txt": "Boa noite", "hora": "19:27"},
+  {"t": 2.8, "tipo": "ela", "txt": "Qual seu convênio?", "hora": "19:28"},
+  {"t": 3.8, "tipo": "eu", "txt": "SulAmérica", "hora": "19:30"},
+  {"t": 4.5, "tipo": "ler"},
+  {"t": 5.0, "tipo": "dia", "txt": "HOJE"},
+  {"t": 5.0, "tipo": "eu", "txt": "Bom dia! Conseguem ver pra mim?", "hora": "09:02"},
+  {"t": 6.0, "tipo": "eu", "txt": "Oi?? Alguém??", "hora": "11:43"},
+  {"t": 6.4, "tipo": "ler"},
+  {"t": 6.9, "tipo": "digitando", "txt": "Vou passar aí"},
+  {"t": 7.8, "tipo": "enviou"},
+  {"t": 7.8, "tipo": "eu", "txt": "Vou passar aí.", "hora": "11:44"}
+ ]
+}

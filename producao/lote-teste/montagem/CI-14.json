@@ -1,0 +1,229 @@
+{
+ "id": "CI-14",
+ "slug": "ci-14-nem-sempre-o-cliente-tem-razao",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "Nem sempre o cliente",
+   "tem razão."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "CI-14_s1",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "SEXTA",
+   "hora": [
+    14,
+    12,
+    5
+   ],
+   "marca": [
+    "SEXTA",
+    "14:12"
+   ],
+   "marca_de": 0.2,
+   "sfx_db": -8
+  },
+  {
+   "clip": "CI-14_s2",
+   "de": 0,
+   "ate": 7,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "SEXTA",
+   "hora": [
+    14,
+    12,
+    13
+   ],
+   "sfx_db": -8
+  },
+  {
+   "clip": "CI-14_s3",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEXTA",
+   "hora": [
+    14,
+    31,
+    2
+   ],
+   "marca": [
+    "14:31",
+    "CONSULTÓRIO"
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "CI-14_s4",
+   "de": 0,
+   "ate": 7,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEXTA",
+   "hora": [
+    14,
+    31,
+    10
+   ],
+   "sfx_db": -4
+  },
+  {
+   "clip": "CI-14_s5",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "SEXTA",
+   "hora": [
+    14,
+    36,
+    20
+   ],
+   "marca": [
+    "14:36",
+    "RECEPÇÃO"
+   ],
+   "sfx_db": -3
+  }
+ ],
+ "falas": [
+  {
+   "a": "CI-14_p1_t1",
+   "cena": 0,
+   "t": 0.6,
+   "texto": "Minha consulta era às duas! Já são duas e doze! Eu não vou ficar esperando, não!"
+  },
+  {
+   "a": "CI-14_r1_t1",
+   "cena": 0,
+   "t": 5.0,
+   "texto": "Senhora, o doutor já vai te chamar, tá? Só mais um minutinho."
+  },
+  {
+   "a": "CI-14_p2_t1",
+   "cena": 1,
+   "t": 0.6,
+   "texto": "E esse aí? Chegou depois de mim e vai entrar antes? Isso aqui é uma palhaçada!"
+  },
+  {
+   "a": "CI-14_o1_t1",
+   "cena": 2,
+   "t": 0.6,
+   "texto": "O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias."
+  },
+  {
+   "a": "CI-14_p3_t1",
+   "cena": 2,
+   "t": 5.0,
+   "texto": "Trinta dias? Eu pago particular pra sair daqui resolvida!"
+  },
+  {
+   "a": "CI-14_p4_t1",
+   "cena": 3,
+   "t": 1.2,
+   "texto": "Vocês só querem o meu dinheiro! Nunca mais eu piso aqui!"
+  },
+  {
+   "a": "CI-14_p5_t1",
+   "cena": 4,
+   "t": 2.2,
+   "texto": "Bando de incompetentes!"
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   640,
+   900
+  ],
+  "rec": 1.2,
+  "pausa": 8.6,
+  "cta_de": 5.1,
+  "cta_y": 800,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.8,
+    "y": 450,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Pacientes na recepção que viram tudo:"
+   },
+   {
+    "de": 0.5,
+    "ate": 3.8,
+    "y": 590,
+    "tam": 150,
+    "cor": "a",
+    "conta": [
+     9,
+     "",
+     ""
+    ]
+   },
+   {
+    "de": 1.4,
+    "ate": 3.8,
+    "y": 720,
+    "tam": 54,
+    "cor": "b",
+    "txt": "Ela não tinha razão."
+   },
+   {
+    "de": 2.0,
+    "ate": 3.8,
+    "y": 800,
+    "tam": 44,
+    "cor": "b",
+    "txt": "Mas a sala inteira viu como"
+   },
+   {
+    "de": 2.0,
+    "ate": 3.8,
+    "y": 856,
+    "tam": 44,
+    "cor": "b",
+    "txt": "a tua equipe reagiu."
+   },
+   {
+    "de": 3.95,
+    "y": 470,
+    "tam": 54,
+    "cor": "b",
+    "txt": "E nesse caso:"
+   },
+   {
+    "de": 4.3,
+    "y": 570,
+    "tam": 70,
+    "cor": "a",
+    "txt": "o paciente tem razão?"
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.5,
+     0.5
+    ]
+   ],
+   "impacto": [
+    1.0,
+    1.4
+   ],
+   "pop": [
+    1.4,
+    2.0,
+    3.95,
+    4.3,
+    5.1,
+    5.5,
+    5.9
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

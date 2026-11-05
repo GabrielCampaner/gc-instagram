@@ -48,6 +48,22 @@ SONS = {
     "E-06_p3": ("bright office in the morning, quiet room tone, soft air conditioning", SEM_FALA),
     "E-06_p4": ("bright office in the morning, a smartphone slid across a wooden desk, quiet room tone", SEM_FALA),
     "E-06_p5": ("bright office in the morning, quiet room tone, soft air conditioning", SEM_FALA),
+    "CI-14_s1": ("upscale clinic reception, a hand slapping hard on a marble counter twice, tense silence, "
+                 "patients shifting in their seats, soft air conditioning", SEM_FALA),
+    "CI-14_s2": ("upscale clinic reception, tense silence, a chair creak, uncomfortable murmur of patients", SEM_FALA),
+    "CI-14_s3": ("quiet elegant doctor's office, soft air conditioning hum, paper rustling, leather chair creak", SEM_FALA),
+    "CI-14_s4": ("doctor's office, a chair pushed back fast, papers and an envelope swept off a wooden desk and falling "
+                 "on the floor, a pen holder falling and pens scattering, fast footsteps leaving, a door opening", SEM_FALA),
+    "CI-14_s5": ("upscale clinic reception, fast angry high-heel footsteps on porcelain floor, a ceramic flower pot "
+                 "knocked off a counter and shattering on the floor, brochures and a card machine falling, "
+                 "a glass door closing, then shocked silence and a gasp", SEM_FALA),
+    "CI-15_s1": ("city sidewalk in an upscale neighborhood in the late morning, light traffic passing, distant birds, "
+                 "phone keyboard tapping, a child fidgeting", SEM_FALA),
+    "CI-15_s2": ("overcrowded clinic reception, two desk phones ringing at the same time, card machine beeping and "
+                 "printing a receipt, constant murmur of many patients, a glass door opening", "music, singing"),
+    "CI-15_s3": ("overcrowded clinic reception, desk phone ringing again and again, keyboard typing, card machine beeps, "
+                 "constant murmur of patients", "music, singing"),
+    "CI-15_s4": ("overcrowded clinic reception, desk phone ringing, murmur of patients, a glass door opening and closing", "music, singing"),
 }
 
 

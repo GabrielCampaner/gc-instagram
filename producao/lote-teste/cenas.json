@@ -133,6 +133,38 @@
       ],
       "n": 2,
       "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same lighting, same two people with the same faces and clothes. Change only this: Dra. Renata (same face and dark hair bun as the second reference) is now seated in her chair on the RIGHT side behind the desk, arms crossed, slightly annoyed, the tan handbag on the floor next to her chair. Gabriel stays seated on the LEFT, calm. About 1.5 meters apart across the desk. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-14_A",
+      "base": "CI-12_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same black marble counter with the warm LED strip, same walnut panels, same grey velvet armchairs, same plant, same glass wall at the back. Change only this: it is Friday afternoon (14:12). The man in navy scrubs is gone. The receptionist (young woman, black uniform, dark hair in a ponytail) stands behind the counter. Five well-dressed patients (ages 30 to 60) sit waiting in the armchairs and on a bench along the left wall; one of them is a man in his forties in a grey blazer, sitting closest to the counter. In front of the counter stands a woman about 55 years old, elegant, platinum-blonde chin-length bob, large dark sunglasses pushed up on her head, cream tailored blazer over a black top, gold necklace and earrings, a large tan designer leather handbag on her forearm: she leans forward with one palm flat on the marble, furious, mid-sentence, while the receptionist holds both hands up, open, trying to calm her. On the counter: a white orchid in a ceramic pot, the tablet, the desk phone, a small acrylic stand with folded brochures and a card machine. About one meter between the two women. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-14_C",
+      "refs": [
+        "producao/lote-teste/quadros/CI-14_A.jpg",
+        "producao/refs/ref_otavio.jpg"
+      ],
+      "n": 2,
+      "prompt": "The angry woman at the counter in the first reference image is the patient: keep exactly her face, her platinum-blonde bob, the sunglasses on her head, the cream blazer and the tan handbag. The man in the second reference image is the doctor: keep exactly his face, thin glasses, short hair and short beard, now in a white doctor's coat over a navy shirt. Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) mounted high on the side wall of the office, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. Friday afternoon (14:31) in his high-end private office: dark walnut desk, black leather chairs, a marble shelf with a few books, a large window with sheer curtains and soft daylight. The camera sees the desk from the side, so BOTH people are seen in three-quarter profile facing each other and BOTH faces are clearly visible (nobody has their back to the camera). The doctor sits behind the desk on the right, calm, holding a printed exam report in both hands and explaining. The patient sits on the left, arms crossed, handbag on her lap, frowning. On the desk: an open exam envelope, a few printed papers, a pen holder with pens, a glass of water, a closed laptop. They are about 1.5 meters apart across the desk."
+    },
+    {
+      "id": "CI-14_E",
+      "base": "CI-14_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame, room, furniture, objects on the counter and the same people (same faces and clothes). Change only this: it is a few minutes later (14:36). The angry woman with the platinum-blonde bob, sunglasses on her head, cream blazer and tan handbag is no longer at the counter: she has just come through the glass wall at the back and is walking fast across the reception toward the camera and the counter, furious, mouth open, one arm already swinging out toward the objects on the counter. The receptionist stands behind the counter, frozen, hands near her face. The seated patients look up at the woman, shocked. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-15_R",
+      "n": 2,
+      "prompt": "Vertical 9:16 photorealistic still frame, handheld phone-camera look, shallow depth of field, natural late-morning light. A sidewalk in an upscale Brazilian neighborhood, in front of the glass facade of a high-end women's health clinic (wood slats, plants, no readable sign). A woman about 38, Brazilian, shoulder-length dark-brown wavy hair, light linen blouse, jeans, a tote bag on her shoulder, stands on the sidewalk typing on her smartphone with her thumb, impatient, frowning at the screen; her daughter, about 6, in a school uniform with a small backpack, holds her other hand and looks up at her. Medium shot from the waist up, the phone screen faces her (we do not see the screen). No text, no readable signs, no logos, no watermark."
+    },
+    {
+      "id": "CI-15_A",
+      "base": "CI-11_D2",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same white marble reception counter with the gold trim and the LED glow, same wood slat wall, same cream armchairs, same glass facade and glass entrance door on the left. Change only this: it is Wednesday late morning (11:52) and the reception is overcrowded and chaotic: every armchair is taken, four more patients stand around waiting, two people lean on the counter. The doctor in the white coat is gone. The receptionist behind the counter (young woman, black blazer, hair in a bun) holds the desk phone receiver pinched between her shoulder and her ear while handing a card machine to a man at the counter; a second phone on the counter is ringing (its light is on). One of the two glass entrance doors is already open. Just inside the open door stands a woman about 38, shoulder-length dark-brown wavy hair, light linen blouse, jeans, tote bag on her shoulder, holding the hand of her daughter, about 6, in a school uniform with a small backpack; the woman looks around at the crowd, annoyed. Everything else stays identical. No text, no timestamp, no overlay."
     }
   ],
   "clipes": [
@@ -402,6 +434,69 @@
       "dur": 6,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the doctor in the white coat laughs, suspicious, shaking her head, and says a short sentence. the man in the navy shirt stays serious and calm and answers with one short sentence, looking at her. Both stay seated across the desk. Natural, subtle motion at real speed.",
       "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "CI-14_s1",
+      "quadro": "CI-14_A",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The furious woman with the platinum-blonde bob slaps her palm on the black marble counter twice and shouts at the receptionist, tapping her wristwatch; the receptionist keeps both palms up and answers calmly with a short sentence; the patients in the armchairs look up, uncomfortable. They stay about one meter apart, the counter between them. Natural motion at real speed."
+    },
+    {
+      "id": "CI-14_s2",
+      "quadro": "CI-14_B",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The furious woman with the platinum-blonde bob turns around toward the seated patients, points her finger at the man in the grey blazer and shouts at him; he raises both hands, surprised and embarrassed; the other patients look at each other; then she waves her hand at the whole room with contempt and turns back to the counter. Nobody touches anyone. Natural motion at real speed."
+    },
+    {
+      "id": "CI-14_s3",
+      "quadro": "CI-14_C",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed wall camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The doctor in the white coat calmly explains the printed exam report, then puts it down and speaks with a short, gentle gesture; the patient with the platinum-blonde bob listens with her arms crossed, her face hardens, she leans forward and answers sharply. Both stay seated across the desk. Natural, subtle motion at real speed."
+    },
+    {
+      "id": "CI-14_s4",
+      "quadro": "CI-14_D",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, hitting, punching, weapon, blood",
+      "prompt": "Security camera footage (CCTV) from a fixed wall camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The patient with the platinum-blonde bob suddenly stands up, sweeps her arm across the desk and knocks the papers, the exam envelope and the pen holder to the floor, the pens scatter; she points at the doctor and shouts, grabs her handbag and storms out of the frame. The doctor stays seated, calm, palms open, and does not react. They never touch. Natural motion at real speed."
+    },
+    {
+      "id": "CI-14_s5",
+      "quadro": "CI-14_E",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, hitting, punching, weapon, blood",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The furious woman with the platinum-blonde bob crosses the reception fast; passing the counter she sweeps her arm across it and knocks the white orchid pot, the brochure stand and the card machine to the floor, the ceramic pot breaks and soil and brochures spread on the floor; she keeps walking and leaves the frame at the bottom left without stopping. The receptionist covers her mouth with both hands; the seated patients stay frozen, mouths open, then look at each other. Natural motion at real speed."
+    },
+    {
+      "id": "CI-15_s1",
+      "quadro": "CI-15_R",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, readable phone screen",
+      "prompt": "Handheld phone-camera footage with a slight natural sway. Keep the woman, her daughter, the street and the light exactly as in the start frame (same faces, hair and clothes). The woman types on her smartphone with her thumb, waits, scrolls, sighs and shakes her head, types again, then lowers the phone, looks up at the clinic's glass facade and decides to go in; the daughter tugs her hand. We never see the phone screen. Natural motion at real speed."
+    },
+    {
+      "id": "CI-15_s2",
+      "quadro": "CI-15_A",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The woman with the dark wavy hair walks in with her daughter by the hand, goes straight to the crowded white marble counter and speaks to the receptionist with an annoyed, questioning gesture; the receptionist, with the phone receiver between shoulder and ear, still handing the card machine to the man, raises one finger asking her to wait without looking at her; the second phone keeps ringing; the patients around shift impatiently. Natural motion at real speed."
+    },
+    {
+      "id": "CI-15_s3",
+      "quadro": "CI-15_B",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. At the counter, the woman with the dark wavy hair explains with open hands, frustrated, holding up her phone for a second; the receptionist talks into the phone receiver at the same time, takes a credit card from another patient and types on the keyboard, barely looking at the woman; the daughter leans on her mother's leg, bored. Natural motion at real speed."
+    },
+    {
+      "id": "CI-15_s4",
+      "quadro": "CI-15_C",
+      "dur": 8,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The receptionist finally looks at the woman with the dark wavy hair for a second and answers with a quick, cheerful smile and a small shrug; the woman stares at her in disbelief, then shakes her head, takes her daughter by the hand and walks out through the open glass door; the receptionist picks up the ringing phone again. Natural motion at real speed."
     }
   ]
 }

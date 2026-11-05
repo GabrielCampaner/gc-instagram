@@ -143,3 +143,49 @@ Vídeo criado com IA. Os doutores são personagens fictícios. A voz é a minha,
 
 #gestaodeclinicas #consultoria #consultorio
 ```
+
+---
+
+## CI-14 · Nem sempre o cliente tem razão (Dr. Otávio)
+
+```text
+Nem sempre o cliente tem razão. E a recepção inteira está olhando.
+
+14h12: ela chega gritando que a consulta era às duas.
+14h31: o médico explica que o exame precisa ser repetido em 30 dias.
+14h36: ela derruba tudo do balcão e sai xingando.
+
+9 pacientes estavam na recepção e viram tudo (simulação). Eles não vão lembrar do grito. Vão lembrar de como a tua equipe reagiu.
+
+Tenha um protocolo pra esse dia: a recepção não discute, leva o paciente pra uma sala reservada, o responsável assume a conversa e tudo fica registrado. E o médico explica o porquê do prazo antes de dizer o prazo.
+
+E nesse caso: o paciente tem razão? Comenta aqui.
+
+Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
+
+Vídeo criado com IA. Personagens fictícios, situações reais. Números de simulação.
+
+#gestaodeclinicas #atendimento #recepcao
+```
+
+---
+
+## CI-15 · Recepção lotada não é paciente bem atendido (Clínica Venna)
+
+```text
+Recepção lotada não quer dizer paciente bem atendido.
+
+Ontem, 14h47: "quero marcar uma consulta com a ginecologista".
+19h27: "Qual seu convênio?". Ela respondeu. Ninguém mais respondeu.
+Hoje, 11h52: ela passou na clínica, com a filha, pra marcar pessoalmente. Ouviu: "pelo WhatsApp é bem mais rápido".
+
+280 minutos pra primeira resposta, e a consulta não foi marcada (números de exemplo). A recepção cheia esconde quem desistiu antes de entrar.
+
+Quem atende o balcão não dá conta do WhatsApp ao mesmo tempo. Separa as funções e mede uma coisa toda semana: quanto tempo leva a primeira resposta.
+
+Manda pra quem precisa ver, curte aqui e comenta EXAME que eu avalio o atendimento da tua clínica.
+
+Vídeo criado com IA. Personagens e clínica fictícios, situações reais. Números de simulação.
+
+#gestaodeclinicas #atendimento #recepcao
+```
