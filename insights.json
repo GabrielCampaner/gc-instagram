@@ -1,25 +1,212 @@
 {
-  "coletado_em": "2026-11-03T09:59:29.647Z",
+  "coletado_em": "2026-11-05T09:49:17.961Z",
   "conta": {
     "username": "gabrielcampaner",
-    "followers_count": 4687,
-    "follows_count": 379,
-    "media_count": 1740,
+    "followers_count": 4685,
+    "follows_count": 380,
+    "media_count": 1751,
     "id": "29429052136706930"
   },
   "ultimos_7_dias": {
-    "reach": 1256,
-    "views": 8254,
-    "accounts_engaged": 78,
-    "total_interactions": 263,
-    "likes": 157,
-    "comments": 21,
-    "shares": 26,
-    "saves": 6,
+    "reach": 1679,
+    "views": 11487,
+    "accounts_engaged": 106,
+    "total_interactions": 353,
+    "likes": 184,
+    "comments": 29,
+    "shares": 50,
+    "saves": 10,
     "follows_and_unfollows": null,
     "profile_links_taps": 0
   },
   "posts": [
+    {
+      "id": "17990059311117277",
+      "gc": "MD-01",
+      "quando": "2026-11-04T23:30:12+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DfVo-xOifTP/",
+      "inicio": "Agenda cheia não é sorte. É rotina.",
+      "metricas": {
+        "reach": 69,
+        "views": 155,
+        "likes": 1,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "id": "18172949395460363",
+      "gc": "L3-03",
+      "quando": "2026-11-04T21:30:31+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DfVbSZIFIP6/",
+      "inicio": "Os mesmos 40 minutos podem virar consulta paga ou avaliação para quem só queria ",
+      "metricas": {
+        "reach": 26,
+        "views": 82,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "id": "18119845480778792",
+      "gc": null,
+      "quando": "2026-11-04T20:00:07+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DfVQ98NpLMF/",
+      "inicio": "Na Clínica da Dra. Renata é assim. Todo dia ela chega atrasada e isso faz com qu",
+      "metricas": {
+        "reach": 772,
+        "views": 1423,
+        "likes": 12,
+        "comments": 4,
+        "shares": 8,
+        "saved": 2,
+        "total_interactions": 28
+      }
+    },
+    {
+      "id": "17953311741306097",
+      "gc": "OD05",
+      "quando": "2026-11-04T15:30:34+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DfUyGfmIGLT/",
+      "inicio": "Hoje começa um quadro novo aqui: eu vestindo o teu jaleco pra viver um dia teu. ",
+      "metricas": {
+        "reach": 385,
+        "views": 848,
+        "likes": 17,
+        "comments": 0,
+        "shares": 2,
+        "saved": 0,
+        "total_interactions": 21
+      }
+    },
+    {
+      "id": "17915978667517262",
+      "gc": "L3-33",
+      "quando": "2026-11-04T11:30:13+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DfUWlZAm2eV/",
+      "inicio": "62% dos gestores querem aumentar o faturamento em 2026. E 54% ainda medem sucess",
+      "metricas": {
+        "reach": 39,
+        "views": 81,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 4
+      }
+    },
+    {
+      "id": "18109916978274289",
+      "gc": null,
+      "quando": "2026-11-03T22:00:15+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DfS5_Rdpyov/",
+      "inicio": "Quanto mais você se torna disponível para o seu cliente, menos ele te valoriza. ",
+      "metricas": {
+        "reach": 70,
+        "views": 98,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 7
+      }
+    },
+    {
+      "id": "17912509551305661",
+      "gc": "L3-01",
+      "quando": "2026-11-03T21:30:30+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DfS2fVHlPNW/",
+      "inicio": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.",
+      "metricas": {
+        "reach": 61,
+        "views": 178,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 6
+      }
+    },
+    {
+      "id": "18230031415327520",
+      "gc": "ODR1",
+      "quando": "2026-11-03T18:00:31+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DfSedXxFI03/",
+      "inicio": "A eleição acabou e ainda tem muita gente discutindo resultado. Enquanto isso, o ",
+      "metricas": {
+        "reach": 288,
+        "views": 703,
+        "likes": 8,
+        "comments": 4,
+        "shares": 12,
+        "saved": 2,
+        "total_interactions": 28
+      }
+    },
+    {
+      "id": "18000969453010009",
+      "gc": "OD04",
+      "quando": "2026-11-03T15:30:45+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DfSNUTDESeU/",
+      "inicio": "Postar todo dia dá trabalho. E dá uma sensação boa de que alguma coisa tá aconte",
+      "metricas": {
+        "reach": 247,
+        "views": 592,
+        "likes": 7,
+        "comments": 2,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 10
+      }
+    },
+    {
+      "id": "17890863309477211",
+      "gc": null,
+      "quando": "2026-11-03T13:24:48+0000",
+      "tipo": "reels",
+      "link": "https://www.instagram.com/reel/DfR-u6AxDUQ/",
+      "inicio": "Novembro é o mês da prevenção para o câncer de próstata e o MC Urologia fez a le",
+      "metricas": {
+        "reach": 163,
+        "views": 255,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 8
+      }
+    },
+    {
+      "id": "18227991028335979",
+      "gc": "L3-12",
+      "quando": "2026-11-03T11:30:12+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DfRxyavG4dW/",
+      "inicio": "21h47. O mesmo paciente mandou mensagem para duas clínicas.",
+      "metricas": {
+        "reach": 86,
+        "views": 180,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2
+      }
+    },
     {
       "id": "18643625140015443",
       "gc": "GC-14",
@@ -28,8 +215,8 @@
       "link": "https://www.instagram.com/p/DfQRufbkogD/",
       "inicio": "Aqui no Ceará, a rede estadual de saúde reduziu as faltas de 35,5% para 23,2% co",
       "metricas": {
-        "reach": 36,
-        "views": 93,
+        "reach": 48,
+        "views": 122,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -45,13 +232,13 @@
       "link": "https://www.instagram.com/reel/DfQAgeFpM3B/",
       "inicio": "Você não tem problema de Lead, você ja tem clientes na sua base. O problema é qu",
       "metricas": {
-        "reach": 85,
-        "views": 149,
-        "likes": 10,
+        "reach": 122,
+        "views": 206,
+        "likes": 11,
         "comments": 2,
         "shares": 1,
         "saved": 0,
-        "total_interactions": 15
+        "total_interactions": 16
       }
     },
     {
@@ -62,8 +249,8 @@
       "link": "https://www.instagram.com/p/DfPogcem9HD/",
       "inicio": "Tem paciente que some e a clínica nem fica sabendo que ele existiu.",
       "metricas": {
-        "reach": 106,
-        "views": 235,
+        "reach": 124,
+        "views": 276,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -79,8 +266,8 @@
       "link": "https://www.instagram.com/p/DfPM_kiETWe/",
       "inicio": "O Brasil deve fechar 2025 com 635.706 médicos em atividade. Em 2000 eram 205.296",
       "metricas": {
-        "reach": 48,
-        "views": 93,
+        "reach": 58,
+        "views": 112,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -96,8 +283,8 @@
       "link": "https://www.instagram.com/p/DfNs7XqH7Hh/",
       "inicio": "Você não receita a mesma dose para todo paciente. Por que a recepção manda a mes",
       "metricas": {
-        "reach": 46,
-        "views": 136,
+        "reach": 55,
+        "views": 158,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -113,13 +300,13 @@
       "link": "https://www.instagram.com/reel/DfNmYC-RP0o/",
       "inicio": "No meio do final de semana, num feriado prolongado, após o expediente, os pacien",
       "metricas": {
-        "reach": 168,
-        "views": 273,
-        "likes": 7,
+        "reach": 173,
+        "views": 284,
+        "likes": 8,
         "comments": 4,
         "shares": 4,
         "saved": 0,
-        "total_interactions": 16
+        "total_interactions": 17
       }
     },
     {
@@ -130,8 +317,8 @@
       "link": "https://www.instagram.com/p/DfNDutckZ79/",
       "inicio": "Faturar bem e não saber quanto ganha é muito mais comum do que parece. E é das c",
       "metricas": {
-        "reach": 429,
-        "views": 1089,
+        "reach": 450,
+        "views": 1161,
         "likes": 10,
         "comments": 0,
         "shares": 1,
@@ -147,8 +334,8 @@
       "link": "https://www.instagram.com/p/DfMoMvTEUKV/",
       "inicio": "Cerca de 3 em cada 4 brasileiros não têm plano de saúde.",
       "metricas": {
-        "reach": 43,
-        "views": 81,
+        "reach": 47,
+        "views": 86,
         "likes": 2,
         "comments": 0,
         "shares": 1,
@@ -164,8 +351,8 @@
       "link": "https://www.instagram.com/p/DfLII07kmNf/",
       "inicio": "Toda clínica atende os quatro. Toda semana.",
       "metricas": {
-        "reach": 95,
-        "views": 237,
+        "reach": 99,
+        "views": 251,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -181,13 +368,13 @@
       "link": "https://www.instagram.com/p/DfKe797kY90/",
       "inicio": "Todo dono de clínica já foi pelo menos um desses. Desde 2009 eu encontro os trez",
       "metricas": {
-        "reach": 379,
-        "views": 890,
-        "likes": 10,
+        "reach": 401,
+        "views": 942,
+        "likes": 12,
         "comments": 3,
         "shares": 0,
         "saved": 2,
-        "total_interactions": 18
+        "total_interactions": 20
       }
     },
     {
@@ -198,8 +385,8 @@
       "link": "https://www.instagram.com/p/DfJ1q2sHM9o/",
       "inicio": "Paciente achou caro? Antes de dar desconto, olha o que ele ouviu.",
       "metricas": {
-        "reach": 196,
-        "views": 357,
+        "reach": 203,
+        "views": 374,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -215,8 +402,8 @@
       "link": "https://www.instagram.com/p/DfIjUNTCWaH/",
       "inicio": "Domingo começa o Novembro Azul. Muita clínica vai postar um laço azul. Quase nen",
       "metricas": {
-        "reach": 47,
-        "views": 131,
+        "reach": 52,
+        "views": 138,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -232,8 +419,8 @@
       "link": "https://www.instagram.com/reel/DfIVECtRnyc/",
       "inicio": "Ele falou a língua do público, engajou, cresceu muito e ajudou a divulgar uma do",
       "metricas": {
-        "reach": 203,
-        "views": 284,
+        "reach": 206,
+        "views": 288,
         "likes": 3,
         "comments": 4,
         "shares": 0,
@@ -249,13 +436,13 @@
       "link": "https://www.instagram.com/p/DfHQ4AVG-RP/",
       "inicio": "75% das clínicas investem em anúncio pago e 67% nunca mapearam a jornada do paci",
       "metricas": {
-        "reach": 90,
-        "views": 149,
+        "reach": 92,
+        "views": 155,
         "likes": 4,
-        "comments": 0,
+        "comments": 2,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 5
+        "total_interactions": 7
       }
     },
     {
@@ -266,7 +453,7 @@
       "link": "https://www.instagram.com/reel/DfF-ghjsJis/",
       "inicio": "A hora que ninguém atendeu também foi paga.",
       "metricas": {
-        "reach": 90,
+        "reach": 91,
         "views": 136,
         "likes": 5,
         "comments": 0,
@@ -283,8 +470,8 @@
       "link": "https://www.instagram.com/p/DfE5z-YFPaS/",
       "inicio": "Faturamento é o que todo mundo olha.",
       "metricas": {
-        "reach": 106,
-        "views": 221,
+        "reach": 112,
+        "views": 232,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -300,8 +487,8 @@
       "link": "https://www.instagram.com/p/DfDZwASAULe/",
       "inicio": "Isso Não É Sério, episódio 1: \"fature 3x em 90 dias\".",
       "metricas": {
-        "reach": 76,
-        "views": 188,
+        "reach": 78,
+        "views": 191,
         "likes": 6,
         "comments": 0,
         "shares": 0,
@@ -317,8 +504,8 @@
       "link": "https://www.instagram.com/reel/DfDKeZeRDi9/",
       "inicio": "Essa pesquisa que eu fiz durante o período eleitoral releva de forma clara que n",
       "metricas": {
-        "reach": 151,
-        "views": 250,
+        "reach": 152,
+        "views": 251,
         "likes": 12,
         "comments": 0,
         "shares": 0,
@@ -334,8 +521,8 @@
       "link": "https://www.instagram.com/p/DfCVBMNkevs/",
       "inicio": "Antes de colocar mais dinheiro em anúncio, olhe para os furos.",
       "metricas": {
-        "reach": 264,
-        "views": 481,
+        "reach": 268,
+        "views": 482,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -352,7 +539,7 @@
       "inicio": "Laudo da Semana. Paciente: uma clínica de dermatologia que faturava bem e não sa",
       "metricas": {
         "reach": 116,
-        "views": 311,
+        "views": 312,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -385,8 +572,8 @@
       "link": "https://www.instagram.com/p/De_ifa1myZE/",
       "inicio": "Dá para ter a agenda cheia e fechar o mês no vermelho. Acontece mais do que pare",
       "metricas": {
-        "reach": 194,
-        "views": 362,
+        "reach": 198,
+        "views": 367,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -402,8 +589,8 @@
       "link": "https://www.instagram.com/p/De-QKSSGTsw/",
       "inicio": "A hora mais cara da sua clínica é a hora vazia. E ela não aparece em nenhum rela",
       "metricas": {
-        "reach": 213,
-        "views": 484,
+        "reach": 215,
+        "views": 485,
         "likes": 7,
         "comments": 0,
         "shares": 2,
@@ -419,8 +606,8 @@
       "link": "https://www.instagram.com/p/De89scplSTd/",
       "inicio": "Atender é a parte que todo mundo quer fazer. Ligar para quem não voltou é a part",
       "metricas": {
-        "reach": 439,
-        "views": 803,
+        "reach": 443,
+        "views": 804,
         "likes": 6,
         "comments": 0,
         "shares": 2,
@@ -436,8 +623,8 @@
       "link": "https://www.instagram.com/p/De7rXNiktjq/",
       "inicio": "Quanto mais rápido a recepção passa o preço, menos paciente agenda.",
       "metricas": {
-        "reach": 96,
-        "views": 252,
+        "reach": 98,
+        "views": 256,
         "likes": 4,
         "comments": 0,
         "shares": 1,
@@ -453,8 +640,8 @@
       "link": "https://www.instagram.com/p/De6Y5julTiB/",
       "inicio": "Desde 2009, em mais de 40 especialidades, eu vi profissional excelente fechar o ",
       "metricas": {
-        "reach": 192,
-        "views": 335,
+        "reach": 195,
+        "views": 339,
         "likes": 2,
         "comments": 0,
         "shares": 0,
@@ -470,8 +657,8 @@
       "link": "https://www.instagram.com/p/De5GkcooEzZ/",
       "inicio": "Hoje às 21h, faz um teste: manda \"Oi, boa noite. Quanto custa uma avaliação?\" pa",
       "metricas": {
-        "reach": 84,
-        "views": 241,
+        "reach": 85,
+        "views": 243,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -487,7 +674,7 @@
       "link": "https://www.instagram.com/p/De30Gx6m4EU/",
       "inicio": "Se só você sabe passar o valor, a sua clínica fica parada toda vez que você entr",
       "metricas": {
-        "reach": 229,
+        "reach": 230,
         "views": 402,
         "likes": 0,
         "comments": 0,
@@ -521,8 +708,8 @@
       "link": "https://www.instagram.com/p/De1PT2blZJ9/",
       "inicio": "A sua recepção não é ruim. Ela atende telefone, balcão e WhatsApp ao mesmo tempo",
       "metricas": {
-        "reach": 335,
-        "views": 641,
+        "reach": 338,
+        "views": 642,
         "likes": 10,
         "comments": 0,
         "shares": 2,
@@ -572,7 +759,7 @@
       "link": "https://www.instagram.com/p/DeyqhDLnMgH/",
       "inicio": "Preço copiado traz junto o aluguel, a agenda e a margem de outra clínica. Nenhum",
       "metricas": {
-        "reach": 137,
+        "reach": 138,
         "views": 221,
         "likes": 3,
         "comments": 0,
@@ -606,8 +793,8 @@
       "link": "https://www.instagram.com/p/DewFuKukTdp/",
       "inicio": "O seu paciente não comparou currículos. Mandou mensagem para três clínicas e mar",
       "metricas": {
-        "reach": 157,
-        "views": 294,
+        "reach": 158,
+        "views": 295,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -681,193 +868,6 @@
         "shares": 0,
         "saved": 0,
         "total_interactions": 10
-      }
-    },
-    {
-      "id": "18043467071642792",
-      "gc": null,
-      "quando": "2026-10-19T11:45:58+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DerLhZnxyb3/",
-      "inicio": "Segundou. E ai? Quais as suas metas nessa semana? Só atender? ",
-      "metricas": {
-        "reach": 112,
-        "views": 185,
-        "likes": 9,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1,
-        "total_interactions": 11
-      }
-    },
-    {
-      "id": "17993857089058614",
-      "gc": null,
-      "quando": "2026-10-18T14:04:23+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/Deo2anXxcB5/",
-      "inicio": "Feliz Dia do Médico. Sim hoje é um dia para comemorar para o profissional. ",
-      "metricas": {
-        "reach": 243,
-        "views": 333,
-        "likes": 15,
-        "comments": 2,
-        "shares": 2,
-        "saved": 0,
-        "total_interactions": 22
-      }
-    },
-    {
-      "id": "18119963117069308",
-      "gc": null,
-      "quando": "2026-10-17T14:07:21+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DemSFD6RU8E/",
-      "inicio": "Consulcoach em Ação (contém muuuuitaaa ironia) 🤣🤣 Quem ai também conhece um as",
-      "metricas": {
-        "reach": 464,
-        "views": 737,
-        "likes": 9,
-        "comments": 6,
-        "shares": 1,
-        "saved": 0,
-        "total_interactions": 18
-      }
-    },
-    {
-      "id": "17969037776964071",
-      "gc": null,
-      "quando": "2026-10-16T20:41:03+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DekaKSvRMxG/",
-      "inicio": "Escala 6 x 1 e a sua clínica. Veja o que fazer",
-      "metricas": {
-        "reach": 524,
-        "views": 837,
-        "likes": 23,
-        "comments": 0,
-        "shares": 0,
-        "saved": 2,
-        "total_interactions": 27
-      }
-    },
-    {
-      "id": "18130829083827882",
-      "gc": null,
-      "quando": "2026-10-16T17:27:06+0000",
-      "tipo": "image",
-      "link": "https://www.instagram.com/p/DekEVXBRW4G/",
-      "inicio": "Eu e minha sócia de vida no Troféu Check UP ❤️",
-      "metricas": {
-        "reach": 1000,
-        "views": 1814,
-        "likes": 126,
-        "comments": 6,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 132
-      }
-    },
-    {
-      "id": "18117047300016961",
-      "gc": null,
-      "quando": "2026-10-15T20:00:09+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DehxGk3hpRs/",
-      "inicio": "Quem promete triplicar seu faturamento em 90 dias, sem ver teus números de fato ",
-      "metricas": {
-        "reach": 118,
-        "views": 184,
-        "likes": 4,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 6
-      }
-    },
-    {
-      "id": "18103541210310730",
-      "gc": null,
-      "quando": "2026-10-15T10:00:06+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DegscqYBIY1/",
-      "inicio": "Você paga para trabalhar? Possivelmente sim. Quem não sabe precificar a sua cons",
-      "metricas": {
-        "reach": 105,
-        "views": 166,
-        "likes": 23,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 25
-      }
-    },
-    {
-      "id": "18230404480335890",
-      "gc": null,
-      "quando": "2026-10-14T20:00:05+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DefMRlLhV9b/",
-      "inicio": "Todo mundo quer fazer gol. Ser atacante. E na maioria das clinicas, ninguém quer",
-      "metricas": {
-        "reach": 93,
-        "views": 133,
-        "likes": 8,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 9
-      }
-    },
-    {
-      "id": "18018856046950336",
-      "gc": null,
-      "quando": "2026-10-14T10:10:05+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DeeIxGMhfMg/",
-      "inicio": "Ela detest@u a Trinca 😵🙈",
-      "metricas": {
-        "reach": 336,
-        "views": 631,
-        "likes": 33,
-        "comments": 4,
-        "shares": 9,
-        "saved": 1,
-        "total_interactions": 51
-      }
-    },
-    {
-      "id": "18106204046195518",
-      "gc": null,
-      "quando": "2026-10-13T20:00:08+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DecndgHB6sc/",
-      "inicio": "Em qual nível a sua clinica está? Link na BIO e receba o aeu plano de ação. ",
-      "metricas": {
-        "reach": 143,
-        "views": 246,
-        "likes": 12,
-        "comments": 4,
-        "shares": 2,
-        "saved": 1,
-        "total_interactions": 22
-      }
-    },
-    {
-      "id": "18131062357749673",
-      "gc": null,
-      "quando": "2026-10-13T10:08:17+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/DebjWj4up2q/",
-      "inicio": "Você é super específico na parte técnica da sua clínica. E porque você gere sua ",
-      "metricas": {
-        "reach": 219,
-        "views": 325,
-        "likes": 17,
-        "comments": 0,
-        "shares": 1,
-        "saved": 0,
-        "total_interactions": 20
       }
     }
   ]
