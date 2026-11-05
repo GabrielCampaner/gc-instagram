@@ -20,6 +20,7 @@ MEDIA = os.path.join(AQUI, "media")
 PEDIDOS = os.path.join(MEDIA, "pedidos.json")
 VEO = "fal-ai/veo3.1/fast/image-to-video"
 NBP = "fal-ai/nano-banana-pro/edit"
+NBP_T2I = "fal-ai/nano-banana-pro"  # sem imagem de entrada
 USD_VIDEO_S = 0.10
 USD_IMAGEM = 0.15
 DOLAR = 5.48
@@ -95,17 +96,19 @@ def quadros(ids):
             if faltando:
                 print("sem imagem de entrada, pulando", q["id"], faltando)
                 continue
-            r = http("POST", f"https://queue.fal.run/{NBP}", {
-                "prompt": q["prompt"], "image_urls": [data_uri(p) for p in imgs],
-                "aspect_ratio": "9:16", "resolution": "2K", "num_images": q.get("n", 2),
-                "output_format": "jpeg"})
+            corpo = {"prompt": q["prompt"], "aspect_ratio": "9:16", "resolution": "2K",
+                     "num_images": q.get("n", 2), "output_format": "jpeg"}
+            if imgs:
+                corpo["image_urls"] = [data_uri(p) for p in imgs]
+            r = http("POST", f"https://queue.fal.run/{NBP if imgs else NBP_T2I}", corpo)
             pedidos[chave_p] = r["request_id"]
             salvar_pedidos(pedidos)
             print("enviado", q["id"], r["request_id"])
     for q in alvo:
         if "quadro:" + q["id"] not in pedidos:
             continue
-        res = esperar(NBP, pedidos["quadro:" + q["id"]])
+        ep = NBP if (q.get("base") or q.get("refs")) else NBP_T2I
+        res = esperar(ep, pedidos["quadro:" + q["id"]])
         for i, im in enumerate(res.get("images", []), 1):
             baixar(im["url"], os.path.join(QUADROS, f"{q['id']}_v{i}.jpg"))
     print("Escolha a variação e copie para quadros/<id>.jpg (ex.: E-01_B_v1.jpg -> E-01_B.jpg).")
