@@ -10,3 +10,4 @@ producao/*/build/*.txt
 producao/*/build/*.ass
 __pycache__/
 producao/*/quadros/*_v[0-9].jpg
+producao/*/gravacoes/
