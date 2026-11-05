@@ -1,0 +1,192 @@
+{
+ "id": "CI-12",
+ "slug": "ci-12-quinze-mil-de-trafego",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "O Dr. Otávio dobrou o anúncio.",
+   "Ninguém contou quem agendou."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "CI-12_a",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    9,
+    10,
+    6
+   ],
+   "marca": [
+    "SEGUNDA",
+    "9:10 DA MANHÃ"
+   ],
+   "sfx_db": -8
+  },
+  {
+   "clip": "CI-12_b",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "QUARTA",
+   "hora": [
+    11,
+    30,
+    40
+   ],
+   "marca": [
+    "QUARTA",
+    "11:30 DA MANHÃ"
+   ],
+   "sfx_db": -2
+  },
+  {
+   "clip": "CI-12_c",
+   "de": 0,
+   "ate": 6,
+   "vel": 0.9,
+   "hold": 0.4,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "SEXTA",
+   "hora": [
+    18,
+    50,
+    3
+   ],
+   "marca": [
+    "SEXTA",
+    "18:50"
+   ],
+   "sfx_db": -8
+  }
+ ],
+ "falas": [
+  {
+   "a": "CI-12_o1_t1",
+   "cena": 0,
+   "t": 1.0,
+   "texto": "Pode subir pra quinze mil esse mês. Quero agenda cheia!"
+  },
+  {
+   "a": "CI-12_r1_t2",
+   "cena": 1,
+   "t": 1.6,
+   "texto": "Só um minutinho, senhora… Clínica, bom dia?"
+  },
+  {
+   "a": "CI-12_o2_t1",
+   "cena": 2,
+   "t": 0.5,
+   "texto": "E aí? Quantos agendaram do anúncio?"
+  },
+  {
+   "a": "CI-12_r2_t1",
+   "cena": 2,
+   "t": 2.95,
+   "texto": "Ah… não sei, doutor. Não deu tempo de olhar."
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   480,
+   760
+  ],
+  "rec": 1.2,
+  "pausa": 7.2,
+  "cta_de": 4.8,
+  "cta_y": 780,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.5,
+    "y": 470,
+    "tam": 56,
+    "cor": "b",
+    "txt": "R$ 15 mil em anúncio"
+   },
+   {
+    "de": 0.6,
+    "ate": 3.5,
+    "y": 590,
+    "tam": 104,
+    "cor": "b",
+    "conta": [
+     212,
+     "",
+     " conversas"
+    ]
+   },
+   {
+    "de": 1.5,
+    "ate": 3.5,
+    "y": 730,
+    "tam": 104,
+    "cor": "a",
+    "conta": [
+     9,
+     "",
+     " agendamentos"
+    ],
+    "dcont": 0.3
+   },
+   {
+    "de": 2.4,
+    "ate": 3.5,
+    "y": 860,
+    "tam": 56,
+    "cor": "v",
+    "txt": "Ninguém mediu."
+   },
+   {
+    "de": 2.6,
+    "ate": 3.5,
+    "y": 940,
+    "tam": 30,
+    "cor": "c",
+    "txt": "simulação · números de exemplo",
+    "fonte": "r"
+   },
+   {
+    "de": 3.65,
+    "y": 470,
+    "tam": 60,
+    "cor": "b",
+    "txt": "Anúncio traz gente."
+   },
+   {
+    "de": 4.05,
+    "y": 565,
+    "tam": 60,
+    "cor": "a",
+    "txt": "Quem agenda é a resposta."
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.6,
+     0.6
+    ],
+    [
+     1.5,
+     0.3
+    ]
+   ],
+   "impacto": [
+    1.2,
+    1.8
+   ],
+   "pop": [
+    2.4,
+    4.05,
+    4.8
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

@@ -25,13 +25,20 @@
 - Reel final em `midia/<slug>/reels.mp4`, 1080×1920, 30 qps.
 - Série Circuito Interno: vídeos curtos, com direcionamento claro e legenda caprichada. Cada cena abre com a marcação grande no meio da tela, "DIA 1" e "7:58 DA MANHÃ" (amarelo), por ~2 s; legendas das falas em amarelo com contorno preto, longe dos 20% de baixo; letreiro REC/CAM/hora no topo e selo "SIMULAÇÃO · IA".
 - Chamada final: "Comenta DIAGNÓSTICO" em amarelo e, embaixo, pequeno em branco, "entenda como ganhar mais dinheiro sem perder a agenda" (não "Comenta 7"). Sem selfie no fim.
+- O CI-01 já foi publicado e está fechado: não mexer mais nele. Ele é a referência de formato para os próximos.
+- Público pagante: doutores de 35 a 55 anos que ainda investem, vivem na correria, atendem muito plano, fazem conta e não sabem se o mês fechou (mentalidade antiga, mas bom pagante). Personagens dessa idade.
+- Cenários de alto padrão (mármore, madeira, clínica chique) para contrastar com a dor. Evitar clínica com cara de popular ou antiga. Dores fortes do dia a dia: investiu na clínica e não teve retorno, tráfego pago sem medir conversão, desconto por medo de falar preço, faturamento sem saber se sobrou.
+- Todo vídeo sai com três peças: o Reel, a capa (1080×1920, manchete dentro da faixa central 3:4) e a legenda do post (primeira linha forte, história, conta, dica prática, chamada, aviso de IA).
+- Abertura sem tela preta: a frase de gancho vai no topo da primeira cena. Fechamento forte: o último quadro congela, a câmera dá zoom em REC, a gravação "pausa", a conta aparece com os números subindo, depois a frase e a chamada.
 
 ## Lote de teste (5S-01, CI-09, PO-02, E-01, E-02, E-05)
 
 - Tudo em `producao/lote-teste/`: `quadros/` (quadros iniciais escolhidos), `cenas.json` (prompts dos 18 clipes e dos 2 quadros extras), `gerar_fal.py`.
 - Canvas no ElevenLabs: flow `OXRmzVQrrGmtzwtid4ac`, com os 13 clipes do 5S-01, CI-09, PO-02, E-01 e E-02 já ligados ao quadro inicial. Os 5 do E-05 só estão no `cenas.json`.
 - Referências dos personagens (recortes dos carrosséis): `producao/refs/`. O Gabriel é gerado como nos carrosséis: sem óculos, camisa azul-marinho de manga longa, relógio. Sempre à esquerda do quadro; o doutor à direita.
-- Revisão de 05/11/2026 (esperando o ok do Gabriel): os 6 mais fortes para gerar primeiro são CI-09, PO-02 e CI-02 (sem o Gabriel) e E-06, E-02 e E-04 (com ele). 5S-01, E-01 e E-05 ficam para depois (os quadros deles já estão salvos). E-14 tem 5 pessoas em cena: risco alto de a IA errar.
+- 05/11/2026: os 3 sem o Gabriel viraram roteiros novos de alto padrão: CI-11 (Dra. Helena, clínica nova com agenda de plano), CI-12 (Dr. Otávio, R$ 15 mil de tráfego sem medir) e CI-13 (Dra. Sofia, desconto que ninguém pediu), mais o PO-02 (Dr. Caio no carro). O CI-02 (Dr. Mauro, clínica simples) e o CI-09 (o clipe saiu com balões roxos falsos no celular) ficaram de reserva. Com o Gabriel: E-06, E-02 e E-04, esperando a gravação da voz dele.
+- Esteira, tudo pelo fal.ai (chave em `FAL_KEY`): `gerar_fal.py quadros|videos <ids>` (Nano Banana Pro e Veo 3.1 Fast), `falar_fal.py` (Eleven v4 com vozes da biblioteca, `falas.json`), `sons_fal.py` (Mirelo SFX: som ambiente gerado a partir do próprio vídeo). Montagem: `producao/pipeline/montar_ci.py producao/lote-teste/montagem/<id>.json`; capas: `producao/pipeline/capa.py producao/lote-teste/montagem/capas.json`. Saída em `producao/lote-teste/saida/`; legendas de post em `producao/lote-teste/legendas_post.md`.
+- O Veo às vezes barra um clipe por "content checker" (aconteceu com o tablet de desenho de corpo da Dra. Sofia); refazer o pedido costuma passar. Às vezes ele inventa letreiro na tela: cortar na montagem (`crop` no JSON) em vez de gerar de novo.
 - Ainda não há voz salva para Otávio, Helena, Caio e Lucas. As falas do Gabriel são gravação dele (caminho 1 do plano "Os Doutores em cena").
 
 ## Lições dos prompts de vídeo (CI-01)

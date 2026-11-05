@@ -11,82 +11,305 @@
       "id": "E-05_B",
       "base": "E-05_A",
       "prompt": "Edit the reference image. Keep the exact same security camera frame: same camera angle, same staff kitchen, same lighting and colors, same two men with the same faces and clothes. Change only this: Gabriel (navy button-up shirt) now sits on the chair on the LEFT side of the small round table, facing Dr. Caio across it, his small coffee cup on the table in front of him, forearms resting on the table. Dr. Caio (RIGHT, teal scrubs) still sits on the right side holding the half-eaten sandwich, looking at Gabriel. About one meter apart across the table, faces never close. Remove the ceiling dome camera from the top right corner of the frame. Everything else stays identical. No text, no timestamp, no overlay, no watermark."
+    },
+    {
+      "id": "CI-02_D1",
+      "refs": [
+        "producao/refs/ref_mauro_recepcao.jpg"
+      ],
+      "n": 2,
+      "prompt": "Create a new image in the style of the reference photo's modest Brazilian clinic: light blue painted walls, blue plastic waiting chairs, a white wall fan, beige ceramic floor. Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no timestamp, no overlay, no watermark, no logos. The reception of Dr. Mauro's small clinic, early morning (7:55). On the left of the frame, a glass entrance door with one leaf already wide open. A white reception counter in the middle-right with a steel thermos coffee pot, a stack of small white plastic cups, a sugar bowl and a desk phone; a computer monitor behind it. Behind the counter stands the receptionist: a Brazilian woman in her late twenties, dark curly hair in a ponytail, light blue scrubs top, friendly. She is pouring coffee from the thermos into a small plastic cup for an elderly man patient in a plaid shirt standing at the counter. Two other patients sit on the blue chairs. A split air conditioner on the wall above the counter. Everyone fully visible, faces small but natural."
+    },
+    {
+      "id": "CI-02_D2",
+      "base": "CI-02_D1",
+      "refs": [
+        "producao/refs/ref_mauro.jpg"
+      ],
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same reception, same counter, same open glass door leaf, same lighting, same receptionist (now sitting behind the counter, looking up). Change only this: the patients are gone and the waiting chairs are empty. Dr. Mauro, the older man from the second reference image (bald, white mustache, white lab coat over a navy and white striped polo shirt, gold wristwatch), stands at the front of the counter, about two meters from the receptionist, with one hand on the steel thermos coffee pot, about to pick it up. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-02_D30",
+      "base": "CI-02_D1",
+      "refs": [
+        "producao/refs/ref_mauro.jpg"
+      ],
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same reception, same counter, same open glass door leaf, same receptionist. Change only this: it is now late afternoon (17:00), warmer and dimmer light, the waiting chairs are empty and the thermos and cups are gone from the counter. The counter is now covered with tall untidy stacks of colored paper folders (patient treatment quotes). The receptionist stands behind the counter pointing at the stacks of folders. Dr. Mauro, the older man from the second reference image (bald, white mustache, white lab coat over a navy and white striped polo shirt, gold wristwatch), stands in front of the counter about two meters from her, holding a small white air-conditioner remote control pointed up at the split air conditioner on the wall. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-11_D1",
+      "refs": [
+        "producao/refs/ref_helena.jpg",
+        "producao/refs/ref_helena_gabriel.jpg"
+      ],
+      "n": 2,
+      "prompt": "The woman in the reference images is Dra. Helena: keep exactly her face and her light-brown hair in a low bun (ignore the man in the second reference). Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. The reception of her brand-new high-end dermatology clinic on its inauguration night (19:30): white Calacatta marble reception counter with brushed brass details, curved cream boucle sofas, warm indirect LED cove lighting, tall white orchid arrangements, a fluted light-wood panel wall, large glass windows with city lights at dusk. Gold and white balloons and a small table with champagne flutes. About eight elegantly dressed guests in their thirties to fifties holding champagne glasses. Dra. Helena, 41, in an elegant white blazer over a cream silk blouse, stands in the middle raising her glass in a toast, proud and happy. A young receptionist in a black blazer stands behind the counter, smiling. On the left, a frameless glass entrance door with one leaf open. Everyone fully visible, faces small but natural."
+    },
+    {
+      "id": "CI-12_A",
+      "refs": [
+        "producao/refs/ref_otavio.jpg"
+      ],
+      "n": 2,
+      "prompt": "The man in the reference image is Dr. Otávio: keep exactly his face, thin glasses, short hair and short beard. Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. Monday morning (09:10) in the reception of his high-end dental implant clinic: black marble reception counter with a warm LED strip, dark walnut wood wall panels, designer pendant lights, grey velvet armchairs, a tall plant, a glass wall to a corridor. Dr. Otávio, 44, in navy blue scrubs, stands in front of the counter holding his smartphone flat in front of him on speaker, mid-sentence, giving a confident thumbs up as if approving something on a call. Behind the counter, a young receptionist in a black uniform with dark straight hair in a ponytail listens. On the counter: a tablet lying face up, a desk phone, a small orchid. About two meters apart. Waiting area empty. Everyone fully visible, faces small but natural."
+    },
+    {
+      "id": "CI-13_A",
+      "refs": [
+        "producao/refs/ref_sofia.jpg",
+        "producao/refs/ref_sofia_gabriel.jpg"
+      ],
+      "n": 2,
+      "prompt": "The woman in the reference images is Dra. Sofia: keep exactly her face and her long dark-brown hair (ignore the other people in the references). Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. Her elegant plastic surgery consultation room at 10:20: warm beige walls, a gold-framed round mirror, a white orchid, a light oak desk, two white leather chairs, a large window with sheer curtains and soft daylight. Dra. Sofia, 39, in a white lab coat over a burgundy blouse, sits behind the desk. Across the desk, with her back to the camera, sits a well-dressed woman patient in her forties with blond hair. A tablet on the desk shows a simple body silhouette drawing. Sofia gestures with an open hand, smiling, about to say a price. About 1.2 meters apart across the desk. Both fully visible, faces small but natural."
+    },
+    {
+      "id": "CI-11_D2",
+      "base": "CI-11_D1",
+      "refs": [
+        "producao/refs/ref_helena.jpg"
+      ],
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now a weekday morning (9:40), daylight, the balloons, champagne and guests are gone. The waiting area is crowded with ordinary health-plan patients of different ages sitting on every sofa and a few standing in line at the counter holding plastic health-plan cards. The receptionist in the black blazer, behind the marble counter, is taking a plastic card from a patient. Dra. Helena (same face and low bun as the second reference), now in a white lab coat, walks quickly across the reception toward the corridor, holding a patient file. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-11_D3",
+      "base": "CI-11_D1",
+      "refs": [
+        "producao/refs/ref_helena.jpg"
+      ],
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now late at night (22:10). The reception is empty and dim, only the warm LED strip under the marble counter and one pendant light are on, the city lights outside the windows. No balloons, no guests. Dra. Helena (same face and low bun as the second reference), in a white lab coat, sits alone at the end of the marble counter on a stool, one hand on a beige desktop calculator, the other hand holding her forehead, a pile of printed health-plan statements in front of her. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-12_B",
+      "base": "CI-12_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now Wednesday late morning (11:30). Dr. Otávio is gone. Three patients stand in front of the black marble counter waiting, and two more sit in the grey armchairs. The receptionist, alone, is talking to the first patient while holding the desk phone receiver to her ear. On the counter, the tablet screen is lit and shows a plain chat list. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-12_C",
+      "base": "CI-12_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now Friday evening (18:50), warmer and dimmer light, the waiting area is empty. Dr. Otávio, same face, glasses and navy scrubs, leans on the front of the black marble counter with one elbow, relaxed, asking a question. The receptionist behind the counter looks up at him with an awkward, apologetic shrug, hands open. About two meters apart. No phone in his hand. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-13_B",
+      "base": "CI-13_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now Wednesday afternoon (15:00), slightly warmer light. A different patient sits across the desk with her back to the camera: a woman in her fifties with short dark hair and an elegant beige blazer. Dra. Sofia (same face, hair, white coat and burgundy blouse) leans slightly forward, smiling, one hand raised as if offering something. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-13_C",
+      "base": "CI-13_A",
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now Friday late afternoon (17:45), golden light. A different patient sits across the desk with his back to the camera: a man in his forties with short grey hair and a navy polo shirt. Dra. Sofia (same face, hair, white coat and burgundy blouse) holds both hands up, eager, mid-sentence. Everything else stays identical. No text, no timestamp, no overlay."
     }
   ],
   "clipes": [
     {
-      "id": "5S-01", "quadro": "5S-01", "dur": 6,
+      "id": "5S-01",
+      "quadro": "5S-01",
+      "dur": 6,
       "negativo": "text, subtitles, captions, readable words, watermark, logo, timestamp, overlay, face, camera movement, zoom, pan, cut, scene change, extra hands, extra fingers, distorted hands, morphing objects",
       "prompt": "Locked-off close-up, the camera never moves. Keep the desk, the calculator, the bills, the laptop glow and the woman's hands exactly as in the start frame. Her right index finger slowly presses a few calculator keys, one by one; the paper roll prints and advances a little. Her left hand lifts the top bill a few centimeters, she holds it for a moment as if reading the amount, then lays it back down exactly where it was. The laptop light flickers faintly. At the end both hands return to the exact starting position, so the last frame matches the first frame and the clip loops seamlessly. Quiet, tired, realistic motion at real speed."
     },
     {
-      "id": "CI-09", "quadro": "CI-09", "dur": 8,
+      "id": "CI-09",
+      "quadro": "CI-09",
+      "dur": 8,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and Dr. Lucas (face, beard, hair, white lab coat over black t-shirt) exactly as in the start frame. Alone in his empty office, Dr. Lucas performs an energetic, slightly awkward social media dance trend in front of the ring light: a few steps side to side, arm waves, a quick spin, points at the phone on the tripod and ends with a pose and a big grin. Then he walks to the tripod, checks the phone screen, nods, steps back to his starting spot and starts the same dance again. Meanwhile, on the desk, the second smartphone vibrates again and again, its screen lighting up with incoming notifications and buzzing slightly across the desk; he never looks at it. He stays fully visible the whole time. Natural motion at real speed."
     },
     {
-      "id": "PO-02", "quadro": "PO-02", "dur": 8,
+      "id": "PO-02",
+      "quadro": "PO-02",
+      "dur": 8,
       "negativo": "talking, speaking, mouth moving, lip movement, text, subtitles, captions, watermark, logo, readable signs, driving, car moving, cut, scene change, face morphing, identity change, distorted hands, extra fingers",
       "prompt": "Intimate locked-off close-up from the passenger seat, only a very subtle handheld drift. Keep Dr. Caio (face, skin tone, teal scrubs, badge), the car interior and the dawn light exactly as in the start frame. The car is parked and the engine is off. He sits completely still with both hands on the steering wheel, staring ahead through the windshield, mouth closed the whole time: he never speaks. He blinks slowly, his chest rises in a long tired breath and falls, his thumbs tighten on the wheel and then relax, he lowers his eyes for a moment and looks ahead again. Outside, the dawn sky slowly brightens and a car passes far in the background, out of focus. Melancholic, quiet, realistic, real speed."
     },
     {
-      "id": "E-01_p1", "quadro": "E-01_A", "dur": 6, "sentados": true,
+      "id": "E-01_p1",
+      "quadro": "E-01_A",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the room exactly as in the start frame. Dr. Otávio (right, navy scrubs, glasses) keeps typing on his phone with his head down and mutters a short sentence without looking up. Gabriel (left, navy button-up shirt) waits a beat, then calmly reaches across the table with his open hand, palm up, and says a short sentence. Otávio hesitates, sighs, and places the phone in Gabriel's hand. Gabriel takes it and looks at the screen. Both stay seated the whole time, about a meter apart across the table. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-01_p2", "quadro": "E-01_B", "dur": 6, "sentados": true,
+      "id": "E-01_p2",
+      "quadro": "E-01_B",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the room exactly as in the start frame. Gabriel (left, navy button-up shirt) holds Dr. Otávio's phone and scrolls slowly through it with his thumb, reading, and speaks calmly while still looking at the screen. Dr. Otávio (right, navy scrubs, glasses) shifts uncomfortably in his chair, rubs the back of his neck and looks away. Both stay seated, about a meter apart across the table. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-01_p3", "quadro": "E-01_B", "dur": 6, "sentados": true,
+      "id": "E-01_p3",
+      "quadro": "E-01_B",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the room exactly as in the start frame. Dr. Otávio (right, navy scrubs, glasses) leans forward and talks anxiously, gesturing with restless hands, tapping the table with his fingertips. Gabriel (left, navy button-up shirt) listens quietly, holding the phone low, nodding slightly. Both stay seated, about a meter apart across the table. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-01_p4", "quadro": "E-01_B", "dur": 6, "sentados": true,
+      "id": "E-01_p4",
+      "quadro": "E-01_B",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the room exactly as in the start frame. Gabriel (left, navy button-up shirt) puts the phone down on the table and slides it back toward Dr. Otávio, then speaks to him calmly with a small open-hand gesture. Dr. Otávio (right, navy scrubs, glasses) listens, stops moving, and slowly lets out a long breath, his shoulders dropping. Both stay seated, about a meter apart across the table. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-01_p5", "quadro": "E-01_A", "dur": 8, "sentados": true,
+      "id": "E-01_p5",
+      "quadro": "E-01_A",
+      "dur": 8,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the room exactly as in the start frame. Dr. Otávio (right, navy scrubs, glasses) puts his phone face down on the table, leaves it there and listens. Gabriel (left, navy button-up shirt) talks calmly and counts on his fingers, one, two, three, then pauses. At the very end Gabriel slowly lifts his eyes and looks straight up at the ceiling security camera for a second. Both stay seated, about a meter apart across the table. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-02_p1", "quadro": "E-02", "dur": 6, "sentados": true,
+      "id": "E-02_p1",
+      "quadro": "E-02",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Gabriel (left, navy button-up shirt, yellow notepad in hand) asks a short question in a friendly tone. Dra. Helena (right, cream silk blouse, hair in a low bun) gives an awkward smile, adjusts her earring, glances to the side and answers with a short sentence and a small shrug. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-02_p2", "quadro": "E-02", "dur": 6, "sentados": true,
+      "id": "E-02_p2",
+      "quadro": "E-02",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Gabriel (left, navy button-up shirt) leans forward over the desk with the pen ready on the yellow notepad and asks two short questions. Dra. Helena (right, cream silk blouse) thinks, looking up toward the ceiling, lips pressed together, fingers tapping the armrest. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-02_p3", "quadro": "E-02", "dur": 6, "sentados": true,
+      "id": "E-02_p3",
+      "quadro": "E-02",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Dra. Helena (right, cream silk blouse) answers while counting on her fingers, unsure, hesitating between numbers. Gabriel (left, navy button-up shirt) writes numbers on the yellow notepad as she talks, nodding. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-02_p4", "quadro": "E-02", "dur": 8, "sentados": true,
+      "id": "E-02_p4",
+      "quadro": "E-02",
+      "dur": 8,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Gabriel (left, navy button-up shirt) does a quick calculation on the yellow notepad with the pen and underlines the result, then turns the notepad around and slides it across the desk toward Dra. Helena, tapping the number with the pen while explaining calmly. Dra. Helena (right, cream silk blouse) leans in to look at the notepad, her smile fading. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-02_p5", "quadro": "E-02", "dur": 6, "sentados": true,
+      "id": "E-02_p5",
+      "quadro": "E-02",
+      "dur": 6,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Gabriel (left, navy button-up shirt) places the yellow notepad on the desk in front of Dra. Helena. Dra. Helena (right, cream silk blouse) looks down at the notepad, serious now, the smile gone, and says a short sentence quietly. Gabriel calmly clicks his pen closed, puts it down on the desk and says a short sentence. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-05_p1", "quadro": "E-05_A", "dur": 6,
+      "id": "E-05_p1",
+      "quadro": "E-05_A",
+      "dur": 6,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes and the staff kitchen exactly as in the start frame. Dr. Caio (right, teal scrubs), exhausted, sits at the small round table and eats his sandwich slowly, talking while chewing and shaking his head. Gabriel (left, navy button-up shirt) stands leaning on the counter holding a small coffee cup, listening, and takes a sip. About a meter and a half apart. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-05_p2", "quadro": "E-05_A", "dur": 4,
+      "id": "E-05_p2",
+      "quadro": "E-05_A",
+      "dur": 4,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes and the staff kitchen exactly as in the start frame. Dr. Caio (right, teal scrubs) stops chewing, puts the sandwich down on its paper wrapper, rubs his eyes with one hand and laughs at himself tiredly. Gabriel (left, navy button-up shirt), still standing by the counter with his coffee, asks a short question. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-05_p3", "quadro": "E-05_A", "dur": 8,
+      "id": "E-05_p3",
+      "quadro": "E-05_A",
+      "dur": 8,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes and the staff kitchen exactly as in the start frame. Gabriel (left, navy button-up shirt) talks calmly, still standing by the counter, gesturing slightly with the coffee cup in his hand. Dr. Caio (right, teal scrubs) listens without moving, frozen with the sandwich in his hand, staring at Gabriel. Natural, subtle motion at real speed."
     },
     {
-      "id": "E-05_p4", "quadro": "E-05_A", "dur": 4,
+      "id": "E-05_p4",
+      "quadro": "E-05_A",
+      "dur": 4,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes and the staff kitchen exactly as in the start frame. Gabriel (left, navy button-up shirt) walks to the small round table, pulls out the free chair on the left side of the table and sits down on it, putting his coffee cup on the table. Dr. Caio (right, teal scrubs) stays seated and watches him. Natural motion at real speed."
     },
     {
-      "id": "E-05_p5", "quadro": "E-05_B", "dur": 8, "sentados": true,
+      "id": "E-05_p5",
+      "quadro": "E-05_B",
+      "dur": 8,
+      "sentados": true,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both men, their faces, clothes, seats and the staff kitchen exactly as in the start frame. Both are seated at the small round table, about a meter apart. Dr. Caio (right, teal scrubs) asks a question, insecure, looking down at the table and then at Gabriel. Gabriel (left, navy button-up shirt) answers calmly, with a small reassuring hand gesture, nodding. Faces never close. Natural, subtle motion at real speed."
+    },
+    {
+      "id": "CI-02_d1",
+      "quadro": "CI-02_D1",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the reception, the lighting and every person exactly as in the start frame. The receptionist finishes pouring the coffee from the steel thermos, hands the small cup to the elderly patient with a warm smile and says a short sentence. The patient takes the cup, nods, and walks slowly to sit on a blue chair. The other patients wait. Only people move; the glass door stays still. Natural motion at real speed."
+    },
+    {
+      "id": "CI-02_d2",
+      "quadro": "CI-02_D2",
+      "dur": 6,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, walking through glass, door passing through body",
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the reception, the lighting, the receptionist and Dr. Mauro exactly as in the start frame. Dr. Mauro picks up the steel thermos coffee pot, tucks it firmly under his arm, says one short sentence to the receptionist without stopping, turns around and walks out of the reception through the open side of the glass door, never touching the glass. The glass door does not move. The receptionist watches him go, open-mouthed, in disbelief. He stays fully visible until he passes the doorway. Natural motion at real speed."
+    },
+    {
+      "id": "CI-02_d30",
+      "quadro": "CI-02_D30",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the reception, the stacks of folders, the lighting, the receptionist and Dr. Mauro exactly as in the start frame. The receptionist taps the tall stack of folders and asks a question. Dr. Mauro presses the button on the remote control, the air conditioner flap closes and its light turns off, and he answers with a dismissive shrug, without even looking at the folders. They stay about two meters apart. Natural motion at real speed."
+    },
+    {
+      "id": "CI-11_d1",
+      "quadro": "CI-11_D1",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The guests raise their champagne glasses in a toast; Dra. Helena, in the middle in the white blazer, says a short happy sentence and laughs; everyone clinks glasses and applauds briefly. The receptionist smiles behind the counter. Only people move; the glass door stays still. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays"
+    },
+    {
+      "id": "CI-11_d2",
+      "quadro": "CI-11_D2",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The crowded reception keeps moving: the receptionist hands back a plastic health-plan card and calls the next patient, the line moves forward one step, seated patients check their phones and wait. Dra. Helena, in the white lab coat, walks quickly across the reception toward the corridor with the patient file, without stopping. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays"
+    },
+    {
+      "id": "CI-11_d3",
+      "quadro": "CI-11_D3",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Night, quiet and dim. Dra. Helena, alone behind the marble counter, presses a few keys on the beige calculator, looks at the result for a moment, puts the pen down, lowers her head into her hands and lets out a long tired sigh. The city lights flicker softly outside. Natural, slow motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
+    },
+    {
+      "id": "CI-12_a",
+      "quadro": "CI-12_A",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Dr. Otávio, in navy scrubs, speaks with energy toward the smartphone in his hand on speaker, gives a big thumbs up and nods with a confident smile. The receptionist behind the black marble counter listens and nods politely. They stay about two meters apart. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays"
+    },
+    {
+      "id": "CI-12_b",
+      "quadro": "CI-12_B",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The receptionist talks on the desk phone and at the same time tries to help the patient in front of her; the patients in line shift impatiently, one checks the time on her watch; the plain tablet screen on the counter lights up again with new messages that nobody answers. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays"
+    },
+    {
+      "id": "CI-12_c",
+      "quadro": "CI-12_C",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Dr. Otávio, leaning on the counter, asks a short question in a relaxed tone. The receptionist answers with an awkward shrug, hands open, and says a short sentence, embarrassed. He stops smiling and stares at her for a second. They stay about two meters apart. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
+    },
+    {
+      "id": "CI-13_a",
+      "quadro": "CI-13_A",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The blond patient, with her back to the camera, asks a short question. Dra. Sofia answers quickly with a smile, and before the patient can react she adds something else with an open, generous hand gesture, nodding. Both stay seated across the desk. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
+    },
+    {
+      "id": "CI-13_b",
+      "quadro": "CI-13_B",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The patient with short dark hair starts to ask something; Dra. Sofia interrupts her right away with a big smile, raises one hand and says a short generous sentence. Both stay seated across the desk. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
+    },
+    {
+      "id": "CI-13_c",
+      "quadro": "CI-13_C",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The grey-haired man opens his mouth to speak; Dra. Sofia, eager, raises both hands and immediately says a short excited sentence before he can finish. He leans back in the chair, surprised. Both stay seated across the desk. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
     }
   ]
 }

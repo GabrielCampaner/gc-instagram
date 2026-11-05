@@ -1,0 +1,196 @@
+{
+ "id": "CI-11",
+ "slug": "ci-11-clinica-nova-agenda-de-plano",
+ "formato": "CI",
+ "crop": [
+  910,
+  1620,
+  85,
+  300
+ ],
+ "gancho": {
+  "linhas": [
+   "A Dra. Helena investiu R$ 1,2 milhão",
+   "na clínica nova."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "CI-11_d1",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "DIA 1",
+   "hora": [
+    19,
+    30,
+    4
+   ],
+   "marca": [
+    "DIA 1",
+    "19:30 · INAUGURAÇÃO"
+   ],
+   "sfx_db": -3
+  },
+  {
+   "clip": "CI-11_d2",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "DIA 30",
+   "hora": [
+    9,
+    40,
+    12
+   ],
+   "marca": [
+    "DIA 30",
+    "9:40 DA MANHÃ"
+   ],
+   "sfx_db": -6
+  },
+  {
+   "clip": "CI-11_d3",
+   "de": 0,
+   "ate": 6,
+   "vel": 0.92,
+   "cam": "CAM 01 · RECEPÇÃO",
+   "rotulo": "DIA 30",
+   "hora": [
+    22,
+    10,
+    31
+   ],
+   "marca": [
+    "DIA 30",
+    "22:10 DA NOITE"
+   ],
+   "sfx_db": -3
+  }
+ ],
+ "falas": [
+  {
+   "a": "CI-11_h1_t1",
+   "cena": 0,
+   "t": 1.0,
+   "texto": "Agora sim! A clínica do jeito que eu sempre sonhei!"
+  },
+  {
+   "a": "CI-11_r1_t1",
+   "cena": 1,
+   "t": 1.4,
+   "texto": "Carteirinha do plano, por favor… Próximo!"
+  },
+  {
+   "a": "CI-11_h2_t2",
+   "cena": 2,
+   "t": 0.9,
+   "texto": "Atendi trezentos pacientes esse mês… e não sei se fechou a conta."
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   930,
+   780
+  ],
+  "rec": 1.2,
+  "pausa": 7.2,
+  "cta_de": 4.7,
+  "cta_y": 820,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.4,
+    "y": 470,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Cada hora atendendo plano"
+   },
+   {
+    "de": 0.45,
+    "ate": 3.4,
+    "y": 590,
+    "tam": 150,
+    "cor": "a",
+    "conta": [
+     276,
+     "R$ ",
+     ""
+    ]
+   },
+   {
+    "de": 1.35,
+    "ate": 3.4,
+    "y": 760,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Cada hora da clínica aberta"
+   },
+   {
+    "de": 1.65,
+    "ate": 3.4,
+    "y": 880,
+    "tam": 150,
+    "cor": "v",
+    "conta": [
+     410,
+     "R$ ",
+     ""
+    ]
+   },
+   {
+    "de": 2.3,
+    "ate": 3.4,
+    "y": 1000,
+    "tam": 30,
+    "cor": "c",
+    "txt": "simulação · 3 consultas de plano a R$ 92 por hora",
+    "fonte": "r"
+   },
+   {
+    "de": 3.55,
+    "y": 470,
+    "tam": 56,
+    "cor": "b",
+    "txt": "Clínica de alto padrão"
+   },
+   {
+    "de": 3.55,
+    "y": 545,
+    "tam": 56,
+    "cor": "b",
+    "txt": "com agenda de plano"
+   },
+   {
+    "de": 3.95,
+    "y": 645,
+    "tam": 70,
+    "cor": "a",
+    "txt": "não fecha a conta."
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.45,
+     0.6
+    ],
+    [
+     1.65,
+     0.6
+    ]
+   ],
+   "impacto": [
+    1.05,
+    2.25
+   ],
+   "pop": [
+    3.95,
+    4.7
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

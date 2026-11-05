@@ -14,6 +14,7 @@ import base64, json, os, sys, time, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(AQUI))
 QUADROS = os.path.join(AQUI, "quadros")
 MEDIA = os.path.join(AQUI, "media")
 PEDIDOS = os.path.join(MEDIA, "pedidos.json")
@@ -37,8 +38,11 @@ def http(metodo, url, corpo=None):
     dados = json.dumps(corpo).encode() if corpo is not None else None
     req = urllib.request.Request(url, data=dados, method=metodo, headers={
         "Authorization": "Key " + chave(), "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return json.loads(r.read() or b"{}")
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return json.loads(r.read() or b"{}")
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"{e.code} {url}: {e.read()[:500]!r}")
 
 
 def data_uri(caminho):
@@ -79,18 +83,28 @@ def custo():
     print(f"Total: US$ {usd:.2f} (cerca de R$ {usd * DOLAR:.0f}), uma tentativa por clipe")
 
 
-def quadros():
+def quadros(ids):
     pedidos = carregar_pedidos()
-    for q in spec["quadros_extra"]:
+    alvo = [q for q in spec["quadros_extra"] if not ids or q["id"] in ids]
+    for q in alvo:
         chave_p = "quadro:" + q["id"]
         if chave_p not in pedidos:
+            imgs = [os.path.join(QUADROS, q["base"] + ".jpg")] if q.get("base") else []
+            imgs += [os.path.join(RAIZ, p) for p in q.get("refs", [])]
+            faltando = [p for p in imgs if not os.path.exists(p)]
+            if faltando:
+                print("sem imagem de entrada, pulando", q["id"], faltando)
+                continue
             r = http("POST", f"https://queue.fal.run/{NBP}", {
-                "prompt": q["prompt"], "image_urls": [data_uri(os.path.join(QUADROS, q["base"] + ".jpg"))],
-                "aspect_ratio": "9:16", "resolution": "2K", "num_images": 2, "output_format": "jpeg"})
+                "prompt": q["prompt"], "image_urls": [data_uri(p) for p in imgs],
+                "aspect_ratio": "9:16", "resolution": "2K", "num_images": q.get("n", 2),
+                "output_format": "jpeg"})
             pedidos[chave_p] = r["request_id"]
             salvar_pedidos(pedidos)
             print("enviado", q["id"], r["request_id"])
-    for q in spec["quadros_extra"]:
+    for q in alvo:
+        if "quadro:" + q["id"] not in pedidos:
+            continue
         res = esperar(NBP, pedidos["quadro:" + q["id"]])
         for i, im in enumerate(res.get("images", []), 1):
             baixar(im["url"], os.path.join(QUADROS, f"{q['id']}_v{i}.jpg"))
@@ -137,4 +151,5 @@ def videos(ids):
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "custo"
-    {"custo": lambda: custo(), "quadros": lambda: quadros(), "videos": lambda: videos(sys.argv[2:])}[cmd]()
+    {"custo": lambda: custo(), "quadros": lambda: quadros(sys.argv[2:]),
+     "videos": lambda: videos(sys.argv[2:])}[cmd]()

@@ -1,0 +1,97 @@
+{
+ "capas": [
+  {
+   "id": "CI-11",
+   "imagem": "producao/lote-teste/quadros/CI-11_D3.jpg",
+   "crop": [
+    85,
+    300,
+    910,
+    1620
+   ],
+   "hud": {
+    "cam": "CAM 01 · RECEPÇÃO",
+    "dia": "DIA 30",
+    "hora": "22:10:37"
+   },
+   "tag": "CIRCUITO INTERNO",
+   "kicker": "A câmera da recepção da Dra. Helena",
+   "titulo": [
+    "<b>R$ 1,2 milhão</b>",
+    "na clínica.",
+    "Agenda de plano."
+   ],
+   "tam": 118,
+   "caixa": [
+    860,
+    650,
+    1070,
+    935,
+    "DRA. HELENA"
+   ]
+  },
+  {
+   "id": "CI-12",
+   "imagem": "producao/lote-teste/quadros/CI-12_C.jpg",
+   "hud": {
+    "cam": "CAM 01 · RECEPÇÃO",
+    "dia": "SEXTA",
+    "hora": "18:50:09"
+   },
+   "tag": "CIRCUITO INTERNO",
+   "kicker": "A câmera da recepção do Dr. Otávio",
+   "titulo": [
+    "<b>R$ 15 mil</b>",
+    "de anúncio.",
+    "Ninguém mediu."
+   ],
+   "tam": 108,
+   "caixa": [
+    320,
+    640,
+    600,
+    1010,
+    "DR. OTÁVIO · 18:50"
+   ],
+   "baixo": true,
+   "y": 1090
+  },
+  {
+   "id": "CI-13",
+   "imagem": "producao/lote-teste/quadros/CI-13_A.jpg",
+   "hud": {
+    "cam": "CAM 02 · CONSULTÓRIO",
+    "dia": "TERÇA",
+    "hora": "10:20:14"
+   },
+   "tag": "CIRCUITO INTERNO",
+   "kicker": "A câmera do consultório da Dra. Sofia",
+   "titulo": [
+    "Ela dá <b>desconto</b>",
+    "antes de pedirem."
+   ],
+   "tam": 96,
+   "caixa": [
+    200,
+    740,
+    500,
+    1090,
+    "DRA. SOFIA · 10:20"
+   ],
+   "baixo": true,
+   "y": 1150
+  },
+  {
+   "id": "PO-02",
+   "imagem": "producao/lote-teste/quadros/PO-02.jpg",
+   "tag": "PENSAMENTO OCULTO",
+   "kicker": "O Dr. Caio, no estacionamento do hospital",
+   "titulo": [
+    "<b>6 anos</b>",
+    "no “só mais",
+    "um plantão”."
+   ],
+   "tam": 118
+  }
+ ]
+}

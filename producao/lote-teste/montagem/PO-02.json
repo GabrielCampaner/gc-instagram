@@ -1,0 +1,72 @@
+{
+ "id": "PO-02",
+ "slug": "po-02-mais-um-plantao",
+ "formato": "PO",
+ "cenas": [
+  {
+   "clip": "PO-02",
+   "de": 0,
+   "ate": 8,
+   "hora": [
+    6,
+    12,
+    0
+   ],
+   "sfx_db": -6
+  }
+ ],
+ "pensamento": [
+  {
+   "de": 0.0,
+   "ate": 4.6,
+   "txt": "Mais um plantão\\Ne eu fecho o mês."
+  },
+  {
+   "de": 4.7,
+   "ate": 8.0,
+   "txt": "Eu falo isso\\Nhá seis anos."
+  }
+ ],
+ "falas": [
+  {
+   "a": "PO-02_caio_t1",
+   "cena": 0,
+   "t": 0.4,
+   "texto": ""
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.15,
+   420,
+   900
+  ],
+  "rec": 0.6,
+  "pausa": 5.4,
+  "cta_de": 2.0,
+  "cta_y": 820,
+  "textos": [
+   {
+    "de": 0.2,
+    "y": 560,
+    "tam": 66,
+    "cor": "b",
+    "txt": "Quantos plantões faltam"
+   },
+   {
+    "de": 0.2,
+    "y": 645,
+    "tam": 66,
+    "cor": "a",
+    "txt": "pra você sair?"
+   }
+  ],
+  "sons": {
+   "pop": [
+    0.2,
+    2.0
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

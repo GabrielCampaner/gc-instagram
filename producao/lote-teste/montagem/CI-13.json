@@ -1,0 +1,194 @@
+{
+ "id": "CI-13",
+ "slug": "ci-13-o-desconto-que-ninguem-pediu",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "Ninguém pediu desconto",
+   "pra Dra. Sofia."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "CI-13_a",
+   "de": 0,
+   "ate": 6,
+   "vel": 0.94,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "TERÇA",
+   "hora": [
+    10,
+    20,
+    8
+   ],
+   "marca": [
+    "TERÇA",
+    "10:20 DA MANHÃ"
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "CI-13_b",
+   "de": 0,
+   "ate": 5,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    15,
+    0,
+    14
+   ],
+   "marca": [
+    "QUARTA",
+    "15:00"
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "CI-13_c",
+   "de": 0,
+   "ate": 4.5,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEXTA",
+   "hora": [
+    17,
+    45,
+    2
+   ],
+   "marca": [
+    "SEXTA",
+    "17:45"
+   ],
+   "sfx_db": -10
+  }
+ ],
+ "falas": [
+  {
+   "a": "CI-13_p1_t1",
+   "cena": 0,
+   "t": 0.5,
+   "texto": "E quanto fica, doutora?"
+  },
+  {
+   "a": "CI-13_s1_t1",
+   "cena": 0,
+   "t": 2.25,
+   "texto": "Trinta e dois mil… mas pra você eu faço vinte e oito, tá?"
+  },
+  {
+   "a": "CI-13_p2_t1",
+   "cena": 1,
+   "t": 0.5,
+   "texto": "E o valor da…"
+  },
+  {
+   "a": "CI-13_s2_t1",
+   "cena": 1,
+   "t": 2.0,
+   "texto": "Pra você eu já tiro dez por cento!"
+  },
+  {
+   "a": "CI-13_p3_t1",
+   "cena": 2,
+   "t": 0.6,
+   "texto": "E…"
+  },
+  {
+   "a": "CI-13_s3_t1",
+   "cena": 2,
+   "t": 1.25,
+   "texto": "Parcelo em doze sem juros!"
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   360,
+   820
+  ],
+  "rec": 1.2,
+  "pausa": 7.2,
+  "cta_de": 4.7,
+  "cta_y": 780,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.4,
+    "y": 470,
+    "tam": 58,
+    "cor": "b",
+    "txt": "3 pacientes."
+   },
+   {
+    "de": 0.55,
+    "ate": 3.4,
+    "y": 550,
+    "tam": 58,
+    "cor": "b",
+    "txt": "Nenhum pediu desconto."
+   },
+   {
+    "de": 1.1,
+    "ate": 3.4,
+    "y": 700,
+    "tam": 150,
+    "cor": "v",
+    "conta": [
+     9400,
+     "− R$ ",
+     ""
+    ]
+   },
+   {
+    "de": 1.9,
+    "ate": 3.4,
+    "y": 830,
+    "tam": 54,
+    "cor": "a",
+    "txt": "a menos na semana."
+   },
+   {
+    "de": 2.2,
+    "ate": 3.4,
+    "y": 910,
+    "tam": 30,
+    "cor": "c",
+    "txt": "simulação · descontos + juros do parcelamento",
+    "fonte": "r"
+   },
+   {
+    "de": 3.55,
+    "y": 470,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Quem tem medo de falar o preço"
+   },
+   {
+    "de": 3.95,
+    "y": 560,
+    "tam": 70,
+    "cor": "a",
+    "txt": "paga pra falar."
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     1.1,
+     0.6
+    ]
+   ],
+   "impacto": [
+    1.7
+   ],
+   "pop": [
+    0.55,
+    1.9,
+    3.95,
+    4.7
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}
