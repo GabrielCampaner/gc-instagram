@@ -11,7 +11,7 @@ const STOCK = { familia: '436582561', equipe: '374753388', medica: '1890701560' 
 // ---------- peças base ----------
 const fundo = (cor = '#FFFFFF') => `<div class="fundo" ${L('Fundo', 'Fundo', 'fill')} style="background:${cor}"></div>`;
 const logo = (w) => `<img src="${A('logo_horizontal.png')}" ${L('Logo CPDDEM (horizontal)', 'Logo', 'image')} style="display:block;flex:none;width:${w}px;height:${Math.round(w * 1315 / 2458)}px">`;
-const idTexto = `Diretor técnico-médico: ${PH.nome}\n${PH.crm} · ${PH.rqe}\n${PH.end}`;
+const idTexto = `Diretor técnico-médico\n${PH.nome} · ${PH.crm}\n${PH.end}`;
 const marca = (logoW = 250) => `<div class="row" style="width:100%">
     ${logo(logoW)}
     ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: idTexto, size: 26, lh: 34, style: 'margin-left:30px' })}
@@ -248,7 +248,7 @@ function whatsapp() {
       ${txt({ name: 'Número do WhatsApp', group: 'CTA', text: PH.fone, size: 38, lh: 46, weight: 700, color: C.graf, style: 'margin-left:28px' })}
     </div>
   </div>
-  ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: `CPDDEM · ${PH.endCompleto}\nDiretor técnico-médico: ${PH.nome} · ${PH.crm} · ${PH.rqe}`, size: 26, lh: 34, style: 'position:absolute;left:88px;top:1261px' })}
+  ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: `CPDDEM · ${PH.endCompleto}\nDiretor técnico-médico: ${PH.nome} · ${PH.crm}`, size: 26, lh: 34, style: 'position:absolute;left:88px;top:1261px' })}
   `;
   return { name: 'WhatsApp · Principal', w: W, h: 1350, html: page(W, 1350, inner) };
 }
@@ -267,7 +267,7 @@ function whatsappDuvidas() {
     ${txt({ name: 'Fechamento', group: 'CTA', text: 'Ficou outra dúvida? É só responder esta mensagem.', size: 34, lh: 42, weight: 600, color: C.azulEsc, style: 'margin-top:36px' })}
   </div>
   ${shape('Faixa do rodapé', 'Rodapé', `position:absolute;left:0;top:1240px;width:1080px;height:110px;background:#FFFFFF`)}
-  ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: `CPDDEM · ${PH.endCompleto}\nDiretor técnico-médico: ${PH.nome} · ${PH.crm} · ${PH.rqe}`, size: 26, lh: 34, style: 'position:absolute;left:88px;top:1261px' })}
+  ${txt({ name: 'Identificação do diretor técnico-médico', group: 'Rodapé', text: `CPDDEM · ${PH.endCompleto}\nDiretor técnico-médico: ${PH.nome} · ${PH.crm}`, size: 26, lh: 34, style: 'position:absolute;left:88px;top:1261px' })}
   `;
   return { name: 'WhatsApp · Dúvidas', w: W, h: 1350, html: page(W, 1350, inner) };
 }

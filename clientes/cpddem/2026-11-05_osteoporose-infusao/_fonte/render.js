@@ -214,7 +214,7 @@ async function makePsd(browser, defs, psdName) {
 (async () => {
   const browser = await chromium.launch();
   const mk = (fn, key, preset) => ({ ...AB[fn](), key, preset });
-  await makePsd(browser, [mk('story', 'story', 'Instagram Story'), mk('whatsapp', 'whatsapp', 'Instagram 4:5'), mk('whatsappDuvidas', 'whatsappDuvidas', 'Instagram 4:5')], 'CPDDEM_osteoporose_v3.psd');
-  await makePsd(browser, ['seq1', 'seq2', 'seq3', 'seq4', 'seq5'].map(k => mk(k, k, 'Instagram Story')), 'CPDDEM_osteoporose_sequencia_v3.psd');
+  await makePsd(browser, [mk('story', 'story', 'Instagram Story'), mk('whatsapp', 'whatsapp', 'Instagram 4:5'), mk('whatsappDuvidas', 'whatsappDuvidas', 'Instagram 4:5')], 'CPDDEM_osteoporose_v4.psd');
+  await makePsd(browser, ['seq1', 'seq2', 'seq3', 'seq4', 'seq5'].map(k => mk(k, k, 'Instagram Story')), 'CPDDEM_osteoporose_sequencia_v4.psd');
   await browser.close();
 })();

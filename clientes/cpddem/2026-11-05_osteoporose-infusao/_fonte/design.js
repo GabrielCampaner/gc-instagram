@@ -2,7 +2,7 @@ const I = require('./icons');
 const C = { azul: '#0081FF', azulEsc: '#0062D6', verm: '#F22A18', graf: '#4D4D4D', gelo: '#F2F7FF', fio: '#D9E6F7' };
 
 const PH = {
-  nome: 'Dr. Miguel Nasser Hissa', crm: 'CRM-CE 2113', rqe: 'RQE [nº]',
+  nome: 'Dr. Miguel Nasser Hissa', crm: 'CRM-CE 2113',
   end: 'Rua Machado de Assis, 514 · Damas · Fortaleza', endCompleto: 'Rua Machado de Assis, 514 · Damas · Fortaleza-CE',
   fone: '(85) 98619-7965',
 };
