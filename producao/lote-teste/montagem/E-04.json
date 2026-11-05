@@ -1,0 +1,218 @@
+{
+ "id": "E-04",
+ "slug": "e-04-fala-o-preco-pra-mim",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "A Dra. Sofia nunca fala o preço.",
+   "Hoje ela treinou comigo."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "E-04_p1",
+   "de": 0,
+   "ate": 8,
+   "hold": 0.4,
+   "cam": "CAM 03 · CONSULTÓRIO",
+   "rotulo": "QUINTA",
+   "hora": [
+    19,
+    5,
+    2
+   ],
+   "marca": [
+    "QUINTA",
+    "19:05"
+   ],
+   "sfx_db": -10,
+   "nomes": [
+    {
+     "txt": "GABRIEL",
+     "x": 230,
+     "y": 760,
+     "de": 2.0,
+     "ate": 4.6
+    },
+    {
+     "txt": "DRA. SOFIA",
+     "x": 650,
+     "y": 700,
+     "de": 2.0,
+     "ate": 4.6
+    }
+   ]
+  },
+  {
+   "clip": "E-04_p2",
+   "de": 0,
+   "ate": 4,
+   "vel": 0.9,
+   "cam": "CAM 03 · CONSULTÓRIO",
+   "rotulo": "QUINTA",
+   "hora": [
+    19,
+    5,
+    11
+   ],
+   "sfx_db": -10,
+   "zoom": [
+    1.5,
+    640,
+    900
+   ]
+  },
+  {
+   "clip": "E-04_p3",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 03 · CONSULTÓRIO",
+   "rotulo": "QUINTA",
+   "hora": [
+    19,
+    5,
+    16
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "E-04_p4",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 03 · CONSULTÓRIO",
+   "rotulo": "QUINTA",
+   "hora": [
+    19,
+    5,
+    24
+   ],
+   "sfx_db": -10
+  }
+ ],
+ "falas": [
+  {
+   "a": "E-04_g1",
+   "cena": 0,
+   "t": 0.4,
+   "db": -2.5,
+   "texto": "Finge que eu sou o paciente. Quanto fica?"
+  },
+  {
+   "a": "E-04_s1_t1",
+   "cena": 0,
+   "t": 4.0,
+   "texto": "Então… a Kelly te passa direitinho os valores, tá?"
+  },
+  {
+   "a": "E-04_g2",
+   "cena": 1,
+   "t": 0.1,
+   "db": -2.5,
+   "texto": "Doutora, olhando pra mim, tá? Com voz normal."
+  },
+  {
+   "a": "E-04_s2_t1",
+   "cena": 2,
+   "t": 0.8,
+   "texto": "Pro teu caso, eu indico a cirurgia. Fica trinta e dois mil, com exames e retornos inclusos."
+  },
+  {
+   "a": "E-04_g3",
+   "cena": 3,
+   "t": 0.3,
+   "db": -2.5,
+   "texto": "Agora fica em silêncio. Depois pergunta o que ficou de dúvida."
+  },
+  {
+   "a": "E-04_s3_t1",
+   "cena": 3,
+   "t": 4.7,
+   "texto": "Nossa. Não doeu."
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   640,
+   880
+  ],
+  "rec": 1.2,
+  "pausa": 8.3,
+  "cta_de": 4.8,
+  "cta_y": 760,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.5,
+    "y": 470,
+    "tam": 52,
+    "cor": "b",
+    "txt": "Preço dito na sala, no olho:"
+   },
+   {
+    "de": 0.5,
+    "ate": 3.5,
+    "y": 600,
+    "tam": 140,
+    "cor": "a",
+    "conta": [
+     32000,
+     "R$ ",
+     ""
+    ]
+   },
+   {
+    "de": 1.4,
+    "ate": 3.5,
+    "y": 720,
+    "tam": 44,
+    "cor": "b",
+    "txt": "com exames e retornos inclusos"
+   },
+   {
+    "de": 1.8,
+    "ate": 3.5,
+    "y": 800,
+    "tam": 30,
+    "cor": "c",
+    "txt": "valor de exemplo",
+    "fonte": "r"
+   },
+   {
+    "de": 3.65,
+    "y": 470,
+    "tam": 48,
+    "cor": "b",
+    "txt": "Recomendação, valor e silêncio."
+   },
+   {
+    "de": 4.05,
+    "y": 560,
+    "tam": 50,
+    "cor": "a",
+    "txt": "Depois: o que ficou de dúvida?"
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.5,
+     0.6
+    ]
+   ],
+   "impacto": [
+    1.1
+   ],
+   "pop": [
+    1.4,
+    3.65,
+    4.05,
+    4.8,
+    5.2,
+    5.6
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

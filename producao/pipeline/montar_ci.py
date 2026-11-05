@@ -107,6 +107,8 @@ class Reel:
             f.append(f"drawtext={osd}:text='{self.relogio(parado, ate=True)}':fontsize=38:x=w-tw-44:y=106"
                      f":enable='gte(t\\,{pausa_de})'")
             f.append(f"drawtext={osd}:text='ZOOM 1.5x':fontsize=30:x=(w-tw)/2:y=112:enable='gte(t\\,0.4)'")
+        if cena.get("zoom") and pausa_de is None:
+            f.append(f"drawtext={osd}:text='ZOOM {cena['zoom'][0]:.1f}x':fontsize=30:x=(w-tw)/2:y=112")
         f.append(f"drawtext={osd}:textfile='{sel}':fontsize=28:x=44:y=114:fontcolor=0xEDEFE6@0.85")
         return f
 
@@ -125,6 +127,12 @@ class Reel:
         if c.get("hold"):
             vf.append(f"tpad=stop_mode=clone:stop_duration={c['hold']}")
         vf += self.enquadra()
+        if c.get("zoom"):  # zoom digital da câmera em quem ouve
+            zf, zx, zy = c["zoom"]
+            w, h = int(1080 / zf) // 2 * 2, int(1920 / zf) // 2 * 2
+            x = max(0, min(1080 - w, int(zx - w / 2)))
+            y = max(0, min(1920 - h, int(zy - h / 2)))
+            vf += [f"crop={w}:{h}:{x}:{y}", "scale=1080:1920,setsar=1"]
         if pronta:
             vf += self.look() + self.hud(c)
         run(["ffmpeg", "-v", "error", "-y", "-i", os.path.join(self.media, c["clip"] + ".mp4"), "-an",
@@ -253,6 +261,13 @@ class Reel:
                 pos = f"\\pos(540,{c['marca_y']})" if c.get("marca_y") else ""
                 ev.append(f"Dialogue: 1,{ts(a, False)},{ts(a + 1.9, False)},Marca,,0,0,0,,"
                           f"{{\\fad(120,280){pos}}}{l1}\\N{{\\fs80\\c&H4DE1FF&}}{l2}")
+        # etiquetas de nome (quem é quem) no começo das cenas que pedirem
+        for i, c in enumerate(j["cenas"]):
+            for nm in c.get("nomes", []):
+                a = self.ini[i] + nm.get("de", 0.2)
+                b = self.ini[i] + nm.get("ate", 2.8)
+                ev.append(f"Dialogue: 2,{ts(a, False)},{ts(b, False)},Nome,,0,0,0,,"
+                          f"{{\\fad(150,200)\\an5\\pos({nm['x']},{nm['y']})}}{nm['txt']}")
         # gancho no topo da primeira cena
         if j.get("gancho"):
             g = j["gancho"]
@@ -310,6 +325,7 @@ class Reel:
                      "Style: Marca,DejaVu Sans,108,&H00FFFFFF,&H00FFFFFF,&H50000000,&H00000000,-1,0,0,0,100,100,2,0,3,26,0,5,60,60,0,1\n"
                      "Style: Gancho,DejaVu Sans,50,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,-1,0,0,0,100,100,0,0,3,16,0,8,70,70,232,1\n"
                      "Style: Pensa,DejaVu Sans,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1\n"
+                     "Style: Nome,DejaVu Sans Mono,30,&H00111111,&H00111111,&H004DE1FF,&H004DE1FF,-1,0,0,0,100,100,1,0,3,9,0,5,0,0,0,1\n"
                      "Style: Fecho,DejaVu Sans,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1\n\n"
                      "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
             fh.write("\n".join(ev) + "\n")

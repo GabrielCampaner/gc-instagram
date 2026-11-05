@@ -105,6 +105,34 @@
       "base": "CI-13_A",
       "n": 2,
       "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same furniture, same materials and same overall look. Change only this: it is now Friday late afternoon (17:45), golden light. A different patient sits across the desk with his back to the camera: a man in his forties with short grey hair and a navy polo shirt. Dra. Sofia (same face, hair, white coat and burgundy blouse) holds both hands up, eager, mid-sentence. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "E-04",
+      "refs": [
+        "producao/lote-teste/quadros/CI-13_A.jpg",
+        "producao/refs/ref_sofia.jpg",
+        "producao/refs/ref_gabriel_pe.jpg"
+      ],
+      "n": 2,
+      "prompt": "Use the office from the first reference image (warm beige walls, gold round mirror, white orchid, light oak desk, white leather chairs, sheer curtains) and keep its look, but seen from a security camera mounted high on the side wall, looking down at the desk from the side, so that BOTH people are seen in three-quarter profile facing each other and BOTH faces are clearly visible (nobody has their back to the camera) and now in the evening (19:05): warm table-lamp light, the window dark blue outside. Dra. Sofia is the woman in the second reference: keep her face and long dark-brown hair, white lab coat over a burgundy blouse, about 39 years old. Gabriel: light-skinned man in his late thirties, short dark hair, light stubble, navy blue long-sleeve button-up shirt, silver wristwatch, no glasses (the man in the third reference). Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. Gabriel sits on the LEFT side of the desk in the patient chair, playing the patient, hands crossed on the desk, looking at her. Dra. Sofia sits on the RIGHT side behind the desk, looking down, fiddling with a pen, avoiding his eyes. About 1.2 meters apart across the desk, faces never close. Both fully visible, faces small but natural. Gabriel faces right toward her; Sofia faces left toward him; her face, eyes and expression are clearly visible."
+    },
+    {
+      "id": "E-06_A",
+      "refs": [
+        "producao/refs/ref_renata_ci01.jpg",
+        "producao/refs/ref_gabriel_pe.jpg"
+      ],
+      "n": 2,
+      "prompt": "Dra. Renata is the woman in the first reference: keep her face, dark brown hair in a messy bun, white lab coat over a light blue scrubs top with a badge, about 42 years old. Gabriel: light-skinned man in his late thirties, short dark hair, light stubble, navy blue long-sleeve button-up shirt, silver wristwatch, no glasses (the man in the second reference). Vertical 9:16 photorealistic still frame from a ceiling-mounted security camera (CCTV) in the upper corner of the room, looking down diagonally at about 40 degrees, slight wide-angle lens distortion, slightly desaturated CCTV colors, soft digital noise. No text, no readable signs or screens, no timestamp, no overlay, no watermark, no logos. Her elegant modern consultation room at 8:21 in the morning: light oak desk, white leather chairs, a bookshelf with plants and books, a large window with bright morning sun, a framed abstract painting, warm wood floor. Gabriel sits on the LEFT side of the desk, calm, a closed notebook and a coffee cup in front of him. Dra. Renata stands on the RIGHT side behind the desk, just arrived in a hurry, out of breath, a large tan leather handbag still on her shoulder, about to drop it and sit in her chair. About 1.5 meters apart. Both fully visible, faces small but natural."
+    },
+    {
+      "id": "E-06_B",
+      "base": "E-06_A",
+      "refs": [
+        "producao/refs/ref_renata_ci01.jpg"
+      ],
+      "n": 2,
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same lighting, same two people with the same faces and clothes. Change only this: Dra. Renata (same face and dark hair bun as the second reference) is now seated in her chair on the RIGHT side behind the desk, arms crossed, slightly annoyed, the tan handbag on the floor next to her chair. Gabriel stays seated on the LEFT, calm. About 1.5 meters apart across the desk. No text, no timestamp, no overlay."
     }
   ],
   "clipes": [
@@ -189,7 +217,8 @@
       "quadro": "E-02",
       "dur": 8,
       "sentados": true,
-      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. Gabriel (left, navy button-up shirt) does a quick calculation on the yellow notepad with the pen and underlines the result, then turns the notepad around and slides it across the desk toward Dra. Helena, tapping the number with the pen while explaining calmly. Dra. Helena (right, cream silk blouse) leans in to look at the notepad, her smile fading. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed."
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep both people, their faces, clothes, seats and the office exactly as in the start frame. the man in the navy shirt on the left does a quick calculation on the yellow notepad with the pen and underlines the result, then turns the notepad around and slides it across the desk toward the woman in the cream blouse, tapping the number with the pen while explaining calmly. the woman in the cream blouse (right, cream silk blouse) leans in to look at the notepad, her smile fading. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
     },
     {
       "id": "E-02_p5",
@@ -310,6 +339,69 @@
       "dur": 6,
       "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). The grey-haired man opens his mouth to speak; Dra. Sofia, eager, raises both hands and immediately says a short excited sentence before he can finish. He leans back in the chair, surprised. Both stay seated across the desk. Natural motion at real speed.",
       "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, standing up, leaving"
+    },
+    {
+      "id": "E-04_p1",
+      "quadro": "E-04",
+      "dur": 8,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the man in the navy shirt on the left, playing the patient, keeps his hands crossed on the desk and asks a short question. the doctor in the white coat (right, white coat over burgundy blouse) keeps looking down, avoids his eyes, fiddles with the pen and answers vaguely with a short sentence, with a small gesture toward the door as if sending him to the reception. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-04_p2",
+      "quadro": "E-04",
+      "dur": 4,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the man in the navy shirt says one short, firm sentence, calm. the doctor in the white coat takes a deep breath, puts the pen down on the desk and straightens her posture, lifting her eyes to him. Both stay seated across the desk. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-04_p3",
+      "quadro": "E-04",
+      "dur": 8,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the doctor in the white coat, sitting upright, looks straight at the man in the navy shirt and speaks firmly and clearly for several seconds, with a small open-hand gesture. the man in the navy shirt listens without moving, hands crossed on the desk. Both stay seated across the desk. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-04_p4",
+      "quadro": "E-04",
+      "dur": 8,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the man in the navy shirt nods approvingly and says one short, calm sentence. the doctor in the white coat laughs, surprised and relieved, one hand on her chest, and says a short sentence. Both stay seated across the desk, about a meter apart. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-06_p1",
+      "quadro": "E-06_A",
+      "dur": 4,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the doctor in the white coat (right, white coat, dark hair in a bun), out of breath, drops her big tan handbag on the floor beside her chair, pulls the chair and sits down quickly behind the desk, exhaling. the man in the navy shirt on the left waits calmly, seated. Natural motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-06_p2",
+      "quadro": "E-06_B",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the doctor in the white coat, arms crossed, still a bit out of breath, says a short frustrated sentence to the man in the navy shirt. the man in the navy shirt, calm, nods once and answers with a single word. Both stay seated across the desk. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-06_p3",
+      "quadro": "E-06_B",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the man in the navy shirt talks calmly for a few seconds with a small open-hand gesture. the doctor in the white coat listens and slowly uncrosses her arms, surprised, raising her eyebrows. Both stay seated across the desk. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-06_p4",
+      "quadro": "E-06_B",
+      "dur": 8,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the man in the navy shirt takes his smartphone from the desk, turns the screen toward the doctor in the white coat and slides it across the desk, pointing at it while explaining calmly. the doctor leans in to look at the screen. The phone screen is plain, no glowing effects. Both stay seated. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
+    },
+    {
+      "id": "E-06_p5",
+      "quadro": "E-06_B",
+      "dur": 6,
+      "prompt": "Security camera footage (CCTV) from a fixed ceiling camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and both people exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. the doctor in the white coat laughs, suspicious, shaking her head, and says a short sentence. the man in the navy shirt stays serious and calm and answers with one short sentence, looking at her. Both stay seated across the desk. Natural, subtle motion at real speed.",
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, UI overlay, standing up, leaving, name labels, names on screen, captions, lower thirds, battery icon, UI elements, written words"
     }
   ]
 }

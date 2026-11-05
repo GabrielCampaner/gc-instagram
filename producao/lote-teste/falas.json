@@ -12,18 +12,100 @@
     "caio": "1DXriIY2zhyCt1cj8onn"
   },
   "falas": [
-    {"id": "CI-11_h1", "voz": "helena", "texto": "[happy, proud] Agora sim! A clínica do jeito que eu sempre sonhei!"},
-    {"id": "CI-11_r1", "voz": "recep_helena", "texto": "[polite, in a hurry] Carteirinha do plano, por favor... Próximo!"},
-    {"id": "CI-11_h2", "voz": "helena", "texto": "[tired, quietly, to herself] Atendi trezentos pacientes esse mês... e não sei se fechou a conta."},
-    {"id": "CI-12_o1", "voz": "otavio", "texto": "[confident] Pode subir pra quinze mil esse mês. Quero agenda cheia!"},
-    {"id": "CI-12_r1", "voz": "recep_otavio", "texto": "[stressed, on the phone] Só um minutinho, senhora... Clínica, bom dia?"},
-    {"id": "CI-12_o2", "voz": "otavio", "texto": "[relaxed] E aí? Quantos agendaram do anúncio?"},
-    {"id": "CI-12_r2", "voz": "recep_otavio", "texto": "[awkward] Ah... não sei, doutor. Não deu tempo de olhar."},
-    {"id": "CI-13_p1", "voz": "paciente_loira", "texto": "E quanto fica, doutora?"},
-    {"id": "CI-13_s1", "voz": "sofia", "texto": "[smiling, quick] Trinta e dois mil... mas pra você eu faço vinte e oito, tá?"},
-    {"id": "CI-13_p2", "voz": "paciente_50", "texto": "E o valor da..."},
-    {"id": "CI-13_s2", "voz": "sofia", "texto": "[interrupting, generous] Pra você eu já tiro dez por cento!"},
-    {"id": "CI-13_p3", "voz": "paciente_homem", "texto": "E..."},
-    {"id": "CI-13_s3", "voz": "sofia", "texto": "[eager, fast] Parcelo em doze sem juros!"}
+    {
+      "id": "CI-11_h1",
+      "voz": "helena",
+      "texto": "[happy, proud] Agora sim! A clínica do jeito que eu sempre sonhei!"
+    },
+    {
+      "id": "CI-11_r1",
+      "voz": "recep_helena",
+      "texto": "[polite, in a hurry] Carteirinha do plano, por favor... Próximo!"
+    },
+    {
+      "id": "CI-11_h2",
+      "voz": "helena",
+      "texto": "[tired, quietly, to herself] Atendi trezentos pacientes esse mês... e não sei se fechou a conta."
+    },
+    {
+      "id": "CI-12_o1",
+      "voz": "otavio",
+      "texto": "[confident] Pode subir pra quinze mil esse mês. Quero agenda cheia!"
+    },
+    {
+      "id": "CI-12_r1",
+      "voz": "recep_otavio",
+      "texto": "[stressed, on the phone] Só um minutinho, senhora... Clínica, bom dia?"
+    },
+    {
+      "id": "CI-12_o2",
+      "voz": "otavio",
+      "texto": "[relaxed] E aí? Quantos agendaram do anúncio?"
+    },
+    {
+      "id": "CI-12_r2",
+      "voz": "recep_otavio",
+      "texto": "[awkward] Ah... não sei, doutor. Não deu tempo de olhar."
+    },
+    {
+      "id": "CI-13_p1",
+      "voz": "paciente_loira",
+      "texto": "E quanto fica, doutora?"
+    },
+    {
+      "id": "CI-13_s1",
+      "voz": "sofia",
+      "texto": "[smiling, quick] Trinta e dois mil... mas pra você eu faço vinte e oito, tá?"
+    },
+    {
+      "id": "CI-13_p2",
+      "voz": "paciente_50",
+      "texto": "E o valor da..."
+    },
+    {
+      "id": "CI-13_s2",
+      "voz": "sofia",
+      "texto": "[interrupting, generous] Pra você eu já tiro dez por cento!"
+    },
+    {
+      "id": "CI-13_p3",
+      "voz": "paciente_homem",
+      "texto": "E..."
+    },
+    {
+      "id": "CI-13_s3",
+      "voz": "sofia",
+      "texto": "[eager, fast] Parcelo em doze sem juros!"
+    },
+    {
+      "id": "E-02_h1",
+      "voz": "helena",
+      "texto": "[awkward little laugh] Ah... depende do mês."
+    },
+    {
+      "id": "E-02_h2",
+      "voz": "helena",
+      "texto": "[thinking, unsure] Uns cinquenta e dois mil. E... umas cento e vinte horas?"
+    },
+    {
+      "id": "E-02_h3",
+      "voz": "helena",
+      "texto": "[quietly, serious] E eu ia abrir o sábado."
+    },
+    {
+      "id": "E-04_s1",
+      "voz": "sofia",
+      "texto": "[uncomfortable, avoiding] Então... a Kelly te passa direitinho os valores, tá?"
+    },
+    {
+      "id": "E-04_s2",
+      "voz": "sofia",
+      "texto": "[firm, calm, looking him in the eye] Pro teu caso, eu indico a cirurgia. Fica trinta e dois mil, com exames e retornos inclusos."
+    },
+    {
+      "id": "E-04_s3",
+      "voz": "sofia",
+      "texto": "[surprised laugh, relieved] Nossa. Não doeu."
+    }
   ]
 }

@@ -92,6 +92,82 @@
     "um plantão”."
    ],
    "tam": 118
+  },
+  {
+   "id": "E-02",
+   "imagem": "producao/lote-teste/quadros/E-02.jpg",
+   "hud": {
+    "cam": "CAM 02 · CONSULTÓRIO",
+    "dia": "SEGUNDA",
+    "hora": "17:10:05"
+   },
+   "tag": "OS DOUTORES EM CENA",
+   "kicker": "Perguntei quanto a Dra. Helena tira pra ela:",
+   "titulo": [
+    "<b>“Depende</b>",
+    "<b>do mês.”</b>"
+   ],
+   "tam": 124,
+   "caixa": [
+    610,
+    880,
+    880,
+    1220,
+    "DRA. HELENA"
+   ],
+   "baixo": true,
+   "y": 1240
+  },
+  {
+   "id": "E-04",
+   "imagem": "producao/lote-teste/quadros/E-04.jpg",
+   "hud": {
+    "cam": "CAM 03 · CONSULTÓRIO",
+    "dia": "QUINTA",
+    "hora": "19:05:04"
+   },
+   "tag": "OS DOUTORES EM CENA",
+   "kicker": "A Dra. Sofia nunca fala o preço. Hoje treinou comigo.",
+   "titulo": [
+    "Fala o <b>preço</b>",
+    "pra mim."
+   ],
+   "tam": 118,
+   "caixa": [
+    520,
+    640,
+    780,
+    1000,
+    "DRA. SOFIA"
+   ],
+   "baixo": true,
+   "y": 1200
+  },
+  {
+   "id": "E-06",
+   "imagem": "producao/lote-teste/quadros/E-06_B.jpg",
+   "hud": {
+    "cam": "CAM 02 · CONSULTÓRIO",
+    "dia": "QUARTA",
+    "hora": "08:21:09"
+   },
+   "tag": "OS DOUTORES EM CENA",
+   "kicker": "A Dra. Renata chegou atrasada e disse:",
+   "titulo": [
+    "“Essa consultoria",
+    "<b>não funciona.”</b>",
+    "Eu concordei."
+   ],
+   "tam": 96,
+   "caixa": [
+    680,
+    600,
+    920,
+    1000,
+    "DRA. RENATA"
+   ],
+   "baixo": true,
+   "y": 1120
   }
  ]
 }

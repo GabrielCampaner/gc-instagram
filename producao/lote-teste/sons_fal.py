@@ -34,6 +34,20 @@ SONS = {
                 "distant city traffic through the window", SEM_FALA),
     "CI-13_c": ("quiet elegant doctor's office, soft air conditioning hum, leather chair creak, "
                 "distant city traffic through the window", SEM_FALA),
+    "E-02_p1": ("elegant private office, quiet air conditioning, distant city traffic through the window, pen tapping on paper", SEM_FALA),
+    "E-02_p2": ("elegant private office, quiet air conditioning, distant city traffic, leather chair creak", SEM_FALA),
+    "E-02_p3": ("elegant private office, quiet room tone, pen writing on a paper notepad", SEM_FALA),
+    "E-02_p4": ("elegant private office, quiet room tone, pen scribbling and underlining on a notepad, paper sliding across a wooden desk", SEM_FALA),
+    "E-02_p5": ("elegant private office, quiet room tone, a pen clicking closed and placed on a wooden desk", SEM_FALA),
+    "E-04_p1": ("elegant doctor's office in the evening, quiet room tone, soft air conditioning, a pen being fiddled with", SEM_FALA),
+    "E-04_p2": ("elegant doctor's office in the evening, quiet room tone, a pen placed on a desk, a deep breath", SEM_FALA),
+    "E-04_p3": ("elegant doctor's office in the evening, very quiet room tone, soft air conditioning", SEM_FALA),
+    "E-04_p4": ("elegant doctor's office in the evening, quiet room tone, soft air conditioning, leather chair creak", SEM_FALA),
+    "E-06_p1": ("bright office in the morning, a heavy leather handbag dropped on a wooden floor, an office chair dragged and someone sitting down fast, out of breath", SEM_FALA),
+    "E-06_p2": ("bright office in the morning, quiet room tone, birds outside the window, soft air conditioning", SEM_FALA),
+    "E-06_p3": ("bright office in the morning, quiet room tone, soft air conditioning", SEM_FALA),
+    "E-06_p4": ("bright office in the morning, a smartphone slid across a wooden desk, quiet room tone", SEM_FALA),
+    "E-06_p5": ("bright office in the morning, quiet room tone, soft air conditioning", SEM_FALA),
 }
 
 

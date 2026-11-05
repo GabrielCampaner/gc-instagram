@@ -1,0 +1,238 @@
+{
+ "id": "E-06",
+ "slug": "e-06-essa-consultoria-nao-funciona",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "A Dra. Renata chegou 20 minutos",
+   "atrasada. E abriu assim:"
+  ],
+  "ate": 3.4
+ },
+ "cenas": [
+  {
+   "clip": "E-06_p1",
+   "de": 0,
+   "ate": 4,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    4
+   ],
+   "marca": [
+    "QUARTA",
+    "8:21 DA MANHÃ"
+   ],
+   "sfx_db": -4,
+   "nomes": [
+    {
+     "txt": "GABRIEL",
+     "x": 250,
+     "y": 760,
+     "de": 2.0,
+     "ate": 3.9
+    },
+    {
+     "txt": "DRA. RENATA",
+     "x": 800,
+     "y": 790,
+     "de": 2.0,
+     "ate": 3.9
+    }
+   ]
+  },
+  {
+   "clip": "E-06_p2",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    9
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "E-06_p3",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    15
+   ],
+   "sfx_db": -10,
+   "zoom": [
+    1.5,
+    790,
+    860
+   ]
+  },
+  {
+   "clip": "E-06_p4",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    21
+   ],
+   "sfx_db": -8
+  },
+  {
+   "clip": "E-06_p5",
+   "de": 0,
+   "ate": 6,
+   "hold": 0.2,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    29
+   ],
+   "sfx_db": -10
+  }
+ ],
+ "falas": [
+  {
+   "a": "E-06_r1_t1",
+   "cena": 1,
+   "t": 0.2,
+   "texto": "Gabriel, sinceramente? Essa consultoria não funciona."
+  },
+  {
+   "a": "E-06_g1",
+   "cena": 1,
+   "t": 4.75,
+   "db": -2.5,
+   "texto": "Concordo."
+  },
+  {
+   "a": "E-06_g2",
+   "cena": 2,
+   "t": 0.4,
+   "db": -2.5,
+   "texto": "Consultoria que manda um PDF e volta em 30 dias não funciona mesmo."
+  },
+  {
+   "a": "E-06_g3",
+   "cena": 3,
+   "t": 0.6,
+   "db": -2.5,
+   "texto": "A partir de amanhã, te mando a pauta às 7h30. E cobro às 6."
+  },
+  {
+   "a": "E-06_r2_t1",
+   "cena": 4,
+   "t": 0.3,
+   "texto": "Tá brincando, né?"
+  },
+  {
+   "a": "E-06_g4",
+   "cena": 4,
+   "t": 2.8,
+   "db": -2.5,
+   "texto": "Ninguém muda uma clínica uma vez por mês."
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   790,
+   860
+  ],
+  "rec": 1.2,
+  "pausa": 8.3,
+  "cta_de": 4.8,
+  "cta_y": 760,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.5,
+    "y": 470,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Consultoria de PDF:"
+   },
+   {
+    "de": 0.45,
+    "ate": 3.5,
+    "y": 570,
+    "tam": 96,
+    "cor": "v",
+    "txt": "1 visita por mês"
+   },
+   {
+    "de": 1.3,
+    "ate": 3.5,
+    "y": 700,
+    "tam": 50,
+    "cor": "b",
+    "txt": "Acompanhamento de verdade:"
+   },
+   {
+    "de": 1.6,
+    "ate": 3.5,
+    "y": 800,
+    "tam": 70,
+    "cor": "a",
+    "txt": "pauta às 7h30"
+   },
+   {
+    "de": 1.9,
+    "ate": 3.5,
+    "y": 890,
+    "tam": 70,
+    "cor": "a",
+    "txt": "cobrança às 18h"
+   },
+   {
+    "de": 2.2,
+    "ate": 3.5,
+    "y": 975,
+    "tam": 44,
+    "cor": "b",
+    "txt": "todo dia útil"
+   },
+   {
+    "de": 3.65,
+    "y": 470,
+    "tam": 58,
+    "cor": "b",
+    "txt": "Ninguém muda uma clínica"
+   },
+   {
+    "de": 4.05,
+    "y": 560,
+    "tam": 64,
+    "cor": "a",
+    "txt": "uma vez por mês."
+   }
+  ],
+  "sons": {
+   "impacto": [
+    0.45
+   ],
+   "pop": [
+    1.3,
+    1.6,
+    1.9,
+    3.65,
+    4.05,
+    4.8,
+    5.2,
+    5.6
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}

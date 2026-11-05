@@ -1,0 +1,264 @@
+{
+ "id": "E-02",
+ "slug": "e-02-depende-do-mes",
+ "formato": "CI",
+ "gancho": {
+  "linhas": [
+   "Eu não perguntei quanto",
+   "a Dra. Helena fatura."
+  ],
+  "ate": 2.8
+ },
+ "cenas": [
+  {
+   "clip": "E-02_p1",
+   "de": 0,
+   "ate": 6,
+   "vel": 0.9,
+   "hold": 0.3,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    3
+   ],
+   "marca": [
+    "SEGUNDA",
+    "17:10 · REUNIÃO"
+   ],
+   "sfx_db": -10,
+   "nomes": [
+    {
+     "txt": "GABRIEL",
+     "x": 330,
+     "y": 690,
+     "de": 2.0,
+     "ate": 4.6
+    },
+    {
+     "txt": "DRA. HELENA",
+     "x": 760,
+     "y": 900,
+     "de": 2.0,
+     "ate": 4.6
+    }
+   ]
+  },
+  {
+   "clip": "E-02_p2",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    10
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "E-02_p3",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    16
+   ],
+   "sfx_db": -8,
+   "zoom": [
+    1.5,
+    430,
+    1050
+   ]
+  },
+  {
+   "clip": "E-02_p4",
+   "de": 0,
+   "ate": 8,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    22
+   ],
+   "sfx_db": -8
+  },
+  {
+   "clip": "E-02_p5",
+   "de": 0,
+   "ate": 6,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    30
+   ],
+   "sfx_db": -10
+  }
+ ],
+ "falas": [
+  {
+   "a": "E-02_g1",
+   "cena": 0,
+   "t": 0.3,
+   "db": -2.5,
+   "texto": "Quanto você tira pra você, todo mês?"
+  },
+  {
+   "a": "E-02_h1_t1",
+   "cena": 0,
+   "t": 3.9,
+   "texto": "Ah… depende do mês."
+  },
+  {
+   "a": "E-02_g2",
+   "cena": 1,
+   "t": 0.3,
+   "db": -2.5,
+   "texto": "Quanto custa a clínica aberta? Quantas horas você atende de verdade?"
+  },
+  {
+   "a": "E-02_h2_t1",
+   "cena": 2,
+   "t": 0.3,
+   "texto": "Uns cinquenta e dois mil. E… umas cento e vinte horas?"
+  },
+  {
+   "a": "E-02_g3",
+   "cena": 3,
+   "t": 0.6,
+   "db": -2.5,
+   "texto": "R$ 433 por hora, pra abrir a porta. Na consulta, sobram R$ 60."
+  },
+  {
+   "a": "E-02_h3_t1",
+   "cena": 4,
+   "t": 0.3,
+   "texto": "E eu ia abrir o sábado."
+  },
+  {
+   "a": "E-02_g4",
+   "cena": 4,
+   "t": 2.6,
+   "db": -2.5,
+   "texto": "Agora faz a conta aí, vai, antes de abrir o horário."
+  }
+ ],
+ "fecho": {
+  "zoom": [
+   1.45,
+   700,
+   980
+  ],
+  "rec": 1.2,
+  "pausa": 8.3,
+  "cta_de": 4.8,
+  "cta_y": 760,
+  "textos": [
+   {
+    "de": 0.15,
+    "ate": 3.6,
+    "y": 470,
+    "tam": 54,
+    "cor": "b",
+    "txt": "R$ 52 mil ÷ 120 horas"
+   },
+   {
+    "de": 0.5,
+    "ate": 3.6,
+    "y": 600,
+    "tam": 140,
+    "cor": "a",
+    "conta": [
+     433,
+     "R$ ",
+     ""
+    ]
+   },
+   {
+    "de": 0.9,
+    "ate": 3.6,
+    "y": 710,
+    "tam": 46,
+    "cor": "b",
+    "txt": "por hora, só pra abrir a porta"
+   },
+   {
+    "de": 1.6,
+    "ate": 3.6,
+    "y": 820,
+    "tam": 44,
+    "cor": "b",
+    "txt": "Consulta de 40 min: custa R$ 289"
+   },
+   {
+    "de": 2.0,
+    "ate": 3.6,
+    "y": 880,
+    "tam": 44,
+    "cor": "b",
+    "txt": "Ela cobra R$ 350"
+   },
+   {
+    "de": 2.4,
+    "ate": 3.6,
+    "y": 980,
+    "tam": 64,
+    "cor": "v",
+    "txt": "Sobram uns R$ 60."
+   },
+   {
+    "de": 2.6,
+    "ate": 3.6,
+    "y": 1060,
+    "tam": 30,
+    "cor": "c",
+    "txt": "números de exemplo",
+    "fonte": "r"
+   },
+   {
+    "de": 3.75,
+    "y": 470,
+    "tam": 56,
+    "cor": "b",
+    "txt": "Faz a conta da hora"
+   },
+   {
+    "de": 4.1,
+    "y": 560,
+    "tam": 64,
+    "cor": "a",
+    "txt": "antes de abrir horário."
+   }
+  ],
+  "sons": {
+   "ticks": [
+    [
+     0.5,
+     0.6
+    ]
+   ],
+   "impacto": [
+    1.1,
+    2.4
+   ],
+   "pop": [
+    1.6,
+    2.0,
+    3.75,
+    4.1,
+    4.8,
+    5.2,
+    5.6
+   ]
+  }
+ },
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+}
