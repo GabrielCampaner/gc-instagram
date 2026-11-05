@@ -26,7 +26,8 @@
     "TERÇA",
     "10:20 DA MANHÃ"
    ],
-   "sfx_db": -10
+   "sfx_db": -10,
+   "marca_y": 1180
   },
   {
    "clip": "CI-13_b",
@@ -43,7 +44,8 @@
     "QUARTA",
     "15:00"
    ],
-   "sfx_db": -10
+   "sfx_db": -10,
+   "marca_y": 1180
   },
   {
    "clip": "CI-13_c",
@@ -60,7 +62,8 @@
     "SEXTA",
     "17:45"
    ],
-   "sfx_db": -10
+   "sfx_db": -10,
+   "marca_y": 1180
   }
  ],
  "falas": [

@@ -19,12 +19,14 @@
   {
    "de": 0.0,
    "ate": 4.6,
-   "txt": "Mais um plantão\\Ne eu fecho o mês."
+   "txt": "Mais um plantão\\Ne eu fecho o mês.",
+   "y": 520
   },
   {
    "de": 4.7,
    "ate": 8.0,
-   "txt": "Eu falo isso\\Nhá seis anos."
+   "txt": "Eu falo isso\\Nhá seis anos.",
+   "y": 520
   }
  ],
  "falas": [

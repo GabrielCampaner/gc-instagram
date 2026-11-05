@@ -236,9 +236,13 @@ class Reel:
         ev = []
         srt = []
         # falas
-        for n, fa in enumerate([x for x in j["falas"] if x.get("texto")], 1):
-            a = self.ini[fa["cena"]] + fa["t"]
+        falas = sorted([x for x in j["falas"] if x.get("texto")], key=lambda x: self.ini[x["cena"]] + x["t"])
+        inicios = [self.ini[x["cena"]] + x["t"] for x in falas]
+        for n, fa in enumerate(falas, 1):
+            a = inicios[n - 1]
             b = a + dur(os.path.join(self.media, fa["a"] + ".mp3")) + 0.2
+            if n < len(falas) and inicios[n] > a:  # quem é interrompido sai da tela quando o outro começa
+                b = min(b, inicios[n] - 0.05)
             ev.append(f"Dialogue: 2,{ts(a, False)},{ts(b, False)},Fala,,0,0,0,,{fa['texto']}")
             srt.append(f"{n}\n{ts(a)} --> {ts(b)}\n{fa['texto']}\n")
         # marcação grande de dia e hora no começo de cada cena
@@ -246,8 +250,9 @@ class Reel:
             if c.get("marca"):
                 a = self.ini[i] + c.get("marca_de", 0.0)
                 l1, l2 = c["marca"]
+                pos = f"\\pos(540,{c['marca_y']})" if c.get("marca_y") else ""
                 ev.append(f"Dialogue: 1,{ts(a, False)},{ts(a + 1.9, False)},Marca,,0,0,0,,"
-                          f"{{\\fad(120,280)}}{l1}\\N{{\\fs80\\c&H4DE1FF&}}{l2}")
+                          f"{{\\fad(120,280){pos}}}{l1}\\N{{\\fs80\\c&H4DE1FF&}}{l2}")
         # gancho no topo da primeira cena
         if j.get("gancho"):
             g = j["gancho"]
@@ -255,7 +260,8 @@ class Reel:
                       f"{{\\fad(0,250)}}" + "\\N".join(g["linhas"]))
         # pensamento escrito (formato PO)
         for p in j.get("pensamento", []):
-            ev.append(f"Dialogue: 3,{ts(p['de'], False)},{ts(p['ate'], False)},Pensa,,0,0,0,,{{\\fad(150,200)}}{p['txt']}")
+            pos = f"\\pos(540,{p['y']})" if p.get("y") else ""
+            ev.append(f"Dialogue: 3,{ts(p['de'], False)},{ts(p['ate'], False)},Pensa,,0,0,0,,{{\\fad(150,200){pos}}}{p['txt']}")
         # fechamento
         P = self.ini_pausa
         f = j["fecho"]
@@ -298,7 +304,7 @@ class Reel:
                      "Style: Fala,DejaVu Sans,54,&H004DE1FF,&H004DE1FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,2,90,90,520,1\n"
                      "Style: Marca,DejaVu Sans,108,&H00FFFFFF,&H00FFFFFF,&H50000000,&H00000000,-1,0,0,0,100,100,2,0,3,26,0,5,60,60,0,1\n"
                      "Style: Gancho,DejaVu Sans,50,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,-1,0,0,0,100,100,0,0,3,16,0,8,70,70,232,1\n"
-                     "Style: Pensa,DejaVu Sans,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1\n"
+                     "Style: Pensa,DejaVu Sans,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1\n"
                      "Style: Fecho,DejaVu Sans,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1\n\n"
                      "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
             fh.write("\n".join(ev) + "\n")
