@@ -34,4 +34,12 @@ function seta(size, color, dir = 'right') {
   return svg(size, color, `<g transform="rotate(${rot} 24 24)"><path d="M8 24h31"/><path d="M27 12l12 12-12 12"/></g>`);
 }
 
-module.exports = { whatsapp, cartao, prancheta, soro, calendario, seta };
+function check(size, color, bg) { // círculo cheio + visto
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 48 48"><circle cx="24" cy="24" r="22" fill="${bg}"/><path d="M14.5 24.5l6.5 6.5 12.5-13" fill="none" stroke="${color}" stroke-width="${(4.5 * 48 / size).toFixed(2)}" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+
+function mao(size, color) { // toque (dedo indicador)
+  return svg(size, color, `<path d="M19 24V9.5a3 3 0 0 1 6 0V22"/><path d="M25 21.5v-2a3 3 0 0 1 6 0v3"/><path d="M31 22v-1a3 3 0 0 1 6 0v8.5c0 7-4.5 13-12 13h-1.5c-4.3 0-7.3-2-9.5-5.5l-4.6-7.4a2.8 2.8 0 0 1 4.6-3.2L19 30"/>`);
+}
+
+module.exports = { whatsapp, cartao, prancheta, soro, calendario, seta, check, mao };

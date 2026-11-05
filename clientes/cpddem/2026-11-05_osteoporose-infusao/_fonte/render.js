@@ -12,7 +12,7 @@ const OUT = process.argv[2] || path.join(require('os').tmpdir(), 'cpddem_render'
 const TMP = path.join(require('os').tmpdir(), 'cpddem_html'); fs.mkdirSync(TMP, { recursive: true });
 const RAW = path.join(OUT, '_raw'); fs.mkdirSync(RAW, { recursive: true });
 const PAD = 700; // margem para capturar o que sai da prancheta (grafismo)
-const GROUP_ORDER = ['Fundo', 'Grafismo', 'Logo', 'Textos', 'Passos', 'CTA', 'Rodapé', 'Guias']; // de baixo para cima
+const GROUP_ORDER = ['Fundo', 'Foto', 'Grafismo', 'Painel', 'Logo', 'Textos', 'Passos', 'Benefícios', 'Dúvidas', 'CTA', 'Rodapé', 'Guias']; // de baixo para cima
 
 const PS_FONT = (w, italic) => {
   const map = { 400: 'Regular', 600: 'Demi', 700: 'Bold', 800: 'ExtraBold' };
@@ -52,29 +52,32 @@ function crop(png, bb) {
   return { width: w, height: h, data: out };
 }
 
-// retângulo arredondado → nós de Bézier (coordenadas do documento)
+// retângulo arredondado (raio por canto: [sup.esq, sup.dir, inf.dir, inf.esq]) → nós de Bézier
 function rrectKnots(l, t, r, b, rad) {
-  rad = Math.min(rad, (r - l) / 2, (b - t) / 2); const k = 0.5522847498 * rad;
-  const P = [];
-  const add = (inx, iny, x, y, ox, oy) => P.push({ linked: true, points: [inx, iny, x, y, ox, oy] });
-  if (rad <= 0) {
-    [[l, t], [r, t], [r, b], [l, b]].forEach(([x, y]) => P.push({ linked: false, points: [x, y, x, y, x, y] }));
-    return P;
-  }
-  const pts = [
-    [l + rad - k, t, l + rad, t, l + rad, t], [r - rad, t, r - rad, t, r - rad + k, t],
-    [r, t + rad - k, r, t + rad, r, t + rad], [r, b - rad, r, b - rad, r, b - rad + k],
-    [r - rad + k, b, r - rad, b, r - rad, b], [l + rad, b, l + rad, b, l + rad - k, b],
-    [l, b - rad + k, l, b - rad, l, b - rad], [l, t + rad, l, t + rad, l, t + rad - k],
+  const R = (Array.isArray(rad) ? rad : [rad, rad, rad, rad]).map(v => Math.max(0, Math.min(v, (r - l) / 2, (b - t) / 2)));
+  const K = 0.5522847498; const [tl, tr, br, bl] = R;
+  const C4 = [
+    { r: tl, a: [l, t + tl], b: [l + tl, t], ha: [l, t + tl - K * tl], hb: [l + tl - K * tl, t] },
+    { r: tr, a: [r - tr, t], b: [r, t + tr], ha: [r - tr + K * tr, t], hb: [r, t + tr - K * tr] },
+    { r: br, a: [r, b - br], b: [r - br, b], ha: [r, b - br + K * br], hb: [r - br + K * br, b] },
+    { r: bl, a: [l + bl, b], b: [l, b - bl], ha: [l + bl - K * bl, b], hb: [l, b - bl + K * bl] },
   ];
-  // junta nós coincidentes (lados de comprimento zero, ex.: pílula)
-  for (let i = 0; i < pts.length; i++) {
-    const a = pts[i], n = pts[(i + 1) % pts.length];
-    if (i % 2 === 1 && Math.abs(a[2] - n[2]) < 0.01 && Math.abs(a[3] - n[3]) < 0.01) {
-      add(a[0], a[1], a[2], a[3], n[4], n[5]); i++; if (i === pts.length) P.shift();
-    } else add(...a);
+  const nodes = [];
+  for (const c of C4) {
+    if (c.r <= 0.01) { nodes.push({ linked: false, points: [c.a[0], c.a[1], c.a[0], c.a[1], c.a[0], c.a[1]] }); continue; }
+    nodes.push({ linked: true, points: [c.a[0], c.a[1], c.a[0], c.a[1], c.ha[0], c.ha[1]] });
+    nodes.push({ linked: true, points: [c.hb[0], c.hb[1], c.b[0], c.b[1], c.b[0], c.b[1]] });
   }
-  return P;
+  // junta nós repetidos (lado de comprimento zero, ex.: pílula)
+  const out = [];
+  for (const n of nodes) {
+    const p = out[out.length - 1];
+    if (p && Math.abs(p.points[2] - n.points[2]) < 0.01 && Math.abs(p.points[3] - n.points[3]) < 0.01) { p.points[4] = n.points[4]; p.points[5] = n.points[5]; }
+    else out.push(n);
+  }
+  const f = out[0], z = out[out.length - 1];
+  if (out.length > 1 && Math.abs(f.points[2] - z.points[2]) < 0.01 && Math.abs(f.points[3] - z.points[3]) < 0.01) { f.points[0] = z.points[0]; f.points[1] = z.points[1]; out.pop(); }
+  return out;
 }
 
 async function processArtboard(browser, def, offsetX) {
@@ -100,7 +103,9 @@ async function processArtboard(browser, def, offsetX) {
           asc: m.fontBoundingBoxAscent, desc: m.fontBoundingBoxDescent, baseline: fr.top + m.fontBoundingBoxAscent, x: fr.left };
       }
       if (o.kind === 'shape' || o.kind === 'guide') {
-        o.fill = cs.backgroundColor; o.radius = parseFloat(cs.borderTopLeftRadius) || 0;
+        o.fill = cs.backgroundColor;
+        const rv = (v) => v.endsWith('%') ? parseFloat(v) / 100 * Math.min(r.width, r.height) : (parseFloat(v) || 0);
+        o.radius = [rv(cs.borderTopLeftRadius), rv(cs.borderTopRightRadius), rv(cs.borderBottomRightRadius), rv(cs.borderBottomLeftRadius)];
       }
       if (o.kind === 'fill') o.fill = cs.backgroundColor;
       return o;
@@ -112,7 +117,7 @@ async function processArtboard(browser, def, offsetX) {
     .replace('</style>', `html,body{background:transparent!important}.ab{overflow:visible!important;margin:${PAD}px}</style>`), def.w + 2 * PAD, def.h + 2 * PAD, file);
   for (const L of layers) {
     await sp.evaluate((i) => { document.querySelectorAll('[data-l]').forEach((e, j) => e.classList.toggle('on', j === i)); }, L.i);
-    const full = L.kind === 'image' || L.kind === 'fill';
+    const full = L.kind === 'image' || L.kind === 'fill' || L.kind === 'raster';
     const m = 80;
     const clip = full ? undefined : {
       x: Math.max(0, Math.floor(PAD + L.rect.x - m)), y: Math.max(0, Math.floor(PAD + L.rect.y - m)),
@@ -155,6 +160,7 @@ function toPsdLayer(L, offsetX) {
     const lyr = { ...base, ...px, vectorFill: { type: 'color', color: { r: c.r, g: c.g, b: c.b } },
       vectorMask: { paths: [{ open: false, operation: 'combine', fillRule: 'non-zero', knots: rrectKnots(x, y, x + Math.round(L.rect.w), y + Math.round(L.rect.h), L.radius) }] } };
     if (L.kind === 'guide') { lyr.hidden = true; lyr.fillOpacity = Math.round(c.a * 255) / 255; }
+    else if (c.a < 1) lyr.opacity = Math.round(c.a * 255) / 255;
     return lyr;
   }
   return { ...base, ...px }; // image / icon
@@ -208,7 +214,7 @@ async function makePsd(browser, defs, psdName) {
 (async () => {
   const browser = await chromium.launch();
   const mk = (fn, key, preset) => ({ ...AB[fn](), key, preset });
-  await makePsd(browser, [mk('story', 'story', 'Instagram Story'), mk('whatsapp', 'whatsapp', 'Instagram 4:5')], 'CPDDEM_osteoporose_v1.psd');
-  await makePsd(browser, [mk('seq1', 'seq1', 'Instagram Story'), mk('seq2', 'seq2', 'Instagram Story'), mk('seq3', 'seq3', 'Instagram Story')], 'CPDDEM_osteoporose_sequencia_v1.psd');
+  await makePsd(browser, [mk('story', 'story', 'Instagram Story'), mk('whatsapp', 'whatsapp', 'Instagram 4:5'), mk('whatsappDuvidas', 'whatsappDuvidas', 'Instagram 4:5')], 'CPDDEM_osteoporose_v2.psd');
+  await makePsd(browser, ['seq1', 'seq2', 'seq3', 'seq4', 'seq5'].map(k => mk(k, k, 'Instagram Story')), 'CPDDEM_osteoporose_sequencia_v2.psd');
   await browser.close();
 })();
