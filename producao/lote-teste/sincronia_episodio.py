@@ -5,7 +5,7 @@ Uso (precisa de FAL_KEY):
   python3 producao/lote-teste/sincronia_episodio.py producao/lote-teste/montagem/E-02.json [--custo]
 
 Cada fala com "rosto": [x, y] (ponto no rosto de quem fala, no primeiro quadro da cena já no tempo
-final) entra na sincronia. Para cada cena com fala:
+final; ou no quadro "rosto_quadro", quando o rosto está pequeno ou de costas no começo) entra na sincronia. Para cada cena com fala:
   1. o clipe é cortado no tempo final (de/ate, vel, hold);
   2. cada fala passa pelo sync-3 em sequência (a saída de uma é a entrada da outra), só na boca
      de quem fala, com silêncio no resto;
@@ -77,7 +77,8 @@ def cena(c, falas):
                 atual = passo(c, k)
                 continue
             prox = os.path.join(tmp, f"passo{k}.mp4")
-            sincronizar(atual, os.path.join(MEDIA, f["a"] + ".mp3"), f["t"], f["rosto"][0], f["rosto"][1], prox)
+            sincronizar(atual, os.path.join(MEDIA, f["a"] + ".mp3"), f["t"], f["rosto"][0], f["rosto"][1], prox,
+                        f.get("rosto_quadro", 0))
             shutil.copy(prox, passo(c, k))
             atual = passo(c, k)
     except Exception as e:  # ex.: saldo do fal acabou; o que já saiu fica salvo

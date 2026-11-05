@@ -7,6 +7,7 @@ Uso (precisa de FAL_KEY):
     FALA    áudio da fala (ex.: media/E-04_s2_t1.mp3)
     INICIO  em que segundo do clipe a fala começa
     X Y     ponto no rosto de quem fala, no primeiro quadro (o modelo mexe só nessa boca)
+    [QUADRO] opcional: número do quadro onde está esse ponto (quando o rosto está pequeno no começo)
     SAIDA   vídeo resultante, mesma duração do clipe
 
 Custo: US$ 8 por minuto de vídeo processado (US$ 0,13 por segundo).
@@ -35,7 +36,7 @@ def dur(p):
                                 capture_output=True, text=True).stdout.strip())
 
 
-def sincronizar(clipe, fala, inicio, x, y, saida):
+def sincronizar(clipe, fala, inicio, x, y, saida, quadro=0):
     tmp = tempfile.mkdtemp()
     total = dur(clipe)
     audio = os.path.join(tmp, "fala.wav")
@@ -48,7 +49,7 @@ def sincronizar(clipe, fala, inicio, x, y, saida):
     a_url = subir(audio, "audio/wav")
     r = http("POST", f"https://queue.fal.run/{SYNC}", {
         "video_url": v_url, "audio_url": a_url, "sync_mode": "cut_off",
-        "options": {"active_speaker_detection": {"coordinates": [int(x), int(y)], "frame_number": 0}}})
+        "options": {"active_speaker_detection": {"coordinates": [int(x), int(y)], "frame_number": int(quadro)}}})
     print("enviado", os.path.basename(saida), r["request_id"])
     res = esperar(SYNC, r["request_id"])
     baixar(res["video"]["url"], saida)
@@ -56,4 +57,4 @@ def sincronizar(clipe, fala, inicio, x, y, saida):
 
 if __name__ == "__main__":
     c, f, i, x, y, s = sys.argv[1:7]
-    sincronizar(c, f, float(i), x, y, s)
+    sincronizar(c, f, float(i), x, y, s, int(sys.argv[7]) if len(sys.argv) > 7 else 0)

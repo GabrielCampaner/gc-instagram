@@ -29,6 +29,11 @@
      "arquivo": "CI-15_chat.mov",
      "de": 0.0
     }
+   ],
+   "zoom": [
+    1.12,
+    480,
+    960
    ]
   },
   {
@@ -87,7 +92,8 @@
      "arquivo": "CI-15_notif.mov",
      "de": 5.0
     }
-   ]
+   ],
+   "video": "CI-15_s4_sync.mp4"
   }
  ],
  "falas": [
@@ -203,9 +209,10 @@
    "t": 3.4,
    "texto": "…Pelo WhatsApp.",
    "rosto": [
-    660,
-    970
-   ]
+    600,
+    925
+   ],
+   "rosto_quadro": 102
   },
   {
    "a": "som_notif",

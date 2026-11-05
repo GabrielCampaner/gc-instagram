@@ -42,7 +42,8 @@
    ],
    "sfx_db": -8,
    "hold": 0.3,
-   "vel": 0.9
+   "vel": 0.9,
+   "video": "CI-14_s2_sync.mp4"
   },
   {
    "clip": "CI-14_s3b",
@@ -61,7 +62,8 @@
    ],
    "sfx_db": -10,
    "vel": 0.85,
-   "hold": 0.6
+   "hold": 0.6,
+   "video": "CI-14_s3b_sync.mp4"
   },
   {
    "clip": "CI-14_s4",
@@ -74,7 +76,8 @@
     31,
     10
    ],
-   "sfx_db": -4
+   "sfx_db": -4,
+   "video": "CI-14_s4_sync.mp4"
   },
   {
    "clip": "CI-14_s5",
@@ -91,7 +94,8 @@
     "14:36",
     "RECEPÇÃO"
    ],
-   "sfx_db": -3
+   "sfx_db": -3,
+   "video": "CI-14_s5_sync.mp4"
   }
  ],
  "falas": [
@@ -129,11 +133,7 @@
    "a": "CI-14_o1_t1",
    "cena": 2,
    "t": 0.4,
-   "texto": "O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias.",
-   "rosto": [
-    930,
-    900
-   ]
+   "texto": "O exame ainda não fecha o diagnóstico. A gente precisa repetir em trinta dias."
   },
   {
    "a": "CI-14_p3_t1",
@@ -141,15 +141,20 @@
    "t": 5.2,
    "texto": "Trinta dias? Eu pago particular pra sair daqui resolvida!",
    "rosto": [
-    210,
-    860
-   ]
+    280,
+    845
+   ],
+   "rosto_quadro": 156
   },
   {
    "a": "CI-14_p4_t1",
    "cena": 3,
    "t": 1.0,
-   "texto": "Vocês só querem o meu dinheiro! Nunca mais eu piso aqui!"
+   "texto": "Vocês só querem o meu dinheiro! Nunca mais eu piso aqui!",
+   "rosto": [
+    230,
+    820
+   ]
   },
   {
    "a": "CI-14_p5_t1",
@@ -157,9 +162,10 @@
    "t": 1.6,
    "texto": "Bando de incompetentes!",
    "rosto": [
-    545,
-    645
-   ]
+    276,
+    790
+   ],
+   "rosto_quadro": 48
   }
  ],
  "fecho": {
