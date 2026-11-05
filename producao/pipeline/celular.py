@@ -63,12 +63,19 @@ def estado_chat(s, t):
         elif e["tipo"] == "enviou":
             caixa = ""
     caixa_html = (f'<div class="in">{H.escape(caixa)}|</div>' if caixa else '<div class="in vz">Mensagem</div>')
-    return (f'<div class="cel" style="left:{s["x"]}px;top:{s["y"]}px;width:{s["largura"]}px;height:{s["altura"]}px">'
-            f'<div class="tela"><div class="barra"><span>{s.get("relogio", "11:44")}</span><span>●●● 5G ▮</span></div>'
+    tela = (f'<div class="barra"><span>{s.get("relogio", "11:44")}</span><span>●●● 5G ▮</span></div>'
             f'<div class="topo"><span style="font-size:34px">‹</span><div class="av">{s.get("inicial", s["contato"][0])}</div>'
             f'<div><div class="nome">{H.escape(s["contato"])}</div><div class="st">{H.escape(s.get("status", "online"))}</div></div></div>'
             f'<div class="msgs">{"".join(corpo)}</div>'
-            f'<div class="cx">{caixa_html}<div class="bt">➤</div></div></div></div>')
+            f'<div class="cx">{caixa_html}<div class="bt">➤</div></div>')
+    if s.get("tela_cheia"):  # a tela do celular ocupando o quadro inteiro (9:16), mesma diagramação, ampliada
+        L = s.get("largura_tela", 564)
+        return (f'<div style="position:absolute;left:0;top:0;width:{L}px;height:{L * 16 / 9:.1f}px;'
+                f'transform:scale({1080 / L:.5f});transform-origin:0 0"><div class="tela" style="border-radius:0">{tela}</div></div>')
+    k = s.get("escala", 1)
+    return (f'<div class="cel" style="left:{s["x"]}px;top:{s["y"]}px;width:{s["largura"]}px;height:{s["altura"]}px;'
+            f'transform:scale({k});transform-origin:0 0">'
+            f'<div class="tela">{tela}</div></div>')
 
 
 def estado_notif(s, t):
@@ -113,6 +120,41 @@ def render(arq):
                     "-t", str(s["dur"]), "-c:v", "qtrle", saida], check=True)
     prev = os.path.splitext(saida)[0] + "_previa.png"
     subprocess.run(["cp", pares[-1][1], prev], check=True)
+    print(saida)
+    if s.get("encolher"):
+        encolher(s, tmp)
+
+
+def encolher(s, tmp):
+    """Transição: a tela cheia (último estado da conversa) diminui até virar o celular na mão, na posição de "encolher"."""
+    e = s["encolher"]
+    L = s.get("largura_tela", 564)
+    s0 = 1080 / L
+    n = max(int(round(e.get("dur", 0.6) * FPS)), 2)
+    estado = estado_chat(dict(s, tela_cheia=False, x=0, y=0, largura=L + 36, altura=round(L * 16 / 9) + 36), s["dur"])
+    pares = []
+    for i in range(n + 1):
+        u = i / n
+        p = u * u * (3 - 2 * u)  # entra e sai suave
+        k = e.get("escala", 1)
+        esc = s0 + (k - s0) * p
+        tx = -18 * s0 + (e["x"] + 18 * s0) * p
+        ty = -18 * s0 + (e["y"] + 18 * s0) * p  # (tx, ty) é o canto do aparelho; a tela fica 18*esc para dentro
+        raio = 48 * p
+        corpo = (f'<div style="position:absolute;left:0;top:0;transform:translate({tx:.2f}px,{ty:.2f}px) scale({esc:.5f});'
+                 f'transform-origin:0 0"><style>.tela{{border-radius:{raio:.1f}px!important}}.cel{{box-shadow:0 30px 80px '
+                 f'rgba(0,0,0,{0.55 * p:.2f})}}</style>{estado}</div>')
+        h = os.path.join(tmp, f"enc{i}.html")
+        open(h, "w", encoding="utf-8").write(f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>{corpo}</body></html>')
+        pares.append([h, os.path.join(tmp, f"enc{i:03d}.png")])
+    js = ("const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();"
+          "const p=await b.newPage({viewport:{width:1080,height:1920},deviceScaleFactor:1});"
+          f"for(const [h,o] of {json.dumps(pares)}){{await p.goto('file://'+h);await p.waitForTimeout(60);"
+          "await p.screenshot({path:o,omitBackground:true});}await b.close();})()")
+    subprocess.run(["node", "-e", js], check=True)
+    saida = os.path.join(RAIZ, e["saida"])
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-framerate", str(FPS), "-i", os.path.join(tmp, "enc%03d.png"),
+                    "-vf", "format=argb", "-c:v", "qtrle", saida], check=True)
     print(saida)
 
 

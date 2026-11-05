@@ -150,7 +150,8 @@ class Reel:
             fc = f"[0:v]{','.join(vf)}[b0]"
             for k, s in enumerate(sobre):
                 ins += ["-i", os.path.join(self.media, s["arquivo"])]
-                fc += (f";[{k + 1}:v]format=argb,setpts=PTS-STARTPTS+{s.get('de', 0)}/TB[o{k}]"
+                some = f",fade=t=out:st={s['some']}:d=0.35:alpha=1" if s.get("some") is not None else ""  # some aos poucos
+                fc += (f";[{k + 1}:v]format=argb{some},setpts=PTS-STARTPTS+{s.get('de', 0)}/TB[o{k}]"
                        f";[b{k}][o{k}]overlay=0:0:eof_action=pass[b{k + 1}]")
             filtro = ["-filter_complex", fc, "-map", f"[b{len(sobre)}]"]
         else:

@@ -11,29 +11,94 @@
  },
  "cenas": [
   {
+   "clip": "CI-15_h1",
+   "de": 0,
+   "ate": 5.5,
+   "sem_hud": true,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    14,
+    47,
+    0
+   ],
+   "marca": [
+    "TERÇA",
+    "14:47 · EM CASA"
+   ],
+   "marca_de": 0.3,
+   "marca_y": 1380,
+   "sfx_db": -14
+  },
+  {
+   "clip": "CI-15_h2",
+   "de": 0,
+   "ate": 3.2,
+   "sem_hud": true,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    14,
+    47,
+    6
+   ],
+   "sfx_db": -10
+  },
+  {
+   "clip": "CI-15_h2",
+   "de": 3.9,
+   "ate": 4.0,
+   "hold": 7.1,
+   "sem_hud": true,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    19,
+    30,
+    0
+   ],
+   "sfx_db": -40,
+   "sobre": [
+    {
+     "arquivo": "CI-15_chat_ontem.mov",
+     "de": 0.0
+    }
+   ]
+  },
+  {
    "clip": "CI-15_s1",
    "de": 0,
    "ate": 8,
-   "hold": 0.9,
    "sem_hud": true,
-   "sfx_db": -12,
    "cam": "",
    "rotulo": "",
    "hora": [
     11,
-    44,
+    43,
     0
-   ],
-   "sobre": [
-    {
-     "arquivo": "CI-15_chat.mov",
-     "de": 0.0
-    }
    ],
    "zoom": [
     1.12,
     480,
     960
+   ],
+   "marca": [
+    "QUARTA",
+    "11:43 · NA RUA"
+   ],
+   "marca_de": 0.7,
+   "marca_y": 1380,
+   "sfx_db": -12,
+   "sobre": [
+    {
+     "arquivo": "CI-15_encolhe.mov",
+     "de": 0.0
+    },
+    {
+     "arquivo": "CI-15_chat.mov",
+     "de": 0.6,
+     "some": 4.4
+    }
    ]
   },
   {
@@ -99,63 +164,56 @@
  "falas": [
   {
    "a": "som_msg_eu",
-   "cena": 0,
-   "t": 0.1,
+   "cena": 2,
+   "t": 0.9,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 0,
-   "t": 1.1,
+   "cena": 2,
+   "t": 2.0,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_ela",
-   "cena": 0,
-   "t": 2.3,
+   "cena": 2,
+   "t": 3.3,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_ela",
-   "cena": 0,
-   "t": 2.8,
-   "db": -14,
-   "limpo": true
-  },
-  {
-   "a": "som_msg_eu",
-   "cena": 0,
+   "cena": 2,
    "t": 3.8,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 0,
-   "t": 5.0,
+   "cena": 2,
+   "t": 5.1,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 0,
-   "t": 6.0,
+   "cena": 3,
+   "t": 2.8,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 0,
-   "t": 7.8,
+   "cena": 3,
+   "t": 4.6,
    "db": -14,
    "limpo": true
   },
   {
    "a": "CI-15_m1_t1",
-   "cena": 1,
+   "cena": 4,
    "t": 2.0,
    "texto": "Moça, por que vocês não dão conta de responder o WhatsApp?",
    "rosto": [
@@ -165,7 +223,7 @@
   },
   {
    "a": "CI-15_r1_t1",
-   "cena": 1,
+   "cena": 4,
    "t": 5.0,
    "texto": "Só um minutinho, senhora… Clínica Venna, bom dia?",
    "rosto": [
@@ -175,7 +233,7 @@
   },
   {
    "a": "CI-15_m2_t1",
-   "cena": 2,
+   "cena": 5,
    "t": 0.3,
    "texto": "Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar.",
    "rosto": [
@@ -185,7 +243,7 @@
   },
   {
    "a": "CI-15_r2_t1",
-   "cena": 2,
+   "cena": 5,
    "t": 5.2,
    "texto": "Pode aguardar na linha? … Crédito ou débito?",
    "rosto": [
@@ -195,7 +253,7 @@
   },
   {
    "a": "CI-15_r3_t1",
-   "cena": 3,
+   "cena": 6,
    "t": 0.45,
    "texto": "Ah, mas pelo WhatsApp é bem mais rápido, viu?",
    "rosto": [
@@ -205,7 +263,7 @@
   },
   {
    "a": "CI-15_m3_t1",
-   "cena": 3,
+   "cena": 6,
    "t": 3.4,
    "texto": "…Pelo WhatsApp.",
    "rosto": [
@@ -216,7 +274,7 @@
   },
   {
    "a": "som_notif",
-   "cena": 3,
+   "cena": 6,
    "t": 5.0,
    "db": -8,
    "limpo": true
@@ -325,5 +383,19 @@
    }
   ]
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "pensamento": [
+  {
+   "de": 11.299999999999999,
+   "ate": 12.399999999999999,
+   "txt": "4 horas depois…",
+   "y": 450
+  },
+  {
+   "de": 14.7,
+   "ate": 15.899999999999999,
+   "txt": "…e mais nada.",
+   "y": 450
+  }
+ ]
 }

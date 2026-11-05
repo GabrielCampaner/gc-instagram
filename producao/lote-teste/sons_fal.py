@@ -58,6 +58,8 @@ SONS = {
     "CI-14_s5": ("upscale clinic reception, fast angry high-heel footsteps on porcelain floor, a ceramic flower pot "
                  "knocked off a counter and shattering on the floor, brochures and a card machine falling, "
                  "a glass door closing, then shocked silence and a gasp", SEM_FALA),
+    "CI-15_h1": ("quiet upscale apartment living room in the afternoon, soft room tone, distant city sounds through a window, phone screen taps", SEM_FALA),
+    "CI-15_h2": ("quiet living room, close phone keyboard tapping, a soft send tap", SEM_FALA),
     "CI-15_s1": ("city sidewalk in an upscale neighborhood in the late morning, light traffic passing, distant birds, "
                  "phone keyboard tapping, a child fidgeting", SEM_FALA),
     "CI-15_s2": ("overcrowded clinic reception, two desk phones ringing at the same time, card machine beeping and "

@@ -165,6 +165,20 @@
       "base": "CI-11_D2",
       "n": 2,
       "prompt": "Edit the first reference image. Keep the exact same security camera frame: same camera angle, same room, same white marble reception counter with the gold trim and the LED glow, same wood slat wall, same cream armchairs, same glass facade and glass entrance door on the left. Change only this: it is Wednesday late morning (11:52) and the reception is overcrowded and chaotic: every armchair is taken, four more patients stand around waiting, two people lean on the counter. The doctor in the white coat is gone. The receptionist behind the counter (young woman, black blazer, hair in a bun) holds the desk phone receiver pinched between her shoulder and her ear while handing a card machine to a man at the counter; a second phone on the counter is ringing (its light is on). One of the two glass entrance doors is already open. Just inside the open door stands a woman about 38, shoulder-length dark-brown wavy hair, light linen blouse, jeans, tote bag on her shoulder, holding the hand of her daughter, about 6, in a school uniform with a small backpack; the woman looks around at the crowd, annoyed. Everything else stays identical. No text, no timestamp, no overlay."
+    },
+    {
+      "id": "CI-15_H",
+      "refs": [
+        "producao/lote-teste/quadros/CI-15_R.jpg"
+      ],
+      "n": 2,
+      "prompt": "The woman in the reference image: keep exactly her face and her shoulder-length dark-brown wavy hair, about 38 years old. Vertical 9:16 photorealistic still frame, cinematic handheld phone-camera look, shallow depth of field, soft natural afternoon light. Tuesday afternoon in her upscale apartment living room: a large window with sheer white curtains, a beige linen sofa, a marble coffee table with a ceramic vase, a tall plant, warm wood floor, everything softly blurred behind her. She sits on the sofa and has just picked up her smartphone, holding it in both hands in front of her chest, looking down at it with a focused, hopeful face, about to type. The back of the phone faces the camera: we do not see the screen. Medium close-up from the chest up, her face in sharp focus. She wears a soft light-grey knit sweater and small gold earrings. No text, no readable screens, no logos, no watermark."
+    },
+    {
+      "id": "CI-15_M",
+      "base": "CI-15_H",
+      "n": 2,
+      "prompt": "Create a new shot of the same moment, same woman, same sweater, same living room and same light: a close-up from over her right shoulder of her hands holding the smartphone on her lap and typing with both thumbs; the sofa and the room are softly blurred behind. The phone screen is only a soft, bright, out-of-focus glow: no text, no interface, nothing readable on it. Vertical 9:16 photorealistic still, shallow depth of field. No text, no logos, no watermark."
     }
   ],
   "clipes": [
@@ -504,6 +518,20 @@
       "dur": 8,
       "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen",
       "prompt": "Security camera footage (CCTV) from a fixed wall camera: completely static locked-off shot, no camera movement. Keep the room, the lighting and every person exactly as in the start frame (same faces, hair and clothes). Plain security footage only, with no text or labels of any kind. The doctor in the white coat talks calmly, holding a sheet of paper, and puts it down on the desk. The woman with the platinum-blonde bob listens with her arms crossed, then shakes her head and replies, upset. Both stay seated. Natural, subtle motion at real speed."
+    },
+    {
+      "id": "CI-15_h1",
+      "quadro": "CI-15_H",
+      "dur": 6,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, readable phone screen, text on screen, phone interface",
+      "prompt": "Handheld phone-camera footage with a slight natural sway, shallow depth of field. Keep the woman, her face, hair and clothes, the living room and the light exactly as in the start frame. She unlocks the smartphone and starts typing a message with both thumbs, pauses for a second, thinks, then types again with a small hopeful smile and sends it. Her face stays in sharp focus the whole time. We never see the phone screen. Natural motion at real speed."
+    },
+    {
+      "id": "CI-15_h2",
+      "quadro": "CI-15_M",
+      "dur": 4,
+      "negativo": "text, subtitles, captions, watermark, logo, timestamp, on-screen overlay, camera movement, zoom, pan, tilt, cut, scene change, extra people, person disappearing, ghost, face morphing, identity change, distorted hands, extra fingers, kissing, faces touching, glowing screens, neon, holographic, floating icons, floating bubbles, UI overlay, light rays, name labels, names on screen, readable phone screen, text on screen, phone interface",
+      "prompt": "Close-up handheld footage with a slight natural sway. Keep the hands, the sweater, the phone and the blurred living room exactly as in the start frame. Her thumbs type quickly on the smartphone, stop, and tap once to send. The screen stays a soft, bright, unreadable glow with nothing legible on it. Natural motion at real speed."
     }
   ]
 }

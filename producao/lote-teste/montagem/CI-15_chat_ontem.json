@@ -1,0 +1,96 @@
+{
+ "saida": "producao/lote-teste/media/CI-15_chat_ontem.mov",
+ "tipo": "chat",
+ "tela_cheia": true,
+ "largura_tela": 564,
+ "dur": 7.2,
+ "contato": "Clínica Venna · Saúde da Mulher",
+ "inicial": "V",
+ "status": "online",
+ "relogio": "19:30",
+ "eventos": [
+  {
+   "t": 0.0,
+   "tipo": "dia",
+   "txt": "ONTEM"
+  },
+  {
+   "t": 0.0,
+   "tipo": "digitando",
+   "txt": "Oi, boa tarde! Quero marcar uma consulta com a ginecologista"
+  },
+  {
+   "t": 0.9,
+   "tipo": "enviou"
+  },
+  {
+   "t": 0.9,
+   "tipo": "eu",
+   "txt": "Oi, boa tarde! Quero marcar uma consulta com a ginecologista",
+   "hora": "14:47"
+  },
+  {
+   "t": 1.4,
+   "tipo": "digitando",
+   "txt": "Tem horário essa semana?"
+  },
+  {
+   "t": 2.0,
+   "tipo": "enviou"
+  },
+  {
+   "t": 2.0,
+   "tipo": "eu",
+   "txt": "Tem horário essa semana?",
+   "hora": "15:30"
+  },
+  {
+   "t": 3.3,
+   "tipo": "ler"
+  },
+  {
+   "t": 3.3,
+   "tipo": "ela",
+   "txt": "Olá",
+   "hora": "19:27"
+  },
+  {
+   "t": 3.5,
+   "tipo": "ela",
+   "txt": "Boa noite",
+   "hora": "19:27"
+  },
+  {
+   "t": 3.8,
+   "tipo": "ela",
+   "txt": "Qual seu convênio?",
+   "hora": "19:28"
+  },
+  {
+   "t": 4.6,
+   "tipo": "digitando",
+   "txt": "SulAmérica"
+  },
+  {
+   "t": 5.1,
+   "tipo": "enviou"
+  },
+  {
+   "t": 5.1,
+   "tipo": "eu",
+   "txt": "SulAmérica",
+   "hora": "19:30"
+  },
+  {
+   "t": 5.8,
+   "tipo": "ler"
+  }
+ ],
+ "encolher": {
+  "saida": "producao/lote-teste/media/CI-15_encolhe.mov",
+  "dur": 0.6,
+  "x": 590,
+  "y": 320,
+  "escala": 0.78
+ }
+}
