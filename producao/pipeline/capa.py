@@ -30,6 +30,8 @@ body{width:1080px;height:1920px;position:relative;overflow:hidden;background:#00
 .tit b{color:#FFE14D;font-weight:900}
 .box{position:absolute;border:5px solid #FFE14D;box-shadow:0 0 0 2px rgba(0,0,0,.35)}
 .box span{position:absolute;left:-5px;top:-50px;background:#FFE14D;color:#111;font-family:'JetBrains Mono',monospace;font-weight:800;font-size:26px;padding:6px 12px;white-space:nowrap}
+.foto{position:absolute;filter:drop-shadow(0 18px 40px rgba(0,0,0,.6))}
+.foto span{position:absolute;background:#FFE14D;color:#111;font-family:'JetBrains Mono',monospace;font-weight:800;font-size:28px;padding:6px 14px;white-space:nowrap}
 .ia{position:absolute;right:44px;bottom:300px;color:#fff;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:24px;background:rgba(0,0,0,.45);padding:6px 12px;border-radius:4px}
 </style></head><body>
 <div class="bg"></div><div class="vig"></div>__GRAD__
@@ -66,6 +68,13 @@ def html(c):
         x0, y0, x1, y1, rot = c["caixa"]
         box = (f'<div class="box" style="left:{x0}px;top:{y0}px;width:{x1 - x0}px;height:{y1 - y0}px">'
                f'<span>{rot}</span></div>')
+    if c.get("foto"):  # foto real recortada (fundo removido no Photoshop), na frente da cena
+        f = c["foto"]
+        b64 = base64.b64encode(open(os.path.join(RAIZ, f["arquivo"]), "rb").read()).decode()
+        rot = (f'<span style="left:{f.get("rx", 40)}px;top:{f.get("ry", 0)}px">{f["rotulo"]}</span>'
+               if f.get("rotulo") else "")
+        box += (f'<div class="foto" style="left:{f["x"]}px;top:{f["y"]}px;width:{f["largura"]}px">'
+                f'<img src="data:image/png;base64,{b64}" style="width:100%;display:block">{rot}</div>')
     if not c.get("hud"):
         box += '<div class="ia">SIMULAÇÃO · IA</div>'
     tit = "<br>".join(c["titulo"])
