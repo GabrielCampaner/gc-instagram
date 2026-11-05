@@ -31,6 +31,7 @@
 - Tudo em `producao/lote-teste/`: `quadros/` (quadros iniciais escolhidos), `cenas.json` (prompts dos 18 clipes e dos 2 quadros extras), `gerar_fal.py`.
 - Canvas no ElevenLabs: flow `OXRmzVQrrGmtzwtid4ac`, com os 13 clipes do 5S-01, CI-09, PO-02, E-01 e E-02 já ligados ao quadro inicial. Os 5 do E-05 só estão no `cenas.json`.
 - Referências dos personagens (recortes dos carrosséis): `producao/refs/`. O Gabriel é gerado como nos carrosséis: sem óculos, camisa azul-marinho de manga longa, relógio. Sempre à esquerda do quadro; o doutor à direita.
+- Revisão de 05/11/2026 (esperando o ok do Gabriel): os 6 mais fortes para gerar primeiro são CI-09, PO-02 e CI-02 (sem o Gabriel) e E-06, E-02 e E-04 (com ele). 5S-01, E-01 e E-05 ficam para depois (os quadros deles já estão salvos). E-14 tem 5 pessoas em cena: risco alto de a IA errar.
 - Ainda não há voz salva para Otávio, Helena, Caio e Lucas. As falas do Gabriel são gravação dele (caminho 1 do plano "Os Doutores em cena").
 
 ## Lições dos prompts de vídeo (CI-01)
