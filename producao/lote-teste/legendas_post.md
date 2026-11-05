@@ -17,7 +17,7 @@ Na simulação: 3 consultas de plano por hora pagam uns R$ 276. A hora da clíni
 
 Clínica bonita não fecha a conta. Fecha a conta quem sabe quanto custa a própria hora e decide o que entra nela.
 
-Comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
+Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
 
 Vídeo criado com IA. Personagens fictícios, situações reais. Números de simulação.
 
@@ -39,7 +39,7 @@ Sexta: "quantos agendaram?" "Não sei, doutor."
 
 Antes de subir o investimento, mede três números da semana: quantos chamaram, quantos tiveram resposta no mesmo dia e quantos agendaram.
 
-Comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
+Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
 
 Vídeo criado com IA. Personagens fictícios, situações reais. Números de simulação.
 
@@ -61,7 +61,7 @@ Na semana, uns R$ 9.400 a menos (simulação). Não por preço alto. Por medo de
 
 Fala o valor olhando no olho, em voz normal, e espera. O silêncio depois do preço é da paciente, não teu.
 
-Comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
+Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
 
 Vídeo criado com IA. Personagens fictícios, situações reais. Números de simulação.
 
@@ -79,7 +79,7 @@ Plantão paga certo. Mas cobra caro: o sono, o dia seguinte e o consultório que
 
 Quantos plantões faltam pra você sair? Se a resposta é "depende do mês", a conta ainda não foi feita.
 
-Comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
+Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica.
 
 Vídeo criado com IA. Personagem fictício, situação real.
 

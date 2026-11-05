@@ -24,7 +24,7 @@
 - Página do projeto (roteiros, prompts, linha do tempo): https://claude.ai/artifact/Wd9YGWXSBaGoi1s8p8xbZA
 - Reel final em `midia/<slug>/reels.mp4`, 1080×1920, 30 qps.
 - Série Circuito Interno: vídeos curtos, com direcionamento claro e legenda caprichada. Cada cena abre com a marcação grande no meio da tela, "DIA 1" e "7:58 DA MANHÃ" (amarelo), por ~2 s; legendas das falas em amarelo com contorno preto, longe dos 20% de baixo; letreiro REC/CAM/hora no topo e selo "SIMULAÇÃO · IA".
-- Chamada final: "Comenta DIAGNÓSTICO" em amarelo e, embaixo, pequeno em branco, "entenda como ganhar mais dinheiro sem perder a agenda" (não "Comenta 7"). Sem selfie no fim.
+- Chamada final (desde 05/11/2026), em três ações na ordem: "➤ Encaminha pra quem precisa ver", "♥ Curte aqui" e "e comenta DIAGNÓSTICO" (DIAGNÓSTICO grande em amarelo); embaixo, pequeno em branco, "entenda como ganhar mais dinheiro sem perder a agenda". Na legenda do post: "Manda pra quem precisa ver, curte aqui e comenta DIAGNÓSTICO que eu te mando o nível da tua clínica." Nada de "Comenta 7". Sem selfie no fim.
 - O CI-01 já foi publicado e está fechado: não mexer mais nele. Ele é a referência de formato para os próximos.
 - Público pagante: doutores de 35 a 55 anos que ainda investem, vivem na correria, atendem muito plano, fazem conta e não sabem se o mês fechou (mentalidade antiga, mas bom pagante). Personagens dessa idade.
 - Cenários de alto padrão (mármore, madeira, clínica chique) para contrastar com a dor. Evitar clínica com cara de popular ou antiga. Dores fortes do dia a dia: investiu na clínica e não teve retorno, tráfego pago sem medir conversão, desconto por medo de falar preço, faturamento sem saber se sobrou.

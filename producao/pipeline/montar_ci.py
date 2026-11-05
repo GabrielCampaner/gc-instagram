@@ -269,12 +269,17 @@ class Reel:
         if f.get("cta_de") is not None:
             c0 = f["cta_de"]
             y0 = f.get("cta_y", 860)
+            # chamada final em três ações: encaminha, curte e comenta a palavra
+            am, br = "{\\c&H4DE1FF&}", "{\\c&HFFFFFF&}"
+            sub = f.get("sub", ["entenda como ganhar mais dinheiro", "sem perder a agenda"])
             textos += [
-                {"de": c0, "y": y0, "tam": 62, "cor": "b", "txt": "Comenta"},
-                {"de": c0, "y": y0 + 105, "tam": 108, "cor": "a", "txt": f.get("cta", "DIAGNÓSTICO")},
-                {"de": c0 + 0.3, "y": y0 + 222, "tam": 40, "cor": "b", "txt": f.get("sub", ["entenda como ganhar mais dinheiro"])[0], "fonte": "r"},
-                {"de": c0 + 0.3, "y": y0 + 272, "tam": 40, "cor": "b", "txt": f.get("sub", ["", "sem perder a agenda"])[1], "fonte": "r"},
-                {"de": c0 + 0.55, "y": y0 + 420, "tam": 32, "cor": "c", "txt": "@gabrielcampaner", "fonte": "r"},
+                {"de": c0, "y": y0, "tam": 46, "cor": "b", "txt": f"{am}➤ {br}Encaminha pra quem precisa ver"},
+                {"de": c0 + 0.4, "y": y0 + 70, "tam": 46, "cor": "b", "txt": f"{am}♥ {br}Curte aqui"},
+                {"de": c0 + 0.8, "y": y0 + 162, "tam": 58, "cor": "b", "txt": "e comenta"},
+                {"de": c0 + 0.8, "y": y0 + 262, "tam": 104, "cor": "a", "txt": f.get("cta", "DIAGNÓSTICO")},
+                {"de": c0 + 1.1, "y": y0 + 372, "tam": 40, "cor": "b", "txt": sub[0], "fonte": "r"},
+                {"de": c0 + 1.1, "y": y0 + 420, "tam": 40, "cor": "b", "txt": sub[1], "fonte": "r"},
+                {"de": c0 + 1.3, "y": y0 + 540, "tam": 32, "cor": "c", "txt": "@gabrielcampaner", "fonte": "r"},
             ]
         for tx in textos:
             a = P + tx["de"]
