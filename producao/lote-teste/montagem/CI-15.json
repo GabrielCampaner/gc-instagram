@@ -149,13 +149,21 @@
    "a": "CI-15_m1_t1",
    "cena": 1,
    "t": 2.0,
-   "texto": "Moça, por que vocês não dão conta de responder o WhatsApp?"
+   "texto": "Moça, por que vocês não dão conta de responder o WhatsApp?",
+   "rosto": [
+    185,
+    735
+   ]
   },
   {
    "a": "CI-15_r1_t1",
    "cena": 1,
    "t": 5.0,
-   "texto": "Só um minutinho, senhora… Clínica Venna, bom dia?"
+   "texto": "Só um minutinho, senhora… Clínica Venna, bom dia?",
+   "rosto": [
+    1000,
+    885
+   ]
   },
   {
    "a": "CI-15_m2_t1",

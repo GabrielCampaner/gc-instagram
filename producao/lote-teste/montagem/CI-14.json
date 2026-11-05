@@ -94,13 +94,21 @@
    "a": "CI-14_p1_t1",
    "cena": 0,
    "t": 0.6,
-   "texto": "Minha consulta era às duas! Já são duas e doze! Eu não vou ficar esperando, não!"
+   "texto": "Minha consulta era às duas! Já são duas e doze! Eu não vou ficar esperando, não!",
+   "rosto": [
+    555,
+    725
+   ]
   },
   {
    "a": "CI-14_r1_t1",
    "cena": 0,
    "t": 5.0,
-   "texto": "Senhora, o doutor já vai te chamar, tá? Só mais um minutinho."
+   "texto": "Senhora, o doutor já vai te chamar, tá? Só mais um minutinho.",
+   "rosto": [
+    885,
+    855
+   ]
   },
   {
    "a": "CI-14_p2_t1",

@@ -153,7 +153,7 @@
       "id": "CI-14_E",
       "base": "CI-14_A",
       "n": 2,
-      "prompt": "Edit the first reference image. Keep the exact same security camera frame, room, furniture, objects on the counter and the same people (same faces and clothes). Change only this: it is a few minutes later (14:36). The angry woman with the platinum-blonde bob, sunglasses on her head, cream blazer and tan handbag is no longer at the counter: she has just come through the glass wall at the back and is walking fast across the reception toward the camera and the counter, furious, mouth open, one arm already swinging out toward the objects on the counter. The receptionist stands behind the counter, frozen, hands near her face. The seated patients look up at the woman, shocked. Everything else stays identical. No text, no timestamp, no overlay."
+      "prompt": "Edit the first reference image. Keep the exact same security camera frame, room, furniture, objects on the counter and the same people (same faces and clothes). Change only this: it is a few minutes later (14:36). The woman with the platinum-blonde bob, sunglasses on her head, cream blazer and tan handbag is no longer at the counter: she is walking fast across the reception from the glass wall at the back toward the counter, with an annoyed, impatient face, the handbag on her forearm. The receptionist stands behind the counter watching her, worried. The seated patients look up at her. Everything else stays identical. No text, no timestamp, no overlay."
     },
     {
       "id": "CI-15_R",
