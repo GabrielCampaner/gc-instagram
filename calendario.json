@@ -5008,6 +5008,858 @@
       ],
       "origem": "2027-03-30_od152",
       "fixo": true
+    },
+    {
+      "id": "ODJ02",
+      "titulo": "Os Doutores · Vesti o teu jaleco: recepção e enfermagem sem se falar há três dias",
+      "quando": "2026-11-06T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra viver o terceiro dia em que a recepção e a enfermagem não se falam. Às 9h, uma te pede pra avisar a outra que a sala tá livre. Às 9h05, a outra manda dizer que já viu. E a paciente espera no meio.\n\nBriga de equipe quase nunca começa na briga. Começa quando ninguém sabe quem faz o quê. Aí cada uma decide sozinha, e a outra acha que foi provocação.\n\nSenta as duas juntas, na mesma hora, e escreve de quem é cada tarefa que gerou a briga. E para de levar recado, tá? Recado teu mantém a briga viva.\n\nManda pra quem virou mensageiro dentro da própria clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-11-06_odj02/01.jpg",
+        "midia/2026-11-06_odj02/02.jpg",
+        "midia/2026-11-06_odj02/03.jpg",
+        "midia/2026-11-06_odj02/04.jpg",
+        "midia/2026-11-06_odj02/05.jpg",
+        "midia/2026-11-06_odj02/06.jpg",
+        "midia/2026-11-06_odj02/07.jpg"
+      ],
+      "origem": "2026-11-06_odj02",
+      "fixo": true
+    },
+    {
+      "id": "ODM01",
+      "titulo": "Os Doutores · Frase de palco: um dia ruim",
+      "quando": "2026-11-06T21:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem dia que a recepção falta, o paciente reclama e o boleto vence, tudo junto. Eu vejo esse dia dentro de clínica desde 2009.\n\nEle passa. O que fica é o que você faz na segunda: a agenda abre de novo, e você também.\n\nManda pra quem teve um dia desses essa semana.\n\n#gestaodeclinicas #donodeclinica #empreendedorismonasaude",
+      "midias": [
+        "midia/2026-11-06_odm01/01.jpg"
+      ],
+      "origem": "2026-11-06_odm01",
+      "fixo": true
+    },
+    {
+      "id": "ODJ01",
+      "titulo": "Os Doutores · Vesti o teu jaleco: 40 leads, 2 pacientes e o \"lead ruim\"",
+      "quando": "2026-11-07T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra viver o dia em que o relatório da agência chega. Quarenta leads, dois pacientes, e a conclusão vem pronta: esse lead é ruim.\n\nAí você abre o WhatsApp da recepção. Catorze nunca foram respondidos. Onze só receberam o preço. Os números são da história, mas essa conversa eu tenho toda semana dentro de clínica, desde 2009.\n\nAntes de trocar de agência, conta três números: quantos foram respondidos em até 5 minutos, quantos ouviram uma pergunta antes do preço e quantos marcaram. Sem isso, você não tem lead ruim. Tem lead sem dono.\n\nComenta EXAME que a gente faz o exame do teu WhatsApp.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #marketingmedico #atendimento",
+      "midias": [
+        "midia/2026-11-07_odj01/01.jpg",
+        "midia/2026-11-07_odj01/02.jpg",
+        "midia/2026-11-07_odj01/03.jpg",
+        "midia/2026-11-07_odj01/04.jpg",
+        "midia/2026-11-07_odj01/05.jpg",
+        "midia/2026-11-07_odj01/06.jpg",
+        "midia/2026-11-07_odj01/07.jpg"
+      ],
+      "origem": "2026-11-07_odj01",
+      "fixo": true
+    },
+    {
+      "id": "ODM02",
+      "titulo": "Os Doutores · Frase de palco: refém da clínica",
+      "quando": "2026-11-08T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você estudou anos pra cuidar de gente. Aí abriu a clínica e agora não consegue ficar uma semana fora sem o telefone tocar.\n\nClínica boa é a que funciona quando você sai. Folga também é meta, tá?\n\nManda pra quem não tira férias há anos.\n\n#gestaodeclinicas #donodeclinica #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-08_odm02/01.jpg"
+      ],
+      "origem": "2026-11-08_odm02",
+      "fixo": true
+    },
+    {
+      "id": "ODJ20",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o cartão pessoal pagando a clínica",
+      "quando": "2026-11-08T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir, domingo às 21h, a fatura do teu cartão pessoal. Mercado, gasolina e o material da clínica. E o ar-condicionado. E o aluguel de setembro. Falta em casa, você tira da clínica. Falta na clínica, você tira de casa.\n\nQuanto você ganhou esse ano? Ninguém sabe. Quem mistura as contas nunca sabe se a clínica dá lucro.\n\nA partir de amanhã, a conta da clínica só paga a clínica, você define um valor fixo pra você, todo mês no mesmo dia, e o que botou do bolso fica anotado. Pergunta ao teu contador como.\n\nManda pra quem paga a clínica no cartão e não conta pra ninguém.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #financeiro #prolabore",
+      "midias": [
+        "midia/2026-11-08_odj20/01.jpg",
+        "midia/2026-11-08_odj20/02.jpg",
+        "midia/2026-11-08_odj20/03.jpg",
+        "midia/2026-11-08_odj20/04.jpg",
+        "midia/2026-11-08_odj20/05.jpg",
+        "midia/2026-11-08_odj20/06.jpg",
+        "midia/2026-11-08_odj20/07.jpg"
+      ],
+      "origem": "2026-11-08_odj20",
+      "fixo": true
+    },
+    {
+      "id": "ODJ07",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o atestado de toda segunda",
+      "quando": "2026-11-09T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra começar a segunda com a mensagem da técnica: atestado. Terceira segunda em dois meses. Você já chega com a resposta pronta, cobre a sala, remarca quatro pacientes e reclama com todo mundo, menos com ela.\n\nAtestado é direito e não se discute. O que você pode fazer é perguntar como ela tá e olhar a escala que ela carrega. Ninguém sentou com ela. Ninguém sabe o que tá acontecendo.\n\nA conversa é a sós e sem cobrar. E, na dúvida, fala com quem cuida do teu jurídico antes de qualquer decisão, tá?\n\nManda pra quem sempre cobre a segunda na tua clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #equipe",
+      "midias": [
+        "midia/2026-11-09_odj07/01.jpg",
+        "midia/2026-11-09_odj07/02.jpg",
+        "midia/2026-11-09_odj07/03.jpg",
+        "midia/2026-11-09_odj07/04.jpg",
+        "midia/2026-11-09_odj07/05.jpg",
+        "midia/2026-11-09_odj07/06.jpg",
+        "midia/2026-11-09_odj07/07.jpg"
+      ],
+      "origem": "2026-11-09_odj07",
+      "fixo": true
+    },
+    {
+      "id": "ODM03",
+      "titulo": "Os Doutores · Frase de palco: o número que você evita",
+      "quando": "2026-11-10T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Quase todo dono de clínica sabe de cor quanto quer faturar. Poucos sabem quanto sobrou no mês passado. Falta de inteligência passa longe disso: é medo do número.\n\nEu entendo. Mas a conta que você não faz continua correndo do mesmo jeito.\n\nSalva pra abrir esse número essa semana.\n\n#gestaodeclinicas #donodeclinica #financeiro",
+      "midias": [
+        "midia/2026-11-10_odm03/01.jpg"
+      ],
+      "origem": "2026-11-10_odm03",
+      "fixo": true
+    },
+    {
+      "id": "ODJ03",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023",
+      "quando": "2026-11-10T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir a tabela de preços depois que a clínica fechou. Última revisão: 2023. O aluguel subiu, o salário subiu, o material subiu. O preço, não.\n\nVocê começa a corrigir e ouve a própria voz: \"vou perder paciente\". Às 19h, fecha o arquivo. Fica pro ano que vem, de novo.\n\nTabela parada com custo subindo é desconto. Pra todo mundo, todo mês, sem ninguém ter pedido. Começa calculando quanto custa a tua hora aberta hoje, reajusta primeiro o que mais sai e paga menos que a hora, e avisa quem já é paciente com antecedência.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #tabeladeprecos",
+      "midias": [
+        "midia/2026-11-10_odj03/01.jpg",
+        "midia/2026-11-10_odj03/02.jpg",
+        "midia/2026-11-10_odj03/03.jpg",
+        "midia/2026-11-10_odj03/04.jpg",
+        "midia/2026-11-10_odj03/05.jpg",
+        "midia/2026-11-10_odj03/06.jpg",
+        "midia/2026-11-10_odj03/07.jpg"
+      ],
+      "origem": "2026-11-10_odj03",
+      "fixo": true
+    },
+    {
+      "id": "ODJ04",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos",
+      "quando": "2026-11-11T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra sentar na reunião com a agência. A terceira em dois anos. Primeiro slide, curtidas. Segundo, alcance. Terceiro, \"a marca tá crescendo\".\n\nVocê pergunta quantos viraram paciente e vem o silêncio: essa parte é com a recepção. Ninguém mentiu na sala. Só que ninguém mede a consulta marcada.\n\nVocê já trocou de agência duas vezes. O que nunca trocou foi o que você pede no contrato. Antes da quarta, escreve quantos contatos por mês, quem responde e em quanto tempo, e quantos viram consulta marcada. É esse número que vai pra reunião.\n\nManda pra quem cuida do teu marketing.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #marketingmedico #agenciademarketing",
+      "midias": [
+        "midia/2026-11-11_odj04/01.jpg",
+        "midia/2026-11-11_odj04/02.jpg",
+        "midia/2026-11-11_odj04/03.jpg",
+        "midia/2026-11-11_odj04/04.jpg",
+        "midia/2026-11-11_odj04/05.jpg",
+        "midia/2026-11-11_odj04/06.jpg",
+        "midia/2026-11-11_odj04/07.jpg"
+      ],
+      "origem": "2026-11-11_odj04",
+      "fixo": true
+    },
+    {
+      "id": "ODM04",
+      "titulo": "Os Doutores · Frase de palco: ninguém te ensinou a ser dono",
+      "quando": "2026-11-12T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A faculdade te ensinou a cuidar. Ninguém te ensinou a contratar, a cobrar, a demitir, a ler um fluxo de caixa. E aí você abriu uma clínica.\n\nNão saber isso não é vergonha nenhuma. Dá pra aprender, e eu vejo isso acontecer toda semana, desde 2009.\n\nComenta \"ainda dá tempo\" se você também aprendeu na marra.\n\n#gestaodeclinicas #donodeclinica #carreiramedica",
+      "midias": [
+        "midia/2026-11-12_odm04/01.jpg"
+      ],
+      "origem": "2026-11-12_odm04",
+      "fixo": true
+    },
+    {
+      "id": "ODJ05",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a recepcionista que você contratou pela simpatia",
+      "quando": "2026-11-12T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra receber a recepcionista nova. Todo mundo adorou. Na entrevista, você só pensou que os pacientes iam amar.\n\nDois meses depois, você abre os orçamentos. Ela encanta e não fecha nenhum. \"Doutor, eu não gosto de falar de valor.\" Ninguém perguntou isso na entrevista.\n\nSimpatia é o mínimo da recepção. O que paga a folha é ela saber levar a conversa até a agenda. Antes de contratar, simula uma ligação perguntando quanto custa, manda uma mensagem de paciente bravo e pergunta qual foi a última vez que ela cobrou alguém.\n\nComenta CONTRATA que eu te mando como funciona o GC Contrata.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #contratacao #recepcao",
+      "midias": [
+        "midia/2026-11-12_odj05/01.jpg",
+        "midia/2026-11-12_odj05/02.jpg",
+        "midia/2026-11-12_odj05/03.jpg",
+        "midia/2026-11-12_odj05/04.jpg",
+        "midia/2026-11-12_odj05/05.jpg",
+        "midia/2026-11-12_odj05/06.jpg",
+        "midia/2026-11-12_odj05/07.jpg"
+      ],
+      "origem": "2026-11-12_odj05",
+      "fixo": true
+    },
+    {
+      "id": "ODJ10",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a cunhada no financeiro",
+      "quando": "2026-11-13T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra pedir o fechamento do mês pra tua cunhada, que cuida do financeiro há sete anos. \"Depois te passo, tá corrido.\" A recepção já notou que ela chega às 10h. Ninguém fala nada, porque é da família. E domingo tem almoço na tua sogra.\n\nNinguém tá dizendo que ela faz errado. O problema é que ninguém pode conferir. Cargo de família sem conferência vira assunto de almoço.\n\nEscreve o que o cargo entrega e até que dia, com a mesma regra pra todo mundo. E a conversa é na clínica, em horário de clínica.\n\nComenta \"tem um aqui\" se tem parente na tua folha que ninguém pode cobrar.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #empresafamiliar",
+      "midias": [
+        "midia/2026-11-13_odj10/01.jpg",
+        "midia/2026-11-13_odj10/02.jpg",
+        "midia/2026-11-13_odj10/03.jpg",
+        "midia/2026-11-13_odj10/04.jpg",
+        "midia/2026-11-13_odj10/05.jpg",
+        "midia/2026-11-13_odj10/06.jpg",
+        "midia/2026-11-13_odj10/07.jpg"
+      ],
+      "origem": "2026-11-13_odj10",
+      "fixo": true
+    },
+    {
+      "id": "ODM05",
+      "titulo": "Os Doutores · Frase de palco: desistir numa terça",
+      "quando": "2026-11-14T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Todo mundo posta a inauguração. Ninguém posta a terça-feira em que a recepcionista pediu as contas, o sistema caiu e você pensou em fechar tudo.\n\nEu já vi essa terça em muita clínica. Quem volta na quarta é quem constrói alguma coisa.\n\nManda pra quem tá numa semana dessas.\n\n#gestaodeclinicas #donodeclinica #empreendedorismonasaude",
+      "midias": [
+        "midia/2026-11-14_odm05/01.jpg"
+      ],
+      "origem": "2026-11-14_odm05",
+      "fixo": true
+    },
+    {
+      "id": "ODJ08",
+      "titulo": "Os Doutores · Vesti o teu jaleco: \"quanto custa?\" respondido com o preço seco",
+      "quando": "2026-11-14T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ver a pergunta que mais chega no WhatsApp: quanto custa a consulta? A recepção responde em 40 segundos, com o preço e a vaga. A pessoa visualiza e nunca mais responde. No fim do dia, foram doze assim.\n\nPreço sem pergunta antes vira comparação. A pessoa tá com três clínicas abertas, e você acabou de virar um número na lista.\n\nAcolhe e pergunta o que fez a pessoa procurar a clínica, mostra o que a consulta inclui nesse caso, e só então diz o valor, já oferecendo dois horários.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #atendimento #whatsappnaclinica",
+      "midias": [
+        "midia/2026-11-14_odj08/01.jpg",
+        "midia/2026-11-14_odj08/02.jpg",
+        "midia/2026-11-14_odj08/03.jpg",
+        "midia/2026-11-14_odj08/04.jpg",
+        "midia/2026-11-14_odj08/05.jpg",
+        "midia/2026-11-14_odj08/06.jpg",
+        "midia/2026-11-14_odj08/07.jpg"
+      ],
+      "origem": "2026-11-14_odj08",
+      "fixo": true
+    },
+    {
+      "id": "ODM11",
+      "titulo": "Os Doutores · Frase de palco: palestra e segunda-feira",
+      "quando": "2026-11-15T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Eu gosto muito de palco. E vou te falar uma coisa que palestrante quase não fala: palestra, sozinha, não muda clínica nenhuma.\n\nO que muda é o que você faz na segunda de manhã. Uma coisa diferente, toda semana, com alguém perguntando se foi feita.\n\nSalva pra lembrar na segunda.\n\n#gestaodeclinicas #donodeclinica #palestra",
+      "midias": [
+        "midia/2026-11-15_odm11/01.jpg"
+      ],
+      "origem": "2026-11-15_odm11",
+      "fixo": true
+    },
+    {
+      "id": "ODJ06",
+      "titulo": "Os Doutores · Vesti o teu jaleco: as férias que duraram três dias",
+      "quando": "2026-11-15T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco. Nem na praia ele sai. Você prometeu que ia desligar. Às 8h20, a clínica liga perguntando a senha do sistema. Ao meio-dia, são onze mensagens, e tudo só você sabe. No terceiro dia, você antecipa a volta.\n\nNão anda mesmo. E o motivo tá longe de ser a tua equipe: você nunca escreveu a senha, o preço, a exceção. Tá tudo na tua cabeça.\n\nAntes da próxima viagem, anota tudo que te perguntarem por 15 dias, transforma o que repetiu em uma folha na recepção e escolhe quem decide até um valor, sem te ligar.\n\nComenta \"já voltei antes\" se você também cortou uma viagem pela clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #donodeclinica #delegar",
+      "midias": [
+        "midia/2026-11-15_odj06/01.jpg",
+        "midia/2026-11-15_odj06/02.jpg",
+        "midia/2026-11-15_odj06/03.jpg",
+        "midia/2026-11-15_odj06/04.jpg",
+        "midia/2026-11-15_odj06/05.jpg",
+        "midia/2026-11-15_odj06/06.jpg",
+        "midia/2026-11-15_odj06/07.jpg"
+      ],
+      "origem": "2026-11-15_odj06",
+      "fixo": true
+    },
+    {
+      "id": "ODM06",
+      "titulo": "Os Doutores · Frase de palco: cobrar bem é respeito",
+      "quando": "2026-11-16T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você passou anos estudando. Aí um paciente pergunta o preço e você abaixa a voz.\n\nCobrar bem é respeitar o que você estudou. E é o que paga a equipe, o material e o tempo que cada paciente merece.\n\nManda pra quem sempre pede desculpa na hora de dizer o valor.\n\n#gestaodeclinicas #donodeclinica #precificacao",
+      "midias": [
+        "midia/2026-11-16_odm06/01.jpg"
+      ],
+      "origem": "2026-11-16_odm06",
+      "fixo": true
+    },
+    {
+      "id": "ODJ22",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso",
+      "quando": "2026-11-16T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ficar olhando a cadeira vazia às 9h40. A terceira falta do dia, sem aviso. O café esfria, o ar tá ligado e a equipe tá paga. Na recepção: \"mandei mensagem, ninguém respondeu\". Ninguém ligou, ninguém encaixou, e a lista de espera tava na gaveta.\n\nHora vazia parece custo zero. É a única que só tem custo.\n\nConfirma em dois tempos, 48h e 24h antes. Quem não respondeu recebe ligação. E a vaga aberta vai pra lista de espera no mesmo minuto.\n\nSalva e mostra pra tua recepção hoje à tarde.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #noshow #recepcao",
+      "midias": [
+        "midia/2026-11-16_odj22/01.jpg",
+        "midia/2026-11-16_odj22/02.jpg",
+        "midia/2026-11-16_odj22/03.jpg",
+        "midia/2026-11-16_odj22/04.jpg",
+        "midia/2026-11-16_odj22/05.jpg",
+        "midia/2026-11-16_odj22/06.jpg",
+        "midia/2026-11-16_odj22/07.jpg"
+      ],
+      "origem": "2026-11-16_odj22",
+      "fixo": true
+    },
+    {
+      "id": "ODJ12",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato",
+      "quando": "2026-11-17T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra receber um print às 11h: \"lá é R$ 180\". Você cobra R$ 350. Fica quente na hora e escreve: \"pra você, faço R$ 200\". Ela marca e conta pra duas amigas. Na semana seguinte, chegam mais dois prints.\n\nVocê achou que tinha fechado uma paciente. Tinha aberto um leilão. Quem cede uma vez ensina a mandar print.\n\nQuando o print chegar, agradece e não comenta o outro preço. Diz o que a tua consulta inclui, em uma frase. E troca desconto por algo: à vista, pacote, horário com folga.\n\nComenta COBRAR que eu te mando o raio-x comercial.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #desconto",
+      "midias": [
+        "midia/2026-11-17_odj12/01.jpg",
+        "midia/2026-11-17_odj12/02.jpg",
+        "midia/2026-11-17_odj12/03.jpg",
+        "midia/2026-11-17_odj12/04.jpg",
+        "midia/2026-11-17_odj12/05.jpg",
+        "midia/2026-11-17_odj12/06.jpg",
+        "midia/2026-11-17_odj12/07.jpg"
+      ],
+      "origem": "2026-11-17_odj12",
+      "fixo": true
+    },
+    {
+      "id": "ODM07",
+      "titulo": "Os Doutores · Frase de palco: errar pequeno",
+      "quando": "2026-11-18T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem programa novo parado há dois anos porque ainda não tá perfeito. Tabela em revisão desde março. Decisão que espera a semana certa.\n\nDecisão de clínica se testa pequeno, se mede e se ajusta.\n\nO que você vai parar de adiar essa semana? Comenta aqui.\n\n#gestaodeclinicas #donodeclinica #tomadadedecisao",
+      "midias": [
+        "midia/2026-11-18_odm07/01.jpg"
+      ],
+      "origem": "2026-11-18_odm07",
+      "fixo": true
+    },
+    {
+      "id": "ODJ09",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a guia do imposto chegou",
+      "quando": "2026-11-18T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir a mensagem do contador: guia do imposto, R$ 11.400, vence em cinco dias. Na conta da clínica, R$ 6.200. E o mês foi bom. Como assim não tem dinheiro?\n\nTinha. Pagou a fornecedora, a folha e o cartão. Você gastou o imposto antes de ver a guia. Os números são de exemplo, mas esse susto eu vejo todo mês.\n\nFaturamento não é teu dinheiro. Uma parte já é do imposto no dia em que entra. Abre uma segunda conta só pra isso, separa a cada entrada o percentual que o teu contador calcular e confere se ele tá dentro do teu preço.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #impostos #financeiro",
+      "midias": [
+        "midia/2026-11-18_odj09/01.jpg",
+        "midia/2026-11-18_odj09/02.jpg",
+        "midia/2026-11-18_odj09/03.jpg",
+        "midia/2026-11-18_odj09/04.jpg",
+        "midia/2026-11-18_odj09/05.jpg",
+        "midia/2026-11-18_odj09/06.jpg",
+        "midia/2026-11-18_odj09/07.jpg"
+      ],
+      "origem": "2026-11-18_odj09",
+      "fixo": true
+    },
+    {
+      "id": "ODM12",
+      "titulo": "Os Doutores · Frase de palco: quem pergunta cresce",
+      "quando": "2026-11-19T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Desde 2009 eu entro em clínica de mais de 40 especialidades. O que separa quem cresce de quem fica parado quase nunca é a técnica.\n\nÉ quem continua perguntando: quanto custou? quem ligou? por que esse paciente não voltou?\n\nComenta a pergunta que você tem medo de fazer na tua clínica.\n\n#gestaodeclinicas #donodeclinica #palestra",
+      "midias": [
+        "midia/2026-11-19_odm12/01.jpg"
+      ],
+      "origem": "2026-11-19_odm12",
+      "fixo": true
+    },
+    {
+      "id": "ODJ16",
+      "titulo": "Os Doutores · Vesti o teu jaleco: duas comerciais, um paciente e a comissão",
+      "quando": "2026-11-19T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ouvir voz alterada no corredor. Uma atendeu primeiro, a outra fechou. O paciente de R$ 9 mil ouve tudo da sala de espera. Você resolve do jeito mais rápido: dividam aí. Na semana seguinte, uma esconde contato da outra.\n\nVocê criou a comissão pra vender mais. Só que comissão sem regra escrita vira disputa de paciente.\n\nA regra cabe numa folha: o que conta, em percentual; quem registra, onde e na hora; e, deu dúvida, uma pessoa decide no mesmo dia, fora do corredor.\n\nManda pra quem paga comissão e ainda resolve no \"dividam aí\".\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #comissao #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-19_odj16/01.jpg",
+        "midia/2026-11-19_odj16/02.jpg",
+        "midia/2026-11-19_odj16/03.jpg",
+        "midia/2026-11-19_odj16/04.jpg",
+        "midia/2026-11-19_odj16/05.jpg",
+        "midia/2026-11-19_odj16/06.jpg",
+        "midia/2026-11-19_odj16/07.jpg"
+      ],
+      "origem": "2026-11-19_odj16",
+      "fixo": true
+    },
+    {
+      "id": "ODJ11",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março",
+      "quando": "2026-11-20T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra acordar no feriado pensando nela de novo. Desde março você diz \"segunda eu falo\". Já foram 36 segundas. Enquanto isso, a melhor da equipe faz o que ela não faz, e já atualizou o currículo.\n\nVocê acha que tá adiando uma conversa. Tá escolhendo quem vai embora. Todo mês que você adia, quem paga é a equipe boa: ela vê que o combinado não vale pra todo mundo.\n\nFaz com respeito. Confere antes com teu contador ou advogado o que precisa ser feito e pago, fala olhando no olho e reconhece o que ela fez de bom.\n\nComenta \"segunda eu falo\" se tem uma conversa dessas na tua agenda desde março.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-11-20_odj11/01.jpg",
+        "midia/2026-11-20_odj11/02.jpg",
+        "midia/2026-11-20_odj11/03.jpg",
+        "midia/2026-11-20_odj11/04.jpg",
+        "midia/2026-11-20_odj11/05.jpg",
+        "midia/2026-11-20_odj11/06.jpg",
+        "midia/2026-11-20_odj11/07.jpg"
+      ],
+      "origem": "2026-11-20_odj11",
+      "fixo": true
+    },
+    {
+      "id": "ODM08",
+      "titulo": "Os Doutores · Frase de palco: quem cuida da tua clínica",
+      "quando": "2026-11-21T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você cuida do paciente, da equipe, da família, do fornecedor. Da clínica como negócio, cuida no domingo à noite, se sobrar energia.\n\nSó que é ela que paga todo o resto.\n\nManda pra quem você sabe que tá precisando de um respiro.\n\n#gestaodeclinicas #donodeclinica #empreendedorismonasaude",
+      "midias": [
+        "midia/2026-11-21_odm08/01.jpg"
+      ],
+      "origem": "2026-11-21_odm08",
+      "fixo": true
+    },
+    {
+      "id": "ODJ14",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o lead que chegou às 20h",
+      "quando": "2026-11-21T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ver um lead chegar às 20h12: é pra mãe, ela tá com muita dor. A recepção saiu às 18h. Ninguém viu. Às 9h, a recepção responde bom dia. E ouve: já marquei em outro lugar, obrigada.\n\nVocê pagou o clique e pagou a campanha. Perdeu em 13 horas de silêncio. Quem te chama nesse horário já decidiu que precisa. Só falta alguém responder antes da próxima clínica.\n\nColoca uma mensagem automática à noite dizendo a que horas vem a resposta, faz dos leads da noite a primeira tarefa da recepção e conta quantos chegam depois das 18h.\n\nComenta EXAME que a gente faz o exame do teu WhatsApp.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #whatsappnaclinica #marketingmedico",
+      "midias": [
+        "midia/2026-11-21_odj14/01.jpg",
+        "midia/2026-11-21_odj14/02.jpg",
+        "midia/2026-11-21_odj14/03.jpg",
+        "midia/2026-11-21_odj14/04.jpg",
+        "midia/2026-11-21_odj14/05.jpg",
+        "midia/2026-11-21_odj14/06.jpg",
+        "midia/2026-11-21_odj14/07.jpg"
+      ],
+      "origem": "2026-11-21_odj14",
+      "fixo": true
+    },
+    {
+      "id": "ODJ27",
+      "titulo": "Os Doutores · Vesti o teu jaleco: três parcelas atrasadas e ninguém quer cobrar",
+      "quando": "2026-11-22T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir no domingo as parcelas atrasadas: R$ 14 mil. Ninguém quer cobrar. A recepção diz que dá vergonha. Você também não quer, é paciente antigo. Ele continua vindo e não toca no assunto.\n\nVocê já pagou o material, a equipe e a taxa. E ele tem um prazo sem prazo. Cobrança sem dono vira constrangimento de todo mundo, inclusive do paciente, que também não sabe como voltar.\n\nDá um dono e um dia fixo na semana. É sempre a sós, sem expor ninguém, oferecendo como regularizar. E, na saída do orçamento, já combina o que acontece se atrasar.\n\nSalva pra segunda de manhã.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #inadimplencia #financeiro",
+      "midias": [
+        "midia/2026-11-22_odj27/01.jpg",
+        "midia/2026-11-22_odj27/02.jpg",
+        "midia/2026-11-22_odj27/03.jpg",
+        "midia/2026-11-22_odj27/04.jpg",
+        "midia/2026-11-22_odj27/05.jpg",
+        "midia/2026-11-22_odj27/06.jpg",
+        "midia/2026-11-22_odj27/07.jpg"
+      ],
+      "origem": "2026-11-22_odj27",
+      "fixo": true
+    },
+    {
+      "id": "ODM09",
+      "titulo": "Os Doutores · Frase de palco: a equipe não lê pensamento",
+      "quando": "2026-11-23T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você reclama que ninguém faz do jeito que você gosta. Mas onde tá escrito esse jeito?\n\nQuem sabe o que é esperado para de adivinhar. E você para de repetir.\n\nManda pra quem faz a reunião de equipe na tua clínica.\n\n#gestaodeclinicas #donodeclinica #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-23_odm09/01.jpg"
+      ],
+      "origem": "2026-11-23_odm09",
+      "fixo": true
+    },
+    {
+      "id": "ODJ15",
+      "titulo": "Os Doutores · Vesti o teu jaleco: você é o gerente mais caro da clínica",
+      "quando": "2026-11-23T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra conferir boleto às 14h, com a paciente esperando. Boleto, 40 minutos. Escala, fornecedor e ar-condicionado, mais duas horas. Na tua agenda, cada hora vale R$ 600. Hoje você fez R$ 1.600 de trabalho de gerente.\n\nVocê não contratou gerente porque é custo. Só que o custo já existe: é a consulta que você deixou de atender. Os números são de exemplo, tá? A conta da tua hora é tua.\n\nAnota a semana, quantas horas fora da sala, multiplica pelo valor da tua hora clínica e compara com o salário de quem faria isso.\n\nComenta HORA que eu te mando a calculadora da hora clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #horaclinica #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-23_odj15/01.jpg",
+        "midia/2026-11-23_odj15/02.jpg",
+        "midia/2026-11-23_odj15/03.jpg",
+        "midia/2026-11-23_odj15/04.jpg",
+        "midia/2026-11-23_odj15/05.jpg",
+        "midia/2026-11-23_odj15/06.jpg",
+        "midia/2026-11-23_odj15/07.jpg"
+      ],
+      "origem": "2026-11-23_odj15",
+      "fixo": true
+    },
+    {
+      "id": "ODJ17",
+      "titulo": "Os Doutores · Vesti o teu jaleco: 12x sem juros: quem paga é você",
+      "quando": "2026-11-24T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra responder sem pensar: \"claro, 12x sem juros\". Fechou um tratamento de R$ 6 mil. No fim do mês, chega o extrato da maquininha: R$ 780 de taxa. Sem juros pra ela. Pra você, não.\n\nOs números são de exemplo, mas a conta é essa: o \"sem juros\" tem juros, e quem paga é a tua margem.\n\nPega as taxas do teu contrato, de 1x a 12x, decide até quantas parcelas cabem no preço e dá uma condição melhor pra quem paga à vista. E garante que a recepção sabe dizer isso.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #financeiro",
+      "midias": [
+        "midia/2026-11-24_odj17/01.jpg",
+        "midia/2026-11-24_odj17/02.jpg",
+        "midia/2026-11-24_odj17/03.jpg",
+        "midia/2026-11-24_odj17/04.jpg",
+        "midia/2026-11-24_odj17/05.jpg",
+        "midia/2026-11-24_odj17/06.jpg",
+        "midia/2026-11-24_odj17/07.jpg"
+      ],
+      "origem": "2026-11-24_odj17",
+      "fixo": true
+    },
+    {
+      "id": "ODM10",
+      "titulo": "Os Doutores · Frase de palco: crescer dá medo",
+      "quando": "2026-11-25T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Contratar dá medo. Aumentar o preço dá medo. Sair do plantão dá medo. Eu sei.\n\nMas ficar igual também tem custo, só que ele vem parcelado, todo mês, e ninguém te avisa.\n\nComenta qual medo você vai enfrentar esse mês.\n\n#gestaodeclinicas #donodeclinica #empreendedorismonasaude",
+      "midias": [
+        "midia/2026-11-25_odm10/01.jpg"
+      ],
+      "origem": "2026-11-25_odm10",
+      "fixo": true
+    },
+    {
+      "id": "ODJ19",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a sobrinha que cuida do Instagram",
+      "quando": "2026-11-25T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir o Instagram da clínica. Último post: há 19 dias. Quem cuida é a tua sobrinha, que entende de rede, tem 22 anos e prova na terça. Você pergunta quantas consultas vieram dali e ela manda um emoji e um \"amanhã vejo\".\n\nNinguém fez nada errado. Ela faz de favor e você cobra de favor. E a clínica fica sem ninguém responsável por trazer paciente.\n\nSem gastar mais ainda: escolhe um dono, com hora marcada pra isso, uma meta só, contatos por semana, e cinco minutos toda sexta olhando esse número.\n\nComenta \"aqui é o primo\" se o marketing da tua clínica também é de família.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #marketingmedico #donodeclinica",
+      "midias": [
+        "midia/2026-11-25_odj19/01.jpg",
+        "midia/2026-11-25_odj19/02.jpg",
+        "midia/2026-11-25_odj19/03.jpg",
+        "midia/2026-11-25_odj19/04.jpg",
+        "midia/2026-11-25_odj19/05.jpg",
+        "midia/2026-11-25_odj19/06.jpg",
+        "midia/2026-11-25_odj19/07.jpg"
+      ],
+      "origem": "2026-11-25_odj19",
+      "fixo": true
+    },
+    {
+      "id": "ODJ29",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o regime de imposto que ninguém revisa",
+      "quando": "2026-11-26T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra assinar os papéis do contador, como você faz há seis anos. Perguntou do regime de imposto? Uma vez, em 2020. A clínica dobrou de tamanho desde então, e o teu enquadramento é o mesmo.\n\nTalvez esteja certo. Talvez não. O problema é que ninguém olhou. Não é pra trocar de contador, tá? É pra sentar uma vez por ano e perguntar o que ninguém te perguntou.\n\nTrês perguntas: esse regime ainda é o melhor pra quanto a gente fatura hoje? Quanto pago de imposto sobre cada real que entra? E o que muda aqui com a reforma, e quando?\n\nComenta DIAGNOSTICO que eu te mando o nível da tua clínica.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #impostos #contabilidade",
+      "midias": [
+        "midia/2026-11-26_odj29/01.jpg",
+        "midia/2026-11-26_odj29/02.jpg",
+        "midia/2026-11-26_odj29/03.jpg",
+        "midia/2026-11-26_odj29/04.jpg",
+        "midia/2026-11-26_odj29/05.jpg",
+        "midia/2026-11-26_odj29/06.jpg",
+        "midia/2026-11-26_odj29/07.jpg"
+      ],
+      "origem": "2026-11-26_odj29",
+      "fixo": true
+    },
+    {
+      "id": "ODJ18",
+      "titulo": "Os Doutores · Vesti o teu jaleco: qual é a promoção de Black Friday?",
+      "quando": "2026-11-27T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco na Black Friday. Às 8h30, a recepção te para no corredor: qual é a promoção de hoje? Seis pacientes já perguntaram. Você pensa em 20% e rabisca num papel.\n\nÀ tarde, a agenda lota com desconto. E quem pagou cheio ontem também viu. Desconto de um dia quase sempre antecipa quem já vinha, pagando menos.\n\nSe quiser fazer alguma coisa hoje, oferece acesso: horário extra, avaliação na semana. Se tiver condição, que seja com contrapartida. E confere a regra do teu conselho antes de anunciar qualquer preço, tá?\n\nManda pra quem tá escrevendo o \"Black 20%\" agora.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #blackfriday #precificacao",
+      "midias": [
+        "midia/2026-11-27_odj18/01.jpg",
+        "midia/2026-11-27_odj18/02.jpg",
+        "midia/2026-11-27_odj18/03.jpg",
+        "midia/2026-11-27_odj18/04.jpg",
+        "midia/2026-11-27_odj18/05.jpg",
+        "midia/2026-11-27_odj18/06.jpg",
+        "midia/2026-11-27_odj18/07.jpg"
+      ],
+      "origem": "2026-11-27_odj18",
+      "fixo": true
+    },
+    {
+      "id": "ODJ23",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o retorno grátis que virou terceira consulta",
+      "quando": "2026-11-28T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra receber o Seu Paulo pela terceira vez esse mês. \"É só o retorno, doutor.\" A consulta foi em outubro e a queixa é nova. Quarenta minutos depois, ele sai agradecendo, e a recepção pergunta: \"é retorno, né?\"\n\nRetorno sem regra vira consulta grátis. E o paciente não tá errado. Ninguém nunca disse pra ele onde termina.\n\nDefine o que é retorno, em prazo e motivo. Diz isso na consulta, e a recepção repete por escrito. E confere a regra do teu conselho e do convênio antes de escrever, tá?\n\nManda pra quem atende de graça sem perceber.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #horaclinica",
+      "midias": [
+        "midia/2026-11-28_odj23/01.jpg",
+        "midia/2026-11-28_odj23/02.jpg",
+        "midia/2026-11-28_odj23/03.jpg",
+        "midia/2026-11-28_odj23/04.jpg",
+        "midia/2026-11-28_odj23/05.jpg",
+        "midia/2026-11-28_odj23/06.jpg",
+        "midia/2026-11-28_odj23/07.jpg"
+      ],
+      "origem": "2026-11-28_odj23",
+      "fixo": true
+    },
+    {
+      "id": "ODJ13",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a funcionária antiga que manda mais que você",
+      "quando": "2026-11-29T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra pedir uma mudança simples no horário de confirmação. A dona Neide, 19 anos de casa, responde: \"doutor, aqui a gente sempre fez assim\". Você volta pra sala e fica tudo como tava. A nova já aprendeu quem manda.\n\nDemitir? Só ela sabe a senha, o fornecedor e a exceção. Você tem medo de quem contratou.\n\nA dona Neide tá longe de ser o problema. O problema é que a clínica inteira ficou na cabeça dela. Dá o crédito a ela, pede pra ela te ensinar, escreve o passo a passo e muda uma coisa só, dizendo o porquê.\n\nManda pra quem tem uma dona Neide e ainda não teve essa conversa.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #equipe",
+      "midias": [
+        "midia/2026-11-29_odj13/01.jpg",
+        "midia/2026-11-29_odj13/02.jpg",
+        "midia/2026-11-29_odj13/03.jpg",
+        "midia/2026-11-29_odj13/04.jpg",
+        "midia/2026-11-29_odj13/05.jpg",
+        "midia/2026-11-29_odj13/06.jpg",
+        "midia/2026-11-29_odj13/07.jpg"
+      ],
+      "origem": "2026-11-29_odj13",
+      "fixo": true
+    },
+    {
+      "id": "ODJ21",
+      "titulo": "Os Doutores · Vesti o teu jaleco: hoje vence a primeira parcela do 13º",
+      "quando": "2026-11-30T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco no dia 30 de novembro: hoje vence a primeira parcela do 13º. Oito funcionárias, R$ 9.600 pra sair hoje, e você lembrou na sexta. Empurra o fornecedor, adia o aluguel e entra no cheque especial com a agenda cheia.\n\nO 13º vem todo ano, no mesmo dia. A surpresa é ele não estar no teu preço. Pela lei, a primeira parcela vai até 30 de novembro e a segunda até 20 de dezembro (Lei 4.749/1965). Os valores do post são de exemplo.\n\nPra não repetir em 2027, soma 13º, férias e encargos da folha do ano, divide por 12 e separa todo mês numa conta à parte.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #financeiro #decimoterceiro",
+      "midias": [
+        "midia/2026-11-30_odj21/01.jpg",
+        "midia/2026-11-30_odj21/02.jpg",
+        "midia/2026-11-30_odj21/03.jpg",
+        "midia/2026-11-30_odj21/04.jpg",
+        "midia/2026-11-30_odj21/05.jpg",
+        "midia/2026-11-30_odj21/06.jpg",
+        "midia/2026-11-30_odj21/07.jpg"
+      ],
+      "origem": "2026-11-30_odj21",
+      "fixo": true
+    },
+    {
+      "id": "ODJ25",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o pedido de aumento",
+      "quando": "2026-12-01T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ouvir a melhor da equipe às 17h40: \"tô aqui há três anos, queria falar de aumento\". Você gela e responde \"vou ver\". Quinze dias sem resposta. Ela recebe uma proposta da clínica do lado.\n\nVocê não sabe quanto ela vale porque o cargo dela não tem número. Sem número, aumento vira simpatia ou medo de perder.\n\nEscreve o que o cargo entrega, em número. Define degraus: o que muda quando ela chegar lá. E responde em até sete dias, porque silêncio também é resposta.\n\nComenta \"vou ver\" se essa já foi a tua resposta pra quem você não podia perder.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #gestaodepessoas #retencao",
+      "midias": [
+        "midia/2026-12-01_odj25/01.jpg",
+        "midia/2026-12-01_odj25/02.jpg",
+        "midia/2026-12-01_odj25/03.jpg",
+        "midia/2026-12-01_odj25/04.jpg",
+        "midia/2026-12-01_odj25/05.jpg",
+        "midia/2026-12-01_odj25/06.jpg",
+        "midia/2026-12-01_odj25/07.jpg"
+      ],
+      "origem": "2026-12-01_odj25",
+      "fixo": true
+    },
+    {
+      "id": "ODJ28",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o orçamento de R$ 8 mil que ninguém ligou",
+      "quando": "2026-12-02T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra encontrar a paciente no corredor do prédio. Há 15 dias, ela levou um orçamento de R$ 8 mil. \"Doutor, eu tava esperando a ligação de vocês.\" Você pergunta na recepção, e uma achou que era a outra.\n\nEla nunca desistiu. Ela esperou. E você achava que quem sumiu tinha desistido.\n\nTodo orçamento sai com nome, valor e data de retorno. Uma pessoa liga em D+1, D+3 e D+7. E, na sexta, 15 minutos: quantos saíram, quantos voltaram, quantos fecharam. É o dono da jornada do orçamento.\n\nManda pra quem tem orçamento na gaveta e acha que o paciente sumiu.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #orcamento #comercial",
+      "midias": [
+        "midia/2026-12-02_odj28/01.jpg",
+        "midia/2026-12-02_odj28/02.jpg",
+        "midia/2026-12-02_odj28/03.jpg",
+        "midia/2026-12-02_odj28/04.jpg",
+        "midia/2026-12-02_odj28/05.jpg",
+        "midia/2026-12-02_odj28/06.jpg",
+        "midia/2026-12-02_odj28/07.jpg"
+      ],
+      "origem": "2026-12-02_odj28",
+      "fixo": true
+    },
+    {
+      "id": "ODJ24",
+      "titulo": "Os Doutores · Vesti o teu jaleco: a escala de dezembro sem o 6x1",
+      "quando": "2026-12-03T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra montar a escala de dezembro. A partir de meados do mês, são 42 horas e duas folgas por semana, sem reduzir salário. Você abre sábado, com uma recepção só, e a conta não fecha. Quem cobre?\n\nA emenda não proíbe abrir sábado. Ela garante as duas folgas de cada pessoa. Quem atende de segunda a sábado vai precisar de revezamento, ou de acordo com o sindicato. E, com o mesmo salário e menos horas, a hora de cada uma sobe cerca de 4,8%.\n\nDesenha a semana em horas, pessoa por pessoa, e leva pro teu contador. Isso aqui não é parecer jurídico, tá?\n\nFontes: EC 141/2026, Senado Federal. Nota Orientativa Fenacon DL 001/2026.\n\nComenta PLANILHA que eu te mando a planilha Freedom de precificação.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #escala6x1 #gestaodepessoas",
+      "midias": [
+        "midia/2026-12-03_odj24/01.jpg",
+        "midia/2026-12-03_odj24/02.jpg",
+        "midia/2026-12-03_odj24/03.jpg",
+        "midia/2026-12-03_odj24/04.jpg",
+        "midia/2026-12-03_odj24/05.jpg",
+        "midia/2026-12-03_odj24/06.jpg",
+        "midia/2026-12-03_odj24/07.jpg"
+      ],
+      "origem": "2026-12-03_odj24",
+      "fixo": true
+    },
+    {
+      "id": "ODJ30",
+      "titulo": "Os Doutores · Vesti o teu jaleco: você cobrou R$ 400. Quanto sobrou?",
+      "quando": "2026-12-04T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra passar o último paciente do dia: R$ 400 na maquininha. Você sorri. Aí tira a taxa, o imposto e o material. Tira a equipe, o aluguel e a luz daquela hora. Sobram R$ 38. E ainda falta pagar o médico.\n\nOs números são de exemplo, tá? Só que essa conta quase ninguém faz, porque o preço veio da clínica da esquina, que tem outra conta.\n\nTroca esses números pelos da tua clínica, decide quanto vale a tua hora e só então olha o preço.\n\nManda pra quem acha que tá caro e nunca fez essa conta.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #precificacao #horaclinica",
+      "midias": [
+        "midia/2026-12-04_odj30/01.jpg",
+        "midia/2026-12-04_odj30/02.jpg",
+        "midia/2026-12-04_odj30/03.jpg",
+        "midia/2026-12-04_odj30/04.jpg",
+        "midia/2026-12-04_odj30/05.jpg",
+        "midia/2026-12-04_odj30/06.jpg",
+        "midia/2026-12-04_odj30/07.jpg"
+      ],
+      "origem": "2026-12-04_odj30",
+      "fixo": true
+    },
+    {
+      "id": "ODJ26",
+      "titulo": "Os Doutores · Vesti o teu jaleco: o repasse do convênio atrasou e a folha vence segunda",
+      "quando": "2026-12-05T15:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra olhar o banco no sábado de manhã, com a folha vencendo segunda. Setembro teve agenda cheia. A conta da clínica tem R$ 3.900. O repasse de setembro ainda não caiu, e o último veio com glosa. Você atendeu em setembro e vai pagar a folha de novembro com o limite do banco.\n\nConvênio não se corta, se restringe. Mas antes precisa saber quanto ele paga e quando paga. Prazo de receber também é preço. Os números são de exemplo.\n\nOlha quantos dias cada convênio leva pra pagar, quanto volta de glosa e quem recorre, e quanto do teu caixa tá preso.\n\nManda pra quem trabalha em setembro pra receber em dezembro.\n\nImagens criadas com IA. Eu não sou médico: sou gestor de clínicas desde 2009.\n\n#gestaodeclinicas #convenios #financeiro",
+      "midias": [
+        "midia/2026-12-05_odj26/01.jpg",
+        "midia/2026-12-05_odj26/02.jpg",
+        "midia/2026-12-05_odj26/03.jpg",
+        "midia/2026-12-05_odj26/04.jpg",
+        "midia/2026-12-05_odj26/05.jpg",
+        "midia/2026-12-05_odj26/06.jpg",
+        "midia/2026-12-05_odj26/07.jpg"
+      ],
+      "origem": "2026-12-05_odj26",
+      "fixo": true
     }
   ],
   "liberados": [
