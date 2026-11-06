@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 06/11/2026, 12:05:09. 280 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 06/11/2026, 12:47:59. 279 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -138,7 +138,7 @@ Gerada em 06/11/2026, 12:05:09. 280 posts agendados, 3 pendentes. Stories com en
 
 - **08h30 · L3-35 · 34% com falta acima de 11%** (imagem) · publicado: https://www.instagram.com/p/DfZgLDIm5qE/
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
-- **12h30 · OD07 · Os Doutores · Notícia: a 5x2 na clínica que abre sábado** (carrossel)
+- **12h30 · OD07 · Os Doutores · Notícia: a 5x2 na clínica que abre sábado** (carrossel) · publicado: https://www.instagram.com/p/DfZ7sjxkcJL/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ02 · Os Doutores · Vesti o teu jaleco: recepção e enfermagem sem se falar há três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
