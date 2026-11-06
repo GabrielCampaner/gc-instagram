@@ -1,8 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 01/11/2026, 12:58:27. 200 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
-
-Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, de 06/11 a 05/12) e as Frases de palco (de 06/11 a 25/11). As lousas MD estão no calendário e não aparecem aqui.
+Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -92,66 +90,84 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Stories: Enquete: "Quanto da sua agenda é particular?" (controle deslizante).
 - **12h30 · OD02 · Os Doutores · Helena: faturou R$ 140 mil e não sabe quanto ganhou** (carrossel) · publicado: https://www.instagram.com/p/DfNDutckZ79/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · como-atender-cada-um · Você não receita a mesma dose para todo paciente. Por que a ** (carrossel)
+- **18h30 · como-atender-cada-um · Você não receita a mesma dose para todo paciente. Por que a ** (carrossel) · publicado: https://www.instagram.com/p/DfNs7XqH7Hh/
 
 ## segunda, 02/11
 
-- **08h30 · L3-32 · 635.706 médicos** (imagem)
+- **08h30 · L3-32 · 635.706 médicos** (imagem) · publicado: https://www.instagram.com/p/DfPM_kiETWe/
   - Stories: Pergunta: "A sua agenda enche mais ou menos que há 5 anos?"
-- **12h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel)
+- **12h30 · OD03 · Os Doutores · Notícia: o paciente que desiste** (carrossel) · publicado: https://www.instagram.com/p/DfPogcem9HD/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · GC-14 · Falta sem aviso não é azar** (carrossel)
+- **18h30 · GC-14 · Falta sem aviso não é azar** (carrossel) · publicado: https://www.instagram.com/p/DfQRufbkogD/
   - Stories: Tarde: enquete "Você sabe a taxa de falta da sua clínica?" · Sei o número / Não sei. Noite: "O Exame da sua clínica mostra a falta real, não a percebida" (tela da IAra, separada).
 
 ## terça, 03/11
 
-- **08h30 · L3-12 · 21h47 em duas clínicas** (imagem)
+- **08h30 · L3-12 · 21h47 em duas clínicas** (imagem) · publicado: https://www.instagram.com/p/DfRxyavG4dW/
   - Stories: Enquete: "A sua clínica responde mensagem às 21h47?" · Responde / Só de manhã.
-- **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel)
+- **12h30 · OD04 · Os Doutores · Lucas: 94 dias postando, 3 consultas particulares** (carrossel) · publicado: https://www.instagram.com/p/DfSNUTDESeU/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **15h00 · ODR1 · Os Doutores · A eleição acabou: o que muda na tua clínica, data por data** (carrossel)
-- **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel)
+- **15h00 · ODR1 · Os Doutores · A eleição acabou: o que muda na tua clínica, data por data** (carrossel) · publicado: https://www.instagram.com/p/DfSedXxFI03/
+- **18h30 · L3-01 · Dois donos, mesmo dia** (carrossel) · publicado: https://www.instagram.com/p/DfS2fVHlPNW/
   - Stories: Repost do carrossel + enquete "Hoje você foi o de cima ou o de baixo?" · De cima / De baixo. Caixinha: "Qual horário do seu dia mais te drena?" (vira pauta da série Duas Clínicas).
 
 ## quarta, 04/11
 
-- **08h30 · L3-33 · 54% medem só a entrada** (imagem)
+- **08h30 · L3-33 · 54% medem só a entrada** (imagem) · publicado: https://www.instagram.com/p/DfUWlZAm2eV/
   - Stories: Enquete: "Você mede a conversão de orçamento?" · Mede / Não mede.
-- **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel)
+- **12h30 · OD05 · Os Doutores · Você acordou hoje: o descontinho das 6h52** (carrossel) · publicado: https://www.instagram.com/p/DfUyGfmIGLT/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel)
+- **18h30 · L3-03 · Os mesmos 40 minutos** (carrossel) · publicado: https://www.instagram.com/p/DfVbSZIFIP6/
   - Stories: Caixa de perguntas: "Onde foram os seus 40 minutos hoje?" Responda 3 nos Stories com a troca certa.
+- **20h30 · MD-01 · O protocolo diário do dono que enche a agenda** (imagem) · publicado: https://www.instagram.com/p/DfVo-xOifTP/
+  - Lembrete: Lousa modelada (referência enviada pelo Gabriel em 04/11).
+  - Stories: Repost da lousa com enquete: "Quantos desses 10 você faz todo dia?" · Mais de 5 / Menos de 5.
 
 ## quinta, 05/11
 
-- **08h30 · L3-34 · 33% fora do horário** (imagem)
+- **08h30 · L3-34 · 33% fora do horário** (imagem) · publicado: https://www.instagram.com/p/DfW7YLHnATL/
   - Stories: Enquete: "A sua clínica responde mensagem depois das 18h?" · Responde / Só no dia seguinte.
-- **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel)
+- **12h30 · OD06 · Os Doutores · Caio: saiu do plantão e dormiu no carro** (carrossel) · publicado: https://www.instagram.com/p/DfXW5v8HNOu/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel)
+- **18h30 · GC-06 · Black Friday: desconto ou acesso?** (carrossel) · publicado: https://www.instagram.com/p/DfYAFC-lUjc/
+- **20h30 · MD-02 · O que a sua recepção passa de imagem** (carrossel) · publicado: https://www.instagram.com/p/DfYN1wAmVgU/
+  - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Fotos geradas por IA, acabamento no Photoshop (Adobe).
+  - Stories: Enquete com o slide 1: "Na sua clínica tem padrão escrito para a recepção?" · Tem / Não tem.
 
 ## sexta, 06/11
 
-- **08h30 · L3-35 · 34% com falta acima de 11%** (imagem)
+- **08h30 · L3-35 · 34% com falta acima de 11%** (imagem) · publicado: https://www.instagram.com/p/DfZgLDIm5qE/
   - Stories: Enquete: "A sua taxa de faltas passa de 11%?" · Passa / Não passa / Não sei.
 - **12h30 · OD07 · Os Doutores · Notícia: a 5x2 na clínica que abre sábado** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ02 · Os Doutores · Vesti o teu jaleco: recepção e enfermagem sem se falar há três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **17h00 · L4-05 · Você não dirige sem painel. Mas toca a clínica assim.** (imagem)
+  - Stories: Repost da imagem + enquete "Qual ponteiro você olha toda semana?" · Agenda / Caixa / Nenhum.
 - **18h30 · L3-04 · 5 erros que parecem educação** (carrossel)
   - Stories: Enquete: "Áudio para paciente: sim ou não?" Depois, a resposta da lâmina 3. Caixinha: "Qual frase a sua recepção mais usa?"
+- **20h30 · MD-03 · Sua recepção ainda responde como em 2016?** (imagem)
+  - Lembrete: Lousa modelada (referência enviada pelo Gabriel em 04/11).
+  - Stories: Caixa de perguntas: "Como a sua recepção responde 'quanto custa?'" Responder 3 nos Stories com a versão 2027.
 - **21h30 · ODM01 · Os Doutores · Frase de palco: um dia ruim** (imagem)
 
 ## sábado, 07/11
 
+- **06h30 · L4-14 · Você estudou anos para passar a tarde conferindo boleto.** (imagem)
+  - Stories: Caixinha: "Qual tarefa você ainda faz que não precisava ser você?"
 - **08h30 · L3-36 · 75% já contrataram pelo WhatsApp** (imagem)
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
 - **12h30 · OD08 · Os Doutores · Otávio: 23h47, o 14º paciente do dia, da cama** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ01 · Os Doutores · Vesti o teu jaleco: 40 leads, 2 pacientes e o "lead ruim"** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **17h00 · L4-19 · Duas clínicas, a mesma avaliação de 1 estrela** (carrossel)
+  - Stories: Enquete: "Você responde avaliação ruim no Google?" · Respondo / Deixo quieto.
 - **18h30 · L3-07 · Duas recepções, mesma segunda** (carrossel)
   - Stories: Enquete: "Quantas mensagens chegaram no seu fim de semana?" (controle deslizante). Depois, o quadro dos 4 números para printar.
+- **20h30 · MD-04 · A saúde virou isso? (guerra de preço)** (carrossel)
+  - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Doutor gerado por IA; trocar pelo rosto do Gabriel quando houver Gemini/fal.ai. Cartazes de saúde pública desfocados.
+  - Stories: Enquete: "Você vai entrar na Black Friday com desconto?" · Vou / Não vou. Caixinha: "Qual foi o pior desconto que você já deu?"
 
 ## domingo, 08/11
 
@@ -162,19 +178,31 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ20 · Os Doutores · Vesti o teu jaleco: o cartão pessoal pagando a clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **17h00 · L4-07 · O paciente não vai embora de uma vez. Ele seca, sem ninguém regar.** (imagem)
+  - Stories: Repost + caixinha "O que a sua clínica manda para o paciente depois da consulta?"
 - **18h30 · L3-08 · Os três "achei caro"** (carrossel)
   - Stories: Caixinha: "Qual resposta você dá quando o paciente diz que está caro?" Responda 3 com a lâmina certa.
+- **20h30 · MD-05 · Você cuida do paciente ou só da próxima venda?** (imagem)
+  - Lembrete: Lousa modelada (referência enviada pelo Gabriel em 04/11). Faixa com fonte e logo da GC.
+  - Stories: Repost da lousa com controle deslizante: "Em qual passo a sua clínica para?" e caixinha para as respostas.
 
 ## segunda, 09/11
 
+- **06h30 · L4-01 · O paciente pesquisou o seu preço no Google antes de mandar oi.** (imagem)
+  - Stories: Enquete: "Quando perguntam o preço, a sua recepção responde só o valor?" · Sim / Não. Caixinha: "O que a sua recepção responde quando perguntam quanto custa?"
 - **08h30 · L3-37 · 3,1 milhões de procedimentos** (imagem)
   - Stories: Pergunta: "O que mais trava a sua clínica de estética: atrair ou fechar?"
 - **12h30 · OD10 · Os Doutores · Otávio senta com o Gabriel: o celular na mesa** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ07 · Os Doutores · Vesti o teu jaleco: o atestado de toda segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **17h00 · L4-13 · Antes de assinar o aluguel da clínica: a conta em 6 linhas** (carrossel)
+  - Stories: Caixinha: "Quanto custa uma hora da sua clínica antes do seu salário?"
 - **18h30 · L3-11 · O seu WhatsApp é a sua pauta** (carrossel)
   - Stories: Caixinha: "Qual pergunta o seu paciente mais faz?" As respostas viram a lista da semana.
+- **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel)
+  - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Caderno com a caneta da GC.
+  - Stories: Segunda de manhã: foto do caderno + enquete "Você já fez a reunião de 15 minutos hoje?" · Já / Ainda não.
 
 ## terça, 10/11
 
@@ -187,9 +215,15 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-13 · O mesmo anúncio** (carrossel)
   - Stories: Enquete: "Quanto tempo a sua clínica leva para responder um lead do anúncio?" · Até 5 min / Mais que isso.
+- **20h30 · L4-17 · A recepção da sua clínica tem porta giratória. Cada volta leva o que só ela sabia.** (imagem)
+  - Stories: Caixinha: "Quantas recepcionistas a sua clínica teve em 2026?"
+- **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem)
+  - Stories: Enquete: "Na sua clínica, o valor vem antes ou depois da apresentação?" · Antes / Depois.
 
 ## quarta, 11/11
 
+- **06h30 · L4-28 · Preço baixo atrai quem vai trocar você pelo próximo preço baixo.** (imagem)
+  - Stories: Enquete: "O seu paciente escolhe você pelo preço ou pelo cuidado?" · Preço / Cuidado.
 - **08h30 · L3-18 · Clínica de tudo para todos** (carrossel)
   - Stories: Pegar 3 frases dos comentários e reescrever nos Stories (com permissão).
 - **12h30 · OD12 · Os Doutores · Comparação: a imersão e a segunda-feira** (carrossel)
@@ -198,6 +232,10 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-19 · O mesmo paciente, duas clínicas** (carrossel)
   - Stories: Enquete: "Qual etapa é a mais fraca na sua clínica?" · Resposta / Espera / Pós-consulta / Retorno.
+- **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel)
+  - Stories: Caixinha: "Qual desses cinco você sabe de cabeça?" e repost da lâmina 3.
+- **21h30 · L4-06 · Paciente esperando 40 minutos na recepção já está procurando outra clínica.** (imagem)
+  - Stories: Enquete: "Na sua clínica, quem avisa o paciente quando a agenda atrasa?" · A recepção / Ninguém.
 
 ## quinta, 12/11
 
@@ -210,9 +248,15 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-21 · Robô de menu ou conversa** (carrossel)
   - Stories: Enquete: "Você já desistiu de um atendimento no 'digite 1'?" · Já / Nunca.
+- **20h30 · L4-25 · Pacientes particulares na psicologia, na nutrição e na fisioterapia** (carrossel)
+  - Stories: Enquete: "De onde vem a maioria dos seus pacientes particulares?" · Indicação / Instagram / Google.
+- **21h30 · L4-26 · Trocar de agência pela terceira vez não muda quem atende o WhatsApp.** (imagem)
+  - Stories: Enquete: "Quantas agências a sua clínica já teve?" · Uma / Duas / Três ou mais.
 
 ## sexta, 13/11
 
+- **06h30 · L4-04 · O paciente queria parcelar. Você deu 10% de desconto.** (imagem)
+  - Stories: Caixinha: "Qual é a primeira coisa que a sua recepção oferece quando o paciente acha caro?"
 - **08h30 · L3-23 · As 3 mensagens depois da consulta** (carrossel)
   - Stories: Caixinha: "Você manda mensagem no dia seguinte à consulta?" Mostre 2 respostas com a mensagem pronta.
 - **12h30 · OD14 · Os Doutores · Helena senta com o Gabriel: a conta da hora** (carrossel)
@@ -221,6 +265,10 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-25 · O WhatsApp pessoal do médico** (carrossel)
   - Stories: Enquete: "Paciente tem o seu WhatsApp pessoal?" · Tem / Não tem / Tinha.
+- **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
+  - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
+- **21h30 · L4-16 · A sua melhor recepcionista sai quando alguém oferece R$ 300 a mais.** (imagem)
+  - Stories: Enquete: "Você sabe o que faria a sua recepcionista ficar mais dois anos?" · Sei / Nunca perguntei.
 
 ## sábado, 14/11
 
@@ -233,6 +281,8 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-28 · Vale a pena atender convênio?** (carrossel)
   - Stories: Enquete: "Quanto da sua agenda é convênio?" (controle deslizante).
+- **21h30 · L4-12 · Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.** (imagem)
+  - Stories: Teste nos Stories: "Manda agora uma mensagem para a sua clínica e conta em quanto tempo responderam." Controle deslizante.
 
 ## domingo, 15/11
 
@@ -245,6 +295,8 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-30 · A recepcionista saiu** (carrossel)
   - Stories: Enquete: "Se a sua recepcionista sair amanhã, a clínica sabe responder?" · Sabe / Não sabe.
+- **21h30 · L4-34 · Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.** (imagem)
+  - Stories: Domingo sem venda. Enquete: "A sua clínica pede avaliação no Google?" · Pede / Não pede.
 
 ## segunda, 16/11
 
@@ -256,9 +308,15 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 - **15h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-01-R · Dois donos, mesmo dia (Reels)** (reels)
+- **20h30 · L4-02 · Duas clínicas, o mesmo dia 30** (carrossel)
+  - Stories: Repost + enquete "Você fecha o mês olhando o quê?" · O extrato / Um painel.
+- **21h30 · L4-24 · Um terço dos agendamentos online acontece depois que a sua recepção vai embora.** (imagem)
+  - Stories: Enquete: "O que o paciente recebe se mandar mensagem para a sua clínica às 21h?" · Resposta / Silêncio.
 
 ## terça, 17/11
 
+- **06h30 · L4-30 · Paciente que falta sem aviso ocupa o horário de quem pagaria.** (imagem)
+  - Stories: Enquete: "A sua clínica confirma todos os pacientes na véspera?" · Todos / Alguns / Nenhum.
 - **08h30 · GC-02 · 4 mensagens para o orçamento parado** (carrossel)
   - Stories: telas prontas em Conteudo/2026-10-22_stories-orcamento (ST-GC-02)
 - **12h30 · OD21 · Os Doutores · Ricardo: 25 anos e um telefone fixo** (carrossel)
@@ -266,6 +324,8 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 - **15h00 · ODJ12 · Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
+- **21h30 · L4-32 · O paciente decide no consultório. A recepção só confirma.** (imagem)
+  - Stories: Enquete: "Quem fala do tratamento com o paciente na sua clínica?" · Eu / A recepção.
 
 ## quarta, 18/11
 
@@ -397,10 +457,14 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 
 ## terça, 01/12
 
+- **06h30 · L4-10 · A agenda de janeiro se enche em dezembro. Ou fica vazia.** (imagem)
+  - Stories: Enquete: "Como está a sua agenda de janeiro hoje?" · Cheia / Pela metade / Em branco.
 - **12h30 · OD32 · Os Doutores · Lúcia senta com o Gabriel: as três mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ25 · Os Doutores · Vesti o teu jaleco: o pedido de aumento** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-11 · Duas clínicas, a mesma segunda de dezembro** (carrossel)
+  - Stories: Repost + enquete "Como está a sua agenda de janeiro hoje?" · Cheia / Pela metade / Em branco.
 
 ## quarta, 02/12
 
@@ -424,6 +488,8 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 
 ## sábado, 05/12
 
+- **06h30 · L4-18 · Se tudo passa por você, a clínica fecha quando você tira férias.** (imagem)
+  - Stories: Enquete: "Quando foi a sua última semana sem responder a clínica?" · Este ano / Não lembro.
 - **12h30 · OD37 · Os Doutores · Fernando senta com o Gabriel: a conta da troca** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ26 · Os Doutores · Vesti o teu jaleco: o repasse do convênio atrasou e a folha vence segunda** (carrossel)
@@ -431,13 +497,19 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 
 ## domingo, 06/12
 
+- **06h30 · L4-20 · Você planeja as férias da família e não planeja o ano da clínica.** (imagem)
+  - Stories: Domingo sem venda. Repost com a pergunta: "A sua clínica tem meta para 2027 escrita?"
 - **12h30 · OD36 · Os Doutores · Marina: voltou do congresso com a terceira máquina em 48 parcelas** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## segunda, 07/12
 
+- **06h30 · L4-22 · O aluguel reajusta todo ano. A sua consulta está no preço de 2022.** (imagem)
+  - Stories: Enquete: "Em que ano você reajustou a sua consulta pela última vez?" · 2026 / Antes disso.
 - **12h30 · OD38 · Os Doutores · Débora senta com o Gabriel: a margem de cada procedimento e a regra do desconto** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-23 · Vai reajustar o preço em janeiro? Avise em dezembro.** (carrossel)
+  - Stories: Caixinha: "Você vai reajustar em janeiro?" e resposta com a frase do balcão.
 
 ## terça, 08/12
 
@@ -448,21 +520,29 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 
 - **12h30 · OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-27 · GPS sem destino não recalcula rota. Clínica sem meta também não.** (imagem)
+  - Stories: Caixinha: "Qual é a meta da sua clínica para 2027, em número?"
 
 ## quinta, 10/12
 
 - **12h30 · OD41 · Os Doutores · O lado da Kelly** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-29 · O ano de 2027 da sua clínica numa folha** (carrossel)
+  - Stories: Caixinha: "Se a sua clínica tivesse um projeto só em 2027, qual seria?"
 
 ## sexta, 11/12
 
 - **12h30 · OD42 · Os Doutores · Joana senta com o Gabriel: o sábado** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-31 · Pode cobrar taxa de falta?** (carrossel)
+  - Stories: Enquete: "Você cobra taxa de falta?" · Cobro / Não cobro.
 
 ## sábado, 12/12
 
 - **12h30 · OD43 · Os Doutores · Joana: sábado, 7h, a clínica fechada e o WhatsApp não** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-33 · Duas clínicas, o mesmo recesso de fim de ano** (carrossel)
+  - Stories: Enquete: "A sua clínica vai fechar no fim do ano?" · Vai / Não vai.
 
 ## domingo, 13/12
 
@@ -471,13 +551,21 @@ Atualizada à mão em 06/11/2026: entraram o quadro Vesti o teu jaleco (15h00, d
 
 ## segunda, 14/12
 
+- **06h30 · L4-36 · Comissão sem regra escrita é briga com data marcada.** (imagem)
+  - Stories: Enquete: "A regra de comissão da sua clínica está escrita?" · Está / Está na cabeça.
 - **12h30 · OD45 · Os Doutores · Mauro senta com o Gabriel: o dinheiro que não entrou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-37 · Vai fechar no recesso? 3 mensagens para mandar hoje** (carrossel)
+  - Stories: Caixinha: "Qual mensagem a sua clínica manda no recesso?"
 
 ## terça, 15/12
 
+- **06h30 · L4-38 · Você fecha dezembro no azul e janeiro no cheque especial.** (imagem)
+  - Stories: Enquete: "A sua clínica tem reserva para janeiro?" · Tem / Vai dar um jeito.
 - **12h30 · OD46 · Os Doutores · Carolina senta com o Gabriel: o modelo de negócio na ponta do lápis** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **18h30 · L4-39 · Férias da equipe em janeiro sem a agenda parar** (carrossel)
+  - Stories: Enquete: "A escala de férias da sua equipe já está pronta?" · Pronta / Ainda não.
 
 ## quarta, 16/12
 
