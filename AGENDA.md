@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 06/11/2026, 11:40:58. 279 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 06/11/2026, 12:05:09. 280 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -281,6 +281,7 @@ Gerada em 06/11/2026, 11:40:58. 279 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-28 · Vale a pena atender convênio?** (carrossel)
   - Stories: Enquete: "Quanto da sua agenda é convênio?" (controle deslizante).
+- **20h30 · ODM25 · Os Doutores · Frase de palco: recomendar com firmeza** (imagem)
 - **21h30 · L4-12 · Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.** (imagem)
   - Stories: Teste nos Stories: "Manda agora uma mensagem para a sua clínica e conta em quanto tempo responderam." Controle deslizante.
 
