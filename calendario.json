@@ -2743,6 +2743,22 @@
       "origem": "2026-11-26_conta-do-desconto"
     },
     {
+      "id": "ODM13",
+      "titulo": "Os Doutores · Frase de palco: em casa às 21h",
+      "quando": "2026-11-19T21:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você chega em casa às 21h, janta no automático e responde a recepção do sofá. A clínica não agradece. O boleto continua igual, e a tua família sente.\n\nTrabalhar mais nunca foi o plano. O plano era ter um negócio que funciona sem te gastar inteiro. Isso se constrói uma rotina de cada vez.\n\nManda pra quem tá saindo tarde da clínica todo dia.\n\n#gestaodeclinicas #donodeclinica #donodeclinica2026",
+      "midias": [
+        "midia/2026-11-19_odm13/01.jpg"
+      ],
+      "origem": "2026-11-19_odm13",
+      "fixo": true
+    },
+    {
       "id": "OD18",
       "titulo": "Os Doutores · Frase: o feriado testa a clínica",
       "quando": "2026-11-20T06:00:00-03:00",
@@ -2828,6 +2844,22 @@
         "midia/2026-11-25_ia-no-whatsapp/10.jpg"
       ],
       "origem": "2026-11-25_ia-no-whatsapp"
+    },
+    {
+      "id": "ODM14",
+      "titulo": "Os Doutores · Frase de palco: clínica ou emprego",
+      "quando": "2026-11-20T21:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Se a recepção te liga pra saber o preço, se a senha só você tem, se a agenda para quando você viaja, você ainda não tem uma clínica. Tem um emprego, com o teu nome na porta.\n\nEscolhe uma tarefa que você repete toda semana. Escreve como você faz, entrega e confere na sexta.\n\nSalva pra escolher essa tarefa hoje.\n\n#gestaodeclinicas #donodeclinica #delegar",
+      "midias": [
+        "midia/2026-11-20_odm14/01.jpg"
+      ],
+      "origem": "2026-11-20_odm14",
+      "fixo": true
     },
     {
       "id": "ODM08",
@@ -3016,6 +3048,22 @@
       "origem": "2026-10-28_reuniao-de-15-minutos"
     },
     {
+      "id": "ODM15",
+      "titulo": "Os Doutores · Frase de palco: a conversa difícil",
+      "quando": "2026-11-22T21:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Tem conversa que você adia desde março: o atraso de uma, o salário de outra, o sócio que não cumpre o combinado. A cada semana, ela fica mais cara.\n\nA conversa difícil de hoje é o problema menor de amanhã. Marca a hora, fala olhando no olho e escuta.\n\nComenta \"essa semana\" se você vai ter essa conversa.\n\n#gestaodeclinicas #donodeclinica #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-22_odm15/01.jpg"
+      ],
+      "origem": "2026-11-22_odm15",
+      "fixo": true
+    },
+    {
       "id": "ODM09",
       "titulo": "Os Doutores · Frase de palco: a equipe não lê pensamento",
       "quando": "2026-11-23T06:30:00-03:00",
@@ -3111,6 +3159,22 @@
         "midia/2026-11-03_nivel-da-clinica/08.jpg"
       ],
       "origem": "2026-11-03_nivel-da-clinica"
+    },
+    {
+      "id": "ODM16",
+      "titulo": "Os Doutores · Frase de palco: agenda cheia e boleto",
+      "quando": "2026-11-24T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Agenda cheia dá uma sensação boa. O problema é quando o mês termina e a conta não fecha, mesmo com a recepção cheia.\n\nQuem paga o boleto é a margem: o que sobra depois da taxa, do imposto, da equipe e do material. Antes de comemorar a agenda, olha a conta.\n\nManda pra quem diz que a clínica vai bem porque a agenda tá cheia.\n\n#gestaodeclinicas #donodeclinica #precificacao",
+      "midias": [
+        "midia/2026-11-24_odm16/01.jpg"
+      ],
+      "origem": "2026-11-24_odm16",
+      "fixo": true
     },
     {
       "id": "GC-18",
@@ -3313,6 +3377,22 @@
       "origem": "2026-12-14_mercado-em-10-numeros"
     },
     {
+      "id": "ODM17",
+      "titulo": "Os Doutores · Frase de palco: quem compra pelo desconto",
+      "quando": "2026-11-26T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Amanhã é Black Friday, e a tua recepção vai ouvir pedido de desconto o dia inteiro. Quem compra pelo desconto vai embora pelo desconto, na primeira oferta da clínica do lado. Quem entende o valor volta e indica.\n\nPreço não se defende pedindo desculpa. Se defende mostrando o que a pessoa recebe.\n\nManda pra quem atende o teu WhatsApp amanhã.\n\n#gestaodeclinicas #donodeclinica #precificacao",
+      "midias": [
+        "midia/2026-11-26_odm17/01.jpg"
+      ],
+      "origem": "2026-11-26_odm17",
+      "fixo": true
+    },
+    {
       "id": "OD27",
       "titulo": "Os Doutores · Joana: sem férias desde 2023, e agora a 5x2",
       "quando": "2026-11-26T12:30:00-03:00",
@@ -3414,6 +3494,22 @@
       "fixo": true
     },
     {
+      "id": "ODM18",
+      "titulo": "Os Doutores · Frase de palco: elogio em público",
+      "quando": "2026-11-28T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você lembra de chamar atenção na hora. E o elogio, quando foi o último?\n\nElogio em público custa zero. Trocar uma pessoa boa custa anúncio, entrevista, treinamento e os pacientes que se perdem no caminho. Hoje, diz pra quem segura a tua recepção o que ela fez bem, com nome e na frente de todo mundo.\n\nMarca aqui quem merece ouvir isso.\n\n#gestaodeclinicas #donodeclinica #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-28_odm18/01.jpg"
+      ],
+      "origem": "2026-11-28_odm18",
+      "fixo": true
+    },
+    {
       "id": "OD30",
       "titulo": "Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'",
       "quando": "2026-11-28T12:30:00-03:00",
@@ -3459,6 +3555,22 @@
       "fixo": true
     },
     {
+      "id": "ODM19",
+      "titulo": "Os Doutores · Frase de palco: quem mantém aberta",
+      "quando": "2026-11-29T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O teu nome abriu a clínica. O diploma, a fama, o paciente que te segue há anos. Mas quem abre a porta às 7h, confirma a agenda e acalma o paciente é a equipe.\n\nTrata ela como parte do negócio: com meta, com conversa e com reconhecimento.\n\nManda pra tua equipe amanhã cedo.\n\n#gestaodeclinicas #donodeclinica #equipe",
+      "midias": [
+        "midia/2026-11-29_odm19/01.jpg"
+      ],
+      "origem": "2026-11-29_odm19",
+      "fixo": true
+    },
+    {
       "id": "OD29",
       "titulo": "Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'",
       "quando": "2026-11-29T12:30:00-03:00",
@@ -3501,6 +3613,22 @@
         "midia/2026-11-29_odj13/07.jpg"
       ],
       "origem": "2026-11-29_odj13",
+      "fixo": true
+    },
+    {
+      "id": "ODM20",
+      "titulo": "Os Doutores · Frase de palco: achar que foi um bom mês",
+      "quando": "2026-11-30T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A agenda andou, teve movimento, e mesmo assim você não sabe quanto sobrou. Achar que foi um bom mês não paga a folha.\n\nHoje é dia 30. Antes de fechar o mês, olha três números: quanto entrou, quanto saiu e quanto ficou.\n\nSalva pra fazer essa conta hoje à noite.\n\n#gestaodeclinicas #donodeclinica #financeiro",
+      "midias": [
+        "midia/2026-11-30_odm20/01.jpg"
+      ],
+      "origem": "2026-11-30_odm20",
       "fixo": true
     },
     {
@@ -3633,6 +3761,22 @@
       "fixo": true
     },
     {
+      "id": "ODM21",
+      "titulo": "Os Doutores · Frase de palco: dezembro abre janeiro",
+      "quando": "2026-12-02T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Todo mundo trata dezembro como o fim. Na clínica, ele decide como o ano começa: quem ficou de voltar, quem pediu orçamento, o que muda na tabela.\n\nO que você planta agora aparece em fevereiro. Escolhe uma coisa e faz essa semana.\n\nManda pra quem deixou janeiro pra pensar em janeiro.\n\n#gestaodeclinicas #donodeclinica #planejamento",
+      "midias": [
+        "midia/2026-12-02_odm21/01.jpg"
+      ],
+      "origem": "2026-12-02_odm21",
+      "fixo": true
+    },
+    {
       "id": "OD33",
       "titulo": "Os Doutores · Você acordou hoje com 47 mensagens",
       "quando": "2026-12-02T12:30:00-03:00",
@@ -3714,6 +3858,22 @@
         "midia/2026-12-03_odj24/07.jpg"
       ],
       "origem": "2026-12-03_odj24",
+      "fixo": true
+    },
+    {
+      "id": "ODM22",
+      "titulo": "Os Doutores · Frase de palco: como foi tratado",
+      "quando": "2026-12-04T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Teu paciente não sabe avaliar a tua técnica. Ele avalia se alguém chamou pelo nome, quanto tempo esperou e se alguém ligou no dia seguinte.\n\nTécnica continua sendo a base, tá? O que faz ele voltar e indicar é como foi tratado, da porta até o dia seguinte.\n\nManda pra quem cuida da tua recepção.\n\n#gestaodeclinicas #donodeclinica #experienciadopaciente",
+      "midias": [
+        "midia/2026-12-04_odm22/01.jpg"
+      ],
+      "origem": "2026-12-04_odm22",
       "fixo": true
     },
     {
@@ -3926,6 +4086,22 @@
       "fixo": true
     },
     {
+      "id": "ODM23",
+      "titulo": "Os Doutores · Frase de palco: uma coisa por semana",
+      "quando": "2026-12-08T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Quem tenta mudar tudo de uma vez muda por duas semanas e volta pro que era. Eu vejo isso dentro de clínica desde 2009.\n\nO que muda uma clínica é uma coisa por semana, com alguém perguntando se foi feita. Parece pouco. Em um ano, são 52.\n\nComenta a coisa que você vai mudar essa semana.\n\n#gestaodeclinicas #donodeclinica #rotina",
+      "midias": [
+        "midia/2026-12-08_odm23/01.jpg"
+      ],
+      "origem": "2026-12-08_odm23",
+      "fixo": true
+    },
+    {
       "id": "OD39",
       "titulo": "Os Doutores · Paula senta com o Gabriel: os quatro números",
       "quando": "2026-12-08T12:30:00-03:00",
@@ -3946,6 +4122,22 @@
         "midia/2026-12-08_od39/08.jpg"
       ],
       "origem": "2026-12-08_od39",
+      "fixo": true
+    },
+    {
+      "id": "ODM24",
+      "titulo": "Os Doutores · Frase de palco: quem já confiou em você",
+      "quando": "2026-12-09T06:30:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Antes de pagar por paciente novo, abre a lista de quem já confiou em você e sumiu. Quase nunca foi embora por querer: só ninguém ligou.\n\nEscolhe dez nomes e liga essa semana. Uma ligação de dois minutos, sem vender nada: como a senhora tá?\n\nSalva pra fazer a lista hoje.\n\n#gestaodeclinicas #donodeclinica #reativacao",
+      "midias": [
+        "midia/2026-12-09_odm24/01.jpg"
+      ],
+      "origem": "2026-12-09_odm24",
       "fixo": true
     },
     {

@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 06/11/2026, 11:40:58. 279 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -350,6 +350,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-16 · A conta do desconto** (carrossel)
   - Stories: Enquete: "Você vai dar desconto na Black Friday?" · Vou / Não vou / Vou dar acesso. No dia 27, repost do post único L3-17.
+- **21h30 · ODM13 · Os Doutores · Frase de palco: em casa às 21h** (imagem)
 
 ## sexta, 20/11
 
@@ -360,6 +361,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L3-15 · IA no WhatsApp da clínica** (carrossel)
   - Stories: Enquete: "Você já usa IA no WhatsApp da clínica?" · Já uso / Penso em usar / Não confio. Caixinha: "Qual seu medo com IA no atendimento?"
+- **21h30 · ODM14 · Os Doutores · Frase de palco: clínica ou emprego** (imagem)
 
 ## sábado, 21/11
 
@@ -383,6 +385,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-15 · A reunião de 15 minutos** (carrossel)
   - Stories: Manhã: a reunião acontecendo, sem rostos. Tarde: enquete "A sua clínica tem reunião semanal de números?" · Tem / Não tem.
+- **21h30 · ODM15 · Os Doutores · Frase de palco: a conversa difícil** (imagem)
 
 ## segunda, 23/11
 
@@ -397,6 +400,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## terça, 24/11
 
+- **06h30 · ODM16 · Os Doutores · Frase de palco: agenda cheia e boleto** (imagem)
 - **08h30 · GC-18 · Agenda cheia, margem vazia** (carrossel)
   - Stories: Tarde: caixinha "Qual procedimento ocupa mais horas da sua agenda?". Noite: "Quer esse laudo com os números da sua clínica?" + link do Mapa da Clínica de Sucesso.
 - **12h30 · OD61 · Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'** (carrossel)
@@ -420,6 +424,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## quinta, 26/11
 
+- **06h30 · ODM17 · Os Doutores · Frase de palco: quem compra pelo desconto** (imagem)
 - **12h30 · OD27 · Os Doutores · Joana: sem férias desde 2023, e agora a 5x2** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ29 · Os Doutores · Vesti o teu jaleco: o regime de imposto que ninguém revisa** (carrossel)
@@ -436,6 +441,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## sábado, 28/11
 
+- **06h30 · ODM18 · Os Doutores · Frase de palco: elogio em público** (imagem)
 - **12h30 · OD30 · Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ23 · Os Doutores · Vesti o teu jaleco: o retorno grátis que virou terceira consulta** (carrossel)
@@ -443,6 +449,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## domingo, 29/11
 
+- **06h30 · ODM19 · Os Doutores · Frase de palco: quem mantém aberta** (imagem)
 - **12h30 · OD29 · Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ13 · Os Doutores · Vesti o teu jaleco: a funcionária antiga que manda mais que você** (carrossel)
@@ -450,6 +457,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## segunda, 30/11
 
+- **06h30 · ODM20 · Os Doutores · Frase de palco: achar que foi um bom mês** (imagem)
 - **12h30 · OD31 · Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ21 · Os Doutores · Vesti o teu jaleco: hoje vence a primeira parcela do 13º** (carrossel)
@@ -468,6 +476,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 02/12
 
+- **06h30 · ODM21 · Os Doutores · Frase de palco: dezembro abre janeiro** (imagem)
 - **12h30 · OD33 · Os Doutores · Você acordou hoje com 47 mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ28 · Os Doutores · Vesti o teu jaleco: o orçamento de R$ 8 mil que ninguém ligou** (carrossel)
@@ -481,6 +490,7 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 04/12
 
+- **06h30 · ODM22 · Os Doutores · Frase de palco: como foi tratado** (imagem)
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ30 · Os Doutores · Vesti o teu jaleco: você cobrou R$ 400. Quanto sobrou?** (carrossel)
@@ -513,11 +523,13 @@ Gerada em 06/11/2026, 11:29:09. 267 posts agendados, 3 pendentes. Stories com en
 
 ## terça, 08/12
 
+- **06h30 · ODM23 · Os Doutores · Frase de palco: uma coisa por semana** (imagem)
 - **12h30 · OD39 · Os Doutores · Paula senta com o Gabriel: os quatro números** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
 ## quarta, 09/12
 
+- **06h30 · ODM24 · Os Doutores · Frase de palco: quem já confiou em você** (imagem)
 - **12h30 · OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L4-27 · GPS sem destino não recalcula rota. Clínica sem meta também não.** (imagem)
