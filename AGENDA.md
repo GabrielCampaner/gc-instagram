@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 06/11/2026, 12:47:59. 279 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 06/11/2026, 12:53:27. 279 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -263,7 +263,7 @@ Gerada em 06/11/2026, 12:47:59. 279 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ10 · Os Doutores · Vesti o teu jaleco: a cunhada no financeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h30 · L3-25 · O WhatsApp pessoal do médico** (carrossel)
+- **18h30 · L3-25 · O WhatsApp pessoal com o paciente** (carrossel)
   - Stories: Enquete: "Paciente tem o seu WhatsApp pessoal?" · Tem / Não tem / Tinha.
 - **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
   - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
