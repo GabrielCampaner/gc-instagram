@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 07/11/2026, 10:49:39. 332 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -224,6 +224,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 11/11
 
+- **06h00 · FST-01 · Frases da Semana · Story: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um** (story)
 - **06h30 · L4-28 · Preço baixo atrai quem vai trocar você pelo próximo preço baixo.** (imagem)
   - Stories: Enquete: "O seu paciente escolhe você pelo preço ou pelo cuidado?" · Preço / Cuidado.
 - **08h30 · L3-18 · Clínica de tudo para todos** (carrossel)
@@ -257,6 +258,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 13/11
 
+- **06h00 · FST-02 · Frases da Semana · Story: Desconto dado no reflexo não fecha paciente. Ensina ele a pedir de novo** (story)
 - **06h30 · L4-04 · O paciente queria parcelar. Você deu 10% de desconto.** (imagem)
   - Stories: Caixinha: "Qual é a primeira coisa que a sua recepção oferece quando o paciente acha caro?"
 - **08h30 · L3-23 · As 3 mensagens depois da consulta** (carrossel)
@@ -334,6 +336,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 18/11
 
+- **06h00 · FST-03 · Frases da Semana · Story: A recepcionista que você não treinou está falando com o seu paciente agora** (story)
 - **06h30 · ODM07 · Os Doutores · Frase de palco: errar pequeno** (imagem)
 - **08h30 · L3-09 · O mesmo dinheiro** (carrossel)
   - Stories: Enquete: "Qual desses vaza mais na sua clínica?" · Hora vazia / Desconto / Orçamento parado. Depois, lembrete do MAPA.
@@ -360,6 +363,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 ## sexta, 20/11
 
 - **06h00 · OD18 · Os Doutores · Frase: o feriado testa a clínica** (imagem)
+- **06h30 · FST-04 · Frases da Semana · Story: Seu melhor colaborador está vendo como você trata o pior** (story)
 - **08h30 · L3-02 · Retorno de 30 dias não existe** (carrossel)
   - Stories: Enquete "Na sua clínica, o retorno tem prazo de quantos dias?" · 30 dias / Quem define é o médico. Depois: print da resolução com o § 1º marcado.
 - **15h00 · ODJ11 · Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março** (carrossel)
@@ -419,6 +423,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 25/11
 
+- **06h00 · FST-05 · Frases da Semana · Story: Toda vez que você responde paciente às 23h, você ensina que pode** (story)
 - **06h30 · ODM10 · Os Doutores · Frase de palco: crescer dá medo** (imagem)
 - **08h30 · L3-06 · A bio em poucos segundos** (carrossel)
   - Stories: Durante a semana: 3 a 5 bios dos comentários, com permissão, em antes e depois de bio (nunca de paciente).
@@ -439,6 +444,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 27/11
 
+- **06h00 · FST-06 · Frases da Semana · Story: Na Black Friday, todo mundo baixa o preço. Pouca gente sabe quanto custa a própria hora** (story)
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
 - **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
@@ -485,6 +491,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 02/12
 
+- **06h00 · FST-07 · Frases da Semana · Story: Planilha que ninguém abre é só um arquivo bonito** (story)
 - **06h30 · ODM21 · Os Doutores · Frase de palco: dezembro abre janeiro** (imagem)
 - **12h30 · OD33 · Os Doutores · Você acordou hoje com 47 mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -499,6 +506,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 04/12
 
+- **06h00 · FST-08 · Frases da Semana · Story: A equipe faz o que você confere. O resto ela faz quando dá** (story)
 - **06h30 · ODM22 · Os Doutores · Frase de palco: como foi tratado** (imagem)
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -540,6 +548,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 09/12
 
+- **06h00 · FST-09 · Frases da Semana · Story: Contratar rápido para apagar incêndio costuma acender o próximo** (story)
 - **06h30 · ODM24 · Os Doutores · Frase de palco: quem já confiou em você** (imagem)
 - **12h30 · OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -555,6 +564,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 11/12
 
+- **06h00 · FST-10 · Frases da Semana · Story: Seu paciente compara o seu atendimento com o melhor que ele já recebeu na vida** (story)
 - **12h30 · OD42 · Os Doutores · Joana senta com o Gabriel: o sábado** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · L4-31 · Pode cobrar taxa de falta?** (carrossel)
@@ -594,6 +604,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 16/12
 
+- **06h00 · FST-11 · Frases da Semana · Story: Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe** (story)
 - **12h30 · OD47 · Os Doutores · Marcelo: nove 'vou pensar' na semana. Nenhum voltou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -603,6 +614,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 18/12
 
+- **06h00 · FST-12 · Frases da Semana · Story: Confraternização boa não apaga um ano de combinados que você não cumpriu com a equipe** (story)
 - **12h30 · OD49 · Os Doutores · Helena monta a tabela de 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -631,6 +643,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 ## quarta, 23/12
 
 - **06h00 · OD54 · Os Doutores · Frase: descanso também é gestão** (imagem)
+- **06h30 · FST-13 · Frases da Semana · Story: Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu** (story)
 
 ## quinta, 24/12
 
@@ -639,6 +652,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 25/12
 
+- **06h00 · FST-14 · Frases da Semana · Story: Hoje a clínica pode esperar. Quem está na sua mesa, não** (story)
 - **12h30 · OD53 · Os Doutores · Natal de plantão. O último** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -666,6 +680,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 30/12
 
+- **06h00 · FST-15 · Frases da Semana · Story: Quem fecha o ano sem saber o lucro começa o próximo no escuro** (story)
 - **12h30 · OD64 · Os Doutores · Jorge: o melhor neurologista do estado, com recepção de posto** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -676,6 +691,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 01/01
 
+- **06h00 · FST-16 · Frases da Semana · Story: Feliz 2027. Que este ano tenha menos incêndio e mais decisão tomada com calma** (story)
 - **12h30 · OD60 · Os Doutores · Os doutores em 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -702,6 +718,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 06/01
 
+- **06h00 · FST-17 · Frases da Semana · Story: Meta sem dono vira desejo de ano novo** (story)
 - **12h30 · OD69 · Os Doutores · Notícia: começou a CBS. O que muda no preço da clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -712,6 +729,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 08/01
 
+- **06h00 · FST-18 · Frases da Semana · Story: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada** (story)
 - **12h30 · OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -739,6 +757,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 13/01
 
+- **06h00 · FST-19 · Frases da Semana · Story: Preço que você não consegue explicar, o paciente não consegue pagar** (story)
 - **12h30 · OD76 · Os Doutores · Você acordou hoje e a recepção sai mais cedo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -749,6 +768,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 15/01
 
+- **06h00 · FST-20 · Frases da Semana · Story: Disciplina de dono é olhar o número mesmo quando ele está ruim. Principalmente quando está ruim** (story)
 - **12h30 · OD78 · Os Doutores · Bia: ano novo, imersão nova** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -775,6 +795,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 20/01
 
+- **06h00 · FST-21 · Frases da Semana · Story: Agenda cheia de horário barato cansa igual e paga menos** (story)
 - **12h30 · OD83 · Os Doutores · Joana: a primeira semana de férias desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -785,6 +806,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 22/01
 
+- **06h00 · FST-22 · Frases da Semana · Story: Ninguém pede demissão de uma vez. Pede um pouco por dia, enquanto você não percebe** (story)
 - **12h30 · OD85 · Os Doutores · Você acordou hoje com bronca da equipe** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -812,6 +834,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 27/01
 
+- **06h00 · FST-23 · Frases da Semana · Story: Falta sem aviso não é azar. É confirmação que ninguém fez** (story)
 - **12h30 · OD90 · Os Doutores · Mauro: o primeiro mês do painel de orçamentos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -822,6 +845,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 29/01
 
+- **06h00 · FST-24 · Frases da Semana · Story: Feedback guardado para a avaliação de fim de ano chega onze meses atrasado** (story)
 - **12h30 · OD92 · Os Doutores · Comparação: impulsionar e responder** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -848,6 +872,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 03/02
 
+- **06h00 · FST-25 · Frases da Semana · Story: Reunião de equipe sem número na mesa vira sessão de desabafo** (story)
 - **12h30 · OD97 · Os Doutores · Kelly: a primeira meta batida sem chorar no carro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -858,6 +883,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 05/02
 
+- **06h00 · FST-26 · Frases da Semana · Story: Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela** (story)
 - **12h30 · OD99 · Os Doutores · Rafael: sexta, 18h40, véspera de Carnaval, tudo pra ontem** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -884,6 +910,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 10/02
 
+- **06h00 · FST-27 · Frases da Semana · Story: Quarta-feira de Cinzas: o ano começou. O que ficou para depois do Carnaval é para hoje** (story)
 - **12h30 · OD104 · Os Doutores · Fernando: a quinta recepcionista fez 90 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -894,6 +921,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 12/02
 
+- **06h00 · FST-28 · Frases da Semana · Story: Você não está sem tempo. Está fazendo tarefa que não é sua** (story)
 - **12h30 · OD106 · Os Doutores · Comparação: pra ontem e quando estiver perfeito** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -921,6 +949,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## quarta, 17/02
 
+- **06h00 · FST-29 · Frases da Semana · Story: Crescer sem regra escrita só aumenta o tamanho da bagunça** (story)
 - **12h30 · OD111 · Os Doutores · Augusto: o primeiro vídeo em frase de paciente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 
@@ -931,6 +960,7 @@ Gerada em 07/11/2026, 10:48:36. 302 posts agendados, 3 pendentes. Stories com en
 
 ## sexta, 19/02
 
+- **06h00 · FST-30 · Frases da Semana · Story: Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério** (story)
 - **12h30 · OD113 · Os Doutores · Carolina: a recepção treinada e o placar de segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 

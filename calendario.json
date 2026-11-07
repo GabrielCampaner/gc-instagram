@@ -1627,6 +1627,22 @@
       "frase": true
     },
     {
+      "id": "FST-01",
+      "titulo": "Frases da Semana · Story: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um",
+      "quando": "2026-11-11T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-11_fst-01/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "L4-28",
       "titulo": "Preço baixo atrai quem vai trocar você pelo próximo preço baixo.",
       "quando": "2026-11-11T06:30:00-03:00",
@@ -1912,6 +1928,22 @@
       "origem": "2026-12-09_frase-agencia",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "FST-02",
+      "titulo": "Frases da Semana · Story: Desconto dado no reflexo não fecha paciente. Ensina ele a pedir de novo",
+      "quando": "2026-11-13T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-13_fst-02/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
     },
     {
       "id": "L4-04",
@@ -2614,6 +2646,22 @@
       "frase": true
     },
     {
+      "id": "FST-03",
+      "titulo": "Frases da Semana · Story: A recepcionista que você não treinou está falando com o seu paciente agora",
+      "quando": "2026-11-18T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-18_fst-03/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "ODM07",
       "titulo": "Os Doutores · Frase de palco: errar pequeno",
       "quando": "2026-11-18T06:30:00-03:00",
@@ -2858,6 +2906,22 @@
       "origem": "2026-11-20_od18",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "FST-04",
+      "titulo": "Frases da Semana · Story: Seu melhor colaborador está vendo como você trata o pior",
+      "quando": "2026-11-20T06:30:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-20_fst-04/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
     },
     {
       "id": "L3-02",
@@ -3383,6 +3447,22 @@
       "origem": "2026-11-06_freedom"
     },
     {
+      "id": "FST-05",
+      "titulo": "Frases da Semana · Story: Toda vez que você responde paciente às 23h, você ensina que pode",
+      "quando": "2026-11-25T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-25_fst-05/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "ODM10",
       "titulo": "Os Doutores · Frase de palco: crescer dá medo",
       "quando": "2026-11-25T06:30:00-03:00",
@@ -3552,6 +3632,22 @@
         "midia/2026-11-26_odj29/07.jpg"
       ],
       "origem": "2026-11-26_odj29",
+      "fixo": true
+    },
+    {
+      "id": "FST-06",
+      "titulo": "Frases da Semana · Story: Na Black Friday, todo mundo baixa o preço. Pouca gente sabe quanto custa a própria hora",
+      "quando": "2026-11-27T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-27_fst-06/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -3913,6 +4009,22 @@
       "fixo": true
     },
     {
+      "id": "FST-07",
+      "titulo": "Frases da Semana · Story: Planilha que ninguém abre é só um arquivo bonito",
+      "quando": "2026-12-02T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-02_fst-07/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "ODM21",
       "titulo": "Os Doutores · Frase de palco: dezembro abre janeiro",
       "quando": "2026-12-02T06:30:00-03:00",
@@ -4010,6 +4122,22 @@
         "midia/2026-12-03_odj24/07.jpg"
       ],
       "origem": "2026-12-03_odj24",
+      "fixo": true
+    },
+    {
+      "id": "FST-08",
+      "titulo": "Frases da Semana · Story: A equipe faz o que você confere. O resto ela faz quando dá",
+      "quando": "2026-12-04T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-04_fst-08/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -4311,6 +4439,22 @@
       "fixo": true
     },
     {
+      "id": "FST-09",
+      "titulo": "Frases da Semana · Story: Contratar rápido para apagar incêndio costuma acender o próximo",
+      "quando": "2026-12-09T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-09_fst-09/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "ODM24",
       "titulo": "Os Doutores · Frase de palco: quem já confiou em você",
       "quando": "2026-12-09T06:30:00-03:00",
@@ -4407,6 +4551,22 @@
         "midia/2026-12-10_ano-numa-folha/06.jpg"
       ],
       "origem": "2026-12-10_ano-numa-folha",
+      "fixo": true
+    },
+    {
+      "id": "FST-10",
+      "titulo": "Frases da Semana · Story: Seu paciente compara o seu atendimento com o melhor que ele já recebeu na vida",
+      "quando": "2026-12-11T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-11_fst-10/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -4681,6 +4841,22 @@
       "fixo": true
     },
     {
+      "id": "FST-11",
+      "titulo": "Frases da Semana · Story: Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe",
+      "quando": "2026-12-16T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-16_fst-11/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD47",
       "titulo": "Os Doutores · Marcelo: nove 'vou pensar' na semana. Nenhum voltou",
       "quando": "2026-12-16T12:30:00-03:00",
@@ -4719,6 +4895,22 @@
       "origem": "2026-12-17_od48",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "FST-12",
+      "titulo": "Frases da Semana · Story: Confraternização boa não apaga um ano de combinados que você não cumpriu com a equipe",
+      "quando": "2026-12-18T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-18_fst-12/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
     },
     {
       "id": "OD49",
@@ -4887,6 +5079,22 @@
       "frase": true
     },
     {
+      "id": "FST-13",
+      "titulo": "Frases da Semana · Story: Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu",
+      "quando": "2026-12-23T06:30:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-23_fst-13/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD52",
       "titulo": "Os Doutores · Véspera de Natal: a clínica fecha, o WhatsApp não",
       "quando": "2026-12-24T12:30:00-03:00",
@@ -4906,6 +5114,22 @@
         "midia/2026-12-24_od52/07.jpg"
       ],
       "origem": "2026-12-24_od52",
+      "fixo": true
+    },
+    {
+      "id": "FST-14",
+      "titulo": "Frases da Semana · Story: Hoje a clínica pode esperar. Quem está na sua mesa, não",
+      "quando": "2026-12-25T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-25_fst-14/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5057,6 +5281,22 @@
       "fixo": true
     },
     {
+      "id": "FST-15",
+      "titulo": "Frases da Semana · Story: Quem fecha o ano sem saber o lucro começa o próximo no escuro",
+      "quando": "2026-12-30T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-12-30_fst-15/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD64",
       "titulo": "Os Doutores · Jorge: o melhor neurologista do estado, com recepção de posto",
       "quando": "2026-12-30T12:30:00-03:00",
@@ -5099,6 +5339,22 @@
         "midia/2026-12-31_od59/07.jpg"
       ],
       "origem": "2026-12-31_od59",
+      "fixo": true
+    },
+    {
+      "id": "FST-16",
+      "titulo": "Frases da Semana · Story: Feliz 2027. Que este ano tenha menos incêndio e mais decisão tomada com calma",
+      "quando": "2027-01-01T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-01_fst-16/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5248,6 +5504,22 @@
       "fixo": true
     },
     {
+      "id": "FST-17",
+      "titulo": "Frases da Semana · Story: Meta sem dono vira desejo de ano novo",
+      "quando": "2027-01-06T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-06_fst-17/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD69",
       "titulo": "Os Doutores · Notícia: começou a CBS. O que muda no preço da clínica",
       "quando": "2027-01-06T12:30:00-03:00",
@@ -5290,6 +5562,22 @@
         "midia/2027-01-07_od70/08.jpg"
       ],
       "origem": "2027-01-07_od70",
+      "fixo": true
+    },
+    {
+      "id": "FST-18",
+      "titulo": "Frases da Semana · Story: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada",
+      "quando": "2027-01-08T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-08_fst-18/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5440,6 +5728,22 @@
       "fixo": true
     },
     {
+      "id": "FST-19",
+      "titulo": "Frases da Semana · Story: Preço que você não consegue explicar, o paciente não consegue pagar",
+      "quando": "2027-01-13T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-13_fst-19/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD76",
       "titulo": "Os Doutores · Você acordou hoje e a recepção sai mais cedo",
       "quando": "2027-01-13T12:30:00-03:00",
@@ -5482,6 +5786,22 @@
         "midia/2027-01-14_od77/08.jpg"
       ],
       "origem": "2027-01-14_od77",
+      "fixo": true
+    },
+    {
+      "id": "FST-20",
+      "titulo": "Frases da Semana · Story: Disciplina de dono é olhar o número mesmo quando ele está ruim. Principalmente quando está ruim",
+      "quando": "2027-01-15T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-15_fst-20/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5626,6 +5946,22 @@
       "fixo": true
     },
     {
+      "id": "FST-21",
+      "titulo": "Frases da Semana · Story: Agenda cheia de horário barato cansa igual e paga menos",
+      "quando": "2027-01-20T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-20_fst-21/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD83",
       "titulo": "Os Doutores · Joana: a primeira semana de férias desde 2023",
       "quando": "2027-01-20T12:30:00-03:00",
@@ -5668,6 +6004,22 @@
         "midia/2027-01-21_od84/08.jpg"
       ],
       "origem": "2027-01-21_od84",
+      "fixo": true
+    },
+    {
+      "id": "FST-22",
+      "titulo": "Frases da Semana · Story: Ninguém pede demissão de uma vez. Pede um pouco por dia, enquanto você não percebe",
+      "quando": "2027-01-22T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-22_fst-22/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5812,6 +6164,22 @@
       "fixo": true
     },
     {
+      "id": "FST-23",
+      "titulo": "Frases da Semana · Story: Falta sem aviso não é azar. É confirmação que ninguém fez",
+      "quando": "2027-01-27T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-27_fst-23/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD90",
       "titulo": "Os Doutores · Mauro: o primeiro mês do painel de orçamentos",
       "quando": "2027-01-27T12:30:00-03:00",
@@ -5854,6 +6222,22 @@
         "midia/2027-01-28_od91/08.jpg"
       ],
       "origem": "2027-01-28_od91",
+      "fixo": true
+    },
+    {
+      "id": "FST-24",
+      "titulo": "Frases da Semana · Story: Feedback guardado para a avaliação de fim de ano chega onze meses atrasado",
+      "quando": "2027-01-29T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-01-29_fst-24/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -5991,6 +6375,22 @@
       "fixo": true
     },
     {
+      "id": "FST-25",
+      "titulo": "Frases da Semana · Story: Reunião de equipe sem número na mesa vira sessão de desabafo",
+      "quando": "2027-02-03T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-03_fst-25/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD97",
       "titulo": "Os Doutores · Kelly: a primeira meta batida sem chorar no carro",
       "quando": "2027-02-03T12:30:00-03:00",
@@ -6031,6 +6431,22 @@
         "midia/2027-02-04_od98/07.jpg"
       ],
       "origem": "2027-02-04_od98",
+      "fixo": true
+    },
+    {
+      "id": "FST-26",
+      "titulo": "Frases da Semana · Story: Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela",
+      "quando": "2027-02-05T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-05_fst-26/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -6171,6 +6587,22 @@
       "fixo": true
     },
     {
+      "id": "FST-27",
+      "titulo": "Frases da Semana · Story: Quarta-feira de Cinzas: o ano começou. O que ficou para depois do Carnaval é para hoje",
+      "quando": "2027-02-10T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-10_fst-27/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD104",
       "titulo": "Os Doutores · Fernando: a quinta recepcionista fez 90 dias",
       "quando": "2027-02-10T12:30:00-03:00",
@@ -6212,6 +6644,22 @@
         "midia/2027-02-11_od105/08.jpg"
       ],
       "origem": "2027-02-11_od105",
+      "fixo": true
+    },
+    {
+      "id": "FST-28",
+      "titulo": "Frases da Semana · Story: Você não está sem tempo. Está fazendo tarefa que não é sua",
+      "quando": "2027-02-12T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-12_fst-28/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
@@ -6353,6 +6801,22 @@
       "fixo": true
     },
     {
+      "id": "FST-29",
+      "titulo": "Frases da Semana · Story: Crescer sem regra escrita só aumenta o tamanho da bagunça",
+      "quando": "2027-02-17T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-17_fst-29/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "OD111",
       "titulo": "Os Doutores · Augusto: o primeiro vídeo em frase de paciente",
       "quando": "2027-02-17T12:30:00-03:00",
@@ -6392,6 +6856,22 @@
         "midia/2027-02-18_od112/06.jpg"
       ],
       "origem": "2027-02-18_od112",
+      "fixo": true
+    },
+    {
+      "id": "FST-30",
+      "titulo": "Frases da Semana · Story: Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério",
+      "quando": "2027-02-19T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2027-02-19_fst-30/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
       "fixo": true
     },
     {
