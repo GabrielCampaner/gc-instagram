@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 07/11/2026, 10:49:39. 332 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 07/11/2026, 12:21:33. 333 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -208,6 +208,7 @@ Gerada em 07/11/2026, 10:49:39. 332 posts agendados, 3 pendentes. Stories com en
 
 ## terça, 10/11
 
+- **06h00 · FS-31 · Frase da semana: Pessoas carentes não prosperam** (imagem)
 - **06h30 · ODM03 · Os Doutores · Frase de palco: o número que você evita** (imagem)
 - **08h30 · L3-38 · 58% com burnout** (imagem)
   - Stories: Sem enquete. Caixinha opcional: "O que mais te cansa fora do consultório?"

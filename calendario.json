@@ -1494,6 +1494,23 @@
       "fixo": true
     },
     {
+      "id": "FS-31",
+      "titulo": "Frase da semana: Pessoas carentes não prosperam",
+      "quando": "2026-11-10T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pessoas carentes não prosperam.\n\nA carência aqui é a de aprovação: precisar que todo mundo goste de você o tempo todo.\n\nNa clínica, ela aparece no desconto dado antes de o paciente pedir, no erro da equipe que você não corrige e no preço que você não reajusta há três anos.\n\nProsperar pede aguentar um não sem achar que ele é sobre você.\n\nManda para quem precisa ler isso hoje.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-11-10_frase-semana-31/01.jpg"
+      ],
+      "origem": "2026-11-10_frase-semana-31",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM03",
       "titulo": "Os Doutores · Frase de palco: o número que você evita",
       "quando": "2026-11-10T06:30:00-03:00",
@@ -1783,6 +1800,22 @@
       "origem": "2026-11-29_frase-espera",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "FST-31",
+      "titulo": "Frases da Semana · Story: Pessoas carentes não prosperam",
+      "quando": "2026-11-12T06:00:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-12_fst-31/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
     },
     {
       "id": "ODM04",
