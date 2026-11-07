@@ -1179,6 +1179,23 @@
       "fixo": true
     },
     {
+      "id": "FS-01",
+      "titulo": "Frase da semana: Domingo é o dia em que você descobre se a clínica funciona sem você",
+      "quando": "2026-11-08T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Domingo é o dia em que você descobre se a clínica funciona sem você.\n\nA recepção liga para confirmar um preço. A equipe espera você para trocar um horário. O paciente só fala no seu número.\n\nCada ligação de domingo é uma regra que ainda não foi escrita.\n\nManda para quem passa o domingo respondendo a clínica.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-11-08_frase-semana-01/01.jpg"
+      ],
+      "origem": "2026-11-08_frase-semana-01",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM02",
       "titulo": "Os Doutores · Frase de palco: refém da clínica",
       "quando": "2026-11-08T06:30:00-03:00",
@@ -1308,6 +1325,23 @@
       ],
       "origem": "2026-11-08_cuida-ou-vende",
       "fixo": true
+    },
+    {
+      "id": "FS-02",
+      "titulo": "Frase da semana: Sua semana começa quando você decide o que não vai mais fazer",
+      "quando": "2026-11-09T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Sua semana começa quando você decide o que não vai mais fazer.\n\nConferir boleto, responder orçamento, montar escala, escolher fornecedor. Tudo isso cabe em outra pessoa com um bom treino.\n\nEscolha uma tarefa hoje e passe adiante. Na próxima segunda, escolha outra.\n\nSalva para lembrar na próxima segunda.\n\n#gestaodeclinicas #donodeclinica #produtividade",
+      "midias": [
+        "midia/2026-11-09_frase-semana-02/01.jpg"
+      ],
+      "origem": "2026-11-09_frase-semana-02",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L4-01",
@@ -2165,6 +2199,23 @@
       "frase": true
     },
     {
+      "id": "FS-03",
+      "titulo": "Frase da semana: Você cuida da saúde de todo mundo e marca a sua para o mês que vem",
+      "quando": "2026-11-15T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você cuida da saúde de todo mundo e marca a sua para o mês que vem.\n\nO exame atrasado do dono também é um risco para a clínica. Se você para, quase tudo para junto.\n\nMarque hoje. A agenda dos outros pode esperar meia hora.\n\nManda para um colega que está adiando o próprio check-up.\n\n#gestaodeclinicas #donodeclinica #saude",
+      "midias": [
+        "midia/2026-11-15_frase-semana-03/01.jpg"
+      ],
+      "origem": "2026-11-15_frase-semana-03",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM11",
       "titulo": "Os Doutores · Frase de palco: palestra e segunda-feira",
       "quando": "2026-11-15T06:30:00-03:00",
@@ -2282,6 +2333,23 @@
         "midia/2026-12-13_frase-avaliacao/01.jpg"
       ],
       "origem": "2026-12-13_frase-avaliacao",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "FS-04",
+      "titulo": "Frase da semana: A conversa difícil que você adia sai mais cara a cada segunda-feira",
+      "quando": "2026-11-16T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A conversa difícil que você adia sai mais cara a cada segunda-feira.\n\nO atraso que virou rotina, a briga entre a recepção e a equipe, o colaborador que não entrega. Enquanto você espera o momento certo, o resto da equipe aprende que pode.\n\nMarque a conversa hoje. Dez minutos, a sós, com o fato na mesa.\n\nSalva para não adiar de novo.\n\n#gestaodeclinicas #lideranca #gestaodepessoas",
+      "midias": [
+        "midia/2026-11-16_frase-semana-04/01.jpg"
+      ],
+      "origem": "2026-11-16_frase-semana-04",
       "fixo": true,
       "frase": true
     },
@@ -2982,6 +3050,23 @@
       "origem": "2026-12-09_avaliacao-gratuita"
     },
     {
+      "id": "FS-05",
+      "titulo": "Frase da semana: Você abriu uma clínica para ter liberdade. Quantos domingos ela já te devolveu",
+      "quando": "2026-11-22T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você abriu uma clínica para ter liberdade. Quantos domingos ela já te devolveu?\n\nLiberdade é a clínica rodando enquanto você almoça com a família, sem o celular na mesa.\n\nSe ainda não chegou lá, o caminho começa pela lista do que só você faz na clínica hoje.\n\nManda para quem abriu a clínica pelo mesmo motivo.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-11-22_frase-semana-05/01.jpg"
+      ],
+      "origem": "2026-11-22_frase-semana-05",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "FR-08",
       "titulo": "Liberdade não é trabalhar menos. É não precisar estar em tudo.",
       "quando": "2026-11-22T06:30:00-03:00",
@@ -3078,6 +3163,23 @@
       ],
       "origem": "2026-11-22_odm15",
       "fixo": true
+    },
+    {
+      "id": "FS-06",
+      "titulo": "Frase da semana: Motivação dura até terça. Rotina de olhar o número dura o ano",
+      "quando": "2026-11-23T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Motivação dura até terça. Rotina de olhar o número dura o ano.\n\nToda segunda, cinco minutos: quanto entrou na semana, quantos horários ficaram vazios e quantos orçamentos estão sem resposta.\n\nTrês números. Dá para começar hoje.\n\nSalva para fazer na próxima segunda.\n\n#gestaodeclinicas #donodeclinica #indicadores",
+      "midias": [
+        "midia/2026-11-23_frase-semana-06/01.jpg"
+      ],
+      "origem": "2026-11-23_frase-semana-06",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM09",
@@ -3571,6 +3673,23 @@
       "fixo": true
     },
     {
+      "id": "FS-07",
+      "titulo": "Frase da semana: Seus filhos não vão lembrar do faturamento de novembro. Vão lembrar se você estava lá",
+      "quando": "2026-11-29T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Seus filhos não vão lembrar do faturamento de novembro. Vão lembrar se você estava lá.\n\nOrganizar a clínica também serve para isso: devolver o seu tempo para quem te espera em casa.\n\nManda para alguém que precisa ler isso hoje.\n\n#gestaodeclinicas #donodeclinica #familia",
+      "midias": [
+        "midia/2026-11-29_frase-semana-07/01.jpg"
+      ],
+      "origem": "2026-11-29_frase-semana-07",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM19",
       "titulo": "Os Doutores · Frase de palco: quem mantém aberta",
       "quando": "2026-11-29T06:30:00-03:00",
@@ -3630,6 +3749,23 @@
       ],
       "origem": "2026-11-29_odj13",
       "fixo": true
+    },
+    {
+      "id": "FS-08",
+      "titulo": "Frase da semana: Hoje o mês fecha. Você sabe quanto entrou ou vai descobrir pelo extrato",
+      "quando": "2026-11-30T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Hoje o mês fecha. Você sabe quanto entrou ou vai descobrir pelo extrato?\n\nFechar o mês olhando o número é o primeiro passo para mudar dezembro. Faturamento, despesas, orçamentos fechados e os que ficaram na gaveta.\n\nReserve meia hora hoje. Dezembro agradece.\n\nSalva para o fechamento de hoje.\n\n#gestaodeclinicas #financeiro #donodeclinica",
+      "midias": [
+        "midia/2026-11-30_frase-semana-08/01.jpg"
+      ],
+      "origem": "2026-11-30_frase-semana-08",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM20",
@@ -4000,6 +4136,23 @@
       "fixo": true
     },
     {
+      "id": "FS-09",
+      "titulo": "Frase da semana: Dezembro cansa quem passou o ano inteiro fazendo o trabalho de três pessoas",
+      "quando": "2026-12-06T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Dezembro cansa quem passou o ano inteiro fazendo o trabalho de três pessoas.\n\nAntes de planejar 2027, faça uma lista honesta de tudo o que só você faz hoje na clínica. Ela mostra quem você precisa treinar, contratar ou deixar de fazer.\n\nManda para um colega que chegou exausto em dezembro.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-12-06_frase-semana-09/01.jpg"
+      ],
+      "origem": "2026-12-06_frase-semana-09",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L4-20",
       "titulo": "Você planeja as férias da família e não planeja o ano da clínica.",
       "quando": "2026-12-06T06:30:00-03:00",
@@ -4038,6 +4191,23 @@
       ],
       "origem": "2026-12-06_od36",
       "fixo": true
+    },
+    {
+      "id": "FS-10",
+      "titulo": "Frase da semana: O ano que vem se decide nas três semanas que ainda sobram deste",
+      "quando": "2026-12-07T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O ano que vem se decide nas três semanas que ainda sobram deste.\n\nMeta de janeiro escrita em dezembro chega com a equipe já sabendo o que fazer. Meta escrita em janeiro chega em março.\n\nComece hoje pela meta de faturamento e pelo nome de quem cuida de cada parte.\n\nSalva para o planejamento desta semana.\n\n#gestaodeclinicas #planejamento #donodeclinica",
+      "midias": [
+        "midia/2026-12-07_frase-semana-10/01.jpg"
+      ],
+      "origem": "2026-12-07_frase-semana-10",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L4-22",
@@ -4331,6 +4501,23 @@
       "fixo": true
     },
     {
+      "id": "FS-11",
+      "titulo": "Frase da semana: A equipe não lê o que você pensa. Ela repete o que você tolera",
+      "quando": "2026-12-13T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A equipe não lê o que você pensa. Ela repete o que você tolera.\n\nO atraso que passou, o paciente que ficou sem retorno, o combinado que ninguém cumpriu. Tudo o que você deixa passar vira regra na segunda-feira.\n\nManda para quem lidera uma equipe.\n\n#gestaodeclinicas #lideranca #gestaodepessoas",
+      "midias": [
+        "midia/2026-12-13_frase-semana-11/01.jpg"
+      ],
+      "origem": "2026-12-13_frase-semana-11",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD44",
       "titulo": "Os Doutores · Carolina: a matéria no portal e o caixa negativo",
       "quando": "2026-12-13T12:30:00-03:00",
@@ -4352,6 +4539,23 @@
       ],
       "origem": "2026-12-13_od44",
       "fixo": true
+    },
+    {
+      "id": "FS-12",
+      "titulo": "Frase da semana: Se só você fecha orçamento, toda folga sua custa faturamento",
+      "quando": "2026-12-14T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Se só você fecha orçamento, toda folga sua custa faturamento.\n\nO recesso está chegando. Se o paciente liga e ninguém sabe explicar o tratamento e as formas de pagamento, ele espera janeiro ou procura outro lugar.\n\nEnsine alguém a fechar antes do recesso.\n\nManda para um colega que vai tirar férias.\n\n#gestaodeclinicas #comercial #donodeclinica",
+      "midias": [
+        "midia/2026-12-14_frase-semana-12/01.jpg"
+      ],
+      "origem": "2026-12-14_frase-semana-12",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L4-36",
@@ -4564,6 +4768,23 @@
       "fixo": true
     },
     {
+      "id": "FS-13",
+      "titulo": "Frase da semana: Neste Natal, desligue o celular da clínica. Se nada parar, você fez um bom ano",
+      "quando": "2026-12-20T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Neste Natal, desligue o celular da clínica. Se nada parar, você fez um bom ano.\n\nSe parar, você já sabe o que mudar em janeiro. As duas respostas valem.\n\nManda para quem vai passar o Natal olhando o WhatsApp.\n\n#gestaodeclinicas #donodeclinica #natal",
+      "midias": [
+        "midia/2026-12-20_frase-semana-13/01.jpg"
+      ],
+      "origem": "2026-12-20_frase-semana-13",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD51",
       "titulo": "Os Doutores · Augusto: o vídeo de jargão com 40 visualizações e o novinho lotado",
       "quando": "2026-12-20T12:30:00-03:00",
@@ -4585,6 +4806,23 @@
       ],
       "origem": "2026-12-20_od51",
       "fixo": true
+    },
+    {
+      "id": "FS-14",
+      "titulo": "Frase da semana: Última segunda antes do Natal: agradeça à sua equipe pelo nome, não pelo grupo",
+      "quando": "2026-12-21T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Última segunda antes do Natal: agradeça à sua equipe pelo nome, não pelo grupo.\n\nUma frase sincera, olho no olho, vale mais que um textão no grupo. Diga o que cada pessoa fez de diferente no ano.\n\nSalva para fazer ainda hoje.\n\n#gestaodeclinicas #lideranca #equipe",
+      "midias": [
+        "midia/2026-12-21_frase-semana-14/01.jpg"
+      ],
+      "origem": "2026-12-21_frase-semana-14",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD55",
@@ -4717,6 +4955,23 @@
       "fixo": true
     },
     {
+      "id": "FS-15",
+      "titulo": "Frase da semana: Antes de escrever metas para 2027, escreva o que você não quer repetir de 2026",
+      "quando": "2026-12-27T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Antes de escrever metas para 2027, escreva o que você não quer repetir de 2026.\n\nA lista do que não volta costuma ser mais honesta que a de metas. E é dela que saem as primeiras decisões de janeiro.\n\nManda para quem está fazendo o planejamento do ano.\n\n#gestaodeclinicas #planejamento #reflexao",
+      "midias": [
+        "midia/2026-12-27_frase-semana-15/01.jpg"
+      ],
+      "origem": "2026-12-27_frase-semana-15",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD58",
       "titulo": "Os Doutores · Thiago: a clínica dos sonhos aberta e vazia",
       "quando": "2026-12-27T12:30:00-03:00",
@@ -4738,6 +4993,23 @@
       ],
       "origem": "2026-12-27_od58",
       "fixo": true
+    },
+    {
+      "id": "FS-16",
+      "titulo": "Frase da semana: Última segunda do ano: quem da sua equipe você contrataria de novo hoje",
+      "quando": "2026-12-28T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Última segunda do ano: quem da sua equipe você contrataria de novo hoje?\n\nA resposta diz mais sobre 2027 do que qualquer planilha. Quem você não contrataria de novo precisa de uma conversa em janeiro, e não de mais um ano de espera.\n\nSalva para responder com calma.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-12-28_frase-semana-16/01.jpg"
+      ],
+      "origem": "2026-12-28_frase-semana-16",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD57",
@@ -4856,6 +5128,23 @@
       "fixo": true
     },
     {
+      "id": "FS-17",
+      "titulo": "Frase da semana: O ano novo não muda a clínica. Quem muda é você, na segunda-feira",
+      "quando": "2027-01-02T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O ano novo não muda a clínica. Quem muda é você, na segunda-feira.\n\nO calendário virou sozinho. A rotina só vira se alguém mexer nela: a agenda, a recepção, o jeito de cobrar.\n\nEscolha uma coisa para mudar na segunda.\n\nManda para quem já está esperando a segunda.\n\n#gestaodeclinicas #donodeclinica #anonovo",
+      "midias": [
+        "midia/2027-01-02_frase-semana-17/01.jpg"
+      ],
+      "origem": "2027-01-02_frase-semana-17",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD65",
       "titulo": "Os Doutores · Estreia da temporada 2: os doutores voltaram, e dois chegaram",
       "quando": "2027-01-02T12:30:00-03:00",
@@ -4893,6 +5182,23 @@
         "midia/2027-01-03_od66/01.jpg"
       ],
       "origem": "2027-01-03_od66",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "FS-18",
+      "titulo": "Frase da semana: Janeiro é o mês em que todo mundo promete. Fevereiro mostra quem mediu",
+      "quando": "2027-01-04T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Janeiro é o mês em que todo mundo promete. Fevereiro mostra quem mediu.\n\nEscreva a meta onde a equipe veja todo dia, com um número e um nome ao lado. O que fica só na sua cabeça não vira meta da equipe.\n\nSalva para começar o ano com isso.\n\n#gestaodeclinicas #metas #donodeclinica",
+      "midias": [
+        "midia/2027-01-04_frase-semana-18/01.jpg"
+      ],
+      "origem": "2027-01-04_frase-semana-18",
       "fixo": true,
       "frase": true
     },
@@ -5032,6 +5338,23 @@
       "fixo": true
     },
     {
+      "id": "FS-19",
+      "titulo": "Frase da semana: O paciente esquece o seu diploma. Lembra de como foi recebido na porta",
+      "quando": "2027-01-10T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O paciente esquece o seu diploma. Lembra de como foi recebido na porta.\n\nO seu cuidado começa antes do paciente entrar no consultório: no primeiro áudio, no bom dia da recepção, no tempo de espera.\n\nManda para a pessoa que recebe os seus pacientes.\n\n#gestaodeclinicas #atendimento #experienciadopaciente",
+      "midias": [
+        "midia/2027-01-10_frase-semana-19/01.jpg"
+      ],
+      "origem": "2027-01-10_frase-semana-19",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD73",
       "titulo": "Os Doutores · Notícia: os cinco números que 2026 mostrou para quem tem clínica",
       "quando": "2027-01-10T12:30:00-03:00",
@@ -5052,6 +5375,23 @@
       ],
       "origem": "2027-01-10_od73",
       "fixo": true
+    },
+    {
+      "id": "FS-20",
+      "titulo": "Frase da semana: Paciente não some porque achou caro. Some porque ninguém ligou depois do orçamento",
+      "quando": "2027-01-11T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Paciente não some porque achou caro. Some porque ninguém ligou depois do orçamento.\n\nSepare hoje os orçamentos de dezembro que ficaram sem resposta. Uma ligação de dois minutos, perguntando se ficou alguma dúvida.\n\nSalva para fazer a lista hoje.\n\n#gestaodeclinicas #comercial #orcamento",
+      "midias": [
+        "midia/2027-01-11_frase-semana-20/01.jpg"
+      ],
+      "origem": "2027-01-11_frase-semana-20",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD74",
@@ -5167,6 +5507,23 @@
       "fixo": true
     },
     {
+      "id": "FS-21",
+      "titulo": "Frase da semana: A clínica que você construiu cabe na sua vida ou a sua vida cabe nela",
+      "quando": "2027-01-16T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A clínica que você construiu cabe na sua vida ou a sua vida cabe nela?\n\nAs duas respostas são possíveis. Só uma deixa espaço para você.\n\nManda para quem precisa pensar nisso neste fim de semana.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2027-01-16_frase-semana-21/01.jpg"
+      ],
+      "origem": "2027-01-16_frase-semana-21",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD79",
       "titulo": "Os Doutores · Jorge senta com o Gabriel: a jornada da porta até o dia seguinte",
       "quando": "2027-01-16T12:30:00-03:00",
@@ -5203,6 +5560,23 @@
         "midia/2027-01-17_od80/01.jpg"
       ],
       "origem": "2027-01-17_od80",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "FS-22",
+      "titulo": "Frase da semana: Sua recepção atende do jeito que foi treinada. Ou do jeito que ninguém treinou",
+      "quando": "2027-01-18T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Sua recepção atende do jeito que foi treinada. Ou do jeito que ninguém treinou.\n\nLigue hoje para a sua clínica como se fosse paciente. Pergunte o preço, peça um horário, diga que vai pensar. Em três minutos você sabe o que precisa treinar.\n\nSalva para fazer o teste ainda hoje.\n\n#gestaodeclinicas #recepcao #atendimento",
+      "midias": [
+        "midia/2027-01-18_frase-semana-22/01.jpg"
+      ],
+      "origem": "2027-01-18_frase-semana-22",
       "fixo": true,
       "frase": true
     },
@@ -5342,6 +5716,23 @@
       "fixo": true
     },
     {
+      "id": "FS-23",
+      "titulo": "Frase da semana: O cansaço de hoje é o que você não delegou no ano passado",
+      "quando": "2027-01-24T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O cansaço de hoje é o que você não delegou no ano passado.\n\nDelegar dá trabalho uma vez: explicar, acompanhar, corrigir. Não delegar dá trabalho todo dia.\n\nManda para um colega que faz tudo sozinho.\n\n#gestaodeclinicas #donodeclinica #lideranca",
+      "midias": [
+        "midia/2027-01-24_frase-semana-23/01.jpg"
+      ],
+      "origem": "2027-01-24_frase-semana-23",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD87",
       "titulo": "Os Doutores · Comparação: consultório de posto e consultório que acolhe",
       "quando": "2027-01-24T12:30:00-03:00",
@@ -5358,6 +5749,23 @@
       ],
       "origem": "2027-01-24_od87",
       "fixo": true
+    },
+    {
+      "id": "FS-24",
+      "titulo": "Frase da semana: Você não precisa de mais pacientes novos. Precisa parar de perder os que já vieram",
+      "quando": "2027-01-25T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você não precisa de mais pacientes novos. Precisa parar de perder os que já vieram.\n\nQuantos pacientes de 2026 não voltaram? Comece por eles. Uma mensagem pessoal, sem promoção, perguntando como a pessoa está.\n\nSalva para montar a lista hoje.\n\n#gestaodeclinicas #reativacao #donodeclinica",
+      "midias": [
+        "midia/2027-01-25_frase-semana-24/01.jpg"
+      ],
+      "origem": "2027-01-25_frase-semana-24",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD88",
@@ -5467,6 +5875,23 @@
       "fixo": true
     },
     {
+      "id": "FS-25",
+      "titulo": "Frase da semana: Trabalhar 60 horas por semana é mais fácil do que olhar um número",
+      "quando": "2027-01-30T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Trabalhar 60 horas por semana é mais fácil do que olhar um número.\n\nO número assusta uma vez. A falta dele assusta o ano inteiro.\n\nManda para quem trabalha muito e ainda não sabe quanto sobra.\n\n#gestaodeclinicas #financeiro #reflexao",
+      "midias": [
+        "midia/2027-01-30_frase-semana-25/01.jpg"
+      ],
+      "origem": "2027-01-30_frase-semana-25",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD93",
       "titulo": "Os Doutores · Otávio: o primeiro mês com horário de resposta",
       "quando": "2027-01-30T12:30:00-03:00",
@@ -5502,6 +5927,23 @@
         "midia/2027-01-31_od94/01.jpg"
       ],
       "origem": "2027-01-31_od94",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "FS-26",
+      "titulo": "Frase da semana: Fevereiro tem menos dias e as mesmas contas. Sua agenda já sabe disso",
+      "quando": "2027-02-01T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Fevereiro tem menos dias e as mesmas contas. Sua agenda já sabe disso?\n\nCom o Carnaval no meio, o mês curto fica ainda mais curto. Mês curto pede agenda montada antes do feriado, com retornos e orçamentos chamados nesta semana.\n\nSalva para olhar a agenda hoje.\n\n#gestaodeclinicas #agenda #donodeclinica",
+      "midias": [
+        "midia/2027-02-01_frase-semana-26/01.jpg"
+      ],
+      "origem": "2027-02-01_frase-semana-26",
       "fixo": true,
       "frase": true
     },
@@ -5614,6 +6056,23 @@
       "fixo": true
     },
     {
+      "id": "FS-27",
+      "titulo": "Frase da semana: Se você trabalha todos os dias, a clínica está te avisando alguma coisa",
+      "quando": "2027-02-06T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Se você trabalha todos os dias, a clínica está te avisando alguma coisa.\n\nEscute antes que o aviso venha pelo corpo.\n\nManda para quem não tira folga desde o ano passado.\n\n#gestaodeclinicas #donodeclinica #saude",
+      "midias": [
+        "midia/2027-02-06_frase-semana-27/01.jpg"
+      ],
+      "origem": "2027-02-06_frase-semana-27",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD100",
       "titulo": "Os Doutores · Carnaval: como cada doutor fechou a clínica",
       "quando": "2027-02-06T12:30:00-03:00",
@@ -5648,6 +6107,23 @@
         "midia/2027-02-07_od101/01.jpg"
       ],
       "origem": "2027-02-07_od101",
+      "fixo": true,
+      "frase": true
+    },
+    {
+      "id": "FS-28",
+      "titulo": "Frase da semana: Feriado bom é aquele em que o seu WhatsApp não vira recepção",
+      "quando": "2027-02-08T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Feriado bom é aquele em que o seu WhatsApp não vira recepção.\n\nDeixe hoje uma resposta pronta para quem chamar até quarta: quando a clínica volta, como marcar e o que fazer se for urgente.\n\nSalva para usar no próximo feriado também.\n\n#gestaodeclinicas #whatsapp #carnaval",
+      "midias": [
+        "midia/2027-02-08_frase-semana-28/01.jpg"
+      ],
+      "origem": "2027-02-08_frase-semana-28",
       "fixo": true,
       "frase": true
     },
@@ -5778,6 +6254,23 @@
       "fixo": true
     },
     {
+      "id": "FS-29",
+      "titulo": "Frase da semana: Amar o que faz não substitui saber quanto custa a sua hora",
+      "quando": "2027-02-14T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Amar o que faz não substitui saber quanto custa a sua hora.\n\nAs duas coisas cabem no mesmo consultório. Quem sabe o custo da própria hora decide preço, agenda e desconto com calma.\n\nManda para um colega que ama o que faz.\n\n#gestaodeclinicas #precificacao #donodeclinica",
+      "midias": [
+        "midia/2027-02-14_frase-semana-29/01.jpg"
+      ],
+      "origem": "2027-02-14_frase-semana-29",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD108",
       "titulo": "Os Doutores · Notícia: avaliação, reputação e indicação",
       "quando": "2027-02-14T12:30:00-03:00",
@@ -5798,6 +6291,23 @@
       ],
       "origem": "2027-02-14_od108",
       "fixo": true
+    },
+    {
+      "id": "FS-30",
+      "titulo": "Frase da semana: Pós-Carnaval: o ano começa de verdade hoje. O que você vai medir até junho",
+      "quando": "2027-02-15T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pós-Carnaval: o ano começa de verdade hoje. O que você vai medir até junho?\n\nUma meta por trimestre. Escrita, com nome e data. Até o fim desta semana.\n\nSalva para a reunião de equipe desta semana.\n\n#gestaodeclinicas #metas #planejamento",
+      "midias": [
+        "midia/2027-02-15_frase-semana-30/01.jpg"
+      ],
+      "origem": "2027-02-15_frase-semana-30",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD109",
