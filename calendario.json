@@ -1196,6 +1196,22 @@
       "frase": true
     },
     {
+      "id": "FST-31",
+      "titulo": "Frases da Semana · Story: Pessoas carentes não prosperam",
+      "quando": "2026-11-08T06:15:00-03:00",
+      "tipo": "story",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "",
+      "midias": [
+        "midia/2026-11-08_fst-31/01.jpg"
+      ],
+      "origem": "Frases_Semana/stories",
+      "fixo": true
+    },
+    {
       "id": "ODM02",
       "titulo": "Os Doutores · Frase de palco: refém da clínica",
       "quando": "2026-11-08T06:30:00-03:00",
@@ -1800,22 +1816,6 @@
       "origem": "2026-11-29_frase-espera",
       "fixo": true,
       "frase": true
-    },
-    {
-      "id": "FST-31",
-      "titulo": "Frases da Semana · Story: Pessoas carentes não prosperam",
-      "quando": "2026-11-12T06:00:00-03:00",
-      "tipo": "story",
-      "status": "agendado",
-      "pendencia": "",
-      "obs": "",
-      "stories": "",
-      "legenda": "",
-      "midias": [
-        "midia/2026-11-12_fst-31/01.jpg"
-      ],
-      "origem": "Frases_Semana/stories",
-      "fixo": true
     },
     {
       "id": "ODM04",

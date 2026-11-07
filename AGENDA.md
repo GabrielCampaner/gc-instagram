@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 07/11/2026, 12:21:33. 333 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 07/11/2026, 12:42:29. 333 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -157,7 +157,7 @@ Gerada em 07/11/2026, 12:21:33. 333 posts agendados, 3 pendentes. Stories com en
   - Stories: Caixinha: "Qual tarefa você ainda faz que não precisava ser você?"
 - **08h30 · L3-36 · 75% já contrataram pelo WhatsApp** (imagem) · publicado: https://www.instagram.com/p/DfcE-E9EVRE/
   - Stories: Enquete: "Quem é o dono do WhatsApp da sua clínica?" · Uma pessoa / Quem estiver livre.
-- **12h30 · OD08 · Os Doutores · Otávio: 23h47, o 14º paciente do dia, da cama** (carrossel)
+- **12h30 · OD08 · Os Doutores · Otávio: 23h47, o 14º paciente do dia, da cama** (carrossel) · publicado: https://www.instagram.com/p/DfcgfvCFtXf/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **15h00 · ODJ01 · Os Doutores · Vesti o teu jaleco: 40 leads, 2 pacientes e o "lead ruim"** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -172,6 +172,7 @@ Gerada em 07/11/2026, 12:21:33. 333 posts agendados, 3 pendentes. Stories com en
 ## domingo, 08/11
 
 - **06h00 · FS-01 · Frase da semana: Domingo é o dia em que você descobre se a clínica funciona sem você** (imagem)
+- **06h15 · FST-31 · Frases da Semana · Story: Pessoas carentes não prosperam** (story)
 - **06h30 · ODM02 · Os Doutores · Frase de palco: refém da clínica** (imagem)
 - **08h30 · L3-24 · Qual ele lembra** (imagem)
   - Stories: Repost com a pergunta: "Qual o seu paciente lembra?" · A consulta / A resposta.
