@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 09:43:40. 283 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 09:49:57. 284 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -200,6 +200,8 @@ Gerada em 09/11/2026, 09:43:40. 283 posts agendados, 3 pendentes. Stories com en
 - **17h00 · L4-13 · Antes de assinar o aluguel da clínica: a conta em 6 linhas** (carrossel)
   - Stories: Caixinha: "Quanto custa uma hora da sua clínica antes do seu salário?"
 - **18h00 · ODJ07 · Os Doutores · Vesti o teu jaleco: o atestado de toda segunda** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h30 · ODD01 · Os Doutores · Dia a dia: Natália, 40 minutos de avaliação e um "vou pensar"** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel)
   - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Caderno com a caneta da GC.

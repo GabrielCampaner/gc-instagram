@@ -1540,6 +1540,28 @@
       "fixo": true
     },
     {
+      "id": "ODD01",
+      "titulo": "Os Doutores · Dia a dia: Natália, 40 minutos de avaliação e um \"vou pensar\"",
+      "quando": "2026-11-09T19:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem profissional que faz a avaliação mais completa da cidade e mesmo assim vê a paciente sair com um \"vou pensar\".\n\nA Dra. Natália explica tudo, mede tudo, mostra tudo. Só não fecha nada. Passa o preço de cada procedimento em lista e deixa a paciente sozinha com a conta e com o Google.\n\nAvaliação que funciona termina em decisão: o plano em uma frase, o valor do plano e uma data pra começar. O resto a paciente pesquisa em casa, e pesquisa preço.\n\nQuantas avaliações tuas viraram tratamento na semana passada? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #harmonizacaofacial #atendimento",
+      "midias": [
+        "midia/2026-11-09_odd01/01.jpg",
+        "midia/2026-11-09_odd01/02.jpg",
+        "midia/2026-11-09_odd01/03.jpg",
+        "midia/2026-11-09_odd01/04.jpg",
+        "midia/2026-11-09_odd01/05.jpg",
+        "midia/2026-11-09_odd01/06.jpg",
+        "midia/2026-11-09_odd01/07.jpg"
+      ],
+      "origem": "2026-11-09_odd01",
+      "fixo": true
+    },
+    {
       "id": "MD-06",
       "titulo": "10 ações para começar a semana no controle",
       "quando": "2026-11-09T20:30:00-03:00",
