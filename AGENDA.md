@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -195,9 +195,9 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "Quando perguntam o preço, a sua recepção responde só o valor?" · Sim / Não. Caixinha: "O que a sua recepção responde quando perguntam quanto custa?"
 - **08h30 · L3-37 · 3,1 milhões de procedimentos** (imagem) · publicado: https://www.instagram.com/p/DfhOjumGkno/
   - Stories: Pergunta: "O que mais trava a sua clínica de estética: atrair ou fechar?"
-- **12h30 · OD10 · Os Doutores · Otávio senta com o Gabriel: o celular na mesa** (carrossel)
+- **12h30 · OD10 · Os Doutores · Otávio senta com o Gabriel: o celular na mesa** (carrossel) · publicado: https://www.instagram.com/p/DfhqEkMFBLw/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **14h00 · CR-01 · A ordem da consulta** (carrossel)
+- **14h00 · CR-01 · A ordem da consulta** (carrossel) · publicado: https://www.instagram.com/p/Dfh0XKCljzz/
 - **16h00 · CR-02 · Clínica é empresa (o CEO do Santos)** (carrossel)
 - **17h00 · L4-13 · Antes de assinar o aluguel da clínica: a conta em 6 linhas** (carrossel)
   - Stories: Caixinha: "Quanto custa uma hora da sua clínica antes do seu salário?"
@@ -220,6 +220,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD11 · Os Doutores · Fernando: a quarta recepcionista do ano** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD23 · Os Doutores · Dia a dia: Roberta, o anúncio dobrou e a agenda não** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-05 · Reels · Se eu disser o preço, você já compra?** (reels)
@@ -239,6 +241,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD12 · Os Doutores · Comparação: a imersão e a segunda-feira** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD24 · Os Doutores · Dia a dia: Cláudio, a reunião de duas horas que não resolvia nada** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ04 · Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-08 · Reels · As pessoas compram de pessoas** (reels)
@@ -258,6 +262,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD13 · Os Doutores · Renata: domingo, 21h, a tarefa de sexta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD25 · Os Doutores · Dia a dia: Adriana, a agenda cheia que não deixava nada** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ05 · Os Doutores · Vesti o teu jaleco: a recepcionista que você contratou pela simpatia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-01 · Reels · Vender é pecado?** (reels)
@@ -279,6 +285,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD14 · Os Doutores · Helena senta com o Gabriel: a conta da hora** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD26 · Os Doutores · Dia a dia: Leonardo, o curso de vendas e a mesma clínica** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ10 · Os Doutores · Vesti o teu jaleco: a cunhada no financeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-07 · Reels · Ninguém entra na Ferrari só pra perguntar o preço** (reels)
@@ -298,6 +306,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD15 · Os Doutores · Notícia: o médico cansado e o plantão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD27 · Os Doutores · Dia a dia: Camila, três agências e o mesmo problema** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ08 · Os Doutores · Vesti o teu jaleco: "quanto custa?" respondido com o preço seco** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-09 · Reels · Por que a foto da família engaja mais** (reels)
@@ -316,6 +326,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD20 · Os Doutores · Você saiu do plantão às 7h. Às 8h tava no consultório** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD28 · Os Doutores · Dia a dia: Sandro, a bio que só falava dele** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ06 · Os Doutores · Vesti o teu jaleco: as férias que duraram três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-03 · Reels · Duvido que você faltasse à aula** (reels)
@@ -333,6 +345,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD29 · Os Doutores · Dia a dia: Viviane, o dia 30 que chegava de surpresa** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-06 · Reels · A moeda mais cara de hoje** (reels)
@@ -353,6 +367,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD21 · Os Doutores · Ricardo: 25 anos e um telefone fixo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD30 · Os Doutores · Dia a dia: Gisele, a reforma pra ver se dava lucro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ12 · Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
@@ -372,6 +388,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD19 · Os Doutores · Sofia: 'a Kelly te passa os valores'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD31 · Os Doutores · Dia a dia: Renato, R$ 100 mil de faturamento e o maior funcionário** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ09 · Os Doutores · Vesti o teu jaleco: a guia do imposto chegou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-10 · Reels · Editorias no Instagram** (reels)
@@ -386,6 +404,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD16 · Os Doutores · Lucas senta com o Gabriel: o WhatsApp, não o Instagram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD32 · Os Doutores · Dia a dia: Flávia, a pauta estava no WhatsApp da recepção** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ16 · Os Doutores · Vesti o teu jaleco: duas comerciais, um paciente e a comissão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-02 · Reels · Você estudou madrugada adentro** (reels)
@@ -399,6 +419,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **09h00 · ODD12 · Os Doutores · Dia a dia: Juliana, o recibo do reembolso que demora** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD33 · Os Doutores · Dia a dia: Murilo, o orçamento que ninguém entendeu em casa** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ11 · Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-12 · Reels · As melhores oportunidades acontecem offline** (reels)
@@ -414,6 +436,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD22 · Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD34 · Os Doutores · Dia a dia: Heloísa, a IA que respondeu o que não devia** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ14 · Os Doutores · Vesti o teu jaleco: o lead que chegou às 20h** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -428,6 +452,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD23 · Os Doutores · Sofia senta com o Gabriel: quem vende é você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD35 · Os Doutores · Dia a dia: Aline, o desconto antes do pedido** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ27 · Os Doutores · Vesti o teu jaleco: três parcelas atrasadas e ninguém quer cobrar** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -442,6 +468,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD24 · Os Doutores · Paula: quantos voltaram? 'Muitos'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD36 · Os Doutores · Dia a dia: Cristiano, a clínica que fazia de tudo** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ15 · Os Doutores · Vesti o teu jaleco: você é o gerente mais caro da clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-17 · Remédio de nível 4 em clínica de nível 1** (carrossel)
@@ -457,6 +485,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD61 · Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD37 · Os Doutores · Dia a dia: Sabrina, a mesma paciente em duas clínicas** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ17 · Os Doutores · Vesti o teu jaleco: 12x sem juros: quem paga é você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -471,6 +501,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD26 · Os Doutores · Caio senta com o Gabriel: a conta do plantão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD38 · Os Doutores · Dia a dia: Valter, 480 pacientes que ninguém chamou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ19 · Os Doutores · Vesti o teu jaleco: a sobrinha que cuida do Instagram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -484,6 +516,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD27 · Os Doutores · Joana: sem férias desde 2023, e agora a 5x2** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD39 · Os Doutores · Dia a dia: Letícia, o WhatsApp pessoal às 23h10** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ29 · Os Doutores · Vesti o teu jaleco: o regime de imposto que ninguém revisa** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -499,6 +533,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD40 · Os Doutores · Dia a dia: Samuel, o segundo expediente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ18 · Os Doutores · Vesti o teu jaleco: qual é a promoção de Black Friday?** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -512,6 +548,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD30 · Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD41 · Os Doutores · Dia a dia: Denise, 28 anos de formada e 4 avaliações** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ23 · Os Doutores · Vesti o teu jaleco: o retorno grátis que virou terceira consulta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -525,6 +563,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD29 · Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD42 · Os Doutores · Dia a dia: Fernanda, o retorno de 30 dias que virou metade da agenda** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ13 · Os Doutores · Vesti o teu jaleco: a funcionária antiga que manda mais que você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -538,6 +578,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD31 · Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD43 · Os Doutores · Dia a dia: Hugo, o antes e depois que identificou a paciente** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ21 · Os Doutores · Vesti o teu jaleco: hoje vence a primeira parcela do 13º** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -550,6 +592,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD32 · Os Doutores · Lúcia senta com o Gabriel: as três mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD44 · Os Doutores · Dia a dia: Carla, dois donos e as mesmas 24 horas** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ25 · Os Doutores · Vesti o teu jaleco: o pedido de aumento** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -562,6 +606,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD33 · Os Doutores · Você acordou hoje com 47 mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD45 · Os Doutores · Dia a dia: Rodrigo, janeiro se enche em dezembro** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ28 · Os Doutores · Vesti o teu jaleco: o orçamento de R$ 8 mil que ninguém ligou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -570,6 +616,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · OD34 · Os Doutores · Frase: o paciente não some** (imagem)
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD46 · Os Doutores · Dia a dia: Luciana, o recesso que avisou "no começo de janeiro"** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ24 · Os Doutores · Vesti o teu jaleco: a escala de dezembro sem o 6x1** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
@@ -582,6 +630,8 @@ Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
+- **16h30 · ODD47 · Os Doutores · Dia a dia: Edson, a meta de crescer** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h00 · ODJ30 · Os Doutores · Vesti o teu jaleco: você cobrou R$ 400. Quanto sobrou?** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)

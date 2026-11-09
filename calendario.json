@@ -1521,7 +1521,6 @@
       "quando": "2026-11-09T16:00:00-03:00",
       "tipo": "carrossel",
       "status": "agendado",
-      "pendencia": "",
       "obs": "",
       "stories": "",
       "legenda": "O pai do Neymar assumiu como CEO do Santos na última sexta (06/11), com a missão de profissionalizar a gestão do clube.\n\nUm clube de 114 anos chamando um empresário para comandar. Tem clínica que leva anos para tomar a mesma decisão: tratar o consultório como empresa.\n\nEmpresa tem meta, tem número e tem lucro. E lucro não é ganância, é o que paga a equipe, a estrutura, a sua atualização e o seu descanso.\n\nQuem demora a enxergar isso passa anos atendendo muito e crescendo pouco.\n\nFonte da notícia: CartaCapital e Gazeta Esportiva, 06/11/2026.\n\nManda para um colega que ainda acha que gestão é coisa de administrador.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #santosfc",
@@ -1738,6 +1737,28 @@
       "fixo": true
     },
     {
+      "id": "ODD23",
+      "titulo": "Os Doutores · Dia a dia: Roberta, o anúncio dobrou e a agenda não",
+      "quando": "2026-11-10T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quando a agenda não enche, a primeira suspeita é sempre o anúncio.\n\nA Dra. Roberta dobrou o investimento e as mensagens dobraram. A agenda, não. Um terço das mensagens esperava mais de duas horas por resposta, ninguém ligava depois do orçamento e quem faltava não era remarcado.\n\nAntes de colocar mais dinheiro no anúncio, olha o que acontece depois que o paciente chama: o tempo de resposta, o retorno do orçamento e a remarcação das faltas. Dobrar o anúncio numa clínica que vaza só dobra o vazamento.\n\nQuantas mensagens ficaram sem resposta ontem na tua clínica? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #trafegopago #dermatologia",
+      "midias": [
+        "midia/2026-11-10_odd23/01.jpg",
+        "midia/2026-11-10_odd23/02.jpg",
+        "midia/2026-11-10_odd23/03.jpg",
+        "midia/2026-11-10_odd23/04.jpg",
+        "midia/2026-11-10_odd23/05.jpg",
+        "midia/2026-11-10_odd23/06.jpg",
+        "midia/2026-11-10_odd23/07.jpg"
+      ],
+      "origem": "2026-11-10_odd23",
+      "fixo": true
+    },
+    {
       "id": "ODJ03",
       "titulo": "Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023",
       "quando": "2026-11-10T18:00:00-03:00",
@@ -1940,6 +1961,28 @@
       "fixo": true
     },
     {
+      "id": "ODD24",
+      "titulo": "Os Doutores · Dia a dia: Cláudio, a reunião de duas horas que não resolvia nada",
+      "quando": "2026-11-11T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Reunião de equipe longa costuma ter muita conversa e pouca tarefa.\n\nNa clínica do Dr. Cláudio, ela acontecia uma vez por mês, durava duas horas e virava desabafo. No mês seguinte, os mesmos assuntos e os mesmos orçamentos parados.\n\nA troca foi simples: 15 minutos toda segunda, em pé, com três números no quadro. Quantas pessoas chamaram, quantas agendaram e quantos orçamentos foram cobrados. Verde, amarelo ou vermelho, e cada vermelho sai da sala com um nome e um prazo.\n\nTreinamento ensina o que fazer. O placar mostra se foi feito.\n\nManda para quem conduz a reunião da tua clínica.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #gestaodeequipe #donodeclinica",
+      "midias": [
+        "midia/2026-11-11_odd24/01.jpg",
+        "midia/2026-11-11_odd24/02.jpg",
+        "midia/2026-11-11_odd24/03.jpg",
+        "midia/2026-11-11_odd24/04.jpg",
+        "midia/2026-11-11_odd24/05.jpg",
+        "midia/2026-11-11_odd24/06.jpg",
+        "midia/2026-11-11_odd24/07.jpg"
+      ],
+      "origem": "2026-11-11_odd24",
+      "fixo": true
+    },
+    {
       "id": "ODJ04",
       "titulo": "Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos",
       "quando": "2026-11-11T18:00:00-03:00",
@@ -2109,6 +2152,28 @@
         "midia/2026-11-12_od13/08.jpg"
       ],
       "origem": "2026-11-12_od13",
+      "fixo": true
+    },
+    {
+      "id": "ODD25",
+      "titulo": "Os Doutores · Dia a dia: Adriana, a agenda cheia que não deixava nada",
+      "quando": "2026-11-12T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Agenda cheia não quer dizer clínica lucrando.\n\nA agenda da Dra. Adriana vive 91% ocupada, e no fim do mês quase nada sobra. Ela queria abrir a terceira sala. A conta mostrou outra coisa: o procedimento mais vendido, com preço copiado da concorrente, paga R$ 210 por uma hora que custa R$ 260.\n\nNa simulação, são R$ 9.600 por mês pagos para atender. Abrir mais uma sala só aumentaria o prejuízo. O caminho foi menos horário para o que paga menos, protocolo em etapas no lugar do desconto e, só então, a tabela nova.\n\nNúmeros de exemplo (simulação).\n\nTu sabe quanto custa uma hora da tua agenda? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #esteticaavancada",
+      "midias": [
+        "midia/2026-11-12_odd25/01.jpg",
+        "midia/2026-11-12_odd25/02.jpg",
+        "midia/2026-11-12_odd25/03.jpg",
+        "midia/2026-11-12_odd25/04.jpg",
+        "midia/2026-11-12_odd25/05.jpg",
+        "midia/2026-11-12_odd25/06.jpg",
+        "midia/2026-11-12_odd25/07.jpg"
+      ],
+      "origem": "2026-11-12_odd25",
       "fixo": true
     },
     {
@@ -2317,6 +2382,28 @@
       "fixo": true
     },
     {
+      "id": "ODD26",
+      "titulo": "Os Doutores · Dia a dia: Leonardo, o curso de vendas e a mesma clínica",
+      "quando": "2026-11-13T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Curso de vendas para a recepção é bom. O problema é o que acontece na segunda semana.\n\nO Dr. Leonardo investiu R$ 4.800 no treinamento das duas recepcionistas. Elas voltaram animadas e, sem ninguém medir nem cobrar, voltaram ao jeito de antes. O orçamento seguia indo em PDF pelo WhatsApp, sem ligação depois.\n\nDesde 2009 eu entro em clínica toda semana, e o que mais falta é rotina, número e alguém olhando todo dia: um roteiro escrito com as conversas reais, um número por semana e quinze minutos toda segunda para olhar esse número junto.\n\nQual foi o último treinamento da tua equipe? Comenta em uma palavra o que ficou dele.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #equipe",
+      "midias": [
+        "midia/2026-11-13_odd26/01.jpg",
+        "midia/2026-11-13_odd26/02.jpg",
+        "midia/2026-11-13_odd26/03.jpg",
+        "midia/2026-11-13_odd26/04.jpg",
+        "midia/2026-11-13_odd26/05.jpg",
+        "midia/2026-11-13_odd26/06.jpg",
+        "midia/2026-11-13_odd26/07.jpg"
+      ],
+      "origem": "2026-11-13_odd26",
+      "fixo": true
+    },
+    {
       "id": "ODJ10",
       "titulo": "Os Doutores · Vesti o teu jaleco: a cunhada no financeiro",
       "quando": "2026-11-13T18:00:00-03:00",
@@ -2512,6 +2599,28 @@
       "fixo": true
     },
     {
+      "id": "ODD27",
+      "titulo": "Os Doutores · Dia a dia: Camila, três agências e o mesmo problema",
+      "quando": "2026-11-14T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Antes de culpar a agência, vale olhar o relógio.\n\nA Dra. Camila trocou de agência três vezes em um ano. Uma colega usa a mesma agência, o mesmo anúncio e o mesmo valor, e o paciente novo sai quatro vezes mais barato. A diferença: ela responde em 4 minutos, marca na hora e liga 48 horas depois do orçamento.\n\n75% das clínicas investem em anúncio (Panorama das Clínicas 2026, Doctoralia), e 51% dos brasileiros consideram ideal receber resposta em até 5 minutos (CX Trends 2026, Octadesk e Opinion Box). Valores do caso são exemplo.\n\nQuanto tempo a tua clínica leva para responder um paciente novo? Comenta em minutos.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #nutricionista #trafegopago",
+      "midias": [
+        "midia/2026-11-14_odd27/01.jpg",
+        "midia/2026-11-14_odd27/02.jpg",
+        "midia/2026-11-14_odd27/03.jpg",
+        "midia/2026-11-14_odd27/04.jpg",
+        "midia/2026-11-14_odd27/05.jpg",
+        "midia/2026-11-14_odd27/06.jpg",
+        "midia/2026-11-14_odd27/07.jpg"
+      ],
+      "origem": "2026-11-14_odd27",
+      "fixo": true
+    },
+    {
       "id": "ODJ08",
       "titulo": "Os Doutores · Vesti o teu jaleco: \"quanto custa?\" respondido com o preço seco",
       "quando": "2026-11-14T18:00:00-03:00",
@@ -2677,6 +2786,28 @@
       "fixo": true
     },
     {
+      "id": "ODD28",
+      "titulo": "Os Doutores · Dia a dia: Sandro, a bio que só falava dele",
+      "quando": "2026-11-15T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Marketing para clínica começa antes do anúncio: na bio.\n\nO Dr. Sandro queria mais paciente particular e mandava todo mundo para o Instagram. A bio tinha CRM, três pós-graduações e um link com oito botões, e nenhuma linha dizendo quem ele atende.\n\nQuem abre um perfil procura quatro respostas em poucos segundos: quem você atende, onde fica, como marca e por que confiar. Se faltar uma, volta para o Google.\n\n85% das clínicas têm o Instagram como principal canal de comunicação (Panorama das Clínicas 2026, Doctoralia).\n\nAbre o teu perfil agora e comenta: as quatro respostas estão lá?\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #marketingmedico #endocrinologia",
+      "midias": [
+        "midia/2026-11-15_odd28/01.jpg",
+        "midia/2026-11-15_odd28/02.jpg",
+        "midia/2026-11-15_odd28/03.jpg",
+        "midia/2026-11-15_odd28/04.jpg",
+        "midia/2026-11-15_odd28/05.jpg",
+        "midia/2026-11-15_odd28/06.jpg",
+        "midia/2026-11-15_odd28/07.jpg"
+      ],
+      "origem": "2026-11-15_odd28",
+      "fixo": true
+    },
+    {
       "id": "ODJ06",
       "titulo": "Os Doutores · Vesti o teu jaleco: as férias que duraram três dias",
       "quando": "2026-11-15T18:00:00-03:00",
@@ -2823,6 +2954,28 @@
         "midia/2026-11-16_od17/07.jpg"
       ],
       "origem": "2026-11-16_od17",
+      "fixo": true
+    },
+    {
+      "id": "ODD29",
+      "titulo": "Os Doutores · Dia a dia: Viviane, o dia 30 que chegava de surpresa",
+      "quando": "2026-11-16T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Fechamento do mês da clínica: o extrato do banco conta o que já aconteceu.\n\nA Dra. Viviane e as sócias descobriam o mês no dia 30. Boleto inesperado, briga de comissão, orçamento esquecido. Num mês bom, alívio. Num mês ruim, susto. Em nenhum dos dois dava tempo de mudar.\n\nA troca foi pequena: toda sexta, 20 minutos com quatro números numa folha. Ocupação, faltas, orçamentos abertos e caixa da semana. O que está vermelho ganha um nome e uma data.\n\nTu sabe hoje como o mês da tua clínica vai fechar? Comenta sim ou não, e manda para o teu sócio antes do fechamento de novembro.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #financeiro #pediatria",
+      "midias": [
+        "midia/2026-11-16_odd29/01.jpg",
+        "midia/2026-11-16_odd29/02.jpg",
+        "midia/2026-11-16_odd29/03.jpg",
+        "midia/2026-11-16_odd29/04.jpg",
+        "midia/2026-11-16_odd29/05.jpg",
+        "midia/2026-11-16_odd29/06.jpg",
+        "midia/2026-11-16_odd29/07.jpg"
+      ],
+      "origem": "2026-11-16_odd29",
       "fixo": true
     },
     {
@@ -3022,6 +3175,28 @@
       "fixo": true
     },
     {
+      "id": "ODD30",
+      "titulo": "Os Doutores · Dia a dia: Gisele, a reforma pra ver se dava lucro",
+      "quando": "2026-11-17T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Clínica que não dá lucro costuma pedir mais investimento. Às vezes ela pede outra coisa.\n\nA Dra. Gisele ia pegar R$ 60 mil emprestados para reformar a clínica. Antes, a gente somou o que não aparece no extrato: hora vazia, desconto que ninguém pediu e orçamento que ninguém cobrou. Na simulação, R$ 23.600 por mês. Em menos de três meses, o valor da reforma.\n\nA reforma pode vir depois. Primeiro, meta de ocupação, desconto só com regra e todo orçamento com nome e data de retorno.\n\nNúmeros de exemplo (simulação).\n\nO que a tua clínica perde sem ver daria mais que o aluguel? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #lucro #ginecologia",
+      "midias": [
+        "midia/2026-11-17_odd30/01.jpg",
+        "midia/2026-11-17_odd30/02.jpg",
+        "midia/2026-11-17_odd30/03.jpg",
+        "midia/2026-11-17_odd30/04.jpg",
+        "midia/2026-11-17_odd30/05.jpg",
+        "midia/2026-11-17_odd30/06.jpg",
+        "midia/2026-11-17_odd30/07.jpg"
+      ],
+      "origem": "2026-11-17_odd30",
+      "fixo": true
+    },
+    {
       "id": "ODJ12",
       "titulo": "Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato",
       "quando": "2026-11-17T18:00:00-03:00",
@@ -3210,6 +3385,28 @@
       "fixo": true
     },
     {
+      "id": "ODD31",
+      "titulo": "Os Doutores · Dia a dia: Renato, R$ 100 mil de faturamento e o maior funcionário",
+      "quando": "2026-11-18T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quanto fatura uma clínica? A pergunta que importa é quanto sobra para o dono, e por quê.\n\nA clínica do Dr. Renato fatura R$ 100 mil e sobram R$ 18 mil, que ele chama de lucro. Mas ele atende 40 horas por semana. Separando o que ele ganharia como médico contratado, R$ 15 mil, o lucro da clínica é R$ 3 mil.\n\nNão quer dizer que a clínica vai mal. Quer dizer que o dono ainda é o maior funcionário dela, e que preço, equipe e expansão precisam ser decididos com os dois números separados.\n\nNúmeros de exemplo (simulação).\n\nTu sabe quanto é o teu pró-labore e quanto é o lucro da tua clínica? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #prolabore #donodeclinica",
+      "midias": [
+        "midia/2026-11-18_odd31/01.jpg",
+        "midia/2026-11-18_odd31/02.jpg",
+        "midia/2026-11-18_odd31/03.jpg",
+        "midia/2026-11-18_odd31/04.jpg",
+        "midia/2026-11-18_odd31/05.jpg",
+        "midia/2026-11-18_odd31/06.jpg",
+        "midia/2026-11-18_odd31/07.jpg"
+      ],
+      "origem": "2026-11-18_odd31",
+      "fixo": true
+    },
+    {
       "id": "ODJ09",
       "titulo": "Os Doutores · Vesti o teu jaleco: a guia do imposto chegou",
       "quando": "2026-11-18T18:00:00-03:00",
@@ -3350,6 +3547,28 @@
       "fixo": true
     },
     {
+      "id": "ODD32",
+      "titulo": "Os Doutores · Dia a dia: Flávia, a pauta estava no WhatsApp da recepção",
+      "quando": "2026-11-19T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Ideias de post para clínica: abre o WhatsApp da recepção.\n\nA Dra. Flávia postava data comemorativa e dica copiada, e ninguém chamava. Enquanto isso, a recepção respondia as mesmas perguntas toda semana. Em 10 minutos lendo o celular da recepção, saíram 20 pautas.\n\nPergunta que se repete é post pronto: a do valor, a do medo, a da comparação, a de como é a primeira consulta. Toda sexta, a recepção anota as 5 da semana. Na segunda, você grava.\n\n85% das clínicas têm o Instagram como principal canal de comunicação (Panorama das Clínicas 2026, Doctoralia). Postar todo mundo posta.\n\nQual pergunta a tua recepção mais responde? Comenta aqui.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #fonoaudiologia #marketingnasaude",
+      "midias": [
+        "midia/2026-11-19_odd32/01.jpg",
+        "midia/2026-11-19_odd32/02.jpg",
+        "midia/2026-11-19_odd32/03.jpg",
+        "midia/2026-11-19_odd32/04.jpg",
+        "midia/2026-11-19_odd32/05.jpg",
+        "midia/2026-11-19_odd32/06.jpg",
+        "midia/2026-11-19_odd32/07.jpg"
+      ],
+      "origem": "2026-11-19_odd32",
+      "fixo": true
+    },
+    {
       "id": "ODJ16",
       "titulo": "Os Doutores · Vesti o teu jaleco: duas comerciais, um paciente e a comissão",
       "quando": "2026-11-19T18:00:00-03:00",
@@ -3480,6 +3699,28 @@
         "midia/2026-11-20_odd12/07.jpg"
       ],
       "origem": "2026-11-20_odd12",
+      "fixo": true
+    },
+    {
+      "id": "ODD33",
+      "titulo": "Os Doutores · Dia a dia: Murilo, o orçamento que ninguém entendeu em casa",
+      "quando": "2026-11-20T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Como apresentar orçamento ao paciente sem ouvir \"vou pensar\" e nunca mais ter notícia.\n\nO Dr. Murilo é ótimo tecnicamente e explica como se o paciente fosse dentista. O paciente levou um orçamento de nove códigos para casa e não soube explicar para a esposa. O tratamento travou ali.\n\nA ordem que funciona: o problema nas palavras dele, o que acontece se não tratar, o plano em etapas e o valor por último, com as formas de pagamento. Plano por escrito e retorno combinado antes de levantar da cadeira.\n\nO teu paciente consegue explicar o orçamento para a família? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #orcamento",
+      "midias": [
+        "midia/2026-11-20_odd33/01.jpg",
+        "midia/2026-11-20_odd33/02.jpg",
+        "midia/2026-11-20_odd33/03.jpg",
+        "midia/2026-11-20_odd33/04.jpg",
+        "midia/2026-11-20_odd33/05.jpg",
+        "midia/2026-11-20_odd33/06.jpg",
+        "midia/2026-11-20_odd33/07.jpg"
+      ],
+      "origem": "2026-11-20_odd33",
       "fixo": true
     },
     {
@@ -3639,6 +3880,28 @@
       "fixo": true
     },
     {
+      "id": "ODD34",
+      "titulo": "Os Doutores · Dia a dia: Heloísa, a IA que respondeu o que não devia",
+      "quando": "2026-11-21T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "IA para clínicas: o que ela deve fazer no WhatsApp e o que nunca deve fazer.\n\nA IA da Dra. Heloísa respondia rápido e marcava consulta. Até responder, às 23h10, uma dúvida clínica como se soubesse. Sem regra escrita, ela improvisou mais rápido.\n\nPode: responder na hora, informar o que a clínica já divulga, oferecer horário, agendar e confirmar. Nunca: diagnosticar, indicar conduta, prometer resultado ou negociar desconto. E precisa saber a hora de chamar uma pessoa.\n\n32% das clínicas já usam IA e outras 40% pretendem usar (Panorama das Clínicas 2026, Doctoralia).\n\nA tua clínica tem essas regras escritas? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #iaparaclinicas #whatsapp",
+      "midias": [
+        "midia/2026-11-21_odd34/01.jpg",
+        "midia/2026-11-21_odd34/02.jpg",
+        "midia/2026-11-21_odd34/03.jpg",
+        "midia/2026-11-21_odd34/04.jpg",
+        "midia/2026-11-21_odd34/05.jpg",
+        "midia/2026-11-21_odd34/06.jpg",
+        "midia/2026-11-21_odd34/07.jpg"
+      ],
+      "origem": "2026-11-21_odd34",
+      "fixo": true
+    },
+    {
       "id": "ODJ14",
       "titulo": "Os Doutores · Vesti o teu jaleco: o lead que chegou às 20h",
       "quando": "2026-11-21T18:00:00-03:00",
@@ -3736,6 +3999,28 @@
         "midia/2026-11-22_od23/08.jpg"
       ],
       "origem": "2026-11-22_od23",
+      "fixo": true
+    },
+    {
+      "id": "ODD35",
+      "titulo": "Os Doutores · Dia a dia: Aline, o desconto antes do pedido",
+      "quando": "2026-11-22T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Paciente pede desconto? Antes de dar, faz esta conta. E se você dá antes de ele pedir, faz duas vezes.\n\nA Dra. Aline vende muito e oferece 10% antes de o paciente pedir. Com margem de 30%, um tratamento de R$ 1.000 deixa R$ 300. Com 10% de desconto, R$ 200: ela precisa de 50% mais pacientes para lucrar o mesmo. Com 15%, do dobro.\n\nO desconto sai da margem, não do preço. Antes de qualquer desconto: o paciente pediu? O que ele está trocando? Cabe na margem?\n\nNúmeros de exemplo (simulação).\n\nNa tua clínica, quem pode dar desconto e com qual regra? Comenta aqui.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #dentistas",
+      "midias": [
+        "midia/2026-11-22_odd35/01.jpg",
+        "midia/2026-11-22_odd35/02.jpg",
+        "midia/2026-11-22_odd35/03.jpg",
+        "midia/2026-11-22_odd35/04.jpg",
+        "midia/2026-11-22_odd35/05.jpg",
+        "midia/2026-11-22_odd35/06.jpg",
+        "midia/2026-11-22_odd35/07.jpg"
+      ],
+      "origem": "2026-11-22_odd35",
       "fixo": true
     },
     {
@@ -3851,6 +4136,28 @@
         "midia/2026-11-23_od24/07.jpg"
       ],
       "origem": "2026-11-23_od24",
+      "fixo": true
+    },
+    {
+      "id": "ODD36",
+      "titulo": "Os Doutores · Dia a dia: Cristiano, a clínica que fazia de tudo",
+      "quando": "2026-11-23T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Nicho para clínica: o medo de escolher um foco e perder paciente.\n\nA clínica do Dr. Cristiano oferece onze tratamentos e ninguém sabe dizer no que ela é boa. Resultado: quem procura \"clínica de fisioterapia\" compara preço, e ele vivia ouvindo que a outra é mais barata. No faturamento por serviço, dois tratamentos pagavam a clínica.\n\nQuem procura o próprio problema compara confiança. Posicionar é escolher do que você vai ser lembrado: uma frase, os melhores pacientes como referência e 90 dias comunicando só isso. O resto continua sendo atendido. Só não é anunciado.\n\nDo que tu quer que a tua clínica seja lembrada? Comenta em uma frase.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #fisioterapia #posicionamento",
+      "midias": [
+        "midia/2026-11-23_odd36/01.jpg",
+        "midia/2026-11-23_odd36/02.jpg",
+        "midia/2026-11-23_odd36/03.jpg",
+        "midia/2026-11-23_odd36/04.jpg",
+        "midia/2026-11-23_odd36/05.jpg",
+        "midia/2026-11-23_odd36/06.jpg",
+        "midia/2026-11-23_odd36/07.jpg"
+      ],
+      "origem": "2026-11-23_odd36",
       "fixo": true
     },
     {
@@ -3998,6 +4305,28 @@
       "fixo": true
     },
     {
+      "id": "ODD37",
+      "titulo": "Os Doutores · Dia a dia: Sabrina, a mesma paciente em duas clínicas",
+      "quando": "2026-11-24T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Jornada do paciente: o mesmo paciente, duas clínicas.\n\nÀs 21h47, a paciente chamou a Dra. Sabrina e outra clínica. A outra respondeu na hora, chamou pelo nome e perguntou como ela estava no quarto dia. Na Sabrina, ficha de papel, plano no corredor e silêncio. No dia 180, a paciente estava na outra e tinha indicado a irmã.\n\n67% das clínicas nunca mapearam a jornada do paciente (Panorama das Clínicas 2026, Doctoralia).\n\nO paciente não lembra da consulta inteira. Lembra do que ninguém cuidou.\n\nA tua clínica já desenhou esse caminho? Comenta sim ou não, e salva para mapear com a equipe.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #jornadadopaciente #atendimento",
+      "midias": [
+        "midia/2026-11-24_odd37/01.jpg",
+        "midia/2026-11-24_odd37/02.jpg",
+        "midia/2026-11-24_odd37/03.jpg",
+        "midia/2026-11-24_odd37/04.jpg",
+        "midia/2026-11-24_odd37/05.jpg",
+        "midia/2026-11-24_odd37/06.jpg",
+        "midia/2026-11-24_odd37/07.jpg"
+      ],
+      "origem": "2026-11-24_odd37",
+      "fixo": true
+    },
+    {
       "id": "ODJ17",
       "titulo": "Os Doutores · Vesti o teu jaleco: 12x sem juros: quem paga é você",
       "quando": "2026-11-24T18:00:00-03:00",
@@ -4138,6 +4467,28 @@
       "fixo": true
     },
     {
+      "id": "ODD38",
+      "titulo": "Os Doutores · Dia a dia: Valter, 480 pacientes que ninguém chamou",
+      "quando": "2026-11-25T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Mensagem para paciente que sumiu: antes, a pergunta certa. Ele sumiu ou foi esquecido?\n\nO Dr. Valter ia investir em anúncio para trazer paciente novo. No sistema dele, 480 pessoas não voltam há mais de um ano, e ninguém nunca chamou nenhuma. Na simulação, se 5% voltarem para uma consulta de R$ 300, são R$ 7.200 sem anúncio.\n\nRegras para chamar sem parecer promoção: nome de quem envia e do médico, uma pergunta só, sem áudio, sem desconto, em lotes de 20 por dia.\n\nQuantos pacientes da tua clínica não voltam há mais de um ano? Comenta o número, mesmo que seja um chute.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #oftalmologia #fidelizacao",
+      "midias": [
+        "midia/2026-11-25_odd38/01.jpg",
+        "midia/2026-11-25_odd38/02.jpg",
+        "midia/2026-11-25_odd38/03.jpg",
+        "midia/2026-11-25_odd38/04.jpg",
+        "midia/2026-11-25_odd38/05.jpg",
+        "midia/2026-11-25_odd38/06.jpg",
+        "midia/2026-11-25_odd38/07.jpg"
+      ],
+      "origem": "2026-11-25_odd38",
+      "fixo": true
+    },
+    {
       "id": "ODJ19",
       "titulo": "Os Doutores · Vesti o teu jaleco: a sobrinha que cuida do Instagram",
       "quando": "2026-11-25T18:00:00-03:00",
@@ -4258,6 +4609,28 @@
         "midia/2026-11-26_od27/07.jpg"
       ],
       "origem": "2026-11-26_od27",
+      "fixo": true
+    },
+    {
+      "id": "ODD39",
+      "titulo": "Os Doutores · Dia a dia: Letícia, o WhatsApp pessoal às 23h10",
+      "quando": "2026-11-26T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "WhatsApp pessoal com o paciente: proximidade ou plantão sem escala?\n\nA Dra. Letícia dá o número pessoal para todo paciente porque gosta de estar perto. Resultado: almoço respondendo, áudio entre consultas, exame no jantar e pergunta às 23h10, do sofá de casa.\n\nNúmero pessoal parece acesso, até o dia em que ela demora e o paciente se sente abandonado. A saída sem parecer fria: um número da clínica com dono e horário, uma regra escrita de urgência e uma mensagem pronta para quem ainda chama no pessoal.\n\nManda para um colega que responde paciente às 23h.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #whatsapp #qualidadedevida",
+      "midias": [
+        "midia/2026-11-26_odd39/01.jpg",
+        "midia/2026-11-26_odd39/02.jpg",
+        "midia/2026-11-26_odd39/03.jpg",
+        "midia/2026-11-26_odd39/04.jpg",
+        "midia/2026-11-26_odd39/05.jpg",
+        "midia/2026-11-26_odd39/06.jpg",
+        "midia/2026-11-26_odd39/07.jpg"
+      ],
+      "origem": "2026-11-26_odd39",
       "fixo": true
     },
     {
@@ -4394,6 +4767,28 @@
       "fixo": true
     },
     {
+      "id": "ODD40",
+      "titulo": "Os Doutores · Dia a dia: Samuel, o segundo expediente",
+      "quando": "2026-11-27T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O último paciente sai e começa o segundo expediente: escala, boleto, comissão, reclamação, mensagem às 23h.\n\nO Dr. Samuel sentou comigo para falar de margem e, no meio da conversa, disse que estava cansado. Não da medicina. De ser o único caminho para tudo na clínica.\n\n58% dos médicos já viveram algum grau de burnout (Afya, Qualidade de Vida do Médico 2025). Gestão não resolve tudo, mas devolve tempo: a escala com uma gerente, o boleto com dia fixo, a reclamação com regra de resposta.\n\nManda para um colega. Às vezes ele só precisa saber que não é o único.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #saudemental #medicina",
+      "midias": [
+        "midia/2026-11-27_odd40/01.jpg",
+        "midia/2026-11-27_odd40/02.jpg",
+        "midia/2026-11-27_odd40/03.jpg",
+        "midia/2026-11-27_odd40/04.jpg",
+        "midia/2026-11-27_odd40/05.jpg",
+        "midia/2026-11-27_odd40/06.jpg",
+        "midia/2026-11-27_odd40/07.jpg"
+      ],
+      "origem": "2026-11-27_odd40",
+      "fixo": true
+    },
+    {
       "id": "ODJ18",
       "titulo": "Os Doutores · Vesti o teu jaleco: qual é a promoção de Black Friday?",
       "quando": "2026-11-27T18:00:00-03:00",
@@ -4517,6 +4912,28 @@
       "fixo": true
     },
     {
+      "id": "ODD41",
+      "titulo": "Os Doutores · Dia a dia: Denise, 28 anos de formada e 4 avaliações",
+      "quando": "2026-11-28T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Como o paciente escolhe com quem se consultar? Nem sempre pelo currículo.\n\nA Dra. Denise é referência entre os colegas e tem 4 avaliações na internet. A colega que chegou ano passado tem 190, e a agenda dela encheu primeiro.\n\nNa Doctoralia, os motivos de escolha em ordem: mais opiniões, plano de saúde, disponibilidade, localização, o conteúdo das opiniões, foto do perfil, sobre mim, opiniões respondidas, especialidades e redes sociais. A especialidade aparece em 9º.\n\nFonte: Perfil do Paciente Digital 2025, Doctoralia.\n\nQuantas avaliações a tua clínica tem hoje? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #pacientedigital #avaliacoes",
+      "midias": [
+        "midia/2026-11-28_odd41/01.jpg",
+        "midia/2026-11-28_odd41/02.jpg",
+        "midia/2026-11-28_odd41/03.jpg",
+        "midia/2026-11-28_odd41/04.jpg",
+        "midia/2026-11-28_odd41/05.jpg",
+        "midia/2026-11-28_odd41/06.jpg",
+        "midia/2026-11-28_odd41/07.jpg"
+      ],
+      "origem": "2026-11-28_odd41",
+      "fixo": true
+    },
+    {
       "id": "ODJ23",
       "titulo": "Os Doutores · Vesti o teu jaleco: o retorno grátis que virou terceira consulta",
       "quando": "2026-11-28T18:00:00-03:00",
@@ -4614,6 +5031,28 @@
         "midia/2026-11-29_od29/08.jpg"
       ],
       "origem": "2026-11-29_od29",
+      "fixo": true
+    },
+    {
+      "id": "ODD42",
+      "titulo": "Os Doutores · Dia a dia: Fernanda, o retorno de 30 dias que virou metade da agenda",
+      "quando": "2026-11-29T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Pode cobrar retorno de consulta? E o prazo de 30 dias, de onde veio?\n\nA Resolução CFM 1.958/2010 diz que o retorno é a continuação da consulta para avaliar exames, sem nova cobrança, no prazo que o médico definir. Não existe prazo fixo de 30 dias na norma, e plano de saúde não pode impor intervalo entre consultas. Queixa nova é nova consulta.\n\nSem regra escrita, quem decide é a recepção, pela data. Numa agenda de 160 consultas, isso pode virar R$ 6.400 por mês atendidos de graça (simulação).\n\nFonte: Resolução CFM 1.958/2010, art. 1º, 2º e 5º. Vale para Medicina.\n\nNa tua clínica, quem decide o que é retorno? Comenta aqui.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultoriomedico #retornodeconsulta",
+      "midias": [
+        "midia/2026-11-29_odd42/01.jpg",
+        "midia/2026-11-29_odd42/02.jpg",
+        "midia/2026-11-29_odd42/03.jpg",
+        "midia/2026-11-29_odd42/04.jpg",
+        "midia/2026-11-29_odd42/05.jpg",
+        "midia/2026-11-29_odd42/06.jpg",
+        "midia/2026-11-29_odd42/07.jpg"
+      ],
+      "origem": "2026-11-29_odd42",
       "fixo": true
     },
     {
@@ -4717,6 +5156,28 @@
       "fixo": true
     },
     {
+      "id": "ODD43",
+      "titulo": "Os Doutores · Dia a dia: Hugo, o antes e depois que identificou a paciente",
+      "quando": "2026-11-30T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Médico pode postar antes e depois? Pode. Com as condições da Resolução CFM 2.336/2023, art. 14.\n\nFinalidade educativa, com texto sobre indicações, fatores que influenciam o resultado e complicações. Conjunto com evoluções satisfatórias, insatisfatórias e complicações. Sem identificar o paciente, sem editar a imagem, com autorização e anonimato.\n\nO Dr. Hugo usou filtro, tinha só uma autorização de boca e a tatuagem identificou a paciente. A regra existe para os dois lados.\n\nFonte: Resolução CFM 2.336/2023, art. 14. Vale para Medicina. Odontologia, Fisioterapia e Nutrição têm regras próprias.\n\nSalva para conferir antes do próximo post.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #publicidademedica #cfm",
+      "midias": [
+        "midia/2026-11-30_odd43/01.jpg",
+        "midia/2026-11-30_odd43/02.jpg",
+        "midia/2026-11-30_odd43/03.jpg",
+        "midia/2026-11-30_odd43/04.jpg",
+        "midia/2026-11-30_odd43/05.jpg",
+        "midia/2026-11-30_odd43/06.jpg",
+        "midia/2026-11-30_odd43/07.jpg"
+      ],
+      "origem": "2026-11-30_odd43",
+      "fixo": true
+    },
+    {
       "id": "ODJ21",
       "titulo": "Os Doutores · Vesti o teu jaleco: hoje vence a primeira parcela do 13º",
       "quando": "2026-11-30T18:00:00-03:00",
@@ -4816,6 +5277,28 @@
         "midia/2026-12-01_od32/08.jpg"
       ],
       "origem": "2026-12-01_od32",
+      "fixo": true
+    },
+    {
+      "id": "ODD44",
+      "titulo": "Os Doutores · Dia a dia: Carla, dois donos e as mesmas 24 horas",
+      "quando": "2026-12-01T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Dois donos de clínica. O mesmo dia, as mesmas 24 horas.\n\nUma responde paciente na cama, autoriza desconto no meio da consulta, almoça cobrando orçamento e fecha o caixa às 22h40. O outro atende o mesmo número de pacientes, olha três números com a equipe às 18h30 e às 19h está em casa.\n\nO que separa os dois é rotina: regra escrita para a recepção, um dono para cada orçamento e 15 minutos de números por dia.\n\nA que horas tu saiu da clínica ontem? Comenta o horário, e manda para aquele amigo que ainda responde paciente às 23h.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #donodeclinica #rotina",
+      "midias": [
+        "midia/2026-12-01_odd44/01.jpg",
+        "midia/2026-12-01_odd44/02.jpg",
+        "midia/2026-12-01_odd44/03.jpg",
+        "midia/2026-12-01_odd44/04.jpg",
+        "midia/2026-12-01_odd44/05.jpg",
+        "midia/2026-12-01_odd44/06.jpg",
+        "midia/2026-12-01_odd44/07.jpg"
+      ],
+      "origem": "2026-12-01_odd44",
       "fixo": true
     },
     {
@@ -4959,6 +5442,28 @@
       "fixo": true
     },
     {
+      "id": "ODD45",
+      "titulo": "Os Doutores · Dia a dia: Rodrigo, janeiro se enche em dezembro",
+      "quando": "2026-12-02T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Agenda de janeiro: ela se enche em dezembro ou fica vazia.\n\nTodo ano a agenda do Dr. Rodrigo lotava em dezembro e esvaziava em janeiro. Ele descobria no dia 2. Este ano, a conversa aconteceu no fim de novembro.\n\nO que a clínica faz em dezembro decide janeiro: a lista de quem precisa voltar, uma ligação com data para cada um, a tabela de 2027 decidida e a escala de férias combinada com a equipe.\n\nComo está a agenda de janeiro da tua clínica hoje? Comenta em porcentagem, e manda para o teu sócio antes da reunião de segunda.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #agenda #dentistas",
+      "midias": [
+        "midia/2026-12-02_odd45/01.jpg",
+        "midia/2026-12-02_odd45/02.jpg",
+        "midia/2026-12-02_odd45/03.jpg",
+        "midia/2026-12-02_odd45/04.jpg",
+        "midia/2026-12-02_odd45/05.jpg",
+        "midia/2026-12-02_odd45/06.jpg",
+        "midia/2026-12-02_odd45/07.jpg"
+      ],
+      "origem": "2026-12-02_odd45",
+      "fixo": true
+    },
+    {
       "id": "ODJ28",
       "titulo": "Os Doutores · Vesti o teu jaleco: o orçamento de R$ 8 mil que ninguém ligou",
       "quando": "2026-12-02T18:00:00-03:00",
@@ -5017,6 +5522,28 @@
       "origem": "2026-12-03_od34",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "ODD46",
+      "titulo": "Os Doutores · Dia a dia: Luciana, o recesso que avisou \"no começo de janeiro\"",
+      "quando": "2026-12-03T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Recesso de fim de ano na clínica: o paciente não some, ele procura quem respondeu.\n\nNo ano passado, a clínica da Dra. Luciana avisou o recesso no último dia, num story, sem data de volta e sem contato de urgência. Em janeiro, quatro pacientes já estavam com outra profissional.\n\nEste ano ficou combinado antes: aviso com data de fechamento e de volta, os atendimentos de janeiro já marcados, resposta automática com o contato de urgência e a mensagem pronta para a primeira semana.\n\nA tua clínica já avisou os pacientes? Comenta sim ou não, e manda para a tua recepção antes do dia 20.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #psicologia #atendimento",
+      "midias": [
+        "midia/2026-12-03_odd46/01.jpg",
+        "midia/2026-12-03_odd46/02.jpg",
+        "midia/2026-12-03_odd46/03.jpg",
+        "midia/2026-12-03_odd46/04.jpg",
+        "midia/2026-12-03_odd46/05.jpg",
+        "midia/2026-12-03_odd46/06.jpg",
+        "midia/2026-12-03_odd46/07.jpg"
+      ],
+      "origem": "2026-12-03_odd46",
+      "fixo": true
     },
     {
       "id": "ODJ24",
@@ -5132,6 +5659,28 @@
         "midia/2026-12-04_od35/08.jpg"
       ],
       "origem": "2026-12-04_od35",
+      "fixo": true
+    },
+    {
+      "id": "ODD47",
+      "titulo": "Os Doutores · Dia a dia: Edson, a meta de crescer",
+      "quando": "2026-12-04T16:30:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Meta para clínica em 2027: GPS sem destino não recalcula rota.\n\nA meta do Dr. Edson para 2026 era crescer. Em dezembro, ele não sabe dizer se cresceu, porque ninguém definiu quanto, em quê e até quando.\n\nCrescer é vontade. Meta é número por semana: quantas consultas, qual ocupação, qual margem. Com isso, cada desvio aparece na semana em que acontece, e não no balanço de dezembro.\n\nQual é a meta da tua clínica para 2027, em número? Comenta aqui, e salva para a reunião de planejamento.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #planejamento #metas",
+      "midias": [
+        "midia/2026-12-04_odd47/01.jpg",
+        "midia/2026-12-04_odd47/02.jpg",
+        "midia/2026-12-04_odd47/03.jpg",
+        "midia/2026-12-04_odd47/04.jpg",
+        "midia/2026-12-04_odd47/05.jpg",
+        "midia/2026-12-04_odd47/06.jpg",
+        "midia/2026-12-04_odd47/07.jpg"
+      ],
+      "origem": "2026-12-04_odd47",
       "fixo": true
     },
     {
