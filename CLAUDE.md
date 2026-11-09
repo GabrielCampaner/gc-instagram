@@ -14,4 +14,5 @@
 
 ## Agenda
 - Posts novos podem entrar como 4º post do dia (20h30) ou às 06h00, sem mexer no que já está agendado.
+- **15h00 e 20h00 são do Gabriel** (09/11/2026): 15h00 o vídeo gravado dele, 20h00 os testes de vídeo com IA (inclusive a série Os Doutores em vídeo que ele fez). Ele posta à mão; nenhum post do robô entra nesses horários. O `enviar_calendario.js` avisa se algum cair ali e o AGENDA.md mostra os dois lembretes.
 - O robô publica o que está na branch `main`; o Gabriel autorizou enviar calendário e imagens direto para a `main`.
