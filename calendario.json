@@ -1516,6 +1516,23 @@
       "fixo": true
     },
     {
+      "id": "CR-02",
+      "titulo": "Clínica é empresa (o CEO do Santos)",
+      "quando": "2026-11-09T16:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "O pai do Neymar assumiu como CEO do Santos na última sexta (06/11), com a missão de profissionalizar a gestão do clube.\n\nUm clube de 114 anos chamando um empresário para comandar. Tem clínica que leva anos para tomar a mesma decisão: tratar o consultório como empresa.\n\nEmpresa tem meta, tem número e tem lucro. E lucro não é ganância, é o que paga a equipe, a estrutura, a sua atualização e o seu descanso.\n\nQuem demora a enxergar isso passa anos atendendo muito e crescendo pouco.\n\nFonte da notícia: CartaCapital e Gazeta Esportiva, 06/11/2026.\n\nManda para um colega que ainda acha que gestão é coisa de administrador.\n\n#gestaodeclinicas #donodeclinica #gestaoemsaude #santosfc",
+      "midias": [
+        "midia/2026-11-09_santos-ceo-clinica-empresa/01.jpg",
+        "midia/2026-11-09_santos-ceo-clinica-empresa/02.jpg"
+      ],
+      "origem": "2026-11-09_santos-ceo-clinica-empresa",
+      "fixo": true
+    },
+    {
       "id": "L4-13",
       "titulo": "Antes de assinar o aluguel da clínica: a conta em 6 linhas",
       "quando": "2026-11-09T17:00:00-03:00",
