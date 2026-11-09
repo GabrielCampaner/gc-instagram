@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -215,8 +215,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD11 · Os Doutores · Fernando: a quarta recepcionista do ano** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem)
   - Stories: Enquete: "Na sua clínica, o valor vem antes ou depois da apresentação?" · Antes / Depois.
 
@@ -230,8 +232,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD12 · Os Doutores · Comparação: a imersão e a segunda-feira** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ04 · Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel)
   - Stories: Caixinha: "Qual desses cinco você sabe de cabeça?" e repost da lâmina 3.
 - **21h30 · L4-06 · Paciente esperando 40 minutos na recepção já está procurando outra clínica.** (imagem)
@@ -245,8 +249,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD13 · Os Doutores · Renata: domingo, 21h, a tarefa de sexta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ05 · Os Doutores · Vesti o teu jaleco: a recepcionista que você contratou pela simpatia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-25 · Pacientes particulares na psicologia, na nutrição e na fisioterapia** (carrossel)
   - Stories: Enquete: "De onde vem a maioria dos seus pacientes particulares?" · Indicação / Instagram / Google.
 - **21h30 · L4-26 · Trocar de agência pela terceira vez não muda quem atende o WhatsApp.** (imagem)
@@ -262,8 +268,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD14 · Os Doutores · Helena senta com o Gabriel: a conta da hora** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ10 · Os Doutores · Vesti o teu jaleco: a cunhada no financeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
   - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
 - **21h30 · L4-16 · A sua melhor recepcionista sai quando alguém oferece R$ 300 a mais.** (imagem)
@@ -277,8 +285,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD15 · Os Doutores · Notícia: o médico cansado e o plantão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ08 · Os Doutores · Vesti o teu jaleco: "quanto custa?" respondido com o preço seco** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · ODM25 · Os Doutores · Frase de palco: recomendar com firmeza** (imagem)
 - **21h30 · L4-12 · Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.** (imagem)
   - Stories: Teste nos Stories: "Manda agora uma mensagem para a sua clínica e conta em quanto tempo responderam." Controle deslizante.
@@ -291,8 +301,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD20 · Os Doutores · Você saiu do plantão às 7h. Às 8h tava no consultório** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ06 · Os Doutores · Vesti o teu jaleco: as férias que duraram três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · L4-34 · Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.** (imagem)
   - Stories: Domingo sem venda. Enquete: "A sua clínica pede avaliação no Google?" · Pede / Não pede.
 
@@ -302,8 +314,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM06 · Os Doutores · Frase de palco: cobrar bem é respeito** (imagem)
 - **12h30 · OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · L4-24 · Um terço dos agendamentos online acontece depois que a sua recepção vai embora.** (imagem)
   - Stories: Enquete: "O que o paciente recebe se mandar mensagem para a sua clínica às 21h?" · Resposta / Silêncio.
 
@@ -316,9 +330,11 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: telas prontas em Conteudo/2026-10-22_stories-orcamento (ST-GC-02)
 - **12h30 · OD21 · Os Doutores · Ricardo: 25 anos e um telefone fixo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ12 · Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · L4-32 · O paciente decide no consultório. A recepção só confirma.** (imagem)
   - Stories: Enquete: "Quem fala do tratamento com o paciente na sua clínica?" · Eu / A recepção.
 
@@ -329,8 +345,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM07 · Os Doutores · Frase de palco: errar pequeno** (imagem)
 - **12h30 · OD19 · Os Doutores · Sofia: 'a Kelly te passa os valores'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ09 · Os Doutores · Vesti o teu jaleco: a guia do imposto chegou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 19/11
 
@@ -338,16 +356,20 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM12 · Os Doutores · Frase de palco: quem pergunta cresce** (imagem)
 - **12h30 · OD16 · Os Doutores · Lucas senta com o Gabriel: o WhatsApp, não o Instagram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ16 · Os Doutores · Vesti o teu jaleco: duas comerciais, um paciente e a comissão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · ODM13 · Os Doutores · Frase de palco: em casa às 21h** (imagem)
 
 ## sexta, 20/11
 
 - **06h00 · OD18 · Os Doutores · Frase: o feriado testa a clínica** (imagem)
 - **06h30 · FST-04 · Frases da Semana · Story: Seu melhor colaborador está vendo como você trata o pior** (story)
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ11 · Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · ODM14 · Os Doutores · Frase de palco: clínica ou emprego** (imagem)
 
 ## sábado, 21/11
@@ -356,8 +378,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM08 · Os Doutores · Frase de palco: quem cuida da tua clínica** (imagem)
 - **12h30 · OD22 · Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ14 · Os Doutores · Vesti o teu jaleco: o lead que chegou às 20h** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 22/11
 
@@ -366,8 +390,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
 - **12h30 · OD23 · Os Doutores · Sofia senta com o Gabriel: quem vende é você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ27 · Os Doutores · Vesti o teu jaleco: três parcelas atrasadas e ninguém quer cobrar** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · ODM15 · Os Doutores · Frase de palco: a conversa difícil** (imagem)
 
 ## segunda, 23/11
@@ -376,10 +402,12 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM09 · Os Doutores · Frase de palco: a equipe não lê pensamento** (imagem)
 - **12h30 · OD24 · Os Doutores · Paula: quantos voltaram? 'Muitos'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ15 · Os Doutores · Vesti o teu jaleco: você é o gerente mais caro da clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-17 · Remédio de nível 4 em clínica de nível 1** (carrossel)
   - Stories: Manhã: enquete de 4 opções "Em que nível você acha que a sua clínica está?" · N1 / N2 / N3 / N4. Tarde: o quadro com os 4 níveis. Noite: link do diagnóstico.
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 24/11
 
@@ -387,8 +415,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM16 · Os Doutores · Frase de palco: agenda cheia e boleto** (imagem)
 - **12h30 · OD61 · Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ17 · Os Doutores · Vesti o teu jaleco: 12x sem juros: quem paga é você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 25/11
 
@@ -397,8 +427,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM10 · Os Doutores · Frase de palco: crescer dá medo** (imagem)
 - **12h30 · OD26 · Os Doutores · Caio senta com o Gabriel: a conta do plantão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ19 · Os Doutores · Vesti o teu jaleco: a sobrinha que cuida do Instagram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 26/11
 
@@ -406,8 +438,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM17 · Os Doutores · Frase de palco: quem compra pelo desconto** (imagem)
 - **12h30 · OD27 · Os Doutores · Joana: sem férias desde 2023, e agora a 5x2** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ29 · Os Doutores · Vesti o teu jaleco: o regime de imposto que ninguém revisa** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 27/11
 
@@ -417,8 +451,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
 - **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ18 · Os Doutores · Vesti o teu jaleco: qual é a promoção de Black Friday?** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 28/11
 
@@ -426,8 +462,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM18 · Os Doutores · Frase de palco: elogio em público** (imagem)
 - **12h30 · OD30 · Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ23 · Os Doutores · Vesti o teu jaleco: o retorno grátis que virou terceira consulta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 29/11
 
@@ -435,8 +473,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM19 · Os Doutores · Frase de palco: quem mantém aberta** (imagem)
 - **12h30 · OD29 · Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ13 · Os Doutores · Vesti o teu jaleco: a funcionária antiga que manda mais que você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 30/11
 
@@ -444,8 +484,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM20 · Os Doutores · Frase de palco: achar que foi um bom mês** (imagem)
 - **12h30 · OD31 · Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ21 · Os Doutores · Vesti o teu jaleco: hoje vence a primeira parcela do 13º** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 01/12
 
@@ -454,8 +496,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "Como está a sua agenda de janeiro hoje?" · Cheia / Pela metade / Em branco.
 - **12h30 · OD32 · Os Doutores · Lúcia senta com o Gabriel: as três mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ25 · Os Doutores · Vesti o teu jaleco: o pedido de aumento** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 02/12
 
@@ -464,14 +508,18 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM21 · Os Doutores · Frase de palco: dezembro abre janeiro** (imagem)
 - **12h30 · OD33 · Os Doutores · Você acordou hoje com 47 mensagens** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ28 · Os Doutores · Vesti o teu jaleco: o orçamento de R$ 8 mil que ninguém ligou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 03/12
 
 - **06h00 · OD34 · Os Doutores · Frase: o paciente não some** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ24 · Os Doutores · Vesti o teu jaleco: a escala de dezembro sem o 6x1** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 04/12
 
@@ -480,8 +528,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM22 · Os Doutores · Frase de palco: como foi tratado** (imagem)
 - **12h30 · OD35 · Os Doutores · Bia senta com o Gabriel: fecha o caderno** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ30 · Os Doutores · Vesti o teu jaleco: você cobrou R$ 400. Quanto sobrou?** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 05/12
 
@@ -490,8 +540,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "Quando foi a sua última semana sem responder a clínica?" · Este ano / Não lembro.
 - **12h30 · OD37 · Os Doutores · Fernando senta com o Gabriel: a conta da troca** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ26 · Os Doutores · Vesti o teu jaleco: o repasse do convênio atrasou e a folha vence segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 06/12
 
@@ -500,6 +552,8 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Domingo sem venda. Repost com a pergunta: "A sua clínica tem meta para 2027 escrita?"
 - **12h30 · OD36 · Os Doutores · Marina: voltou do congresso com a terceira máquina em 48 parcelas** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 07/12
 
@@ -508,8 +562,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "Em que ano você reajustou a sua consulta pela última vez?" · 2026 / Antes disso.
 - **12h30 · OD38 · Os Doutores · Débora senta com o Gabriel: a margem de cada procedimento e a regra do desconto** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h30 · L4-23 · Vai reajustar o preço em janeiro? Avise em dezembro.** (carrossel)
   - Stories: Caixinha: "Você vai reajustar em janeiro?" e resposta com a frase do balcão.
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 08/12
 
@@ -517,6 +573,8 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM23 · Os Doutores · Frase de palco: uma coisa por semana** (imagem)
 - **12h30 · OD39 · Os Doutores · Paula senta com o Gabriel: os quatro números** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 09/12
 
@@ -525,14 +583,18 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h30 · ODM24 · Os Doutores · Frase de palco: quem já confiou em você** (imagem)
 - **12h30 · OD40 · Os Doutores · Marina senta com o Gabriel: quantas sessões pagam a máquina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 10/12
 
 - **06h00 · FS-51 · Frase da semana: Contratar rápido para apagar incêndio costuma acender o próximo** (imagem)
 - **12h30 · OD41 · Os Doutores · O lado da Kelly** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h30 · L4-29 · O ano de 2027 da sua clínica numa folha** (carrossel)
   - Stories: Caixinha: "Se a sua clínica tivesse um projeto só em 2027, qual seria?"
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 11/12
 
@@ -540,20 +602,26 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
 - **06h00 · FS-52 · Frase da semana: Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe** (imagem)
 - **12h30 · OD42 · Os Doutores · Joana senta com o Gabriel: o sábado** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h30 · L4-31 · Pode cobrar taxa de falta?** (carrossel)
   - Stories: Enquete: "Você cobra taxa de falta?" · Cobro / Não cobro.
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 12/12
 
 - **06h00 · FS-53 · Frase da semana: Seu paciente compara o seu atendimento com o melhor que ele já recebeu na vida** (imagem)
 - **12h30 · OD43 · Os Doutores · Joana: sábado, 7h, a clínica fechada e o WhatsApp não** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 13/12
 
 - **06h00 · FS-11 · Frase da semana: A equipe não lê o que você pensa. Ela repete o que você tolera** (imagem)
 - **12h30 · OD44 · Os Doutores · Carolina: a matéria no portal e o caixa negativo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 14/12
 
@@ -562,8 +630,10 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "A regra de comissão da sua clínica está escrita?" · Está / Está na cabeça.
 - **12h30 · OD45 · Os Doutores · Mauro senta com o Gabriel: o dinheiro que não entrou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h30 · L4-37 · Vai fechar no recesso? 3 mensagens para mandar hoje** (carrossel)
   - Stories: Caixinha: "Qual mensagem a sua clínica manda no recesso?"
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 15/12
 
@@ -572,566 +642,778 @@ Gerada em 09/11/2026, 09:56:16. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "A sua clínica tem reserva para janeiro?" · Tem / Vai dar um jeito.
 - **12h30 · OD46 · Os Doutores · Carolina senta com o Gabriel: o modelo de negócio na ponta do lápis** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
 - **18h30 · L4-39 · Férias da equipe em janeiro sem a agenda parar** (carrossel)
   - Stories: Enquete: "A escala de férias da sua equipe já está pronta?" · Pronta / Ainda não.
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 16/12
 
 - **06h00 · FST-11 · Frases da Semana · Story: Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe** (story)
 - **12h30 · OD47 · Os Doutores · Marcelo: nove 'vou pensar' na semana. Nenhum voltou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 17/12
 
 - **06h00 · OD48 · Os Doutores · Frase: o preço dito baixinho** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 18/12
 
 - **06h00 · FST-12 · Frases da Semana · Story: Confraternização boa não apaga um ano de combinados que você não cumpriu com a equipe** (story)
 - **12h30 · OD49 · Os Doutores · Helena monta a tabela de 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 19/12
 
 - **12h30 · OD50 · Os Doutores · Ricardo senta com o Gabriel: ele tem razão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 20/12
 
 - **06h00 · FS-13 · Frase da semana: Neste Natal, desligue o celular da clínica. Se nada parar, você fez um bom ano** (imagem)
 - **12h30 · OD51 · Os Doutores · Augusto: o vídeo de jargão com 40 visualizações e o novinho lotado** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 21/12
 
 - **06h00 · FS-14 · Frase da semana: Última segunda antes do Natal: agradeça à sua equipe pelo nome, não pelo grupo** (imagem)
 - **12h30 · OD55 · Os Doutores · Otávio: o primeiro domingo sem responder paciente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 22/12
 
 - **06h00 · FS-55 · Frase da semana: Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu** (imagem)
 - **12h30 · OD62 · Os Doutores · Lívia: 22h, o grupo da equipe e a briga pela comissão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 23/12
 
 - **06h00 · OD54 · Os Doutores · Frase: descanso também é gestão** (imagem)
 - **06h30 · FST-13 · Frases da Semana · Story: Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu** (story)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 24/12
 
 - **06h00 · FS-56 · Frase da semana: Hoje a clínica pode esperar. Quem está na sua mesa, não** (imagem)
 - **12h30 · OD52 · Os Doutores · Véspera de Natal: a clínica fecha, o WhatsApp não** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 25/12
 
 - **06h00 · FST-14 · Frases da Semana · Story: Hoje a clínica pode esperar. Quem está na sua mesa, não** (story)
 - **12h30 · OD53 · Os Doutores · Natal de plantão. O último** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 26/12
 
 - **12h30 · OD56 · Os Doutores · Fábio: na ceia, cada parente deu um conselho** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 27/12
 
 - **06h00 · FS-15 · Frase da semana: Antes de escrever metas para 2027, escreva o que você não quer repetir de 2026** (imagem)
 - **12h30 · OD58 · Os Doutores · Thiago: a clínica dos sonhos aberta e vazia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 28/12
 
 - **06h00 · FS-16 · Frase da semana: Última segunda do ano: quem da sua equipe você contrataria de novo hoje** (imagem)
 - **12h30 · OD57 · Os Doutores · Você fechou o ano sem saber quanto ganhou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 29/12
 
 - **06h00 · FS-57 · Frase da semana: Meta sem dono vira desejo de ano novo** (imagem)
 - **12h30 · OD63 · Os Doutores · Eduardo: o bônus que virou salário** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 30/12
 
 - **06h00 · FST-15 · Frases da Semana · Story: Quem fecha o ano sem saber o lucro começa o próximo no escuro** (story)
 - **12h30 · OD64 · Os Doutores · Jorge: o melhor neurologista do estado, com recepção de posto** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 31/12
 
 - **06h00 · FS-58 · Frase da semana: Quem fecha o ano sem saber o lucro começa o próximo no escuro** (imagem)
 - **12h30 · OD59 · Os Doutores · Último dia do ano: você vai prometer de novo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 01/01
 
 - **06h00 · FST-16 · Frases da Semana · Story: Feliz 2027. Que este ano tenha menos incêndio e mais decisão tomada com calma** (story)
 - **12h30 · OD60 · Os Doutores · Os doutores em 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 02/01
 
 - **06h00 · FS-17 · Frase da semana: O ano novo não muda a clínica. Quem muda é você, na segunda-feira** (imagem)
 - **12h30 · OD65 · Os Doutores · Estreia da temporada 2: os doutores voltaram, e dois chegaram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 03/01
 
 - **06h00 · OD66 · Os Doutores · Frase: meta sem a conta da hora é chute com data marcada** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 04/01
 
 - **06h00 · FS-18 · Frase da semana: Janeiro é o mês em que todo mundo promete. Fevereiro mostra quem mediu** (imagem)
 - **12h30 · OD67 · Os Doutores · Você acordou hoje com 30 minutos marcados na agenda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 05/01
 
 - **12h30 · OD68 · Os Doutores · Thiago senta com o Gabriel: o raio de 5 km e o ponto de equilíbrio** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 06/01
 
 - **06h00 · FST-17 · Frases da Semana · Story: Meta sem dono vira desejo de ano novo** (story)
 - **12h30 · OD69 · Os Doutores · Notícia: começou a CBS. O que muda no preço da clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 07/01
 
 - **12h30 · OD70 · Os Doutores · Helena: o primeiro paciente reclamou do reajuste** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 08/01
 
 - **06h00 · FST-18 · Frases da Semana · Story: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada** (story)
 - **12h30 · OD71 · Os Doutores · Augusto senta com o Gabriel: o currículo em frase de paciente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 09/01
 
 - **12h30 · OD72 · Os Doutores · Caio: a primeira tarde fixa de consultório** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 10/01
 
 - **06h00 · FS-19 · Frase da semana: O paciente esquece o seu diploma. Lembra de como foi recebido na porta** (imagem)
 - **12h30 · OD73 · Os Doutores · Notícia: os cinco números que 2026 mostrou para quem tem clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 11/01
 
 - **06h00 · FS-20 · Frase da semana: Paciente não some porque achou caro. Some porque ninguém ligou depois do orçamento** (imagem)
 - **12h30 · OD74 · Os Doutores · Marcelo senta com o Gabriel: quem vende é o médico** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 12/01
 
 - **12h30 · OD75 · Os Doutores · Thiago: o ano inteiro numa folha só** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 13/01
 
 - **06h00 · FST-19 · Frases da Semana · Story: Preço que você não consegue explicar, o paciente não consegue pagar** (story)
 - **12h30 · OD76 · Os Doutores · Você acordou hoje e a recepção sai mais cedo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 14/01
 
 - **12h30 · OD77 · Os Doutores · Henrique senta com o Gabriel: os três números que se cobra de uma agência** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 15/01
 
 - **06h00 · FST-20 · Frases da Semana · Story: Disciplina de dono é olhar o número mesmo quando ele está ruim. Principalmente quando está ruim** (story)
 - **12h30 · OD78 · Os Doutores · Bia: ano novo, imersão nova** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 16/01
 
 - **06h00 · FS-21 · Frase da semana: A clínica que você construiu cabe na sua vida ou a sua vida cabe nela** (imagem)
 - **12h30 · OD79 · Os Doutores · Jorge senta com o Gabriel: a jornada da porta até o dia seguinte** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 17/01
 
 - **06h00 · OD80 · Os Doutores · Frase: desconto dado antes de o paciente pedir é margem jogada fora** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 18/01
 
 - **06h00 · FS-22 · Frase da semana: Sua recepção atende do jeito que foi treinada. Ou do jeito que ninguém treinou** (imagem)
 - **12h30 · OD81 · Os Doutores · Notícia: o WhatsApp da clínica mudou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 19/01
 
 - **12h30 · OD82 · Os Doutores · Lívia senta com o Gabriel: o placar da equipe e a tóxica que sabe** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 20/01
 
 - **06h00 · FST-21 · Frases da Semana · Story: Agenda cheia de horário barato cansa igual e paga menos** (story)
 - **12h30 · OD83 · Os Doutores · Joana: a primeira semana de férias desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 21/01
 
 - **12h30 · OD84 · Os Doutores · Eduardo senta com o Gabriel: uma voz de comando e o bônus que a margem aguenta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 22/01
 
 - **06h00 · FST-22 · Frases da Semana · Story: Ninguém pede demissão de uma vez. Pede um pouco por dia, enquanto você não percebe** (story)
 - **12h30 · OD85 · Os Doutores · Você acordou hoje com bronca da equipe** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 23/01
 
 - **12h30 · OD86 · Os Doutores · Fábio senta com o Gabriel: o número que decide por ele** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 24/01
 
 - **06h00 · FS-23 · Frase da semana: O cansaço de hoje é o que você não delegou no ano passado** (imagem)
 - **12h30 · OD87 · Os Doutores · Comparação: consultório de posto e consultório que acolhe** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 25/01
 
 - **06h00 · FS-24 · Frase da semana: Você não precisa de mais pacientes novos. Precisa parar de perder os que já vieram** (imagem)
 - **12h30 · OD88 · Os Doutores · Cecília: versão 14 do folder e a colega que lançou primeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 26/01
 
 - **12h30 · OD89 · Os Doutores · Notícia: a falta que ninguém cobra** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 27/01
 
 - **06h00 · FST-23 · Frases da Semana · Story: Falta sem aviso não é azar. É confirmação que ninguém fez** (story)
 - **12h30 · OD90 · Os Doutores · Mauro: o primeiro mês do painel de orçamentos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 28/01
 
 - **12h30 · OD91 · Os Doutores · Cecília senta com o Gabriel: o teste de 30 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 29/01
 
 - **06h00 · FST-24 · Frases da Semana · Story: Feedback guardado para a avaliação de fim de ano chega onze meses atrasado** (story)
 - **12h30 · OD92 · Os Doutores · Comparação: impulsionar e responder** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 30/01
 
 - **06h00 · FS-25 · Frase da semana: Trabalhar 60 horas por semana é mais fácil do que olhar um número** (imagem)
 - **12h30 · OD93 · Os Doutores · Otávio: o primeiro mês com horário de resposta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 31/01
 
 - **06h00 · OD94 · Os Doutores · Frase: quantos itens da tua lista ganharam data** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 01/02
 
 - **06h00 · FS-26 · Frase da semana: Fevereiro tem menos dias e as mesmas contas. Sua agenda já sabe disso** (imagem)
 - **12h30 · OD95 · Os Doutores · Você acordou hoje, janeiro fechou: faturou mais e sobrou menos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 02/02
 
 - **12h30 · OD96 · Os Doutores · Paula: oito sextas dos quatro números** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 03/02
 
 - **06h00 · FST-25 · Frases da Semana · Story: Reunião de equipe sem número na mesa vira sessão de desabafo** (story)
 - **12h30 · OD97 · Os Doutores · Kelly: a primeira meta batida sem chorar no carro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 04/02
 
 - **12h30 · OD98 · Os Doutores · Notícia: IA na saúde, o que mudou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 05/02
 
 - **06h00 · FST-26 · Frases da Semana · Story: Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela** (story)
 - **12h30 · OD99 · Os Doutores · Rafael: sexta, 18h40, véspera de Carnaval, tudo pra ontem** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 06/02
 
 - **06h00 · FS-27 · Frase da semana: Se você trabalha todos os dias, a clínica está te avisando alguma coisa** (imagem)
 - **12h30 · OD100 · Os Doutores · Carnaval: como cada doutor fechou a clínica** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 07/02
 
 - **06h00 · OD101 · Os Doutores · Frase: decisão de clínica não é cirurgia** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 08/02
 
 - **06h00 · FS-28 · Frase da semana: Feriado bom é aquele em que o seu WhatsApp não vira recepção** (imagem)
 - **12h30 · OD102 · Os Doutores · Caio: o primeiro Carnaval sem plantão extra** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 09/02
 
 - **12h30 · OD103 · Os Doutores · Você acordou hoje na terça de Carnaval e abriu o computador** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 10/02
 
 - **06h00 · FST-27 · Frases da Semana · Story: Quarta-feira de Cinzas: o ano começou. O que ficou para depois do Carnaval é para hoje** (story)
 - **12h30 · OD104 · Os Doutores · Fernando: a quinta recepcionista fez 90 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 11/02
 
 - **12h30 · OD105 · Os Doutores · Rafael senta com o Gabriel: a reunião de segunda e o prazo que vale para o dono** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 12/02
 
 - **06h00 · FST-28 · Frases da Semana · Story: Você não está sem tempo. Está fazendo tarefa que não é sua** (story)
 - **12h30 · OD106 · Os Doutores · Comparação: pra ontem e quando estiver perfeito** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 13/02
 
 - **12h30 · OD107 · Os Doutores · Ricardo: o primeiro indicado que chegou pelo WhatsApp** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 14/02
 
 - **06h00 · FS-29 · Frase da semana: Amar o que faz não substitui saber quanto custa a sua hora** (imagem)
 - **12h30 · OD108 · Os Doutores · Notícia: avaliação, reputação e indicação** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 15/02
 
 - **06h00 · FS-30 · Frase da semana: Pós-Carnaval: o ano começa de verdade hoje. O que você vai medir até junho** (imagem)
 - **12h30 · OD109 · Os Doutores · Débora: fevereiro fraco e a tentação da campanha** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 16/02
 
 - **12h30 · OD110 · Os Doutores · Você acordou hoje com a agenda de fevereiro vazia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 17/02
 
 - **06h00 · FST-29 · Frases da Semana · Story: Crescer sem regra escrita só aumenta o tamanho da bagunça** (story)
 - **12h30 · OD111 · Os Doutores · Augusto: o primeiro vídeo em frase de paciente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 18/02
 
 - **12h30 · OD112 · Os Doutores · Henrique: o primeiro mês sem trocar de agência** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 19/02
 
 - **06h00 · FST-30 · Frases da Semana · Story: Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério** (story)
 - **12h30 · OD113 · Os Doutores · Carolina: a recepção treinada e o placar de segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 20/02
 
 - **12h30 · OD114 · Os Doutores · Marina: o congresso de março e a conta pronta** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 21/02
 
 - **06h00 · OD115 · Os Doutores · Frase: a equipe erra o que você só pensou** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 22/02
 
 - **12h30 · OD116 · Os Doutores · Lívia: o primeiro mês com uma gerente** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 23/02
 
 - **12h30 · OD117 · Os Doutores · Eduardo: a primeira decisão que ficou escrita** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 24/02
 
 - **12h30 · OD118 · Os Doutores · Notícia do mês: o médico quer parar cedo e não tem plano** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 25/02
 
 - **12h30 · OD119 · Os Doutores · Fábio: o primeiro conselho que ele não aceitou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 26/02
 
 - **12h30 · OD120 · Os Doutores · Você acordou hoje com dois meses de 2027 e a lista de 31/12** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 27/02
 
 - **12h30 · OD121 · Os Doutores · Thiago: a primeira semana no ponto de equilíbrio** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 28/02
 
 - **12h30 · OD122 · Os Doutores · Cecília: 30 dias depois, a versão 4** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 01/03
 
 - **12h30 · OD123 · Os Doutores · Rafael: a primeira segunda-feira sem 'pra ontem'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 02/03
 
 - **12h30 · OD124 · Os Doutores · Final da temporada 2: o que os doutores aprenderam em 60 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 03/03
 
 - **12h30 · OD125 · Os Doutores · Estreia da temporada 3: a equipe entra em cena** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 04/03
 
 - **12h30 · OD126 · Os Doutores · Você acordou hoje com nove perguntas da recepção antes das 8h** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 05/03
 
 - **12h30 · OD127 · Os Doutores · Vanessa (estreia): três sócios, três pedidos pra recepção antes das 9h** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 06/03
 
 - **12h30 · OD128 · Os Doutores · Bia: três dias de imersão e a regra dos três meses** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 07/03
 
 - **06h00 · OD129 · Os Doutores · Frase: clínica que só anda com você dentro é um emprego** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 08/03
 
 - **12h30 · OD130 · Os Doutores · Dia da Mulher: Joana e as três coisas que ela parou de carregar** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 09/03
 
 - **12h30 · OD131 · Os Doutores · Sérgio (estreia): 38 pacientes por dia e o mês que fechou no zero** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 10/03
 
 - **12h30 · OD132 · Os Doutores · Notícia: os planos de saúde em 2027** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 11/03
 
 - **12h30 · OD133 · Os Doutores · Vanessa senta com o Gabriel: a reunião de sócios e quem fala com a recepção** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 12/03
 
 - **12h30 · OD134 · Os Doutores · Dani: o fim de semana da clínica do Dr. Otávio, contado por ela** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 13/03
 
 - **12h30 · OD135 · Os Doutores · Renata: 100 dias de pauta às 7h30** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 14/03
 
 - **12h30 · OD136 · Os Doutores · Comparação: o dono que faz tudo e o dono que treina** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 15/03
 
 - **12h30 · OD137 · Os Doutores · Dia do Consumidor: você acordou hoje com uma avaliação de uma estrela** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 16/03
 
 - **12h30 · OD138 · Os Doutores · Fernando: a segunda recepcionista tem 21 anos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 17/03
 
 - **12h30 · OD139 · Os Doutores · Sérgio senta com o Gabriel: quanto cada convênio paga pela hora dele** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 18/03
 
 - **12h30 · OD140 · Os Doutores · Lúcia: a régua de retorno saiu da mão dela** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 19/03
 
 - **12h30 · OD141 · Os Doutores · Notícia: o que a geração Z quer de um emprego** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 20/03
 
 - **12h30 · OD142 · Os Doutores · Ricardo: a avaliação de uma estrela que ele respondeu com calma** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 21/03
 
 - **06h00 · OD143 · Os Doutores · Frase: a equipe faz o que você confere** (imagem)
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 22/03
 
 - **12h30 · OD144 · Os Doutores · Lívia: a técnica que sabe tudo, 60 dias depois** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 23/03
 
 - **12h30 · OD145 · Os Doutores · Você acordou hoje com a recepcionista pedindo demissão por mensagem** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quarta, 24/03
 
 - **12h30 · OD146 · Os Doutores · Marcelo: o "vou pensar" agora tem data marcada** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 25/03
 
 - **12h30 · OD147 · Os Doutores · Rafael: a escala da Semana Santa saiu com 30 dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sexta, 26/03
 
 - **12h30 · OD148 · Os Doutores · Cecília: o feriado decidido em dez minutos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## sábado, 27/03
 
 - **12h30 · OD149 · Os Doutores · Mauro: a quarta das 13h que ninguém precisou lembrar** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## domingo, 28/03
 
 - **12h30 · OD150 · Os Doutores · Páscoa: Jorge e o bombom do dia seguinte** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## segunda, 29/03
 
 - **12h30 · OD151 · Os Doutores · Vanessa: a primeira reunião de sócios que terminou no horário** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## terça, 30/03
 
 - **12h30 · OD152 · Os Doutores · Comparação: convênio e particular, a mesma hora, duas contas** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- 15h00 · seu vídeo gravado (você posta)
+- 20h00 · teste de vídeo com IA (você posta)
 
 ## Pendentes (não saem até serem liberados)
 
