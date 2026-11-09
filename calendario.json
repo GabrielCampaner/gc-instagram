@@ -1496,6 +1496,26 @@
       "fixo": true
     },
     {
+      "id": "CR-01",
+      "titulo": "A ordem da consulta",
+      "quando": "2026-11-09T14:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Consulta de mais de 1 hora que termina em \"vou pensar\": o que muda o resultado é a ordem da conversa.\n\n1. Combine o roteiro: primeiro o caso, depois os valores.\n2. Deixe o paciente contar, com as palavras dele, o que mais incomoda.\n3. Repita o que ouviu e confirme se é isso que ele quer resolver primeiro.\n4. Pergunte se, tirando o valor, faz sentido fazer o tratamento com você.\n5. Só então apresente o plano e o preço.\n\nPreço que chega antes do sim vira \"vou pensar\".\n\nA conta da lâmina 3 é uma simulação: 30 consultas por mês, de 1h30 para 45 minutos.\n\nSalva e manda para quem atende os pacientes com você.\n\n#gestaodeclinicas #consultorio #vendasnaclinica #atendimento",
+      "midias": [
+        "midia/2026-11-09_ordem-da-consulta/01.jpg",
+        "midia/2026-11-09_ordem-da-consulta/02.jpg",
+        "midia/2026-11-09_ordem-da-consulta/03.jpg",
+        "midia/2026-11-09_ordem-da-consulta/04.jpg",
+        "midia/2026-11-09_ordem-da-consulta/05.jpg"
+      ],
+      "origem": "2026-11-09_ordem-da-consulta",
+      "fixo": true
+    },
+    {
       "id": "L4-13",
       "titulo": "Antes de assinar o aluguel da clínica: a conta em 6 linhas",
       "quando": "2026-11-09T17:00:00-03:00",
