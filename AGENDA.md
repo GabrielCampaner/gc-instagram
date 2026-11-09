@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 10:30:33. 341 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -206,6 +206,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel)
   - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Caderno com a caneta da GC.
   - Stories: Segunda de manhã: foto do caderno + enquete "Você já fez a reunião de 15 minutos hoje?" · Já / Ainda não.
+- **21h00 · TW-01 · Dica de posicionamento** (imagem)
 
 ## terça, 10/11
 
@@ -219,6 +220,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
+- **21h00 · TW-02 · Dica de posicionamento: médicos** (imagem)
 - **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem)
   - Stories: Enquete: "Na sua clínica, o valor vem antes ou depois da apresentação?" · Antes / Depois.
 
@@ -238,6 +240,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel)
   - Stories: Caixinha: "Qual desses cinco você sabe de cabeça?" e repost da lâmina 3.
+- **21h00 · TW-03 · Dica de posicionamento: dentistas** (imagem)
 - **21h30 · L4-06 · Paciente esperando 40 minutos na recepção já está procurando outra clínica.** (imagem)
   - Stories: Enquete: "Na sua clínica, quem avisa o paciente quando a agenda atrasa?" · A recepção / Ninguém.
 
@@ -255,6 +258,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-25 · Pacientes particulares na psicologia, na nutrição e na fisioterapia** (carrossel)
   - Stories: Enquete: "De onde vem a maioria dos seus pacientes particulares?" · Indicação / Instagram / Google.
+- **21h00 · TW-04 · Dica de posicionamento: fisioterapeutas** (imagem)
 - **21h30 · L4-26 · Trocar de agência pela terceira vez não muda quem atende o WhatsApp.** (imagem)
   - Stories: Enquete: "Quantas agências a sua clínica já teve?" · Uma / Duas / Três ou mais.
 
@@ -274,6 +278,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
   - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
+- **21h00 · TW-05 · Dica de posicionamento: nutricionistas** (imagem)
 - **21h30 · L4-16 · A sua melhor recepcionista sai quando alguém oferece R$ 300 a mais.** (imagem)
   - Stories: Enquete: "Você sabe o que faria a sua recepcionista ficar mais dois anos?" · Sei / Nunca perguntei.
 
@@ -290,6 +295,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · ODM25 · Os Doutores · Frase de palco: recomendar com firmeza** (imagem)
+- **21h00 · TW-06 · Dica de posicionamento: psicólogos** (imagem)
 - **21h30 · L4-12 · Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.** (imagem)
   - Stories: Teste nos Stories: "Manda agora uma mensagem para a sua clínica e conta em quanto tempo responderam." Controle deslizante.
 
@@ -305,6 +311,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ06 · Os Doutores · Vesti o teu jaleco: as férias que duraram três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
+- **21h00 · TW-07 · Dica de posicionamento: dermatologistas** (imagem)
 - **21h30 · L4-34 · Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.** (imagem)
   - Stories: Domingo sem venda. Enquete: "A sua clínica pede avaliação no Google?" · Pede / Não pede.
 
@@ -312,12 +319,15 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-04 · Frase da semana: A conversa difícil que você adia sai mais cara a cada segunda-feira** (imagem)
 - **06h30 · ODM06 · Os Doutores · Frase de palco: cobrar bem é respeito** (imagem)
+- **09h00 · ODD08 · Os Doutores · Dia a dia: Gustavo, o Novembro Azul que não voltou** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD17 · Os Doutores · Você acordou hoje: agenda cheia, mês no zero** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 20h00 · teste de vídeo com IA (você posta)
+- **21h00 · TW-08 · Dica de posicionamento: harmonização facial** (imagem)
 - **21h30 · L4-24 · Um terço dos agendamentos online acontece depois que a sua recepção vai embora.** (imagem)
   - Stories: Enquete: "O que o paciente recebe se mandar mensagem para a sua clínica às 21h?" · Resposta / Silêncio.
 
@@ -328,6 +338,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
   - Stories: Enquete: "A sua clínica confirma todos os pacientes na véspera?" · Todos / Alguns / Nenhum.
 - **08h30 · GC-02 · 4 mensagens para o orçamento parado** (carrossel)
   - Stories: telas prontas em Conteudo/2026-10-22_stories-orcamento (ST-GC-02)
+- **09h00 · ODD09 · Os Doutores · Dia a dia: Alessandra, o retorno que não dava pra marcar** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD21 · Os Doutores · Ricardo: 25 anos e um telefone fixo** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -335,6 +347,7 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
 - 20h00 · teste de vídeo com IA (você posta)
+- **21h00 · TW-09 · Dica de posicionamento: fonoaudiólogos** (imagem)
 - **21h30 · L4-32 · O paciente decide no consultório. A recepção só confirma.** (imagem)
   - Stories: Enquete: "Quem fala do tratamento com o paciente na sua clínica?" · Eu / A recepção.
 
@@ -343,6 +356,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **06h00 · FST-03 · Frases da Semana · Story: A recepcionista que você não treinou está falando com o seu paciente agora** (story)
 - **06h00 · FS-37 · Frase da semana: Falta sem aviso não é azar. É confirmação que ninguém fez** (imagem)
 - **06h30 · ODM07 · Os Doutores · Frase de palco: errar pequeno** (imagem)
+- **09h00 · ODD10 · Os Doutores · Dia a dia: Felipe, acabou a resina no meio do atendimento** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD19 · Os Doutores · Sofia: 'a Kelly te passa os valores'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -354,6 +369,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-38 · Frase da semana: Feedback guardado para a avaliação de fim de ano chega onze meses atrasado** (imagem)
 - **06h30 · ODM12 · Os Doutores · Frase de palco: quem pergunta cresce** (imagem)
+- **09h00 · ODD11 · Os Doutores · Dia a dia: Simone, o pacote de sessões sem controle** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD16 · Os Doutores · Lucas senta com o Gabriel: o WhatsApp, não o Instagram** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -366,6 +383,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · OD18 · Os Doutores · Frase: o feriado testa a clínica** (imagem)
 - **06h30 · FST-04 · Frases da Semana · Story: Seu melhor colaborador está vendo como você trata o pior** (story)
+- **09h00 · ODD12 · Os Doutores · Dia a dia: Juliana, o recibo do reembolso que demora** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ11 · Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
@@ -376,6 +395,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-39 · Frase da semana: Reunião de equipe sem número na mesa vira sessão de desabafo** (imagem)
 - **06h30 · ODM08 · Os Doutores · Frase de palco: quem cuida da tua clínica** (imagem)
+- **09h00 · ODD13 · Os Doutores · Dia a dia: Diego, a clínica que fecha pro almoço** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD22 · Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -388,6 +409,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **06h00 · FS-05 · Frase da semana: Você abriu uma clínica para ter liberdade. Quantos domingos ela já te devolveu** (imagem)
 - **06h30 · FR-08 · Liberdade não é trabalhar menos. É não precisar estar em tudo.** (imagem)
   - Stories: Repostar nos Stories com a pergunta da enquete do dia por cima.
+- **09h00 · ODD14 · Os Doutores · Dia a dia: Patrícia, a indicação que ninguém agradeceu** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD23 · Os Doutores · Sofia senta com o Gabriel: quem vende é você** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -400,6 +423,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-06 · Frase da semana: Motivação dura até terça. Rotina de olhar o número dura o ano** (imagem)
 - **06h30 · ODM09 · Os Doutores · Frase de palco: a equipe não lê pensamento** (imagem)
+- **09h00 · ODD15 · Os Doutores · Dia a dia: Márcio, primeiro dia e já no telefone** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD24 · Os Doutores · Paula: quantos voltaram? 'Muitos'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -413,6 +438,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-40 · Frase da semana: Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela** (imagem)
 - **06h30 · ODM16 · Os Doutores · Frase de palco: agenda cheia e boleto** (imagem)
+- **09h00 · ODD16 · Os Doutores · Dia a dia: Elaine, 25 minutos de cadastro no balcão** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD61 · Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -425,6 +452,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **06h00 · FST-05 · Frases da Semana · Story: Toda vez que você responde paciente às 23h, você ensina que pode** (story)
 - **06h00 · FS-41 · Frase da semana: Você não está sem tempo. Está fazendo tarefa que não é sua** (imagem)
 - **06h30 · ODM10 · Os Doutores · Frase de palco: crescer dá medo** (imagem)
+- **09h00 · ODD17 · Os Doutores · Dia a dia: Wagner, quem desmarcou foi o doutor** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD26 · Os Doutores · Caio senta com o Gabriel: a conta do plantão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -436,6 +465,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-42 · Frase da semana: Crescer sem regra escrita só aumenta o tamanho da bagunça** (imagem)
 - **06h30 · ODM17 · Os Doutores · Frase de palco: quem compra pelo desconto** (imagem)
+- **09h00 · ODD18 · Os Doutores · Dia a dia: Raquel, a cortesia sem regra** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD27 · Os Doutores · Joana: sem férias desde 2023, e agora a 5x2** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -449,6 +480,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 - **06h00 · FS-43 · Frase da semana: Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério** (imagem)
 - **06h30 · L3-17 · Um terço do lucro** (imagem)
   - Stories: Repost às 12h com a pergunta: "Você sabia que 10% era um terço?" · Sabia / Não sabia.
+- **09h00 · ODD19 · Os Doutores · Dia a dia: Caetano, a sala alugada e a recepção de brinde** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD25 · Os Doutores · Comparação: a Black Friday e os orçamentos parados** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -460,6 +493,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-44 · Frase da semana: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um** (imagem)
 - **06h30 · ODM18 · Os Doutores · Frase de palco: elogio em público** (imagem)
+- **09h00 · ODD20 · Os Doutores · Dia a dia: Mônica, o sistema que ninguém usa** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD30 · Os Doutores · Renata senta com o Gabriel: 'a consultoria não funciona'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -471,6 +506,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-07 · Frase da semana: Seus filhos não vão lembrar do faturamento de novembro. Vão lembrar se você estava lá** (imagem)
 - **06h30 · ODM19 · Os Doutores · Frase de palco: quem mantém aberta** (imagem)
+- **09h00 · ODD21 · Os Doutores · Dia a dia: Rogério, dois preços pro mesmo tratamento** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD29 · Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
@@ -482,6 +519,8 @@ Gerada em 09/11/2026, 10:02:09. 317 posts agendados, 3 pendentes. Stories com en
 
 - **06h00 · FS-08 · Frase da semana: Hoje o mês fecha. Você sabe quanto entrou ou vai descobrir pelo extrato** (imagem)
 - **06h30 · ODM20 · Os Doutores · Frase de palco: achar que foi um bom mês** (imagem)
+- **09h00 · ODD22 · Os Doutores · Dia a dia: Larissa, o pós que ninguém escreveu** (carrossel)
+  - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **12h30 · OD31 · Os Doutores · Débora: recorde de vendas em outubro, caixa no vermelho em novembro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)

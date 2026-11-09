@@ -1588,6 +1588,22 @@
       "fixo": true
     },
     {
+      "id": "TW-01",
+      "titulo": "Dica de posicionamento",
+      "quando": "2026-11-09T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Dica de posicionamento pra quem atende na saúde.\n\nO mesmo tratamento é comprado por motivos diferentes. Quem decide pelo preço quer saber como cabe no bolso. Quem decide pelo resultado quer entender o caminho. Quem decide pela confiança quer saber quem você é.\n\nSalva e me conta: qual dos três é o paciente que você mais atende?\n\n#gestaodeclinicas #posicionamento #marketingnasaude",
+      "midias": [
+        "midia/2026-11-09_tweet-posicionamento-01/01.jpg"
+      ],
+      "origem": "2026-11-09_tweet-posicionamento-01",
+      "fixo": true
+    },
+    {
       "id": "FS-31",
       "titulo": "Frase da semana: Pessoas carentes não prosperam",
       "quando": "2026-11-10T06:00:00-03:00",
@@ -1727,6 +1743,22 @@
         "midia/2026-12-04_metafora-porta-giratoria/01.jpg"
       ],
       "origem": "2026-12-04_metafora-porta-giratoria",
+      "fixo": true
+    },
+    {
+      "id": "TW-02",
+      "titulo": "Dica de posicionamento: médicos",
+      "quando": "2026-11-10T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pro médico que atende convênio e particular no mesmo consultório.\n\nCada paciente chega com uma pergunta diferente na cabeça. O do convênio quer saber se vai conseguir horário. O particular quer saber se vai ter tempo de ser ouvido. O que veio por indicação quer confirmar que quem indicou estava certo.\n\nManda pra um colega médico.\n\n#gestaodeclinicas #medicos #posicionamento",
+      "midias": [
+        "midia/2026-11-10_tweet-posicionamento-02/01.jpg"
+      ],
+      "origem": "2026-11-10_tweet-posicionamento-02",
       "fixo": true
     },
     {
@@ -1881,6 +1913,22 @@
       "fixo": true
     },
     {
+      "id": "TW-03",
+      "titulo": "Dica de posicionamento: dentistas",
+      "quando": "2026-11-11T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pro dentista que explica o procedimento e o paciente pergunta só o preço.\n\nQuem chega com dor quer saber quando a dor passa. Quem chega pela estética quer se ver bem numa foto. Quem chega pelo implante quer voltar a comer o que gosta. A técnica importa pra você. Pro paciente, importa o que muda depois.\n\nManda pra um colega dentista.\n\n#gestaodeclinicas #dentistas #clinicaodontologica",
+      "midias": [
+        "midia/2026-11-11_tweet-posicionamento-03/01.jpg"
+      ],
+      "origem": "2026-11-11_tweet-posicionamento-03",
+      "fixo": true
+    },
+    {
       "id": "L4-06",
       "titulo": "Paciente esperando 40 minutos na recepção já está procurando outra clínica.",
       "quando": "2026-11-11T21:30:00-03:00",
@@ -2032,6 +2080,22 @@
         "midia/2026-12-08_pacientes-particulares/07.jpg"
       ],
       "origem": "2026-12-08_pacientes-particulares",
+      "fixo": true
+    },
+    {
+      "id": "TW-04",
+      "titulo": "Dica de posicionamento: fisioterapeutas",
+      "quando": "2026-11-12T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pro fisioterapeuta que vende pacote de 10 sessões e vê o paciente sumir na quarta.\n\nSessão é o meio. O paciente quer saber quando volta a dormir sem dor, a subir escada, a correr no fim de semana. Quando o plano mostra isso, ele entende por que precisa vir.\n\nManda pra um colega da fisioterapia.\n\n#gestaodeclinicas #fisioterapia #posicionamento",
+      "midias": [
+        "midia/2026-11-12_tweet-posicionamento-04/01.jpg"
+      ],
+      "origem": "2026-11-12_tweet-posicionamento-04",
       "fixo": true
     },
     {
@@ -2192,6 +2256,22 @@
       "fixo": true
     },
     {
+      "id": "TW-05",
+      "titulo": "Dica de posicionamento: nutricionistas",
+      "quando": "2026-11-13T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pra nutricionista que entrega um cardápio lindo e vê a paciente desistir na segunda semana.\n\nCardápio é papel. O que a paciente compra é conseguir manter. Quem quer emagrecer quer uma rotina possível. Quem treina quer energia. Quem chegou com exame alterado quer voltar a comer sem medo.\n\nManda pra uma colega nutri.\n\n#gestaodeclinicas #nutricao #posicionamento",
+      "midias": [
+        "midia/2026-11-13_tweet-posicionamento-05/01.jpg"
+      ],
+      "origem": "2026-11-13_tweet-posicionamento-05",
+      "fixo": true
+    },
+    {
       "id": "L4-16",
       "titulo": "A sua melhor recepcionista sai quando alguém oferece R$ 300 a mais.",
       "quando": "2026-11-13T21:30:00-03:00",
@@ -2348,6 +2428,22 @@
       "fixo": true
     },
     {
+      "id": "TW-06",
+      "titulo": "Dica de posicionamento: psicólogos",
+      "quando": "2026-11-14T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pra quem atende na psicologia e ouve a pergunta \"quanto é a sessão?\" antes de qualquer outra.\n\nQuem chega em crise precisa sentir que está seguro. Quem chega pelo autoconhecimento quer entender o caminho. Quem foi encaminhado quer saber que o cuidado continua junto com o médico.\n\nManda pra um colega da psicologia.\n\n#gestaodeclinicas #psicologia #consultorio",
+      "midias": [
+        "midia/2026-11-14_tweet-posicionamento-06/01.jpg"
+      ],
+      "origem": "2026-11-14_tweet-posicionamento-06",
+      "fixo": true
+    },
+    {
       "id": "L4-12",
       "titulo": "Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.",
       "quando": "2026-11-14T21:30:00-03:00",
@@ -2464,6 +2560,22 @@
       "fixo": true
     },
     {
+      "id": "TW-07",
+      "titulo": "Dica de posicionamento: dermatologistas",
+      "quando": "2026-11-15T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pra dermatologista que atende clínica e estética no mesmo consultório.\n\nA paciente da mancha quer saber o que é. A da rotina quer saber o que fazer em casa. A do procedimento quer sair melhor sem parecer outra pessoa. Cada uma ouve uma parte da tua consulta: fala dessa parte primeiro.\n\nManda pra uma colega da dermatologia.\n\n#gestaodeclinicas #dermatologia #posicionamento",
+      "midias": [
+        "midia/2026-11-15_tweet-posicionamento-07/01.jpg"
+      ],
+      "origem": "2026-11-15_tweet-posicionamento-07",
+      "fixo": true
+    },
+    {
       "id": "L4-34",
       "titulo": "Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.",
       "quando": "2026-11-15T21:30:00-03:00",
@@ -2511,6 +2623,28 @@
         "midia/2026-11-16_odm06/01.jpg"
       ],
       "origem": "2026-11-16_odm06",
+      "fixo": true
+    },
+    {
+      "id": "ODD08",
+      "titulo": "Os Doutores · Dia a dia: Gustavo, o Novembro Azul que não voltou",
+      "quando": "2026-11-16T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Novembro Azul enche a agenda. Dezembro mostra quem cuidou do retorno.\n\nO Dr. Gustavo atendeu 84 pacientes novos na campanha. Os exames ficaram prontos e ninguém ligou para marcar a conversa. O paciente entendeu que, se fosse grave, a clínica avisaria. Só 19 voltaram.\n\nCampanha traz gente para a porta. Quem fica é quem recebe uma ligação na hora certa. Retorno marcado antes de o paciente sair da primeira consulta, e uma lista de quem ainda não voltou, com alguém responsável por ligar.\n\nQuantos pacientes da tua última campanha voltaram com o exame? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicos #atendimento",
+      "midias": [
+        "midia/2026-11-16_odd08/01.jpg",
+        "midia/2026-11-16_odd08/02.jpg",
+        "midia/2026-11-16_odd08/03.jpg",
+        "midia/2026-11-16_odd08/04.jpg",
+        "midia/2026-11-16_odd08/05.jpg",
+        "midia/2026-11-16_odd08/06.jpg",
+        "midia/2026-11-16_odd08/07.jpg"
+      ],
+      "origem": "2026-11-16_odd08",
       "fixo": true
     },
     {
@@ -2577,6 +2711,22 @@
         "midia/2026-11-26_dia-30/07.jpg"
       ],
       "origem": "2026-11-26_dia-30",
+      "fixo": true
+    },
+    {
+      "id": "TW-08",
+      "titulo": "Dica de posicionamento: harmonização facial",
+      "quando": "2026-11-16T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pra quem trabalha com harmonização facial e recebe a mensagem \"quanto é o ml?\".\n\nQuem pede pelo nome do produto ainda não sabe do que precisa. Quem quer parecer mais jovem quer equilíbrio. Quem pergunta o preço primeiro ainda não viu o plano. A avaliação é o lugar de responder as três.\n\nManda pra uma colega da harmonização.\n\n#gestaodeclinicas #harmonizacaofacial #posicionamento",
+      "midias": [
+        "midia/2026-11-16_tweet-posicionamento-08/01.jpg"
+      ],
+      "origem": "2026-11-16_tweet-posicionamento-08",
       "fixo": true
     },
     {
@@ -2654,6 +2804,28 @@
       "origem": "2026-10-22_orcamento-parado"
     },
     {
+      "id": "ODD09",
+      "titulo": "Os Doutores · Dia a dia: Alessandra, o retorno que não dava pra marcar",
+      "quando": "2026-11-17T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Retorno sem data marcada é o jeito mais educado de perder um paciente.\n\nA Dra. Alessandra abre a agenda mês a mês para não ter buraco. Quando a paciente quis marcar o retorno de 90 dias, não tinha onde. A recepção prometeu mandar mensagem perto da data, e a mensagem nunca saiu.\n\nEm três meses, 27 retornos ficaram para depois e 9 voltaram. Ninguém reclamou. Só não voltou.\n\nAbre a agenda pelo menos até o próximo retorno que você pede. O paciente sai com dia e hora marcados; se precisar, muda depois.\n\nQuantos retornos estão sem data na tua clínica hoje? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #nutricao #recepcao",
+      "midias": [
+        "midia/2026-11-17_odd09/01.jpg",
+        "midia/2026-11-17_odd09/02.jpg",
+        "midia/2026-11-17_odd09/03.jpg",
+        "midia/2026-11-17_odd09/04.jpg",
+        "midia/2026-11-17_odd09/05.jpg",
+        "midia/2026-11-17_odd09/06.jpg",
+        "midia/2026-11-17_odd09/07.jpg"
+      ],
+      "origem": "2026-11-17_odd09",
+      "fixo": true
+    },
+    {
       "id": "OD21",
       "titulo": "Os Doutores · Ricardo: 25 anos e um telefone fixo",
       "quando": "2026-11-17T12:30:00-03:00",
@@ -2720,6 +2892,22 @@
       "origem": "2026-10-27_tabela-pronta"
     },
     {
+      "id": "TW-09",
+      "titulo": "Dica de posicionamento: fonoaudiólogos",
+      "quando": "2026-11-17T21:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Pra fono que explica a técnica e ouve da família \"quantas sessões ainda faltam?\".\n\nOs pais querem ver o filho falando na escola. O adulto quer apresentar sem travar. O idoso quer voltar a conversar na mesa de casa. Quando o plano fala disso, a família entende o caminho.\n\nManda pra uma colega fono.\n\n#gestaodeclinicas #fonoaudiologia #posicionamento",
+      "midias": [
+        "midia/2026-11-17_tweet-posicionamento-09/01.jpg"
+      ],
+      "origem": "2026-11-17_tweet-posicionamento-09",
+      "fixo": true
+    },
+    {
       "id": "L4-32",
       "titulo": "O paciente decide no consultório. A recepção só confirma.",
       "quando": "2026-11-17T21:30:00-03:00",
@@ -2783,6 +2971,28 @@
         "midia/2026-11-18_odm07/01.jpg"
       ],
       "origem": "2026-11-18_odm07",
+      "fixo": true
+    },
+    {
+      "id": "ODD10",
+      "titulo": "Os Doutores · Dia a dia: Felipe, acabou a resina no meio do atendimento",
+      "quando": "2026-11-18T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A falta de material quase nunca é falta de dinheiro. É falta de dono.\n\nNa clínica do Dr. Felipe, quem vê o estoque acabando avisa, ou acha que alguém já avisou. Naquele mês, faltou material três vezes. Numa delas, a paciente ficou 20 minutos na cadeira esperando o motoboy da dental.\n\nResolve com pouco: uma pessoa responsável, um dia fixo para conferir e uma quantidade mínima escrita para cada item. Chegou no mínimo, pede.\n\nQuem confere o estoque da tua clínica? Comenta quem é.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #clinicaodontologica",
+      "midias": [
+        "midia/2026-11-18_odd10/01.jpg",
+        "midia/2026-11-18_odd10/02.jpg",
+        "midia/2026-11-18_odd10/03.jpg",
+        "midia/2026-11-18_odd10/04.jpg",
+        "midia/2026-11-18_odd10/05.jpg",
+        "midia/2026-11-18_odd10/06.jpg",
+        "midia/2026-11-18_odd10/07.jpg"
+      ],
+      "origem": "2026-11-18_odd10",
       "fixo": true
     },
     {
@@ -2883,6 +3093,28 @@
         "midia/2026-11-19_odm12/01.jpg"
       ],
       "origem": "2026-11-19_odm12",
+      "fixo": true
+    },
+    {
+      "id": "ODD11",
+      "titulo": "Os Doutores · Dia a dia: Simone, o pacote de sessões sem controle",
+      "quando": "2026-11-19T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Pacote de sessões vende bem e controla mal, se ninguém escrever a regra.\n\nNa clínica da Dra. Simone, o controle era um caderno na recepção e a memória de cada fisioterapeuta. Falta contava ou não, remarcação em cima da hora contava ou não, e cada um respondia de um jeito. A paciente dizia que tinha três sessões. A clínica achava que era uma.\n\nTrês linhas no recibo resolvem: quantas sessões, até quando valem e o que acontece com a falta sem aviso. E um único lugar para dar baixa, na hora da sessão.\n\nNa tua clínica, falta sem aviso conta como sessão do pacote? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #fisioterapia #recepcao",
+      "midias": [
+        "midia/2026-11-19_odd11/01.jpg",
+        "midia/2026-11-19_odd11/02.jpg",
+        "midia/2026-11-19_odd11/03.jpg",
+        "midia/2026-11-19_odd11/04.jpg",
+        "midia/2026-11-19_odd11/05.jpg",
+        "midia/2026-11-19_odd11/06.jpg",
+        "midia/2026-11-19_odd11/07.jpg"
+      ],
+      "origem": "2026-11-19_odd11",
       "fixo": true
     },
     {
@@ -3005,6 +3237,28 @@
       "fixo": true
     },
     {
+      "id": "ODD12",
+      "titulo": "Os Doutores · Dia a dia: Juliana, o recibo do reembolso que demora",
+      "quando": "2026-11-20T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Recibo atrasado não aparece em nenhuma reclamação. Aparece na indicação que não acontece.\n\nA Dra. Juliana faz os recibos no domingo à noite, quando dá. Para o paciente que pede reembolso ao plano, cada dia de espera é dinheiro parado. Em outubro, dois pacientes perguntaram se ela não aceitava outra forma de pagamento. Era o jeito educado de reclamar.\n\nRecibo no mesmo dia, junto com a confirmação da próxima sessão. Se o volume for grande, um modelo pronto e cinco minutos no fim do expediente.\n\nEm quanto tempo o teu paciente recebe o recibo? Comenta os dias.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #atendimento",
+      "midias": [
+        "midia/2026-11-20_odd12/01.jpg",
+        "midia/2026-11-20_odd12/02.jpg",
+        "midia/2026-11-20_odd12/03.jpg",
+        "midia/2026-11-20_odd12/04.jpg",
+        "midia/2026-11-20_odd12/05.jpg",
+        "midia/2026-11-20_odd12/06.jpg",
+        "midia/2026-11-20_odd12/07.jpg"
+      ],
+      "origem": "2026-11-20_odd12",
+      "fixo": true
+    },
+    {
       "id": "ODJ11",
       "titulo": "Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março",
       "quando": "2026-11-20T18:00:00-03:00",
@@ -3099,6 +3353,28 @@
       "fixo": true
     },
     {
+      "id": "ODD13",
+      "titulo": "Os Doutores · Dia a dia: Diego, a clínica que fecha pro almoço",
+      "quando": "2026-11-21T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O horário em que a clínica fecha costuma ser o horário em que o paciente tem tempo de ligar.\n\nNa clínica do Dr. Diego, as duas recepcionistas almoçam juntas, das 12h às 14h. Nesse intervalo, o telefone toca na recepção vazia e o WhatsApp acumula. Quem ligou no intervalo do trabalho já voltou para a mesa quando a clínica reabre.\n\nAlmoço em escala resolve sem tirar o direito de ninguém: uma sai às 11h30, a outra às 13h. E a mensagem automática diz quando a resposta chega.\n\nQuantas ligações a tua clínica perde no almoço? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #recepcao #atendimento",
+      "midias": [
+        "midia/2026-11-21_odd13/01.jpg",
+        "midia/2026-11-21_odd13/02.jpg",
+        "midia/2026-11-21_odd13/03.jpg",
+        "midia/2026-11-21_odd13/04.jpg",
+        "midia/2026-11-21_odd13/05.jpg",
+        "midia/2026-11-21_odd13/06.jpg",
+        "midia/2026-11-21_odd13/07.jpg"
+      ],
+      "origem": "2026-11-21_odd13",
+      "fixo": true
+    },
+    {
       "id": "OD22",
       "titulo": "Os Doutores · Mauro: cortou o cafezinho, economizou R$ 180",
       "quando": "2026-11-21T12:30:00-03:00",
@@ -3175,6 +3451,28 @@
       ],
       "origem": "2026-10-18_frase-liberdade",
       "frase": true
+    },
+    {
+      "id": "ODD14",
+      "titulo": "Os Doutores · Dia a dia: Patrícia, a indicação que ninguém agradeceu",
+      "quando": "2026-11-22T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Paciente que indica e não é lembrado para de indicar. Sem briga, sem aviso.\n\nA Dra. Patrícia vive de indicação, mas quase nenhuma é registrada. A Dona Célia trouxe quatro pessoas no ano, e ninguém da clínica disse obrigado. Na consulta seguinte, ela percebeu. E parou de falar da clínica.\n\nNão precisa de brinde. Precisa anotar quem indicou quem, uma coluna na ficha resolve, e agradecer toda semana, pelo nome, com uma mensagem da própria doutora.\n\nTua clínica sabe quem são os pacientes que mais indicam? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicos #atendimento",
+      "midias": [
+        "midia/2026-11-22_odd14/01.jpg",
+        "midia/2026-11-22_odd14/02.jpg",
+        "midia/2026-11-22_odd14/03.jpg",
+        "midia/2026-11-22_odd14/04.jpg",
+        "midia/2026-11-22_odd14/05.jpg",
+        "midia/2026-11-22_odd14/06.jpg",
+        "midia/2026-11-22_odd14/07.jpg"
+      ],
+      "origem": "2026-11-22_odd14",
+      "fixo": true
     },
     {
       "id": "OD23",
@@ -3268,6 +3566,28 @@
         "midia/2026-11-23_odm09/01.jpg"
       ],
       "origem": "2026-11-23_odm09",
+      "fixo": true
+    },
+    {
+      "id": "ODD15",
+      "titulo": "Os Doutores · Dia a dia: Márcio, primeiro dia e já no telefone",
+      "quando": "2026-11-23T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Recepcionista que começa sem treino aprende com o paciente. E o paciente percebe.\n\nA recepcionista anterior do Dr. Márcio saiu sem aviso. A nova começou no mesmo dia, direto no telefone, e respondeu o que achava sobre preço, convênio e preparo de exame. Um paciente veio em jejum sem precisar, outro veio com um convênio que a clínica não atende.\n\nPrimeira semana, ela escuta alguém experiente com uma folha de perguntas frequentes do lado. Segunda, atende com alguém ouvindo. Terceira, sozinha.\n\nQuanto tempo de treino a tua recepção teve? Comenta os dias.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #recepcao #secretariadeclinica",
+      "midias": [
+        "midia/2026-11-23_odd15/01.jpg",
+        "midia/2026-11-23_odd15/02.jpg",
+        "midia/2026-11-23_odd15/03.jpg",
+        "midia/2026-11-23_odd15/04.jpg",
+        "midia/2026-11-23_odd15/05.jpg",
+        "midia/2026-11-23_odd15/06.jpg",
+        "midia/2026-11-23_odd15/07.jpg"
+      ],
+      "origem": "2026-11-23_odd15",
       "fixo": true
     },
     {
@@ -3392,6 +3712,28 @@
       "fixo": true
     },
     {
+      "id": "ODD16",
+      "titulo": "Os Doutores · Dia a dia: Elaine, 25 minutos de cadastro no balcão",
+      "quando": "2026-11-24T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A primeira impressão da clínica nem sempre acontece no consultório. Às vezes acontece numa prancheta.\n\nNa clínica da Dra. Elaine, todo paciente novo preenche a ficha quando chega. Numa manhã cheia, a paciente das 10h ficou 25 minutos no balcão, e o atraso do cadastro virou atraso da agenda inteira.\n\nO cadastro pode ir antes: um link na mensagem de confirmação, na véspera. Quem preencheu chega e entra. Quem não preencheu chega 15 minutos antes, avisado.\n\nNa tua clínica, o cadastro do paciente novo é antes ou na chegada? Comenta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #recepcao #atendimento",
+      "midias": [
+        "midia/2026-11-24_odd16/01.jpg",
+        "midia/2026-11-24_odd16/02.jpg",
+        "midia/2026-11-24_odd16/03.jpg",
+        "midia/2026-11-24_odd16/04.jpg",
+        "midia/2026-11-24_odd16/05.jpg",
+        "midia/2026-11-24_odd16/06.jpg",
+        "midia/2026-11-24_odd16/07.jpg"
+      ],
+      "origem": "2026-11-24_odd16",
+      "fixo": true
+    },
+    {
       "id": "OD61",
       "titulo": "Os Doutores · Henrique: a quarta agência e o mesmo 'lead ruim'",
       "quando": "2026-11-24T12:30:00-03:00",
@@ -3509,6 +3851,28 @@
       "fixo": true
     },
     {
+      "id": "ODD17",
+      "titulo": "Os Doutores · Dia a dia: Wagner, quem desmarcou foi o doutor",
+      "quando": "2026-11-25T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quando o doutor desmarca, o paciente sente igual.\n\nO Dr. Wagner tem três semanas de espera e motivos justos para cada mudança: uma reunião do hospital, um curso, um compromisso de família. Numa só semana, a recepção ligou para 31 pacientes remarcando. Alguns tinham pedido folga no trabalho. Dois não remarcaram.\n\nCompromisso que dá para prever, bloqueia com 30 dias. Quando não der, quem remarca oferece o primeiro horário livre, e não o fim da fila.\n\nQuantas vezes a tua agenda foi desmarcada por ti este mês? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicos #consultorio",
+      "midias": [
+        "midia/2026-11-25_odd17/01.jpg",
+        "midia/2026-11-25_odd17/02.jpg",
+        "midia/2026-11-25_odd17/03.jpg",
+        "midia/2026-11-25_odd17/04.jpg",
+        "midia/2026-11-25_odd17/05.jpg",
+        "midia/2026-11-25_odd17/06.jpg",
+        "midia/2026-11-25_odd17/07.jpg"
+      ],
+      "origem": "2026-11-25_odd17",
+      "fixo": true
+    },
+    {
       "id": "OD26",
       "titulo": "Os Doutores · Caio senta com o Gabriel: a conta do plantão",
       "quando": "2026-11-25T12:30:00-03:00",
@@ -3609,6 +3973,28 @@
         "midia/2026-11-26_odm17/01.jpg"
       ],
       "origem": "2026-11-26_odm17",
+      "fixo": true
+    },
+    {
+      "id": "ODD18",
+      "titulo": "Os Doutores · Dia a dia: Raquel, a cortesia sem regra",
+      "quando": "2026-11-26T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Atender amigos e família de graça pode ser uma escolha linda. Desde que seja uma escolha.\n\nA Dra. Raquel tem seis pessoas próximas que nunca pagam. Somadas, ocupam uma tarde por mês da agenda, num horário que outro paciente pagaria R$ 450. E a recepção não sabe quem é cortesia: cobra, fica constrangida e pede desculpa.\n\nDecide quantas cortesias cabem por mês e em que horário. Anota quem são. O resto paga, com carinho.\n\nQuantas consultas de cortesia a tua agenda teve no último mês? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #consultorio",
+      "midias": [
+        "midia/2026-11-26_odd18/01.jpg",
+        "midia/2026-11-26_odd18/02.jpg",
+        "midia/2026-11-26_odd18/03.jpg",
+        "midia/2026-11-26_odd18/04.jpg",
+        "midia/2026-11-26_odd18/05.jpg",
+        "midia/2026-11-26_odd18/06.jpg",
+        "midia/2026-11-26_odd18/07.jpg"
+      ],
+      "origem": "2026-11-26_odd18",
       "fixo": true
     },
     {
@@ -3727,6 +4113,28 @@
       "frase": true
     },
     {
+      "id": "ODD19",
+      "titulo": "Os Doutores · Dia a dia: Caetano, a sala alugada e a recepção de brinde",
+      "quando": "2026-11-27T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Sublocar sala é uma boa receita. Sem regra, vira equipe de brinde.\n\nO Dr. Caetano aluga duas salas para colegas. O contrato fala da sala, da luz e da água. Na prática, os colegas usam a recepção, o telefone, o café e a esterilização. Em outubro, a recepcionista passou 40% do tempo atendendo pacientes que não eram da clínica, e os pacientes do Caetano esperaram.\n\nContrato com o que está incluído e o que é cobrado à parte: recepção por paciente atendido, esterilização por ciclo e horário de uso escrito. Combinado claro preserva a amizade.\n\nNa tua clínica, quem aluga sala paga pela recepção? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #clinicaodontologica",
+      "midias": [
+        "midia/2026-11-27_odd19/01.jpg",
+        "midia/2026-11-27_odd19/02.jpg",
+        "midia/2026-11-27_odd19/03.jpg",
+        "midia/2026-11-27_odd19/04.jpg",
+        "midia/2026-11-27_odd19/05.jpg",
+        "midia/2026-11-27_odd19/06.jpg",
+        "midia/2026-11-27_odd19/07.jpg"
+      ],
+      "origem": "2026-11-27_odd19",
+      "fixo": true
+    },
+    {
       "id": "OD25",
       "titulo": "Os Doutores · Comparação: a Black Friday e os orçamentos parados",
       "quando": "2026-11-27T12:30:00-03:00",
@@ -3797,6 +4205,28 @@
         "midia/2026-11-28_odm18/01.jpg"
       ],
       "origem": "2026-11-28_odm18",
+      "fixo": true
+    },
+    {
+      "id": "ODD20",
+      "titulo": "Os Doutores · Dia a dia: Mônica, o sistema que ninguém usa",
+      "quando": "2026-11-28T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Sistema caro com caderno do lado é uma combinação mais comum do que parece.\n\nA Dra. Mônica paga R$ 600 por mês num sistema de gestão comprado numa feira. Ninguém foi treinado, a secretária achou complicado e a agenda continua no caderno. Em 14 meses, foram R$ 8.400. O lembrete automático estava desligado, e as confirmações seguiam por telefone, uma por uma.\n\nAntes de trocar ou cancelar, escolhe uma função só, a agenda, com uma pessoa responsável e uma semana de uso de verdade. Funcionou, liga a próxima.\n\nQuantas funções do sistema da tua clínica alguém usa de verdade? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #secretariadeclinica",
+      "midias": [
+        "midia/2026-11-28_odd20/01.jpg",
+        "midia/2026-11-28_odd20/02.jpg",
+        "midia/2026-11-28_odd20/03.jpg",
+        "midia/2026-11-28_odd20/04.jpg",
+        "midia/2026-11-28_odd20/05.jpg",
+        "midia/2026-11-28_odd20/06.jpg",
+        "midia/2026-11-28_odd20/07.jpg"
+      ],
+      "origem": "2026-11-28_odd20",
       "fixo": true
     },
     {
@@ -3901,6 +4331,28 @@
       "fixo": true
     },
     {
+      "id": "ODD21",
+      "titulo": "Os Doutores · Dia a dia: Rogério, dois preços pro mesmo tratamento",
+      "quando": "2026-11-29T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quando cada pessoa da clínica passa um preço, o paciente entende que o preço é negociável.\n\nNa clínica do Dr. Rogério, a tabela existe, mas ninguém lembra onde está. A recepção disse R$ 280 pela manutenção, e o doutor, na cadeira, disse R$ 250. O paciente pagou o menor e, na semana seguinte, pediu desconto no clareamento. Por que não pediria?\n\nUma tabela só, atualizada, na tela de quem atende e no celular do doutor. E uma regra clara: a recepção passa o valor, o doutor passa o plano.\n\nSe três pessoas da tua clínica passassem o preço agora, sairia o mesmo número? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #precificacao #dentistas",
+      "midias": [
+        "midia/2026-11-29_odd21/01.jpg",
+        "midia/2026-11-29_odd21/02.jpg",
+        "midia/2026-11-29_odd21/03.jpg",
+        "midia/2026-11-29_odd21/04.jpg",
+        "midia/2026-11-29_odd21/05.jpg",
+        "midia/2026-11-29_odd21/06.jpg",
+        "midia/2026-11-29_odd21/07.jpg"
+      ],
+      "origem": "2026-11-29_odd21",
+      "fixo": true
+    },
+    {
       "id": "OD29",
       "titulo": "Os Doutores · Lúcia: o orçamento de outubro no 'depois eu vejo'",
       "quando": "2026-11-29T12:30:00-03:00",
@@ -3976,6 +4428,28 @@
         "midia/2026-11-30_odm20/01.jpg"
       ],
       "origem": "2026-11-30_odm20",
+      "fixo": true
+    },
+    {
+      "id": "ODD22",
+      "titulo": "Os Doutores · Dia a dia: Larissa, o pós que ninguém escreveu",
+      "quando": "2026-11-30T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "O pós-procedimento é onde o paciente decide se volta e se indica.\n\nA Dra. Larissa explica tudo na cadeira, falando, para um paciente anestesiado e com gaze na boca. No dia seguinte, ele ligou três vezes com dúvidas, a recepção não sabia responder e ela estava em cirurgia. Ele foi parar no pronto-socorro por uma dúvida que uma folha resolveria.\n\nPós por escrito, entregue e mandado por mensagem no mesmo dia. Uma mensagem da clínica no dia seguinte perguntando como ele está. E uma regra de quem responde dúvida clínica e até que horas.\n\nTeu paciente sai com o pós por escrito? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #atendimento",
+      "midias": [
+        "midia/2026-11-30_odd22/01.jpg",
+        "midia/2026-11-30_odd22/02.jpg",
+        "midia/2026-11-30_odd22/03.jpg",
+        "midia/2026-11-30_odd22/04.jpg",
+        "midia/2026-11-30_odd22/05.jpg",
+        "midia/2026-11-30_odd22/06.jpg",
+        "midia/2026-11-30_odd22/07.jpg"
+      ],
+      "origem": "2026-11-30_odd22",
       "fixo": true
     },
     {
