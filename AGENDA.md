@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 11:26:03. 355 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -203,6 +203,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
   - Stories: Caixinha: "Quanto custa uma hora da sua clínica antes do seu salário?"
 - **18h00 · ODJ07 · Os Doutores · Vesti o teu jaleco: o atestado de toda segunda** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-04 · Reels · Quanto é o Botox?** (reels)
 - **19h30 · ODD01 · Os Doutores · Dia a dia: Natália, 40 minutos de avaliação e um "vou pensar"** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel)
@@ -221,6 +222,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-05 · Reels · Se eu disser o preço, você já compra?** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h00 · TW-02 · Dica de posicionamento: médicos** (imagem)
 - **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem)
@@ -239,6 +241,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ04 · Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-08 · Reels · As pessoas compram de pessoas** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel)
   - Stories: Caixinha: "Qual desses cinco você sabe de cabeça?" e repost da lâmina 3.
@@ -257,6 +260,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ05 · Os Doutores · Vesti o teu jaleco: a recepcionista que você contratou pela simpatia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-01 · Reels · Vender é pecado?** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-25 · Pacientes particulares na psicologia, na nutrição e na fisioterapia** (carrossel)
   - Stories: Enquete: "De onde vem a maioria dos seus pacientes particulares?" · Indicação / Instagram / Google.
@@ -277,6 +281,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ10 · Os Doutores · Vesti o teu jaleco: a cunhada no financeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-07 · Reels · Ninguém entra na Ferrari só pra perguntar o preço** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
   - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
@@ -295,6 +300,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ08 · Os Doutores · Vesti o teu jaleco: "quanto custa?" respondido com o preço seco** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-09 · Reels · Por que a foto da família engaja mais** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **20h30 · ODM25 · Os Doutores · Frase de palco: recomendar com firmeza** (imagem)
 - **21h00 · TW-06 · Dica de posicionamento: psicólogos** (imagem)
@@ -312,6 +318,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ06 · Os Doutores · Vesti o teu jaleco: as férias que duraram três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-03 · Reels · Duvido que você faltasse à aula** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h00 · TW-07 · Dica de posicionamento: dermatologistas** (imagem)
 - **21h30 · L4-34 · Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.** (imagem)
@@ -328,6 +335,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-06 · Reels · A moeda mais cara de hoje** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h00 · TW-08 · Dica de posicionamento: harmonização facial** (imagem)
 - **21h30 · L4-24 · Um terço dos agendamentos online acontece depois que a sua recepção vai embora.** (imagem)
@@ -348,6 +356,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ12 · Os Doutores · Vesti o teu jaleco: o print do concorrente mais barato** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **18h30 · GC-05 · Tabela pronta não sabe quanto custa a sua hora** (carrossel)
+- **19h00 · TV-11 · Reels · Quero ser o mais conhecido** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h00 · TW-09 · Dica de posicionamento: fonoaudiólogos** (imagem)
 - **21h30 · L4-32 · O paciente decide no consultório. A recepção só confirma.** (imagem)
@@ -365,6 +374,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ09 · Os Doutores · Vesti o teu jaleco: a guia do imposto chegou** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-10 · Reels · Editorias no Instagram** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 
 ## quinta, 19/11
@@ -378,6 +388,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ16 · Os Doutores · Vesti o teu jaleco: duas comerciais, um paciente e a comissão** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-02 · Reels · Você estudou madrugada adentro** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · ODM13 · Os Doutores · Frase de palco: em casa às 21h** (imagem)
 
@@ -390,6 +401,7 @@ Gerada em 09/11/2026, 11:16:40. 343 posts agendados, 3 pendentes. Stories com en
 - 15h00 · seu vídeo gravado (você posta)
 - **18h00 · ODJ11 · Os Doutores · Vesti o teu jaleco: a demissão que você adia desde março** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
+- **19h00 · TV-12 · Reels · As melhores oportunidades acontecem offline** (reels)
 - 20h00 · teste de vídeo com IA (você posta)
 - **21h30 · ODM14 · Os Doutores · Frase de palco: clínica ou emprego** (imagem)
 

@@ -59,7 +59,8 @@ async function preparar(p) {
         return c.id;
     }
     if (p.tipo === "reels") {
-        c = await ig("POST", "/me/media", { media_type: "REELS", video_url: url(p.midias[0]), caption: p.legenda, share_to_feed: "true" });
+        // capa: imagem própria (p.capa, JPG 9:16 no repositório); sem ela o Instagram usa o primeiro quadro
+        c = await ig("POST", "/me/media", { media_type: "REELS", video_url: url(p.midias[0]), caption: p.legenda, share_to_feed: "true", ...(p.capa ? { cover_url: url(p.capa) } : {}) });
         await aguardarPronto(c.id, 600);
         return c.id;
     }
