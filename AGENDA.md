@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 11:26:03. 355 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 09/11/2026, 11:49:41. 355 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
