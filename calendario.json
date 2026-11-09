@@ -49,7 +49,7 @@
     {
       "id": "GC-11",
       "titulo": "A consulta que ninguém marca",
-      "quando": "2026-10-18T08:30:00-03:00",
+      "quando": "2026-10-18T09:00:00-03:00",
       "tipo": "carrossel",
       "status": "pendente",
       "pendencia": "data comemorativa já passou (18/10/2026)",
@@ -1621,6 +1621,28 @@
       "fixo": true
     },
     {
+      "id": "ODD02",
+      "titulo": "Os Doutores · Dia a dia: Leandro, a secretária saiu e levou a senha",
+      "quando": "2026-11-10T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Ninguém pensa nisso enquanto a secretária está lá.\n\nO Dr. Leandro tinha uma funcionária ótima, de confiança, que fazia tudo. E esse é o risco: quando uma pessoa faz tudo de cabeça, a clínica não sabe nada. Ela pediu as contas e levou junto a senha do Instagram, a lista de retornos e os combinados com o laboratório.\n\nA saída é escrever, sem desconfiar de ninguém. Senha com o dono, retornos numa planilha da clínica, cada tarefa em uma linha. Quem sai leva a experiência, e a clínica continua.\n\nSalva e faz essa lista hoje.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #secretariadeclinica #recepcao",
+      "midias": [
+        "midia/2026-11-10_odd02/01.jpg",
+        "midia/2026-11-10_odd02/02.jpg",
+        "midia/2026-11-10_odd02/03.jpg",
+        "midia/2026-11-10_odd02/04.jpg",
+        "midia/2026-11-10_odd02/05.jpg",
+        "midia/2026-11-10_odd02/06.jpg",
+        "midia/2026-11-10_odd02/07.jpg"
+      ],
+      "origem": "2026-11-10_odd02",
+      "fixo": true
+    },
+    {
       "id": "OD11",
       "titulo": "Os Doutores · Fernando: a quarta recepcionista do ano",
       "quando": "2026-11-10T12:30:00-03:00",
@@ -1741,6 +1763,23 @@
       "fixo": true
     },
     {
+      "id": "FS-32",
+      "titulo": "Frase da semana: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada",
+      "quando": "2026-11-11T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada.\n\nEquipe treinada sabe o que fazer quando você não está: tem regra escrita, sabe a quem perguntar e sabe o que é urgente. Equipe vigiada trava na hora em que você sai da sala.\n\nManda para quem não consegue tirar um dia de folga.\n\n#gestaodeclinicas #lideranca #equipe",
+      "midias": [
+        "midia/2026-11-11_frase-semana-32/01.jpg"
+      ],
+      "origem": "2026-11-11_frase-semana-32",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L4-28",
       "titulo": "Preço baixo atrai quem vai trocar você pelo próximo preço baixo.",
       "quando": "2026-11-11T06:30:00-03:00",
@@ -1756,6 +1795,28 @@
       "origem": "2026-12-10_frase-preco-baixo",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "ODD03",
+      "titulo": "Os Doutores · Dia a dia: Bruno, o menu do WhatsApp que espanta paciente",
+      "quando": "2026-11-11T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Menu numerado parece organização. Pra quem está com dor, é uma porta fechada.\n\nO Dr. Bruno quis aliviar a recepção e colocou um menu no WhatsApp. Em um mês, 38 conversas pararam no meio das opções, e ninguém da clínica percebeu, porque o menu não avisa quando o paciente desiste.\n\nQuem manda mensagem quer resposta e um horário. A conversa que funciona pergunta o que a pessoa precisa e termina oferecendo um dia e uma hora.\n\nFaz o teste: manda um oi pro WhatsApp da tua clínica e conta as teclas até chegar num horário. Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #atendimento #recepcao",
+      "midias": [
+        "midia/2026-11-11_odd03/01.jpg",
+        "midia/2026-11-11_odd03/02.jpg",
+        "midia/2026-11-11_odd03/03.jpg",
+        "midia/2026-11-11_odd03/04.jpg",
+        "midia/2026-11-11_odd03/05.jpg",
+        "midia/2026-11-11_odd03/06.jpg",
+        "midia/2026-11-11_odd03/07.jpg"
+      ],
+      "origem": "2026-11-11_odd03",
+      "fixo": true
     },
     {
       "id": "OD12",
@@ -1837,6 +1898,23 @@
       "frase": true
     },
     {
+      "id": "FS-33",
+      "titulo": "Frase da semana: Preço que você não consegue explicar, o paciente não consegue pagar",
+      "quando": "2026-11-12T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Preço que você não consegue explicar, o paciente não consegue pagar.\n\nQuando a recepção só sabe dizer o número, o paciente compara número. Quando ela sabe explicar o que está incluído e por que aquele tratamento resolve, ele compara valor.\n\nSalva para treinar a recepção nesta semana.\n\n#gestaodeclinicas #precificacao #recepcao",
+      "midias": [
+        "midia/2026-11-12_frase-semana-33/01.jpg"
+      ],
+      "origem": "2026-11-12_frase-semana-33",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM04",
       "titulo": "Os Doutores · Frase de palco: ninguém te ensinou a ser dono",
       "quando": "2026-11-12T06:30:00-03:00",
@@ -1850,6 +1928,28 @@
         "midia/2026-11-12_odm04/01.jpg"
       ],
       "origem": "2026-11-12_odm04",
+      "fixo": true
+    },
+    {
+      "id": "ODD04",
+      "titulo": "Os Doutores · Dia a dia: André, a estrela que ninguém respondeu",
+      "quando": "2026-11-12T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem avaliação ruim que pesa mais pelo silêncio do que pela nota.\n\nO Dr. André tem 4,8 no Google. Mas a avaliação de 1 estrela, de um paciente que esperou 50 minutos, está lá há três meses sem resposta. Quem pesquisa a clínica lê a reclamação e lê que ninguém se importou.\n\nA resposta serve pros próximos que vão ler: agradece, reconhece o que deu errado sem expor ninguém e conta o que mudou. Sem dado do paciente, sem detalhe de tratamento, sem briga.\n\nAbre o Google da tua clínica e comenta quantas avaliações estão sem resposta.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #dentistas #atendimento",
+      "midias": [
+        "midia/2026-11-12_odd04/01.jpg",
+        "midia/2026-11-12_odd04/02.jpg",
+        "midia/2026-11-12_odd04/03.jpg",
+        "midia/2026-11-12_odd04/04.jpg",
+        "midia/2026-11-12_odd04/05.jpg",
+        "midia/2026-11-12_odd04/06.jpg",
+        "midia/2026-11-12_odd04/07.jpg"
+      ],
+      "origem": "2026-11-12_odd04",
       "fixo": true
     },
     {
@@ -1968,6 +2068,23 @@
       "fixo": true
     },
     {
+      "id": "FS-34",
+      "titulo": "Frase da semana: Disciplina de dono é olhar o número mesmo quando ele está ruim. Principalmente quando está ruim",
+      "quando": "2026-11-13T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Disciplina de dono é olhar o número mesmo quando ele está ruim. Principalmente quando está ruim.\n\nMês ruim é o que mais ensina, e é justamente o mês em que ninguém quer abrir a planilha. Faturamento, horários vazios e orçamentos parados: olhe os três toda segunda, bons ou ruins.\n\nManda para quem só olha o extrato quando o mês foi bom.\n\n#gestaodeclinicas #donodeclinica #indicadores",
+      "midias": [
+        "midia/2026-11-13_frase-semana-34/01.jpg"
+      ],
+      "origem": "2026-11-13_frase-semana-34",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L4-04",
       "titulo": "O paciente queria parcelar. Você deu 10% de desconto.",
       "quando": "2026-11-13T06:30:00-03:00",
@@ -1983,6 +2100,28 @@
       "origem": "2026-11-28_frase-parcelar",
       "fixo": true,
       "frase": true
+    },
+    {
+      "id": "ODD05",
+      "titulo": "Os Doutores · Dia a dia: Tânia, o atraso de um vira o atraso de todos",
+      "quando": "2026-11-13T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Atender o atrasado parece gentileza. Pra quem chegou na hora, vira espera.\n\nA Dra. Tânia nunca manda paciente embora. Numa tarde, o das 14h chegou 14h25, ela atendeu, e o atraso passou para os outros quatro. Uma paciente desistiu na sala de espera e a Tânia saiu da clínica quase às 19h.\n\nUma regra simples, dita na hora de marcar e lembrada na confirmação, resolve: com até 10 minutos de atraso, a sessão acontece no tempo que sobrar; depois disso, remarca. Quem avisa é a recepção.\n\nA tua clínica tem regra de atraso escrita? Comenta sim ou não.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #fisioterapia #recepcao",
+      "midias": [
+        "midia/2026-11-13_odd05/01.jpg",
+        "midia/2026-11-13_odd05/02.jpg",
+        "midia/2026-11-13_odd05/03.jpg",
+        "midia/2026-11-13_odd05/04.jpg",
+        "midia/2026-11-13_odd05/05.jpg",
+        "midia/2026-11-13_odd05/06.jpg",
+        "midia/2026-11-13_odd05/07.jpg"
+      ],
+      "origem": "2026-11-13_odd05",
+      "fixo": true
     },
     {
       "id": "OD14",
@@ -2070,6 +2209,23 @@
       "frase": true
     },
     {
+      "id": "FS-35",
+      "titulo": "Frase da semana: Agenda cheia de horário barato cansa igual e paga menos",
+      "quando": "2026-11-14T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Agenda cheia de horário barato cansa igual e paga menos.\n\nAgenda cheia de procedimento de baixo valor dá sensação de clínica boa e extrato de clínica apertada. Antes de abrir mais horário, veja quanto cada tipo de atendimento deixa por hora.\n\nSalva para revisar a agenda da próxima semana.\n\n#gestaodeclinicas #agenda #precificacao",
+      "midias": [
+        "midia/2026-11-14_frase-semana-35/01.jpg"
+      ],
+      "origem": "2026-11-14_frase-semana-35",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM05",
       "titulo": "Os Doutores · Frase de palco: desistir numa terça",
       "quando": "2026-11-14T06:30:00-03:00",
@@ -2083,6 +2239,28 @@
         "midia/2026-11-14_odm05/01.jpg"
       ],
       "origem": "2026-11-14_odm05",
+      "fixo": true
+    },
+    {
+      "id": "ODD06",
+      "titulo": "Os Doutores · Dia a dia: Vinícius, 40 minutos de espera todo dia",
+      "quando": "2026-11-14T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Tem consultório que trata espera longa como prova de que o profissional é bom. O paciente lê de outro jeito.\n\nO Dr. Vinícius marca consulta a cada 20 minutos, atende em 30 e ainda aceita três encaixes por turno. A conta não fecha, e quem paga é quem está na sala de espera. Na semana passada, dois pacientes foram embora sem ser atendidos.\n\nA agenda precisa ter o tempo real da consulta, o encaixe precisa de horário próprio e a recepção avisa quando o atraso passa de 15 minutos. Isso é respeito com quem marcou.\n\nQuanto tempo o teu paciente espera, em média? Comenta os minutos.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #medicos #atendimento",
+      "midias": [
+        "midia/2026-11-14_odd06/01.jpg",
+        "midia/2026-11-14_odd06/02.jpg",
+        "midia/2026-11-14_odd06/03.jpg",
+        "midia/2026-11-14_odd06/04.jpg",
+        "midia/2026-11-14_odd06/05.jpg",
+        "midia/2026-11-14_odd06/06.jpg",
+        "midia/2026-11-14_odd06/07.jpg"
+      ],
+      "origem": "2026-11-14_odd06",
       "fixo": true
     },
     {
@@ -2217,6 +2395,28 @@
         "midia/2026-11-15_odm11/01.jpg"
       ],
       "origem": "2026-11-15_odm11",
+      "fixo": true
+    },
+    {
+      "id": "ODD07",
+      "titulo": "Os Doutores · Dia a dia: Priscila, o convênio ficou com as melhores horas",
+      "quando": "2026-11-15T09:00:00-03:00",
+      "tipo": "carrossel",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no post publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Quem chega primeiro na agenda nem sempre é quem vale mais pra clínica.\n\nA Dra. Priscila nunca escolheu dar as manhãs ao convênio. Aconteceu: a agenda foi enchendo pela ordem de quem ligou. E a paciente particular, que paga no dia, recebeu um horário para daqui a três semanas e foi para outra clínica.\n\nConvênio não se corta, se restringe. Um limite por turno e duas vagas nobres guardadas para o particular até a véspera. Se ninguém pegar, vira encaixe. A agenda continua cheia, na ordem certa.\n\nQuantos horários da tua manhã são de convênio? Comenta o número.\n\nPersonagens fictícios, criados com IA. As situações são reais.\n\n#gestaodeclinicas #consultorio #precificacao",
+      "midias": [
+        "midia/2026-11-15_odd07/01.jpg",
+        "midia/2026-11-15_odd07/02.jpg",
+        "midia/2026-11-15_odd07/03.jpg",
+        "midia/2026-11-15_odd07/04.jpg",
+        "midia/2026-11-15_odd07/05.jpg",
+        "midia/2026-11-15_odd07/06.jpg",
+        "midia/2026-11-15_odd07/07.jpg"
+      ],
+      "origem": "2026-11-15_odd07",
       "fixo": true
     },
     {
@@ -2397,6 +2597,23 @@
       "frase": true
     },
     {
+      "id": "FS-36",
+      "titulo": "Frase da semana: Ninguém pede demissão de uma vez. Pede um pouco por dia, enquanto você não percebe",
+      "quando": "2026-11-17T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Ninguém pede demissão de uma vez. Pede um pouco por dia, enquanto você não percebe.\n\nO atraso que começou, a mensagem que ficou sem resposta, o \"tanto faz\" na reunião. Quando a carta chega, a decisão já foi tomada há meses.\n\nManda para quem lidera uma equipe.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-11-17_frase-semana-36/01.jpg"
+      ],
+      "origem": "2026-11-17_frase-semana-36",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L4-30",
       "titulo": "Paciente que falta sem aviso ocupa o horário de quem pagaria.",
       "quando": "2026-11-17T06:30:00-03:00",
@@ -2536,6 +2753,23 @@
       "fixo": true
     },
     {
+      "id": "FS-37",
+      "titulo": "Frase da semana: Falta sem aviso não é azar. É confirmação que ninguém fez",
+      "quando": "2026-11-18T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Falta sem aviso não é azar. É confirmação que ninguém fez.\n\nPaciente que confirma na véspera falta menos, e quem desmarca com antecedência libera o horário para outro. Uma mensagem no dia anterior e uma ligação para quem não respondeu.\n\nSalva para montar a rotina de confirmação.\n\n#gestaodeclinicas #agenda #recepcao",
+      "midias": [
+        "midia/2026-11-18_frase-semana-37/01.jpg"
+      ],
+      "origem": "2026-11-18_frase-semana-37",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM07",
       "titulo": "Os Doutores · Frase de palco: errar pequeno",
       "quando": "2026-11-18T06:30:00-03:00",
@@ -2617,6 +2851,23 @@
         "midia/2026-11-18_mesmo-dinheiro/07.jpg"
       ],
       "origem": "2026-11-18_mesmo-dinheiro"
+    },
+    {
+      "id": "FS-38",
+      "titulo": "Frase da semana: Feedback guardado para a avaliação de fim de ano chega onze meses atrasado",
+      "quando": "2026-11-19T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Feedback guardado para a avaliação de fim de ano chega onze meses atrasado.\n\nO que você vê hoje, você fala esta semana: em particular, com o fato, sem rodeio. Guardar para dezembro só garante que a pessoa repita o erro o ano inteiro.\n\nManda para quem marca a conversa só no fim do ano.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-11-19_frase-semana-38/01.jpg"
+      ],
+      "origem": "2026-11-19_frase-semana-38",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM12",
@@ -2813,6 +3064,23 @@
       ],
       "origem": "2026-11-20_odm14",
       "fixo": true
+    },
+    {
+      "id": "FS-39",
+      "titulo": "Frase da semana: Reunião de equipe sem número na mesa vira sessão de desabafo",
+      "quando": "2026-11-21T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Reunião de equipe sem número na mesa vira sessão de desabafo.\n\nLeve três números para a próxima reunião: faturamento da semana, faltas e orçamentos em aberto. A conversa muda quando todo mundo olha a mesma coisa.\n\nSalva para a próxima reunião.\n\n#gestaodeclinicas #equipe #indicadores",
+      "midias": [
+        "midia/2026-11-21_frase-semana-39/01.jpg"
+      ],
+      "origem": "2026-11-21_frase-semana-39",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM08",
@@ -3091,6 +3359,23 @@
       "origem": "2026-11-23_mesmo-anuncio"
     },
     {
+      "id": "FS-40",
+      "titulo": "Frase da semana: Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela",
+      "quando": "2026-11-24T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho dela.\n\nTreinar dá trabalho uma vez. Refazer dá trabalho toda semana: o orçamento mal explicado, a agenda marcada errada, o paciente que voltou irritado.\n\nManda para quem diz que não tem tempo para treinar.\n\n#gestaodeclinicas #equipe #treinamento",
+      "midias": [
+        "midia/2026-11-24_frase-semana-40/01.jpg"
+      ],
+      "origem": "2026-11-24_frase-semana-40",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM16",
       "titulo": "Os Doutores · Frase de palco: agenda cheia e boleto",
       "quando": "2026-11-24T06:30:00-03:00",
@@ -3191,6 +3476,23 @@
       "fixo": true
     },
     {
+      "id": "FS-41",
+      "titulo": "Frase da semana: Você não está sem tempo. Está fazendo tarefa que não é sua",
+      "quando": "2026-11-25T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Você não está sem tempo. Está fazendo tarefa que não é sua.\n\nConferir boleto, responder orçamento, escolher fornecedor, montar escala. Cada uma dessas pode ser de outra pessoa com um bom treino, e o seu tempo volta para o que só você faz.\n\nSalva e escolha a primeira tarefa para passar adiante.\n\n#gestaodeclinicas #donodeclinica #produtividade",
+      "midias": [
+        "midia/2026-11-25_frase-semana-41/01.jpg"
+      ],
+      "origem": "2026-11-25_frase-semana-41",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM10",
       "titulo": "Os Doutores · Frase de palco: crescer dá medo",
       "quando": "2026-11-25T06:30:00-03:00",
@@ -3275,6 +3577,23 @@
         "midia/2026-11-25_ia-no-whatsapp/10.jpg"
       ],
       "origem": "2026-11-25_ia-no-whatsapp"
+    },
+    {
+      "id": "FS-42",
+      "titulo": "Frase da semana: Crescer sem regra escrita só aumenta o tamanho da bagunça",
+      "quando": "2026-11-26T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Crescer sem regra escrita só aumenta o tamanho da bagunça.\n\nAntes de abrir a segunda sala ou contratar mais um profissional, escreva como a clínica funciona hoje: quem faz o quê, em quanto tempo e o que é urgente. Senão você só aumenta o improviso.\n\nManda para quem está pensando em expandir.\n\n#gestaodeclinicas #donodeclinica #processos",
+      "midias": [
+        "midia/2026-11-26_frase-semana-42/01.jpg"
+      ],
+      "origem": "2026-11-26_frase-semana-42",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM17",
@@ -3374,6 +3693,23 @@
       "fixo": true
     },
     {
+      "id": "FS-43",
+      "titulo": "Frase da semana: Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério",
+      "quando": "2026-11-27T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levou a sério.\n\nNinguém muda a clínica num dia. Muda numa sequência de segundas em que olhou o número, teve a conversa difícil e corrigiu uma coisa só.\n\nSalva para lembrar na próxima segunda.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-11-27_frase-semana-43/01.jpg"
+      ],
+      "origem": "2026-11-27_frase-semana-43",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L3-17",
       "titulo": "Um terço do lucro",
       "quando": "2026-11-27T06:30:00-03:00",
@@ -3429,6 +3765,23 @@
       ],
       "origem": "2026-11-27_odj18",
       "fixo": true
+    },
+    {
+      "id": "FS-44",
+      "titulo": "Frase da semana: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um",
+      "quando": "2026-11-28T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um.\n\nA gestão que você faz depois das 20h também tem preço: o seu cansaço, o seu jantar e a sua família. Ou ela entra na agenda em horário próprio, ou passa para alguém da equipe.\n\nManda para quem fecha a clínica no notebook da sala de casa.\n\n#gestaodeclinicas #donodeclinica #reflexao",
+      "midias": [
+        "midia/2026-11-28_frase-semana-44/01.jpg"
+      ],
+      "origem": "2026-11-28_frase-semana-44",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM18",
@@ -3694,6 +4047,23 @@
       "origem": "2026-11-30_mesmo-paciente"
     },
     {
+      "id": "FS-45",
+      "titulo": "Frase da semana: Desconto dado no reflexo não fecha paciente. Ensina ele a pedir de novo",
+      "quando": "2026-12-01T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Desconto dado no reflexo não fecha paciente. Ensina ele a pedir de novo.\n\nAntes de baixar o preço, pergunte o que ficou de dúvida. Na maioria das vezes o paciente não entendeu o tratamento, e desconto não explica nada.\n\nSalva para a próxima vez que pedirem desconto.\n\n#gestaodeclinicas #precificacao #atendimento",
+      "midias": [
+        "midia/2026-12-01_frase-semana-45/01.jpg"
+      ],
+      "origem": "2026-12-01_frase-semana-45",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "L4-10",
       "titulo": "A agenda de janeiro se enche em dezembro. Ou fica vazia.",
       "quando": "2026-12-01T06:30:00-03:00",
@@ -3816,6 +4186,23 @@
       ],
       "origem": "Frases_Semana/stories",
       "fixo": true
+    },
+    {
+      "id": "FS-46",
+      "titulo": "Frase da semana: A recepcionista que você não treinou está falando com o seu paciente agora",
+      "quando": "2026-12-02T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A recepcionista que você não treinou está falando com o seu paciente agora.\n\nÉ ela quem responde o primeiro \"quanto custa?\", quem marca e quem confirma. Tudo o que ela não sabe vira improviso na frente do paciente.\n\nManda para quem ainda não treinou a recepção este ano.\n\n#gestaodeclinicas #recepcao #treinamento",
+      "midias": [
+        "midia/2026-12-02_frase-semana-46/01.jpg"
+      ],
+      "origem": "2026-12-02_frase-semana-46",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "ODM21",
@@ -3977,6 +4364,23 @@
       "fixo": true
     },
     {
+      "id": "FS-47",
+      "titulo": "Frase da semana: Seu melhor colaborador está vendo como você trata o pior",
+      "quando": "2026-12-04T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Seu melhor colaborador está vendo como você trata o pior.\n\nQuando o erro de um não tem consequência, quem faz certo entende o recado. Corrigir com respeito e no tempo certo também é cuidar de quem entrega.\n\nManda para quem lidera uma equipe.\n\n#gestaodeclinicas #lideranca #gestaodepessoas",
+      "midias": [
+        "midia/2026-12-04_frase-semana-47/01.jpg"
+      ],
+      "origem": "2026-12-04_frase-semana-47",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM22",
       "titulo": "Os Doutores · Frase de palco: como foi tratado",
       "quando": "2026-12-04T06:30:00-03:00",
@@ -4059,6 +4463,23 @@
         "midia/2026-12-04_pos-consulta/09.jpg"
       ],
       "origem": "2026-12-04_pos-consulta"
+    },
+    {
+      "id": "FS-48",
+      "titulo": "Frase da semana: Toda vez que você responde paciente às 23h, você ensina que pode",
+      "quando": "2026-12-05T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Toda vez que você responde paciente às 23h, você ensina que pode.\n\nO paciente aprende o horário da clínica pelo que você faz, e não pelo que está escrito na porta. Um canal da clínica com horário e uma regra para urgência protegem o paciente e protegem você.\n\nManda para quem responde paciente da cama.\n\n#gestaodeclinicas #atendimento #whatsapp",
+      "midias": [
+        "midia/2026-12-05_frase-semana-48/01.jpg"
+      ],
+      "origem": "2026-12-05_frase-semana-48",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L4-18",
@@ -4281,6 +4702,23 @@
       "origem": "2026-12-07_whatsapp-pessoal"
     },
     {
+      "id": "FS-49",
+      "titulo": "Frase da semana: Planilha que ninguém abre é só um arquivo bonito",
+      "quando": "2026-12-08T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Planilha que ninguém abre é só um arquivo bonito.\n\nIndicador serve para decidir. Escolha três números, um dia fixo na semana e uma pessoa responsável por trazer. O resto pode esperar.\n\nSalva para montar a sua rotina de números.\n\n#gestaodeclinicas #indicadores #donodeclinica",
+      "midias": [
+        "midia/2026-12-08_frase-semana-49/01.jpg"
+      ],
+      "origem": "2026-12-08_frase-semana-49",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM23",
       "titulo": "Os Doutores · Frase de palco: uma coisa por semana",
       "quando": "2026-12-08T06:30:00-03:00",
@@ -4358,6 +4796,23 @@
       "fixo": true
     },
     {
+      "id": "FS-50",
+      "titulo": "Frase da semana: A equipe faz o que você confere. O resto ela faz quando dá",
+      "quando": "2026-12-09T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "A equipe faz o que você confere. O resto ela faz quando dá.\n\nO que não tem dono e não tem dia para ser conferido vira \"depois\". Escolha as três tarefas que mais importam e diga quando você vai olhar cada uma.\n\nManda para quem sente que fala e ninguém faz.\n\n#gestaodeclinicas #equipe #lideranca",
+      "midias": [
+        "midia/2026-12-09_frase-semana-50/01.jpg"
+      ],
+      "origem": "2026-12-09_frase-semana-50",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "ODM24",
       "titulo": "Os Doutores · Frase de palco: quem já confiou em você",
       "quando": "2026-12-09T06:30:00-03:00",
@@ -4432,6 +4887,23 @@
       ],
       "origem": "2026-12-09_metafora-gps",
       "fixo": true
+    },
+    {
+      "id": "FS-51",
+      "titulo": "Frase da semana: Contratar rápido para apagar incêndio costuma acender o próximo",
+      "quando": "2026-12-10T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Contratar rápido para apagar incêndio costuma acender o próximo.\n\nAntes de abrir a vaga, escreva o que a pessoa vai fazer no primeiro mês e quem vai treinar. Contratação sem isso só troca o problema de lugar.\n\nSalva para a próxima contratação.\n\n#gestaodeclinicas #contratacao #gestaodepessoas",
+      "midias": [
+        "midia/2026-12-10_frase-semana-51/01.jpg"
+      ],
+      "origem": "2026-12-10_frase-semana-51",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD41",
@@ -4516,6 +4988,23 @@
       "fixo": true
     },
     {
+      "id": "FS-52",
+      "titulo": "Frase da semana: Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe",
+      "quando": "2026-12-11T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Ser excelente no que faz te trouxe até aqui. Daqui para frente, você vai precisar de equipe.\n\nA técnica construiu a sua reputação. O próximo passo depende de gente que atende, vende e organiza tão bem quanto você cuida.\n\nManda para quem ainda faz tudo sozinho.\n\n#gestaodeclinicas #equipe #reflexao",
+      "midias": [
+        "midia/2026-12-11_frase-semana-52/01.jpg"
+      ],
+      "origem": "2026-12-11_frase-semana-52",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD42",
       "titulo": "Os Doutores · Joana senta com o Gabriel: o sábado",
       "quando": "2026-12-11T12:30:00-03:00",
@@ -4581,6 +5070,23 @@
       ],
       "origem": "2026-12-11_taxa-de-falta",
       "fixo": true
+    },
+    {
+      "id": "FS-53",
+      "titulo": "Frase da semana: Seu paciente compara o seu atendimento com o melhor que ele já recebeu na vida",
+      "quando": "2026-12-12T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Seu paciente compara o seu atendimento com o melhor que ele já recebeu na vida.\n\nEle compara com o aplicativo que respondeu em um minuto e com o restaurante que lembrou do nome dele. É essa régua que ele traz para a sua recepção.\n\nManda para quem cuida do atendimento na sua clínica.\n\n#gestaodeclinicas #atendimento #experienciadopaciente",
+      "midias": [
+        "midia/2026-12-12_frase-semana-53/01.jpg"
+      ],
+      "origem": "2026-12-12_frase-semana-53",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L3-30",
@@ -4810,6 +5316,23 @@
         "midia/2026-12-14_mercado-em-10-numeros/13.jpg"
       ],
       "origem": "2026-12-14_mercado-em-10-numeros"
+    },
+    {
+      "id": "FS-54",
+      "titulo": "Frase da semana: Confraternização boa não apaga um ano de combinados que você não cumpriu com a equipe",
+      "quando": "2026-12-15T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Confraternização boa não apaga um ano de combinados que você não cumpriu com a equipe.\n\nA festa de dezembro ajuda, mas o que a equipe lembra é se o aumento prometido veio, se a folga combinada aconteceu e se a regra valeu para todos.\n\nManda para quem está organizando a confraternização.\n\n#gestaodeclinicas #gestaodepessoas #lideranca",
+      "midias": [
+        "midia/2026-12-15_frase-semana-54/01.jpg"
+      ],
+      "origem": "2026-12-15_frase-semana-54",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "L4-38",
@@ -5094,6 +5617,23 @@
       "fixo": true
     },
     {
+      "id": "FS-55",
+      "titulo": "Frase da semana: Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu",
+      "quando": "2026-12-22T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Deixe por escrito quem resolve o quê até janeiro. Assim o seu Natal é seu.\n\nQuem responde o WhatsApp, quem decide um reagendamento, o que é urgência e para quem ligar. Uma folha resolve, e o seu celular fica em paz no recesso.\n\nSalva e faça essa lista antes do recesso.\n\n#gestaodeclinicas #recepcao #natal",
+      "midias": [
+        "midia/2026-12-22_frase-semana-55/01.jpg"
+      ],
+      "origem": "2026-12-22_frase-semana-55",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD62",
       "titulo": "Os Doutores · Lívia: 22h, o grupo da equipe e a briga pela comissão",
       "quando": "2026-12-22T12:30:00-03:00",
@@ -5148,6 +5688,23 @@
       ],
       "origem": "Frases_Semana/stories",
       "fixo": true
+    },
+    {
+      "id": "FS-56",
+      "titulo": "Frase da semana: Hoje a clínica pode esperar. Quem está na sua mesa, não",
+      "quando": "2026-12-24T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Hoje a clínica pode esperar. Quem está na sua mesa, não.\n\nBoa noite de Natal para você e para quem está com você.\n\nManda para alguém que precisa ler isso hoje.\n\n#gestaodeclinicas #natal #reflexao",
+      "midias": [
+        "midia/2026-12-24_frase-semana-56/01.jpg"
+      ],
+      "origem": "2026-12-24_frase-semana-56",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD52",
@@ -5313,6 +5870,23 @@
       "fixo": true
     },
     {
+      "id": "FS-57",
+      "titulo": "Frase da semana: Meta sem dono vira desejo de ano novo",
+      "quando": "2026-12-29T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Meta sem dono vira desejo de ano novo.\n\nPara cada meta de 2027, escreva um número, uma data e o nome de quem cuida dela. O que fica sem dono volta na lista do próximo dezembro.\n\nSalva para o planejamento de 2027.\n\n#gestaodeclinicas #metas #planejamento",
+      "midias": [
+        "midia/2026-12-29_frase-semana-57/01.jpg"
+      ],
+      "origem": "2026-12-29_frase-semana-57",
+      "fixo": true,
+      "frase": true
+    },
+    {
       "id": "OD63",
       "titulo": "Os Doutores · Eduardo: o bônus que virou salário",
       "quando": "2026-12-29T12:30:00-03:00",
@@ -5373,6 +5947,23 @@
       ],
       "origem": "2026-12-30_od64",
       "fixo": true
+    },
+    {
+      "id": "FS-58",
+      "titulo": "Frase da semana: Quem fecha o ano sem saber o lucro começa o próximo no escuro",
+      "quando": "2026-12-31T06:00:00-03:00",
+      "tipo": "imagem",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "",
+      "stories": "",
+      "legenda": "Quem fecha o ano sem saber o lucro começa o próximo no escuro.\n\nAntes da virada, separe meia hora: quanto entrou em 2026, quanto saiu e quanto sobrou. É o primeiro número do seu planejamento de 2027.\n\nSalva para fazer ainda hoje.\n\n#gestaodeclinicas #financeiro #planejamento",
+      "midias": [
+        "midia/2026-12-31_frase-semana-58/01.jpg"
+      ],
+      "origem": "2026-12-31_frase-semana-58",
+      "fixo": true,
+      "frase": true
     },
     {
       "id": "OD59",
