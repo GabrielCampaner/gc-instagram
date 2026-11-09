@@ -6,6 +6,7 @@
 //   teste     prepara o post POST_ID no Instagram (imagens, legenda, carrossel) e confere, sem publicar
 //   midias    grava em feed.json os últimos posts do perfil (para saber o que já saiu)
 //   insights  grava em insights.json alcance e engajamento da conta e dos posts (roda todo dia às 23h41)
+//   estudo    grava em feed.json os posts do perfil com as métricas de cada um desde POST_ID (AAAA-MM-DD), para análise
 // A cada post publicado (ou falha), comenta na issue "Avisos de publicação" do GitHub com quantos posts faltam.
 // Variáveis: IG_TOKEN (segredo do GitHub), MIDIA_BASE (endereço público da pasta do repositório), IG_API_VERSAO (opcional).
 const fs = require("fs"), path = require("path");
@@ -161,6 +162,63 @@ async function insights() {
     if (!ok && posts.length) console.log("Sem métricas: " + posts[0].metricas.erro + "\nFalta a permissão instagram_business_manage_insights no token (adicione no app da Meta e gere outro token).");
 }
 
+// Estudo do perfil: lê até 400 posts (como "midias", grava em feed.json) e soma as métricas de cada post publicado desde POST_ID
+// (data AAAA-MM-DD; padrão: 60 dias atrás). Também imprime o alcance diário e os seguidores da conta no período (linha CONTA_JSON).
+async function estudo() {
+    const desde = /^\d{4}-\d{2}-\d{2}$/.test(POST_ID) ? POST_ID : new Date(Date.now() - 60 * 864e5).toISOString().slice(0, 10);
+    const todas = [];
+    let after = null;
+    for (let pag = 0; pag < 8; pag++) {
+        const r = await ig("GET", "/me/media", { fields: "id,caption,media_type,media_product_type,permalink,timestamp,like_count,comments_count", limit: "50", ...(after ? { after } : {}) });
+        todas.push(...(r.data || []));
+        after = r.paging && r.paging.next && r.paging.cursors ? r.paging.cursors.after : null;
+        const ultimo = todas[todas.length - 1];
+        if (!after || (todas.length >= 200 && ultimo && ultimo.timestamp.slice(0, 10) < desde)) break;
+    }
+    // Métricas por tipo: tenta o grupo completo, depois o básico; o que deu certo vale para os próximos do mesmo tipo.
+    const GRUPOS = {
+        REELS: ["reach,views,likes,comments,shares,saved,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time", "reach,views,likes,comments,shares,saved,total_interactions"],
+        FEED: ["reach,views,likes,comments,shares,saved,total_interactions,follows,profile_visits", "reach,views,likes,comments,shares,saved,total_interactions"]
+    };
+    const certo = {};
+    let lidos = 0, falhas = 0;
+    for (const m of todas) {
+        if (m.timestamp.slice(0, 10) < desde) continue;
+        const tipo = m.media_product_type === "REELS" ? "REELS" : "FEED";
+        const met = {};
+        for (const g of certo[tipo] ? [certo[tipo]] : GRUPOS[tipo]) {
+            try {
+                const r = await ig("GET", "/" + m.id + "/insights", { metric: g });
+                for (const d of r.data || []) met[d.name] = d.values && d.values[0] ? d.values[0].value : d.total_value && d.total_value.value;
+                certo[tipo] = g;
+                delete met.erro;
+                break;
+            } catch (e) { met.erro = e.message.slice(0, 160); }
+        }
+        if (met.erro) falhas++; else lidos++;
+        const nosso = Object.entries(pub).find(([, r]) => r.media_id === m.id);
+        m.gc = nosso ? nosso[0] : null;
+        m.metricas = met;
+        await espera(150);
+    }
+    fs.writeFileSync(path.join(RAIZ, "feed.json"), JSON.stringify(todas, null, 2) + "\n", "utf8");
+    console.log(todas.length + " posts lidos do perfil (feed.json). Métricas desde " + desde + ": " + lidos + " posts" + (falhas ? ", " + falhas + " sem métricas" : "") + ". Grupos: " + JSON.stringify(certo));
+    // Conta: alcance por dia (janelas de 30 dias) e seguidores por dia (a API só guarda os últimos 30).
+    const conta = { desde, alcance_dia: [], seguidores_dia: [], erros: [] };
+    const fim = Math.floor(Date.now() / 1000);
+    for (let ini = Math.floor(Date.parse(desde + "T03:00:00Z") / 1000); ini < fim; ini += 30 * 86400) {
+        try {
+            const r = await ig("GET", "/me/insights", { metric: "reach", period: "day", since: String(ini), until: String(Math.min(ini + 30 * 86400, fim)) });
+            for (const v of ((r.data || [])[0] || {}).values || []) conta.alcance_dia.push([v.end_time.slice(0, 10), v.value]);
+        } catch (e) { conta.erros.push("reach: " + e.message.slice(0, 140)); }
+    }
+    try {
+        const r = await ig("GET", "/me/insights", { metric: "follower_count", period: "day", since: String(fim - 29 * 86400), until: String(fim) });
+        for (const v of ((r.data || [])[0] || {}).values || []) conta.seguidores_dia.push([v.end_time.slice(0, 10), v.value]);
+    } catch (e) { conta.erros.push("follower_count: " + e.message.slice(0, 140)); }
+    console.log("CONTA_JSON " + JSON.stringify(conta));
+}
+
 async function conferir() {
     const eu = await ig("GET", "/me", { fields: "id,username,account_type" });
     console.log("Conta: @" + eu.username + " (" + eu.account_type + ", id " + eu.id + ")");
@@ -244,6 +302,7 @@ async function publicar() {
     if (ACAO === "conferir") return conferir();
     if (ACAO === "midias") return midias();
     if (ACAO === "insights") return insights();
+    if (ACAO === "estudo") return estudo();
     if (ACAO === "aviso") { await avisar("Teste do canal de avisos: é aqui que chega cada post publicado.\n\n" + resumoFila()); console.log("Aviso de teste enviado.\n" + resumoFila()); return; }
     if (ACAO === "teste") {
         const p = cal.posts.find(x => x.id === POST_ID);
