@@ -138,6 +138,9 @@ class Reel:
             x = max(0, min(1080 - w, int(zx - w / 2)))
             y = max(0, min(1920 - h, int(zy - h / 2)))
             vf += [f"crop={w}:{h}:{x}:{y}", "scale=1080:1920,setsar=1"]
+        ab = self.j.get("abertura")
+        if pronta and ab and i == 0:  # frase de abertura: a cena fica escura por trás (primeiro quadro = capa no feed)
+            vf.append(f"drawbox=x=0:y=0:w=iw:h=ih:color=black@0.58:t=fill:enable='lt(t\\,{ab.get('ate', 2.6)})'")
         if pronta:
             if c.get("sem_hud"):  # cena fora da câmera de segurança (ex.: na rua, pelo celular)
                 vf += ["eq=saturation=0.95:contrast=1.02", "vignette=angle=PI/4", "noise=alls=4:allf=t"]
@@ -303,8 +306,13 @@ class Reel:
                 b = self.ini[i] + nm.get("ate", 2.8)
                 ev.append(f"Dialogue: 2,{ts(a, False)},{ts(b, False)},Nome,,0,0,0,,"
                           f"{{\\fad(150,200)\\an5\\pos({nm['x']},{nm['y']})}}{nm['txt']}")
+        # frase de abertura grande no meio (estilo do CI-01): {am} amarelo, {br} branco
+        if j.get("abertura"):
+            ab = j["abertura"]
+            txt = "\\N".join(ab["linhas"]).replace("{am}", "{\\c&H4DE1FF&}").replace("{br}", "{\\c&HFFFFFF&}")
+            ev.append(f"Dialogue: 4,{ts(0.0, False)},{ts(ab.get('ate', 2.6), False)},Abre,,0,0,0,,{{\\fad(0,220)}}{txt}")
         # gancho no topo da primeira cena
-        if j.get("gancho"):
+        if j.get("gancho") and not j.get("abertura"):
             g = j["gancho"]
             ev.append(f"Dialogue: 3,{ts(0.0, False)},{ts(g.get('ate', 3.2), False)},Gancho,,0,0,0,,"
                       f"{{\\fad(0,250)}}" + "\\N".join(g["linhas"]))
@@ -361,6 +369,7 @@ class Reel:
                      "Style: Gancho,DejaVu Sans,50,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,-1,0,0,0,100,100,0,0,3,16,0,8,70,70,232,1\n"
                      "Style: Pensa,DejaVu Sans,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1\n"
                      "Style: Nome,DejaVu Sans Mono,30,&H00111111,&H00111111,&H004DE1FF,&H004DE1FF,-1,0,0,0,100,100,1,0,3,9,0,5,0,0,0,1\n"
+                     "Style: Abre,DejaVu Sans,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,-1,0,1,5,2,5,70,70,0,1\n"
                      "Style: Fecho,DejaVu Sans,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1\n\n"
                      "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
             fh.write("\n".join(ev) + "\n")
