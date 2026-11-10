@@ -1,9 +1,11 @@
 # Calendário de postagem · 1 vídeo por dia, às 19h (horário de Brasília)
 
 Já postados: CI-01 (Dra. Renata), CI-11 (Dra. Helena), CI-12 (Dr. Otávio) e CI-14 (nem sempre o cliente tem razão).
-Sem capa: o primeiro quadro de cada vídeo já é a abertura com a frase forte. Ligar o rótulo de IA do Instagram ao postar.
+Capa: a frase forte da abertura. Ao agendar, use a `capa.jpg` da pasta do vídeo (é o quadro da frase) ou escolha o primeiro quadro do vídeo. Ligar o rótulo de IA do Instagram ao postar.
 
 ## 10/11 (terça) · 19h · CI-15
+
+Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
 Vídeo: `midia/ci-15-recepcao-lotada/reels.mp4`
 
@@ -27,6 +29,8 @@ Vídeo criado com IA. Personagens e clínica fictícios, situações reais. Núm
 
 ## 11/11 (quarta) · 19h · CI-13
 
+Capa: a frase de abertura (`capa.jpg` na mesma pasta)
+
 Vídeo: `midia/ci-13-o-desconto-que-ninguem-pediu/reels.mp4`
 
 ```text
@@ -49,6 +53,8 @@ Vídeo criado com IA. Personagens fictícios, situações reais. Números de sim
 
 ## 12/11 (quinta) · 19h · E-02
 
+Capa: a frase de abertura (`capa.jpg` na mesma pasta)
+
 Vídeo: `midia/e-02-depende-do-mes/reels.mp4`
 
 ```text
@@ -69,6 +75,8 @@ Vídeo criado com IA. Os doutores são personagens fictícios. A voz é a minha,
 
 ## 13/11 (sexta) · 19h · PO-02
 
+Capa: a frase de abertura (`capa.jpg` na mesma pasta)
+
 Vídeo: `midia/po-02-mais-um-plantao/reels.mp4`
 
 ```text
@@ -86,6 +94,8 @@ Vídeo criado com IA. Personagem fictício, situação real.
 ```
 
 ## 14/11 (sábado) · 19h · E-04
+
+Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
 Vídeo: `midia/e-04-fala-o-preco-pra-mim/reels.mp4`
 
