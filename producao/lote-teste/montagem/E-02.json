@@ -13,6 +13,21 @@
   {
    "clip": "E-02_p1",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "SEGUNDA",
+   "hora": [
+    17,
+    10,
+    0
+   ],
+   "sfx_db": -40
+  },
+  {
+   "clip": "E-02_p1",
+   "de": 0,
    "ate": 6,
    "vel": 0.9,
    "hold": 0.3,
@@ -111,7 +126,7 @@
  "falas": [
   {
    "a": "E-02_g1",
-   "cena": 0,
+   "cena": 1,
    "t": 0.3,
    "db": -2.5,
    "texto": "Quanto você tira pra você, todo mês?",
@@ -122,7 +137,7 @@
   },
   {
    "a": "E-02_h1_t1",
-   "cena": 0,
+   "cena": 1,
    "t": 3.9,
    "texto": "Ah… depende do mês.",
    "rosto": [
@@ -132,7 +147,7 @@
   },
   {
    "a": "E-02_g2",
-   "cena": 1,
+   "cena": 2,
    "t": 0.3,
    "db": -2.5,
    "texto": "Quanto custa a clínica aberta? Quantas horas você atende de verdade?",
@@ -143,7 +158,7 @@
   },
   {
    "a": "E-02_h2_t1",
-   "cena": 2,
+   "cena": 3,
    "t": 0.3,
    "texto": "Uns cinquenta e dois mil. E… umas cento e vinte horas?",
    "rosto": [
@@ -153,7 +168,7 @@
   },
   {
    "a": "E-02_g3",
-   "cena": 3,
+   "cena": 4,
    "t": 0.6,
    "db": -2.5,
    "texto": "R$ 433 por hora, pra abrir a porta. Na consulta, sobram R$ 60.",
@@ -164,7 +179,7 @@
   },
   {
    "a": "E-02_h3_t1",
-   "cena": 4,
+   "cena": 5,
    "t": 0.3,
    "texto": "E eu ia abrir o sábado.",
    "rosto": [
@@ -174,7 +189,7 @@
   },
   {
    "a": "E-02_g4",
-   "cena": 4,
+   "cena": 5,
    "t": 2.6,
    "db": -2.5,
    "texto": "Agora faz a conta aí, vai, antes de abrir o horário.",
@@ -293,5 +308,14 @@
    ]
   }
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "abertura": {
+  "linhas": [
+   "Perguntei quanto",
+   "ela tira pra ela.",
+   "{am}“Depende{br}",
+   "{am}do mês.”{br}"
+  ],
+  "ate": 2.5
+ }
 }

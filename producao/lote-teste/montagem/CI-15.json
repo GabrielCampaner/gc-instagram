@@ -13,6 +13,22 @@
   {
    "clip": "CI-15_h1",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    14,
+    46,
+    57
+   ],
+   "sfx_db": -40,
+   "sem_hud": true
+  },
+  {
+   "clip": "CI-15_h1",
+   "de": 0,
    "ate": 5.5,
    "sem_hud": true,
    "cam": "",
@@ -164,56 +180,56 @@
  "falas": [
   {
    "a": "som_msg_eu",
-   "cena": 2,
+   "cena": 3,
    "t": 0.9,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 2,
+   "cena": 3,
    "t": 2.0,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_ela",
-   "cena": 2,
+   "cena": 3,
    "t": 3.3,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_ela",
-   "cena": 2,
+   "cena": 3,
    "t": 3.8,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 2,
+   "cena": 3,
    "t": 5.1,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 3,
+   "cena": 4,
    "t": 2.8,
    "db": -14,
    "limpo": true
   },
   {
    "a": "som_msg_eu",
-   "cena": 3,
+   "cena": 4,
    "t": 4.6,
    "db": -14,
    "limpo": true
   },
   {
    "a": "CI-15_m1_t1",
-   "cena": 4,
+   "cena": 5,
    "t": 2.0,
    "texto": "Moça, por que vocês não dão conta de responder o WhatsApp?",
    "rosto": [
@@ -223,7 +239,7 @@
   },
   {
    "a": "CI-15_r1_t1",
-   "cena": 4,
+   "cena": 5,
    "t": 5.0,
    "texto": "Só um minutinho, senhora… Clínica Venna, bom dia?",
    "rosto": [
@@ -233,7 +249,7 @@
   },
   {
    "a": "CI-15_m2_t1",
-   "cena": 5,
+   "cena": 6,
    "t": 0.3,
    "texto": "Desde ontem eu tento marcar a ginecologista. Eu tava passando aqui na rua e resolvi entrar.",
    "rosto": [
@@ -243,7 +259,7 @@
   },
   {
    "a": "CI-15_r2_t1",
-   "cena": 5,
+   "cena": 6,
    "t": 5.2,
    "texto": "Pode aguardar na linha? … Crédito ou débito?",
    "rosto": [
@@ -253,7 +269,7 @@
   },
   {
    "a": "CI-15_r3_t1",
-   "cena": 6,
+   "cena": 7,
    "t": 0.45,
    "texto": "Ah, mas pelo WhatsApp é bem mais rápido, viu?",
    "rosto": [
@@ -263,7 +279,7 @@
   },
   {
    "a": "CI-15_m3_t1",
-   "cena": 6,
+   "cena": 7,
    "t": 3.4,
    "texto": "…Pelo WhatsApp.",
    "rosto": [
@@ -274,7 +290,7 @@
   },
   {
    "a": "som_notif",
-   "cena": 6,
+   "cena": 7,
    "t": 5.0,
    "db": -8,
    "limpo": true
@@ -386,16 +402,25 @@
  "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
  "pensamento": [
   {
-   "de": 11.299999999999999,
-   "ate": 12.399999999999999,
+   "de": 13.8,
+   "ate": 14.9,
    "txt": "4 horas depois…",
    "y": 450
   },
   {
-   "de": 14.7,
-   "ate": 15.899999999999999,
+   "de": 17.2,
+   "ate": 18.4,
    "txt": "…e mais nada.",
    "y": 450
   }
- ]
+ ],
+ "abertura": {
+  "linhas": [
+   "Dois dias tentando",
+   "marcar consulta.",
+   "{am}Ninguém{br}",
+   "{am}marcou.{br}"
+  ],
+  "ate": 2.5
+ }
 }

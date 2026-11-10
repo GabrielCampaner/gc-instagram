@@ -13,6 +13,21 @@
   {
    "clip": "CI-13_a",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "TERÇA",
+   "hora": [
+    10,
+    20,
+    5
+   ],
+   "sfx_db": -40
+  },
+  {
+   "clip": "CI-13_a",
+   "de": 0,
    "ate": 6,
    "vel": 0.94,
    "cam": "CAM 02 · CONSULTÓRIO",
@@ -69,37 +84,37 @@
  "falas": [
   {
    "a": "CI-13_p1_t1",
-   "cena": 0,
+   "cena": 1,
    "t": 0.5,
    "texto": "E quanto fica, doutora?"
   },
   {
    "a": "CI-13_s1_t1",
-   "cena": 0,
+   "cena": 1,
    "t": 2.25,
    "texto": "Trinta e dois mil… mas pra você eu faço vinte e oito, tá?"
   },
   {
    "a": "CI-13_p2_t1",
-   "cena": 1,
+   "cena": 2,
    "t": 0.5,
    "texto": "E o valor da…"
   },
   {
    "a": "CI-13_s2_t1",
-   "cena": 1,
+   "cena": 2,
    "t": 2.0,
    "texto": "Pra você eu já tiro dez por cento!"
   },
   {
    "a": "CI-13_p3_t1",
-   "cena": 2,
+   "cena": 3,
    "t": 0.6,
    "texto": "E…"
   },
   {
    "a": "CI-13_s3_t1",
-   "cena": 2,
+   "cena": 3,
    "t": 1.25,
    "texto": "Parcelo em doze sem juros!"
   }
@@ -195,5 +210,14 @@
    ]
   }
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "abertura": {
+  "linhas": [
+   "Nenhuma paciente",
+   "pediu desconto.",
+   "{am}Ela deu{br}",
+   "{am}mesmo assim.{br}"
+  ],
+  "ate": 2.5
+ }
 }

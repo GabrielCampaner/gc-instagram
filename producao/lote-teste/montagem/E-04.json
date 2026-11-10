@@ -13,6 +13,21 @@
   {
    "clip": "E-04_p1",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "CAM 03 · CONSULTÓRIO",
+   "rotulo": "QUINTA",
+   "hora": [
+    19,
+    4,
+    59
+   ],
+   "sfx_db": -40
+  },
+  {
+   "clip": "E-04_p1",
+   "de": 0,
    "ate": 8,
    "hold": 0.4,
    "cam": "CAM 03 · CONSULTÓRIO",
@@ -97,7 +112,7 @@
  "falas": [
   {
    "a": "E-04_g1",
-   "cena": 0,
+   "cena": 1,
    "t": 0.4,
    "db": -2.5,
    "texto": "Finge que eu sou o paciente. Quanto fica?",
@@ -108,7 +123,7 @@
   },
   {
    "a": "E-04_s1_t1",
-   "cena": 0,
+   "cena": 1,
    "t": 4.0,
    "texto": "Então… a Kelly te passa direitinho os valores, tá?",
    "rosto": [
@@ -118,7 +133,7 @@
   },
   {
    "a": "E-04_g2",
-   "cena": 1,
+   "cena": 2,
    "t": 0.1,
    "db": -2.5,
    "texto": "Doutora, olhando pra mim, tá? Com voz normal.",
@@ -129,7 +144,7 @@
   },
   {
    "a": "E-04_s2_t1",
-   "cena": 2,
+   "cena": 3,
    "t": 0.8,
    "texto": "Pro teu caso, eu indico a cirurgia. Fica trinta e dois mil, com exames e retornos inclusos.",
    "rosto": [
@@ -139,7 +154,7 @@
   },
   {
    "a": "E-04_g3",
-   "cena": 3,
+   "cena": 4,
    "t": 0.3,
    "db": -2.5,
    "texto": "Agora fica em silêncio. Depois pergunta o que ficou de dúvida.",
@@ -150,7 +165,7 @@
   },
   {
    "a": "E-04_s3_t1",
-   "cena": 3,
+   "cena": 4,
    "t": 4.7,
    "texto": "Nossa. Não doeu.",
    "rosto": [
@@ -242,5 +257,14 @@
    ]
   }
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "abertura": {
+  "linhas": [
+   "Ela nunca fala",
+   "o preço.",
+   "{am}Hoje ela treinou{br}",
+   "{am}comigo.{br}"
+  ],
+  "ate": 2.5
+ }
 }

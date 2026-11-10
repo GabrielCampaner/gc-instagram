@@ -369,7 +369,7 @@ class Reel:
                      "Style: Gancho,DejaVu Sans,50,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,-1,0,0,0,100,100,0,0,3,16,0,8,70,70,232,1\n"
                      "Style: Pensa,DejaVu Sans,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1\n"
                      "Style: Nome,DejaVu Sans Mono,30,&H00111111,&H00111111,&H004DE1FF,&H004DE1FF,-1,0,0,0,100,100,1,0,3,9,0,5,0,0,0,1\n"
-                     "Style: Abre,DejaVu Sans,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,-1,0,1,5,2,5,70,70,0,1\n"
+                     "Style: Abre,DejaVu Sans,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,-1,0,1,5,2,5,70,70,0,1\n"
                      "Style: Fecho,DejaVu Sans,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1\n\n"
                      "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
             fh.write("\n".join(ev) + "\n")

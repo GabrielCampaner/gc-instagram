@@ -6,6 +6,21 @@
   {
    "clip": "PO-02",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "",
+   "rotulo": "",
+   "hora": [
+    6,
+    11,
+    57
+   ],
+   "sfx_db": -40
+  },
+  {
+   "clip": "PO-02",
+   "de": 0,
    "ate": 8,
    "hora": [
     6,
@@ -17,14 +32,14 @@
  ],
  "pensamento": [
   {
-   "de": 0.0,
-   "ate": 4.6,
+   "de": 2.5,
+   "ate": 7.1,
    "txt": "Mais um plantão\\Ne eu fecho o mês.",
    "y": 520
   },
   {
-   "de": 4.7,
-   "ate": 8.0,
+   "de": 7.2,
+   "ate": 10.5,
    "txt": "Eu falo isso\\Nhá seis anos.",
    "y": 520
   }
@@ -32,7 +47,7 @@
  "falas": [
   {
    "a": "PO-02_caio_t1",
-   "cena": 0,
+   "cena": 1,
    "t": 0.4,
    "texto": ""
   }
@@ -72,5 +87,14 @@
    ]
   }
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "abertura": {
+  "linhas": [
+   "“Só mais um",
+   "plantão.”",
+   "Ele fala isso",
+   "{am}há seis anos.{br}"
+  ],
+  "ate": 2.5
+ }
 }
