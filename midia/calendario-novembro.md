@@ -3,7 +3,19 @@
 Já postados: CI-01 (Dra. Renata), CI-11 (Dra. Helena), CI-12 (Dr. Otávio) e CI-14 (nem sempre o cliente tem razão).
 Capa: a frase forte da abertura. Ao agendar, use a `capa.jpg` da pasta do vídeo (é o quadro da frase) ou escolha o primeiro quadro do vídeo. Ligar o rótulo de IA do Instagram ao postar.
 
-## 10/11 (terça) · 19h · CI-15
+## Como agendar no Meta Business Suite (computador: business.facebook.com)
+
+1. Planejador (ou Conteúdo) → **Criar reel**. Marque só a conta do Instagram.
+2. Envie o `reels.mp4` da pasta do vídeo.
+3. **Capa**: troque a miniatura e envie a `capa.jpg` da mesma pasta (ou escolha o primeiro quadro, que é a mesma frase).
+4. Cole a legenda do dia (o texto dentro do bloco abaixo, inteiro, com as hashtags).
+5. Se aparecer a opção de rótulo de conteúdo de IA, ligue.
+6. Em vez de "Compartilhar agora", escolha **Agendar**, coloque a data e 19:00, e confirme.
+7. Repita para os 5. No fim, confira na aba Planejador se os 5 aparecem nos dias certos.
+
+Se algum destes já tiver sido postado, pule e puxe os seguintes um dia para frente.
+
+## 12/11 (quinta) · 19h · CI-15
 
 Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
@@ -27,7 +39,7 @@ Vídeo criado com IA. Personagens e clínica fictícios, situações reais. Núm
 #gestaodeclinicas #atendimento #recepcao
 ```
 
-## 11/11 (quarta) · 19h · CI-13
+## 13/11 (sexta) · 19h · CI-13
 
 Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
@@ -51,7 +63,7 @@ Vídeo criado com IA. Personagens fictícios, situações reais. Números de sim
 #gestaodeclinicas #consultorio #precificacao
 ```
 
-## 12/11 (quinta) · 19h · E-02
+## 14/11 (sábado) · 19h · E-02
 
 Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
@@ -73,7 +85,7 @@ Vídeo criado com IA. Os doutores são personagens fictícios. A voz é a minha,
 #gestaodeclinicas #consultorio #precificacao
 ```
 
-## 13/11 (sexta) · 19h · PO-02
+## 15/11 (domingo) · 19h · PO-02
 
 Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
@@ -93,7 +105,7 @@ Vídeo criado com IA. Personagem fictício, situação real.
 #medicos #plantao #gestaodeclinicas
 ```
 
-## 14/11 (sábado) · 19h · E-04
+## 16/11 (segunda) · 19h · E-04
 
 Capa: a frase de abertura (`capa.jpg` na mesma pasta)
 
