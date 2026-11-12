@@ -9723,6 +9723,23 @@
       ],
       "origem": "2027-03-30_od152",
       "fixo": true
+    },
+    {
+      "id": "IA-CI15",
+      "titulo": "Vídeo IA · Recepção lotada não é paciente bem atendido",
+      "quando": "2026-11-17T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Recepção lotada não quer dizer paciente bem atendido.\n\nOntem, 14h47: \"quero marcar uma consulta com a ginecologista\".\n19h27: \"Qual seu convênio?\". Ela respondeu. Ninguém mais respondeu.\nHoje, 11h52: ela passou na clínica, com a filha, pra marcar pessoalmente. Ouviu: \"pelo WhatsApp é bem mais rápido\".\n\n280 minutos pra primeira resposta, e a consulta não foi marcada (números de exemplo). A recepção cheia esconde quem desistiu antes de entrar.\n\nQuem atende o balcão não dá conta do WhatsApp ao mesmo tempo. Separa as funções e mede uma coisa toda semana: quanto tempo leva a primeira resposta.\n\nManda pra quem precisa ver, curte aqui e comenta EXAME que eu avalio o atendimento da tua clínica.\n\nVídeo criado com IA. Personagens e clínica fictícios, situações reais. Números de simulação.\n\n#gestaodeclinicas #atendimento #recepcao",
+      "midias": [
+        "midia/2026-11-17_ia-ci15/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-17_ia-ci15/capa.jpg"
     }
   ],
   "liberados": [
