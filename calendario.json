@@ -1827,7 +1827,7 @@
       "quando": "2026-11-10T20:30:00-03:00",
       "tipo": "imagem",
       "status": "pausado",
-      "pendencia": "",
+      "pendencia": "data comemorativa já passou (10/11/2026)",
       "obs": "",
       "stories": "Caixinha: \"Quantas recepcionistas a sua clínica teve em 2026?\"",
       "legenda": "Rotatividade de recepcionista: cada volta da porta leva o que só ela sabia.\n\nO jeito de falar com o paciente, a lista de retornos, as senhas, os pacientes em andamento. E a clínica treina tudo de novo.\n\nProcesso escrito não sai pela porta.\n\nManda para o seu sócio.\n\n#gestaodeclinicas #gestaodepessoas #recepcao #equipe",
@@ -2231,6 +2231,23 @@
       "capa": "midia/2026-11-12_tv-01/capa.jpg"
     },
     {
+      "id": "IA-E06",
+      "titulo": "Vídeo IA · Essa consultoria não funciona (Dra. Renata)",
+      "quando": "2026-11-12T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Renata chegou atrasada na nossa reunião e disse: \"essa consultoria não funciona\".\n\nEu concordei. Consultoria que manda um PDF e volta em 30 dias não funciona mesmo.\n\nClínica muda no dia a dia: a pauta de manhã, o número na mesa e alguém cobrando no fim do dia. Ninguém muda uma clínica uma vez por mês.\n\nManda para quem já pagou consultoria e não viu nada mudar.\n\nCena criada com IA. A situação é real.\n\n#gestaodeclinicas #donodeclinica #consultoria",
+      "midias": [
+        "midia/2026-11-12_ia-e06/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-12_ia-e06/capa.jpg"
+    },
+    {
       "id": "L4-25",
       "titulo": "Pacientes particulares na psicologia, na nutrição e na fisioterapia",
       "quando": "2026-11-12T20:30:00-03:00",
@@ -2441,6 +2458,23 @@
       "origem": "Tutoria de Vendas",
       "fixo": true,
       "capa": "midia/2026-11-13_tv-07/capa.jpg"
+    },
+    {
+      "id": "IA-CI13",
+      "titulo": "Vídeo IA · O desconto que ninguém pediu (Dra. Sofia)",
+      "quando": "2026-11-13T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Sofia dá desconto antes de o paciente pedir.\n\nR$ 32 mil vira R$ 28 mil. Depois sai mais 10%. Depois, 12 vezes sem juros. Tudo na mesma conversa. Naquela semana foram 3 pacientes, e nenhum pediu desconto.\n\nDesconto oferecido sem pedido sai inteiro da margem. E ensina o paciente que o primeiro preço nunca é o preço.\n\nNa sua clínica, quem pode dar desconto e com qual regra? Comenta aqui.\n\nCena criada com IA. A situação é real.\n\n#gestaodeclinicas #precificacao #vendas",
+      "midias": [
+        "midia/2026-11-13_ia-ci13/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-13_ia-ci13/capa.jpg"
     },
     {
       "id": "L4-15",
@@ -2660,6 +2694,23 @@
       "capa": "midia/2026-11-14_tv-09/capa.jpg"
     },
     {
+      "id": "IA-E04",
+      "titulo": "Vídeo IA · Fala o preço pra mim (Dra. Sofia)",
+      "quando": "2026-11-14T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "A Dra. Sofia nunca fala o preço. Passa para a Kelly, da comercial, e sai da sala.\n\nHoje ela treinou comigo: olhando para o paciente, com voz normal, o plano e o valor na mesma frase. \"Pro seu caso, eu indico a cirurgia. Fica R$ 32 mil, com exames e retornos inclusos.\" Depois, silêncio, e a pergunta sobre o que ficou de dúvida.\n\nQuem indica o tratamento é o doutor. Quando o doutor foge do preço, o paciente entende que o preço é o problema.\n\nSalva e treina com a sua equipe esta semana.\n\nCena criada com IA. A situação é real.\n\n#gestaodeclinicas #vendas #consultorio",
+      "midias": [
+        "midia/2026-11-14_ia-e04/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-14_ia-e04/capa.jpg"
+    },
+    {
       "id": "ODM25",
       "titulo": "Os Doutores · Frase de palco: recomendar com firmeza",
       "quando": "2026-11-14T20:30:00-03:00",
@@ -2847,6 +2898,23 @@
       "capa": "midia/2026-11-15_tv-03/capa.jpg"
     },
     {
+      "id": "IA-PO02",
+      "titulo": "Vídeo IA · Mais um plantão (Dr. Caio)",
+      "quando": "2026-11-15T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "\"Mais um plantão e eu fecho o mês.\"\n\nO Dr. Caio fala isso há seis anos, no estacionamento do hospital, depois de mais uma noite fora de casa.\n\nO plantão paga a conta deste mês. Ele não constrói o consultório que paga os próximos. Enquanto a agenda própria não tiver meta, preço calculado e alguém cuidando do retorno, o plantão nunca vai ser o último.\n\nQuantos plantões faltam para você sair? Comenta o número.\n\nCena criada com IA. A situação é real.\n\n#medicos #plantao #gestaodeclinicas",
+      "midias": [
+        "midia/2026-11-15_ia-po02/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-15_ia-po02/capa.jpg"
+    },
+    {
       "id": "TW-07",
       "titulo": "Dica de posicionamento: dermatologistas",
       "quando": "2026-11-15T21:00:00-03:00",
@@ -3016,6 +3084,23 @@
       "origem": "Tutoria de Vendas",
       "fixo": true,
       "capa": "midia/2026-11-16_tv-06/capa.jpg"
+    },
+    {
+      "id": "IA-E02",
+      "titulo": "Vídeo IA · Depende do mês (Dra. Helena)",
+      "quando": "2026-11-16T20:00:00-03:00",
+      "tipo": "reels",
+      "status": "agendado",
+      "pendencia": "",
+      "obs": "Ative o rótulo de IA no Reels publicado (a API não marca).",
+      "stories": "",
+      "legenda": "Perguntei quanto a Dra. Helena tira para ela todo mês. \"Depende do mês.\"\n\nFizemos a conta juntos: R$ 52 mil para a clínica abrir as portas e 120 horas de atendimento de verdade. São R$ 433 por hora só para abrir. Em cada consulta, sobravam uns R$ 60.\n\nE ela ia abrir o sábado.\n\nAntes de abrir mais horário, faça a conta da sua hora. Mais agenda com a conta errada só aumenta o prejuízo.\n\nVocê sabe quanto custa uma hora da sua clínica? Comenta sim ou não.\n\nCena criada com IA. A situação é real.\n\n#gestaodeclinicas #precificacao #donodeclinica",
+      "midias": [
+        "midia/2026-11-16_ia-e02/reels.mp4"
+      ],
+      "origem": "serie-ia",
+      "fixo": true,
+      "capa": "midia/2026-11-16_ia-e02/capa.jpg"
     },
     {
       "id": "L4-02",

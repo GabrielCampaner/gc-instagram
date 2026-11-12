@@ -1,6 +1,6 @@
 # Agenda do Instagram da GC
 
-Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
+Gerada em 12/11/2026, 14:47:43. 352 posts agendados, 3 pendentes. Stories com enquete e caixinha são feitos à mão, no dia do post.
 
 
 ## terça, 20/10
@@ -198,68 +198,68 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **12h30 · OD10 · Os Doutores · Otávio senta com o Gabriel: o celular na mesa** (carrossel) · publicado: https://www.instagram.com/p/DfhqEkMFBLw/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **14h00 · CR-01 · A ordem da consulta** (carrossel) · publicado: https://www.instagram.com/p/Dfh0XKCljzz/
-- **16h00 · CR-02 · Clínica é empresa (o CEO do Santos)** (carrossel)
-- **17h00 · L4-13 · Antes de assinar o aluguel da clínica: a conta em 6 linhas** (carrossel)
+- **16h00 · CR-02 · Clínica é empresa (o CEO do Santos)** (carrossel) · publicado: https://www.instagram.com/p/DfiQBt0FAyy/
+- **17h00 · L4-13 · Antes de assinar o aluguel da clínica: a conta em 6 linhas** (carrossel) · publicado: https://www.instagram.com/p/DfiQFfdlEO4/
   - Stories: Caixinha: "Quanto custa uma hora da sua clínica antes do seu salário?"
-- **18h00 · ODJ07 · Os Doutores · Vesti o teu jaleco: o atestado de toda segunda** (carrossel)
+- **18h00 · ODJ07 · Os Doutores · Vesti o teu jaleco: o atestado de toda segunda** (carrossel) · publicado: https://www.instagram.com/p/DfiQJPRFPQT/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **19h00 · TV-04 · Reels · Quanto é o Botox?** (reels)
-- **19h30 · ODD01 · Os Doutores · Dia a dia: Natália, 40 minutos de avaliação e um "vou pensar"** (carrossel)
+- **19h00 · TV-04 · Reels · Quanto é o Botox?** (reels) · publicado: https://www.instagram.com/reel/DfiWupWy0wV/
+- **19h30 · ODD01 · Os Doutores · Dia a dia: Natália, 40 minutos de avaliação e um "vou pensar"** (carrossel) · publicado: https://www.instagram.com/p/DfiaJHNoOv2/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel)
+- **20h30 · MD-06 · 10 ações para começar a semana no controle** (carrossel) · publicado: https://www.instagram.com/p/DfihB2_FrMb/
   - Lembrete: Carrossel modelado (referência enviada pelo Gabriel em 04/11). Caderno com a caneta da GC.
   - Stories: Segunda de manhã: foto do caderno + enquete "Você já fez a reunião de 15 minutos hoje?" · Já / Ainda não.
-- **21h00 · TW-01 · Dica de posicionamento** (imagem)
+- **21h00 · TW-01 · Dica de posicionamento** (imagem) · publicado: https://www.instagram.com/p/DfikY2EmcXL/
 
 ## terça, 10/11
 
-- **06h00 · FS-31 · Frase da semana: Pessoas carentes não prosperam** (imagem)
-- **06h30 · ODM03 · Os Doutores · Frase de palco: o número que você evita** (imagem)
-- **09h00 · ODD02 · Os Doutores · Dia a dia: Leandro, a secretária saiu e levou a senha** (carrossel)
+- **06h00 · FS-31 · Frase da semana: Pessoas carentes não prosperam** (imagem) · publicado: https://www.instagram.com/p/DfjiL5eFoJR/
+- **06h30 · ODM03 · Os Doutores · Frase de palco: o número que você evita** (imagem) · publicado: https://www.instagram.com/p/DfjlnnMlf97/
+- **09h00 · ODD02 · Os Doutores · Dia a dia: Leandro, a secretária saiu e levou a senha** (carrossel) · publicado: https://www.instagram.com/p/Dfj21MtGzB9/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **12h30 · OD11 · Os Doutores · Fernando: a quarta recepcionista do ano** (carrossel)
+- **12h30 · OD11 · Os Doutores · Fernando: a quarta recepcionista do ano** (carrossel) · publicado: https://www.instagram.com/p/DfkO3e0lNca/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
-- **16h30 · ODD23 · Os Doutores · Dia a dia: Roberta, o anúncio dobrou e a agenda não** (carrossel)
+- **16h30 · ODD23 · Os Doutores · Dia a dia: Roberta, o anúncio dobrou e a agenda não** (carrossel) · publicado: https://www.instagram.com/p/DfkqVipmMq6/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel)
+- **18h00 · ODJ03 · Os Doutores · Vesti o teu jaleco: a tabela que não muda desde 2023** (carrossel) · publicado: https://www.instagram.com/p/Dfk0pkSmbqa/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **19h00 · TV-05 · Reels · Se eu disser o preço, você já compra?** (reels)
+- **19h00 · TV-05 · Reels · Se eu disser o preço, você já compra?** (reels) · publicado: https://www.instagram.com/reel/Dfk7iaZOcyP/
 - 20h00 · teste de vídeo com IA (você posta)
-- **21h00 · TW-02 · Dica de posicionamento: médicos** (imagem)
-- **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem)
+- **21h00 · TW-02 · Dica de posicionamento: médicos** (imagem) · publicado: https://www.instagram.com/p/DflJLryDlXH/
+- **21h30 · L4-08 · A recepção diz o preço antes de dizer quem você é.** (imagem) · publicado: https://www.instagram.com/p/DflMncDFWfk/
   - Stories: Enquete: "Na sua clínica, o valor vem antes ou depois da apresentação?" · Antes / Depois.
 
 ## quarta, 11/11
 
-- **06h00 · FST-01 · Frases da Semana · Story: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um** (story)
-- **06h00 · FS-32 · Frase da semana: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada** (imagem)
-- **06h30 · L4-28 · Preço baixo atrai quem vai trocar você pelo próximo preço baixo.** (imagem)
+- **06h00 · FST-01 · Frases da Semana · Story: Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobrando um** (story) · publicado: https://www.instagram.com/stories/gabrielcampaner/4027937617585691681
+- **06h00 · FS-32 · Frase da semana: Se a sua equipe só funciona com você olhando, ela não está treinada. Está vigiada** (imagem) · publicado: https://www.instagram.com/p/DfmHAeyINtM/
+- **06h30 · L4-28 · Preço baixo atrai quem vai trocar você pelo próximo preço baixo.** (imagem) · publicado: https://www.instagram.com/p/DfmKadHG39R/
   - Stories: Enquete: "O seu paciente escolhe você pelo preço ou pelo cuidado?" · Preço / Cuidado.
-- **09h00 · ODD03 · Os Doutores · Dia a dia: Bruno, o menu do WhatsApp que espanta paciente** (carrossel)
+- **09h00 · ODD03 · Os Doutores · Dia a dia: Bruno, o menu do WhatsApp que espanta paciente** (carrossel) · publicado: https://www.instagram.com/p/Dfmbn16lAJu/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **12h30 · OD12 · Os Doutores · Comparação: a imersão e a segunda-feira** (carrossel)
+- **12h30 · OD12 · Os Doutores · Comparação: a imersão e a segunda-feira** (carrossel) · publicado: https://www.instagram.com/p/DfmzpITEbf6/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
-- **16h30 · ODD24 · Os Doutores · Dia a dia: Cláudio, a reunião de duas horas que não resolvia nada** (carrossel)
+- **16h30 · ODD24 · Os Doutores · Dia a dia: Cláudio, a reunião de duas horas que não resolvia nada** (carrossel) · publicado: https://www.instagram.com/p/DfnPH2ICWzg/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **18h00 · ODJ04 · Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos** (carrossel)
+- **18h00 · ODJ04 · Os Doutores · Vesti o teu jaleco: a terceira agência em dois anos** (carrossel) · publicado: https://www.instagram.com/p/DfncfcWlnaK/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **19h00 · TV-08 · Reels · As pessoas compram de pessoas** (reels)
+- **19h00 · TV-08 · Reels · As pessoas compram de pessoas** (reels) · publicado: https://www.instagram.com/reel/DfngUuhxT4O/
 - 20h00 · teste de vídeo com IA (você posta)
-- **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel)
+- **20h30 · L4-09 · Os 5 números da sua clínica que cabem num post-it** (carrossel) · publicado: https://www.instagram.com/p/Dfnql_9D7qH/
   - Stories: Caixinha: "Qual desses cinco você sabe de cabeça?" e repost da lâmina 3.
-- **21h00 · TW-03 · Dica de posicionamento: dentistas** (imagem)
-- **21h30 · L4-06 · Paciente esperando 40 minutos na recepção já está procurando outra clínica.** (imagem)
+- **21h00 · TW-03 · Dica de posicionamento: dentistas** (imagem) · publicado: https://www.instagram.com/p/Dfnt-iPjPIY/
+- **21h30 · L4-06 · Paciente esperando 40 minutos na recepção já está procurando outra clínica.** (imagem) · publicado: https://www.instagram.com/p/DfnxackDa4P/
   - Stories: Enquete: "Na sua clínica, quem avisa o paciente quando a agenda atrasa?" · A recepção / Ninguém.
 
 ## quinta, 12/11
 
-- **06h00 · FS-33 · Frase da semana: Preço que você não consegue explicar, o paciente não consegue pagar** (imagem)
-- **06h30 · ODM04 · Os Doutores · Frase de palco: ninguém te ensinou a ser dono** (imagem)
-- **09h00 · ODD04 · Os Doutores · Dia a dia: André, a estrela que ninguém respondeu** (carrossel)
+- **06h00 · FS-33 · Frase da semana: Preço que você não consegue explicar, o paciente não consegue pagar** (imagem) · publicado: https://www.instagram.com/p/Dforxs_GyNE/
+- **06h30 · ODM04 · Os Doutores · Frase de palco: ninguém te ensinou a ser dono** (imagem) · publicado: https://www.instagram.com/p/DfovNVBFjEs/
+- **09h00 · ODD04 · Os Doutores · Dia a dia: André, a estrela que ninguém respondeu** (carrossel) · publicado: https://www.instagram.com/p/DfpAbbhkTVC/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
-- **12h30 · OD13 · Os Doutores · Renata: domingo, 21h, a tarefa de sexta** (carrossel)
+- **12h30 · OD13 · Os Doutores · Renata: domingo, 21h, a tarefa de sexta** (carrossel) · publicado: https://www.instagram.com/p/DfpYdkCEaNR/
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - 15h00 · seu vídeo gravado (você posta)
 - **16h30 · ODD25 · Os Doutores · Dia a dia: Adriana, a agenda cheia que não deixava nada** (carrossel)
@@ -267,7 +267,8 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ05 · Os Doutores · Vesti o teu jaleco: a recepcionista que você contratou pela simpatia** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-01 · Reels · Vender é pecado?** (reels)
-- 20h00 · teste de vídeo com IA (você posta)
+- **20h00 · IA-E06 · Vídeo IA · Essa consultoria não funciona (Dra. Renata)** (reels)
+  - Lembrete: Ative o rótulo de IA no Reels publicado (a API não marca).
 - **20h30 · L4-25 · Pacientes particulares na psicologia, na nutrição e na fisioterapia** (carrossel)
   - Stories: Enquete: "De onde vem a maioria dos seus pacientes particulares?" · Indicação / Instagram / Google.
 - **21h00 · TW-04 · Dica de posicionamento: fisioterapeutas** (imagem)
@@ -290,7 +291,8 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ10 · Os Doutores · Vesti o teu jaleco: a cunhada no financeiro** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-07 · Reels · Ninguém entra na Ferrari só pra perguntar o preço** (reels)
-- 20h00 · teste de vídeo com IA (você posta)
+- **20h00 · IA-CI13 · Vídeo IA · O desconto que ninguém pediu (Dra. Sofia)** (reels)
+  - Lembrete: Ative o rótulo de IA no Reels publicado (a API não marca).
 - **20h30 · L4-15 · Quanto custa uma secretária de verdade** (carrossel)
   - Stories: Enquete: "A sua recepção tem roteiro escrito?" · Tem / Está na cabeça dela.
 - **21h00 · TW-05 · Dica de posicionamento: nutricionistas** (imagem)
@@ -311,7 +313,8 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ08 · Os Doutores · Vesti o teu jaleco: "quanto custa?" respondido com o preço seco** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-09 · Reels · Por que a foto da família engaja mais** (reels)
-- 20h00 · teste de vídeo com IA (você posta)
+- **20h00 · IA-E04 · Vídeo IA · Fala o preço pra mim (Dra. Sofia)** (reels)
+  - Lembrete: Ative o rótulo de IA no Reels publicado (a API não marca).
 - **20h30 · ODM25 · Os Doutores · Frase de palco: recomendar com firmeza** (imagem)
 - **21h00 · TW-06 · Dica de posicionamento: psicólogos** (imagem)
 - **21h30 · L4-12 · Metade dos brasileiros quer resposta em até 5 minutos. A sua chega amanhã.** (imagem)
@@ -331,7 +334,8 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ06 · Os Doutores · Vesti o teu jaleco: as férias que duraram três dias** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-03 · Reels · Duvido que você faltasse à aula** (reels)
-- 20h00 · teste de vídeo com IA (você posta)
+- **20h00 · IA-PO02 · Vídeo IA · Mais um plantão (Dr. Caio)** (reels)
+  - Lembrete: Ative o rótulo de IA no Reels publicado (a API não marca).
 - **21h00 · TW-07 · Dica de posicionamento: dermatologistas** (imagem)
 - **21h30 · L4-34 · Paciente satisfeito só avalia se alguém pedir. Paciente bravo não espera.** (imagem)
   - Stories: Domingo sem venda. Enquete: "A sua clínica pede avaliação no Google?" · Pede / Não pede.
@@ -350,7 +354,8 @@ Gerada em 09/11/2026, 16:05:54. 378 posts agendados, 3 pendentes. Stories com en
 - **18h00 · ODJ22 · Os Doutores · Vesti o teu jaleco: a terceira falta do dia, sem aviso** (carrossel)
   - Lembrete: Ative o rótulo de IA no post publicado (a API não marca).
 - **19h00 · TV-06 · Reels · A moeda mais cara de hoje** (reels)
-- 20h00 · teste de vídeo com IA (você posta)
+- **20h00 · IA-E02 · Vídeo IA · Depende do mês (Dra. Helena)** (reels)
+  - Lembrete: Ative o rótulo de IA no Reels publicado (a API não marca).
 - **21h00 · TW-08 · Dica de posicionamento: harmonização facial** (imagem)
 - **21h30 · L4-24 · Um terço dos agendamentos online acontece depois que a sua recepção vai embora.** (imagem)
   - Stories: Enquete: "O que o paciente recebe se mandar mensagem para a sua clínica às 21h?" · Resposta / Silêncio.
