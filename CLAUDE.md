@@ -15,4 +15,5 @@
 ## Agenda
 - Posts novos podem entrar como 4º post do dia (20h30) ou às 06h00, sem mexer no que já está agendado.
 - **15h00 e 20h00 são do Gabriel** (09/11/2026): 15h00 o vídeo gravado dele, 20h00 os testes de vídeo com IA (inclusive a série Os Doutores em vídeo que ele fez). Ele posta à mão; nenhum post do robô entra nesses horários. O `enviar_calendario.js` avisa se algum cair ali e o AGENDA.md mostra os dois lembretes.
+- **Exceção desde 12/11/2026:** a série de vídeos de IA dele (câmera de segurança, "Simulação · IA", ids `IA-...`) sai pelo robô às 20h00, com a capa que ele fez. Fonte: Drive `GC   Gestão Inteligente de Clínicas/VIDEOS PRONTOS`; lista em `GC/Conteudo/Videos_IA/agenda.json`, agendada com `node GC/_scripts/agendar_reels.js`. Antes de agendar, confira no `feed.json` (pedido `estudo`) quais ele já postou à mão.
 - O robô publica o que está na branch `main`; o Gabriel autorizou enviar calendário e imagens direto para a `main`.
