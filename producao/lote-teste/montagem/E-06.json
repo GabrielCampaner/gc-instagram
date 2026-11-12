@@ -13,6 +13,21 @@
   {
    "clip": "E-06_p1",
    "de": 0,
+   "ate": 0.04,
+   "hold": 2.46,
+   "abertura_cartao": true,
+   "cam": "CAM 02 · CONSULTÓRIO",
+   "rotulo": "QUARTA",
+   "hora": [
+    8,
+    21,
+    1
+   ],
+   "sfx_db": -40
+  },
+  {
+   "clip": "E-06_p1",
+   "de": 0,
    "ate": 4,
    "cam": "CAM 02 · CONSULTÓRIO",
    "rotulo": "QUARTA",
@@ -105,40 +120,40 @@
  "falas": [
   {
    "a": "E-06_r1_t1",
-   "cena": 1,
+   "cena": 2,
    "t": 0.2,
    "texto": "Gabriel, sinceramente? Essa consultoria não funciona."
   },
   {
    "a": "E-06_g1",
-   "cena": 1,
+   "cena": 2,
    "t": 4.75,
    "db": -2.5,
    "texto": "Concordo."
   },
   {
    "a": "E-06_g2",
-   "cena": 2,
+   "cena": 3,
    "t": 0.4,
    "db": -2.5,
    "texto": "Consultoria que manda um PDF e volta em 30 dias não funciona mesmo."
   },
   {
    "a": "E-06_g3",
-   "cena": 3,
+   "cena": 4,
    "t": 0.6,
    "db": -2.5,
    "texto": "A partir de amanhã, te mando a pauta às 7h30. E cobro às 6."
   },
   {
    "a": "E-06_r2_t1",
-   "cena": 4,
+   "cena": 5,
    "t": 0.3,
    "texto": "Tá brincando, né?"
   },
   {
    "a": "E-06_g4",
-   "cena": 4,
+   "cena": 5,
    "t": 2.8,
    "db": -2.5,
    "texto": "Ninguém muda uma clínica uma vez por mês."
@@ -234,5 +249,13 @@
    ]
   }
  },
- "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build"
+ "build": "/tmp/claude-0/-home-user-gc-instagram/cbbdd989-601d-58d6-9657-83814f2d3963/scratchpad/lote/build",
+ "abertura": {
+  "linhas": [
+   "“Essa consultoria",
+   "não funciona.”",
+   "{am}Eu concordei.{br}"
+  ],
+  "ate": 2.5
+ }
 }
