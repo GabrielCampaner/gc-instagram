@@ -828,7 +828,9 @@
     "publicado_em": "2026-11-15T21:00:41+0000"
   },
   "TV-03": {
-    "tentativas": 1,
-    "erro": "o Instagram recusou a mídia (ERROR): ERROR"
+    "tentativas": 2,
+    "media_id": "18375523756209580",
+    "permalink": "https://www.instagram.com/reel/Dfxz01Lh1EQ/",
+    "publicado_em": "2026-11-15T22:04:19+0000"
   }
 }
