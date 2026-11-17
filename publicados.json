@@ -940,5 +940,9 @@
     "media_id": "18648146392047376",
     "permalink": "https://www.instagram.com/p/Df2QcEzIGpU/",
     "publicado_em": "2026-11-17T15:30:42+0000"
+  },
+  "ODD30": {
+    "tentativas": 1,
+    "erro": "Instagram 400 em /me/media_publish: Media ID is not available (The media is not ready for publishing, please wait for a moment)"
   }
 }
