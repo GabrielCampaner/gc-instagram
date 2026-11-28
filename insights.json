@@ -1,25 +1,127 @@
 {
-  "coletado_em": "2026-11-27T11:22:15.774Z",
+  "coletado_em": "2026-11-28T10:49:21.043Z",
   "conta": {
     "username": "gabrielcampaner",
-    "followers_count": 4664,
+    "followers_count": 4663,
     "follows_count": 378,
-    "media_count": 1941,
+    "media_count": 1947,
     "id": "29429052136706930"
   },
   "ultimos_7_dias": {
-    "reach": 3050,
-    "views": 15938,
-    "accounts_engaged": 155,
-    "total_interactions": 306,
-    "likes": 213,
+    "reach": 2815,
+    "views": 14251,
+    "accounts_engaged": 143,
+    "total_interactions": 278,
+    "likes": 201,
     "comments": 19,
-    "shares": 20,
-    "saves": 9,
+    "shares": 14,
+    "saves": 6,
     "follows_and_unfollows": null,
     "profile_links_taps": 0
   },
   "posts": [
+    {
+      "id": "17977863645160658",
+      "gc": "ODM18",
+      "quando": "2026-11-28T09:30:12+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DgR77bDm-Kn/",
+      "inicio": "Você lembra de chamar atenção na hora. E o elogio, quando foi o último?",
+      "metricas": {
+        "reach": 4,
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "id": "18156832765539621",
+      "gc": "FS-44",
+      "quando": "2026-11-28T09:00:11+0000",
+      "tipo": "image",
+      "link": "https://www.instagram.com/p/DgR4fo_FsX3/",
+      "inicio": "Quem atende o dia inteiro e gerencia à noite está fazendo dois trabalhos e cobra",
+      "metricas": {
+        "reach": 30,
+        "views": 70,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "id": "18107801318338510",
+      "gc": "ODJ18",
+      "quando": "2026-11-27T21:00:33+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DgQmI8Plmou/",
+      "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco na Black Friday. Às 8h30, a re",
+      "metricas": {
+        "reach": 45,
+        "views": 117,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
+    {
+      "id": "18111786227096116",
+      "gc": "ODD40",
+      "quando": "2026-11-27T19:30:33+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DgQb1wgFh0j/",
+      "inicio": "O último paciente sai e começa o segundo expediente: escala, boleto, comissão, r",
+      "metricas": {
+        "reach": 41,
+        "views": 97,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1
+      }
+    },
+    {
+      "id": "18131479063934762",
+      "gc": "OD25",
+      "quando": "2026-11-27T15:41:26+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DgQBntMGjYw/",
+      "inicio": "Toda Black Friday é igual: a clínica corta o preço pra atrair quem não conhece e",
+      "metricas": {
+        "reach": 47,
+        "views": 107,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "id": "18103780964432016",
+      "gc": "ODD19",
+      "quando": "2026-11-27T12:00:31+0000",
+      "tipo": "carousel_album",
+      "link": "https://www.instagram.com/p/DgPoVlJnBKS/",
+      "inicio": "Sublocar sala é uma boa receita. Sem regra, vira equipe de brinde.",
+      "metricas": {
+        "reach": 77,
+        "views": 165,
+        "likes": 1,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 3
+      }
+    },
     {
       "id": "18026665901937146",
       "gc": "L3-17",
@@ -28,13 +130,13 @@
       "link": "https://www.instagram.com/p/DgPXIgHFoU8/",
       "inicio": "Black Friday na clínica: são só 10%?",
       "metricas": {
-        "reach": 29,
-        "views": 52,
-        "likes": 0,
+        "reach": 98,
+        "views": 167,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 1
+        "total_interactions": 4
       }
     },
     {
@@ -45,13 +147,13 @@
       "link": "https://www.instagram.com/p/DgPTuMrm145/",
       "inicio": "Daqui a cinco anos, sua clínica vai ser a soma das segundas-feiras que você levo",
       "metricas": {
-        "reach": 35,
-        "views": 104,
-        "likes": 2,
+        "reach": 99,
+        "views": 218,
+        "likes": 3,
         "comments": 0,
-        "shares": 0,
+        "shares": 1,
         "saved": 2,
-        "total_interactions": 6
+        "total_interactions": 8
       }
     },
     {
@@ -62,8 +164,8 @@
       "link": "https://www.instagram.com/p/DgOBWolGQuK/",
       "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra assinar os papéis do conta",
       "metricas": {
-        "reach": 39,
-        "views": 74,
+        "reach": 53,
+        "views": 108,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -79,8 +181,8 @@
       "link": "https://www.instagram.com/p/DgN3DQzoGyU/",
       "inicio": "WhatsApp pessoal com o paciente: proximidade ou plantão sem escala?",
       "metricas": {
-        "reach": 68,
-        "views": 159,
+        "reach": 80,
+        "views": 188,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -96,8 +198,8 @@
       "link": "https://www.instagram.com/p/DgNblEgHCfB/",
       "inicio": "A Dra. Joana sente culpa de dizer não. Culpa de fechar o sábado. Culpa de descan",
       "metricas": {
-        "reach": 75,
-        "views": 157,
+        "reach": 89,
+        "views": 196,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -113,8 +215,8 @@
       "link": "https://www.instagram.com/p/DgNDiyoG_Z8/",
       "inicio": "Atender amigos e família de graça pode ser uma escolha linda. Desde que seja uma",
       "metricas": {
-        "reach": 96,
-        "views": 230,
+        "reach": 104,
+        "views": 265,
         "likes": 2,
         "comments": 0,
         "shares": 0,
@@ -130,8 +232,8 @@
       "link": "https://www.instagram.com/p/DgMyVmjFdNd/",
       "inicio": "Amanhã é Black Friday, e a tua recepção vai ouvir pedido de desconto o dia intei",
       "metricas": {
-        "reach": 32,
-        "views": 58,
+        "reach": 39,
+        "views": 71,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -147,8 +249,8 @@
       "link": "https://www.instagram.com/p/DgMu55QFvxp/",
       "inicio": "Crescer sem regra escrita só aumenta o tamanho da bagunça.",
       "metricas": {
-        "reach": 68,
-        "views": 129,
+        "reach": 76,
+        "views": 140,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -165,7 +267,7 @@
       "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra abrir o Instagram da clíni",
       "metricas": {
         "reach": 49,
-        "views": 137,
+        "views": 140,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -181,8 +283,8 @@
       "link": "https://www.instagram.com/p/DgLSRJYGRam/",
       "inicio": "Mensagem para paciente que sumiu: antes, a pergunta certa. Ele sumiu ou foi esqu",
       "metricas": {
-        "reach": 68,
-        "views": 178,
+        "reach": 74,
+        "views": 190,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -198,8 +300,8 @@
       "link": "https://www.instagram.com/p/DgK2yhqm6PN/",
       "inicio": "Muito médico quer sair do plantão e não sabe por onde começar. O Dr. Caio era um",
       "metricas": {
-        "reach": 48,
-        "views": 115,
+        "reach": 49,
+        "views": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -215,8 +317,8 @@
       "link": "https://www.instagram.com/p/DgKev6Mm8gm/",
       "inicio": "Quando o doutor desmarca, o paciente sente igual.",
       "metricas": {
-        "reach": 44,
-        "views": 120,
+        "reach": 46,
+        "views": 121,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -232,8 +334,8 @@
       "link": "https://www.instagram.com/p/DgKNiytEcsg/",
       "inicio": "Contratar dá medo. Aumentar o preço dá medo. Sair do plantão dá medo. Eu sei.",
       "metricas": {
-        "reach": 77,
-        "views": 113,
+        "reach": 80,
+        "views": 117,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -249,13 +351,13 @@
       "link": "https://www.instagram.com/p/DgKKIYYFVR0/",
       "inicio": "Você não está sem tempo. Está fazendo tarefa que não é sua.",
       "metricas": {
-        "reach": 63,
-        "views": 126,
-        "likes": 5,
+        "reach": 67,
+        "views": 133,
+        "likes": 6,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 6
+        "total_interactions": 7
       }
     },
     {
@@ -266,13 +368,13 @@
       "link": "https://www.instagram.com/p/DgJRYdYM-b6/",
       "inicio": "Hoje foi dia de se CoHost e  Gravar o @faladr_podcast com @hamiltongadelha com e",
       "metricas": {
-        "reach": 1593,
-        "views": 2950,
-        "likes": 90,
+        "reach": 1623,
+        "views": 3039,
+        "likes": 93,
         "comments": 19,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 112
+        "total_interactions": 115
       }
     },
     {
@@ -301,7 +403,7 @@
       "inicio": "Jornada do paciente: o mesmo paciente, duas clínicas.",
       "metricas": {
         "reach": 68,
-        "views": 159,
+        "views": 162,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -335,7 +437,7 @@
       "inicio": "A primeira impressão da clínica nem sempre acontece no consultório. Às vezes aco",
       "metricas": {
         "reach": 45,
-        "views": 97,
+        "views": 98,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -351,8 +453,8 @@
       "link": "https://www.instagram.com/p/DgHov4Glg9G/",
       "inicio": "Agenda cheia dá uma sensação boa. O problema é quando o mês termina e a conta nã",
       "metricas": {
-        "reach": 74,
-        "views": 126,
+        "reach": 76,
+        "views": 131,
         "likes": 2,
         "comments": 0,
         "shares": 0,
@@ -368,8 +470,8 @@
       "link": "https://www.instagram.com/p/DgHlUMTm3Xr/",
       "inicio": "Quem não tem tempo para treinar a equipe arruma tempo para refazer o trabalho de",
       "metricas": {
-        "reach": 106,
-        "views": 163,
+        "reach": 109,
+        "views": 168,
         "likes": 5,
         "comments": 0,
         "shares": 0,
@@ -386,7 +488,7 @@
       "inicio": "Toda clínica está em um de quatro níveis. E o erro mais caro é tomar remédio de ",
       "metricas": {
         "reach": 42,
-        "views": 115,
+        "views": 116,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -402,13 +504,13 @@
       "link": "https://www.instagram.com/p/DgGS95ij0oj/",
       "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra conferir boleto às 14h, co",
       "metricas": {
-        "reach": 77,
-        "views": 195,
-        "likes": 1,
+        "reach": 80,
+        "views": 200,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 2
+        "total_interactions": 3
       }
     },
     {
@@ -419,8 +521,8 @@
       "link": "https://www.instagram.com/p/DgGIqy7mCal/",
       "inicio": "Nicho para clínica: o medo de escolher um foco e perder paciente.",
       "metricas": {
-        "reach": 46,
-        "views": 117,
+        "reach": 48,
+        "views": 120,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -436,8 +538,8 @@
       "link": "https://www.instagram.com/p/DgFtMw7FIMj/",
       "inicio": "A Dra. Paula tem quinze anos de consultório e um carinho enorme pelos pacientes.",
       "metricas": {
-        "reach": 87,
-        "views": 211,
+        "reach": 91,
+        "views": 220,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -453,8 +555,8 @@
       "link": "https://www.instagram.com/p/DgFVKaTFiKb/",
       "inicio": "Recepcionista que começa sem treino aprende com o paciente. E o paciente percebe",
       "metricas": {
-        "reach": 101,
-        "views": 221,
+        "reach": 103,
+        "views": 222,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -471,7 +573,7 @@
       "inicio": "Você reclama que ninguém faz do jeito que você gosta. Mas onde tá escrito esse j",
       "metricas": {
         "reach": 69,
-        "views": 111,
+        "views": 112,
         "likes": 2,
         "comments": 0,
         "shares": 0,
@@ -488,7 +590,7 @@
       "inicio": "Motivação dura até terça. Rotina de olhar o número dura o ano.",
       "metricas": {
         "reach": 50,
-        "views": 92,
+        "views": 93,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -555,8 +657,8 @@
       "link": "https://www.instagram.com/p/DgDIaAxGhIh/",
       "inicio": "A Dra. Sofia achava que vender era feio. Que a médica fala da técnica e alguém, ",
       "metricas": {
-        "reach": 122,
-        "views": 276,
+        "reach": 123,
+        "views": 277,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -624,7 +726,7 @@
       "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ver um lead chegar às 20h1",
       "metricas": {
         "reach": 76,
-        "views": 162,
+        "views": 163,
         "likes": 3,
         "comments": 0,
         "shares": 0,
@@ -657,8 +759,8 @@
       "link": "https://www.instagram.com/p/DgAjnFJG1db/",
       "inicio": "Eu entendo o Dr. Mauro, tá? Ele começou com uma cadeira alugada. Gastar dá medo ",
       "metricas": {
-        "reach": 686,
-        "views": 1635,
+        "reach": 689,
+        "views": 1639,
         "likes": 16,
         "comments": 0,
         "shares": 2,
@@ -674,8 +776,8 @@
       "link": "https://www.instagram.com/p/DgALklJkXOp/",
       "inicio": "O horário em que a clínica fecha costuma ser o horário em que o paciente tem tem",
       "metricas": {
-        "reach": 67,
-        "views": 161,
+        "reach": 68,
+        "views": 162,
         "likes": 0,
         "comments": 0,
         "shares": 1,
@@ -691,8 +793,8 @@
       "link": "https://www.instagram.com/p/Df_6XU0GxtP/",
       "inicio": "Você cuida do paciente, da equipe, da família, do fornecedor. Da clínica como ne",
       "metricas": {
-        "reach": 54,
-        "views": 106,
+        "reach": 55,
+        "views": 108,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -708,7 +810,7 @@
       "link": "https://www.instagram.com/p/Df_27e9kfiz/",
       "inicio": "Reunião de equipe sem número na mesa vira sessão de desabafo.",
       "metricas": {
-        "reach": 77,
+        "reach": 78,
         "views": 134,
         "likes": 2,
         "comments": 0,
@@ -725,8 +827,8 @@
       "link": "https://www.instagram.com/p/Df-8kOnjeFz/",
       "inicio": "Se a recepção te liga pra saber o preço, se a senha só você tem, se a agenda par",
       "metricas": {
-        "reach": 43,
-        "views": 82,
+        "reach": 44,
+        "views": 83,
         "likes": 1,
         "comments": 0,
         "shares": 0,
@@ -766,108 +868,6 @@
         "shares": 0,
         "saved": 0,
         "total_interactions": 6
-      }
-    },
-    {
-      "id": "18193076737416153",
-      "gc": "ODD33",
-      "quando": "2026-11-20T19:30:37+0000",
-      "tipo": "carousel_album",
-      "link": "https://www.instagram.com/p/Df-aR-fFh-e/",
-      "inicio": "Como apresentar orçamento ao paciente sem ouvir \"vou pensar\" e nunca mais ter no",
-      "metricas": {
-        "reach": 54,
-        "views": 135,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1
-      }
-    },
-    {
-      "id": "18097863044249517",
-      "gc": "ODD12",
-      "quando": "2026-11-20T12:00:29+0000",
-      "tipo": "carousel_album",
-      "link": "https://www.instagram.com/p/Df9mxrzlTRV/",
-      "inicio": "Recibo atrasado não aparece em nenhuma reclamação. Aparece na indicação que não ",
-      "metricas": {
-        "reach": 41,
-        "views": 115,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1
-      }
-    },
-    {
-      "id": "17953403124055681",
-      "gc": "OD18",
-      "quando": "2026-11-20T09:00:11+0000",
-      "tipo": "image",
-      "link": "https://www.instagram.com/p/Df9SIl4FeDN/",
-      "inicio": "Bom feriado pra você e pra tua equipe.",
-      "metricas": {
-        "reach": 81,
-        "views": 154,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1
-      }
-    },
-    {
-      "id": "18075115142785343",
-      "gc": "ODM13",
-      "quando": "2026-11-20T00:30:13+0000",
-      "tipo": "image",
-      "link": "https://www.instagram.com/p/Df8XxXMgXgd/",
-      "inicio": "Você chega em casa às 21h, janta no automático e responde a recepção do sofá. A ",
-      "metricas": {
-        "reach": 87,
-        "views": 158,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 4
-      }
-    },
-    {
-      "id": "18430879477152313",
-      "gc": "TV-02",
-      "quando": "2026-11-19T22:00:30+0000",
-      "tipo": "reels",
-      "link": "https://www.instagram.com/reel/Df8GnNwRaco/",
-      "inicio": "Você estudou madrugada adentro. Por quê?",
-      "metricas": {
-        "reach": 42,
-        "views": 67,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 4
-      }
-    },
-    {
-      "id": "18445060306194439",
-      "gc": "ODJ16",
-      "quando": "2026-11-19T21:00:45+0000",
-      "tipo": "carousel_album",
-      "link": "https://www.instagram.com/p/Df7_zKcgZgq/",
-      "inicio": "Eu não sou médico, mas hoje eu vesti o teu jaleco pra ouvir voz alterada no corr",
-      "metricas": {
-        "reach": 68,
-        "views": 195,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1
       }
     }
   ]
